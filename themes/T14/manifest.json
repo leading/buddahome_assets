@@ -1,13 +1,13 @@
 {
   "theme_id": "T14",
   "name": "北欧原木静修室",
-  "fingerprint": "8c2e0af351616c2abd87d1a4f66927e047b9d9e6219a6bfe44675c1fc2c140d8",
+  "fingerprint": "4fde60d8ebf0545773804385cc0bc1019a4b51a45a3911550cb1429d7d690954",
   "snapshot": {
     "theme_id": "T14",
     "review_protocol": "paired-v2",
     "source_sha256": "ffeac69e152110e84286aaaeeb2012b609ea294f81b9a6252c3b7c932d92c5df",
     "background_sha256": "dd336147aca47c476831fc68c9d2e9aaab206ccda2f789602882d53a554c76d3",
-    "plan_sha256": "6281fe2c384cf5caf61cd5967311034168e60dfeabb7d86d1599a4fa4fb78a96",
+    "plan_sha256": "c83905ea94e034415b353f4637e43fb1d2fc9e2e7c1ce8cc3a408cf27ad9f958",
     "objects": [
       {
         "object_id": "T14-01",
@@ -39,11 +39,11 @@
       },
       {
         "object_id": "T14-08",
-        "sha256": "1753baa4b2fcd96621f00640bb5cb7d2eae42a97eaa87414f8e1c59b0179d0c0"
+        "sha256": "db89ee710e5269f89ef974ce424c46abce0539f5e6f16f6c9cb19f539325e674"
       },
       {
         "object_id": "T14-09",
-        "sha256": "0c894c8faee3d66d1d8d06545e3558273ea92937c441d7cb541d04bf66054ece"
+        "sha256": "37f693c9bd76cf10b36e76a9cee16df8defa9d23c033ca67e56ac2ecf66fc1e5"
       },
       {
         "object_id": "T14-10",
@@ -177,17 +177,17 @@
     {
       "object_id": "T14-08",
       "name": "空香炉",
-      "description": "源图佛像右侧斑点米色陶盖香炉的完整空炉身，取盖去香与灰。",
+      "description": "源图佛像右侧斑点米色陶盖香炉的完整空炉身，取盖去香与灰。 精确纠错约束：现有PNG仍有盖子。只保留斑点米陶的完整敞口空炉身；去掉炉盖，不把盖摆旁边。17号已单独提供盖。",
       "classification": "standalone_object",
-      "sha256": "1753baa4b2fcd96621f00640bb5cb7d2eae42a97eaa87414f8e1c59b0179d0c0",
+      "sha256": "db89ee710e5269f89ef974ce424c46abce0539f5e6f16f6c9cb19f539325e674",
       "path": "objects/T14-08.png"
     },
     {
       "object_id": "T14-09",
       "name": "未点燃线香",
-      "description": "源图米色香炉中一根棕色未点燃线香，无炉或烟火。",
+      "description": "源图米色香炉中一根棕色未点燃线香，无炉或烟火。 精确纠错约束：现有线香PNG底端带了陶瓷小座。只保留一根完整未点燃线香，删除全部陶座、香炉、灰、支撑和其他物件。",
       "classification": "standalone_object",
-      "sha256": "0c894c8faee3d66d1d8d06545e3558273ea92937c441d7cb541d04bf66054ece",
+      "sha256": "37f693c9bd76cf10b36e76a9cee16df8defa9d23c033ca67e56ac2ecf66fc1e5",
       "path": "objects/T14-09.png"
     },
     {

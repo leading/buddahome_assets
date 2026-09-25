@@ -1,13 +1,13 @@
 {
   "theme_id": "T16",
   "name": "都市夜景黑金佛堂",
-  "fingerprint": "9366709a49c3985a2c3de5586545d19807077bbb6339051337d9d04afa638d19",
+  "fingerprint": "35b1a07c249b2df51fe5ef5464063cd612f71504a3faf753ccdc51d6b99305fb",
   "snapshot": {
     "theme_id": "T16",
     "review_protocol": "paired-v2",
     "source_sha256": "8b28ed30c71df82cbbfe6027043b64e1183056b64c7a098f3297356c68c6ed46",
-    "background_sha256": "afd4da2b3d3aab93337ae2ec7ddd4d7fe50a5f56434be74c5fe0595cdf44013d",
-    "plan_sha256": "35e1a73c7710bab3b6c824cc22a533e5e18ddb4af69b6423e2bf898c3bcffdf3",
+    "background_sha256": "449e151e9b4796181e31516c24e4b9c952720d33222573ca6a89c7246fa19450",
+    "plan_sha256": "dffc7c5c5afb89cac070f75b01596bddd4194d103eda24546beb23536e7d6058",
     "objects": [
       {
         "object_id": "T16-01",
@@ -91,7 +91,7 @@
       },
       {
         "object_id": "T16-21",
-        "sha256": "1e1dddd03dc21f59174c721238d16edc5b082b3182045f7945c3f5d93d138fc3"
+        "sha256": "9fb806595aadf9609f94f22aaf149fada797869fffec92db1426360c4efce37d"
       },
       {
         "object_id": "T16-22",
@@ -99,7 +99,7 @@
       },
       {
         "object_id": "T16-23",
-        "sha256": "f0603ab5e1544296ff88644b8a567d2b50943cdfc14905262951d9651c6a620a"
+        "sha256": "aec4df4c18026fd99dc2d6e58ed8db628c0e28452d3dedc809016755726fa14c"
       },
       {
         "object_id": "T16-24",
@@ -285,9 +285,9 @@
     {
       "object_id": "T16-21",
       "name": "矮柜上完整绿植",
-      "description": "源图左前矮柜盆中的完整绿叶植物，保留茎枝、叶及必要根部，无花盆或矮柜。",
+      "description": "源图左前矮柜盆中的完整绿叶植物，保留茎枝、叶及必要根部，无花盆或矮柜。 精确纠错约束：现有整株植物PNG下方仍带黑色花盆。只保留源图矮柜上绿植的茎枝叶及插入端；删除黑盆、土团外壳、底碟。20号已有独立花盆。",
       "classification": "standalone_object",
-      "sha256": "1e1dddd03dc21f59174c721238d16edc5b082b3182045f7945c3f5d93d138fc3",
+      "sha256": "9fb806595aadf9609f94f22aaf149fada797869fffec92db1426360c4efce37d",
       "path": "objects/T16-21.png"
     },
     {
@@ -301,9 +301,9 @@
     {
       "object_id": "T16-23",
       "name": "左缘前景绿植",
-      "description": "源图左缘另一株部分出镜绿植，按可见枝叶外观补成完整独立植物，不带盆，不混入窗外城市景物；不可见部分标为重建。",
+      "description": "源图左缘另一株部分出镜绿植，按可见枝叶外观补成完整独立植物，不带盆，不混入窗外城市景物；不可见部分标为重建。 精确纠错约束：现有前景整株植物PNG下方仍带黑色花盆。只保留源图左缘绿植的树干枝叶及可插入根部；删除整个盆和底碟。22号已有独立花盆。",
       "classification": "standalone_object",
-      "sha256": "f0603ab5e1544296ff88644b8a567d2b50943cdfc14905262951d9651c6a620a",
+      "sha256": "aec4df4c18026fd99dc2d6e58ed8db628c0e28452d3dedc809016755726fa14c",
       "path": "objects/T16-23.png"
     },
     {

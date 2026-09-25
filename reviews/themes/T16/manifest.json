@@ -1,13 +1,13 @@
 {
   "theme_id": "T16",
   "name": "都市夜景黑金佛堂",
-  "fingerprint": "9366709a49c3985a2c3de5586545d19807077bbb6339051337d9d04afa638d19",
+  "fingerprint": "35b1a07c249b2df51fe5ef5464063cd612f71504a3faf753ccdc51d6b99305fb",
   "source_snapshot": {
     "theme_id": "T16",
     "review_protocol": "paired-v2",
     "source_sha256": "8b28ed30c71df82cbbfe6027043b64e1183056b64c7a098f3297356c68c6ed46",
-    "background_sha256": "afd4da2b3d3aab93337ae2ec7ddd4d7fe50a5f56434be74c5fe0595cdf44013d",
-    "plan_sha256": "35e1a73c7710bab3b6c824cc22a533e5e18ddb4af69b6423e2bf898c3bcffdf3",
+    "background_sha256": "449e151e9b4796181e31516c24e4b9c952720d33222573ca6a89c7246fa19450",
+    "plan_sha256": "dffc7c5c5afb89cac070f75b01596bddd4194d103eda24546beb23536e7d6058",
     "objects": [
       {
         "object_id": "T16-01",
@@ -91,7 +91,7 @@
       },
       {
         "object_id": "T16-21",
-        "sha256": "1e1dddd03dc21f59174c721238d16edc5b082b3182045f7945c3f5d93d138fc3"
+        "sha256": "9fb806595aadf9609f94f22aaf149fada797869fffec92db1426360c4efce37d"
       },
       {
         "object_id": "T16-22",
@@ -99,7 +99,7 @@
       },
       {
         "object_id": "T16-23",
-        "sha256": "f0603ab5e1544296ff88644b8a567d2b50943cdfc14905262951d9651c6a620a"
+        "sha256": "aec4df4c18026fd99dc2d6e58ed8db628c0e28452d3dedc809016755726fa14c"
       },
       {
         "object_id": "T16-24",
@@ -120,7 +120,7 @@
     ]
   },
   "object_count": 27,
-  "screenshot_sha256": "3fc31a2652b5febd1e81c829b808442b8c6cc4ef7e931422ba274e4b81fb0dc5",
-  "status": "pending_visual_review",
+  "screenshot_sha256": "e01eb611c42b56c1f5c5126e38a359545c9b06db9bb1010e65c9042175bc7cf8",
+  "status": "corrected_pending_visual_verification",
   "screenshot": "overview.png"
 }

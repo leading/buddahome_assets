@@ -1,13 +1,13 @@
 {
   "theme_id": "T06",
   "name": "新罗韩屋禅堂",
-  "fingerprint": "597b85e1d2a8ec0d3b859486f08da01fe9a3283d3381b237c7e29dfe0808e169",
+  "fingerprint": "6c662259011b079e265735d8848e8fc2ee1ca20975b3f7c240cbbe5e080c8b1a",
   "source_snapshot": {
     "theme_id": "T06",
     "review_protocol": "paired-v2",
     "source_sha256": "6c4e4c317d734ff2ebcac81f986c2dec05a3ed0ca6445e49082aacfb0c330933",
     "background_sha256": "b7530e73bf7153dc727853dc829252e2a1dc2366073f68b768b7ff0e7a036e6c",
-    "plan_sha256": "4db9934415ec262c741513ef3f8e084d255158b104410075279ab69cceb2c7e7",
+    "plan_sha256": "f37cd2d4e3385e5941dbbf8a9aca574a5397fd5b03f16178ab10a2ed7840e1a6",
     "objects": [
       {
         "object_id": "T06-01",
@@ -39,7 +39,7 @@
       },
       {
         "object_id": "T06-08",
-        "sha256": "6f6e89571e3a5c1a876b1f663a0185fd72cce96d0efd754a3c1e776026c6aad3"
+        "sha256": "7b30c18c06578344b6274ebe7745f7a25e3978f6858e142cf68f0a96afc839e3"
       },
       {
         "object_id": "T06-09",
@@ -132,7 +132,7 @@
     ]
   },
   "object_count": 30,
-  "screenshot_sha256": "2314f14ee003841d38dd952c952d890b49bce5244a8cbe25410192d889cda659",
-  "status": "pending_visual_review",
+  "screenshot_sha256": "335d0954a5dddd3eb4e63667f0849a756ec5ef75a05bb34e22cc1362c1e899be",
+  "status": "corrected_pending_visual_verification",
   "screenshot": "overview.png"
 }

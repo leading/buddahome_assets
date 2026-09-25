@@ -1,13 +1,13 @@
 {
   "theme_id": "T05",
   "name": "兰纳柚木佛堂",
-  "fingerprint": "14fb5777fe269d481e34dd3ef125b16cd146953226f17e711072d5dfede624b6",
+  "fingerprint": "a1679535a5bbbeff1932d4a9f04b653bf464d3e24ee26904dcd08ce061c0c7c1",
   "source_snapshot": {
     "theme_id": "T05",
     "review_protocol": "paired-v2",
     "source_sha256": "8eacf1ef25070af08622ed92bf2390cb59e6fb363f53e58116469b076a13488d",
     "background_sha256": "83b9aa9ab4fdf6948abcdcb9da063d3965b444c9ef1149ee9a6fa0d3f73183c8",
-    "plan_sha256": "ab4d66d6592fee68a8453c225540b399dda1f17fbdf6ef8506b878a651d15b8e",
+    "plan_sha256": "d4b0a3a67944696a3ba1d6212a7aeb05f6067c7a08b4e7cedca60d5f6fed3c6d",
     "objects": [
       {
         "object_id": "T05-01",
@@ -124,11 +124,15 @@
       {
         "object_id": "T05-31",
         "sha256": "b24487f7de3ea741d6565022376b28c17d78d082e5a73fd49b6151887e749f53"
+      },
+      {
+        "object_id": "T05-32",
+        "sha256": "5e2e38deb218f74aa8476a4a44cb20b099555108b0b18a9c74b098d621ddb70d"
       }
     ]
   },
-  "object_count": 29,
-  "screenshot_sha256": "cc51ece3d8a3525e2e0902e78b22648de6f893af1815607201090768e491df57",
-  "status": "pending_visual_review",
+  "object_count": 30,
+  "screenshot_sha256": "a2b25366d22309c4c82d6eaef99e711eb4263f7d5634f004d44d0cd41575dcc0",
+  "status": "corrected_pending_visual_verification",
   "screenshot": "overview.png"
 }

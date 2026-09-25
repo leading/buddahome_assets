@@ -1,13 +1,13 @@
 {
   "theme_id": "T11",
   "name": "江南雨窗佛堂",
-  "fingerprint": "c58438380481e1ed5b4d007404bb67c27079da62ca7ec3403677099644db196d",
+  "fingerprint": "8dc962880883142593f5f9baa484e77b4ca96426ac2cb141273665e64f868c13",
   "snapshot": {
     "theme_id": "T11",
     "review_protocol": "paired-v2",
     "source_sha256": "f685283f987bf713f1d13ba060017f5aa786f77a76cdf770c6bb2351e84500a3",
-    "background_sha256": "fd63cfa442240a0ed3fd83d29d59b58341b1cd5e7ddf9eaf51db26af2350d759",
-    "plan_sha256": "364f82b1c2ce2f40f71f9b9c29137e5167ee9a75b5ee140b1e80e092aca08559",
+    "background_sha256": "edc8309672e317c164ed87c024182bcac5b4064da2ec66441627a7d522608b8c",
+    "plan_sha256": "70d3516a228d186d659259d22adcd92b62e031f1422fb272a9f8c50d87ea0b2e",
     "objects": [
       {
         "object_id": "T11-01",

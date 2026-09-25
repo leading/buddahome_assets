@@ -1,0 +1,368 @@
+{
+  "theme_id": "T05",
+  "name": "兰纳柚木佛堂",
+  "fingerprint": "14fb5777fe269d481e34dd3ef125b16cd146953226f17e711072d5dfede624b6",
+  "snapshot": {
+    "theme_id": "T05",
+    "review_protocol": "paired-v2",
+    "source_sha256": "8eacf1ef25070af08622ed92bf2390cb59e6fb363f53e58116469b076a13488d",
+    "background_sha256": "83b9aa9ab4fdf6948abcdcb9da063d3965b444c9ef1149ee9a6fa0d3f73183c8",
+    "plan_sha256": "ab4d66d6592fee68a8453c225540b399dda1f17fbdf6ef8506b878a651d15b8e",
+    "objects": [
+      {
+        "object_id": "T05-01",
+        "sha256": "d5cbcec0bf2339400faef273cf9150be9c4e64899306807801d8c966dd955787"
+      },
+      {
+        "object_id": "T05-02",
+        "sha256": "4a0825c78d87356e8f2d7d5344c0e302214d5d0e0f5eca2a24191b0f02a331e9"
+      },
+      {
+        "object_id": "T05-04",
+        "sha256": "467640059bf1243c3a792ed7768639caf72df2883ddc7f7185603906bbeae09c"
+      },
+      {
+        "object_id": "T05-05",
+        "sha256": "d1e12229aecac4a40db565beabf48f3aff1f2b483cf4ae59325426c7b20bf08a"
+      },
+      {
+        "object_id": "T05-06",
+        "sha256": "4b89fb6b57d893f697159b194da727c972132b9b553eb7f56772214242199f5b"
+      },
+      {
+        "object_id": "T05-07",
+        "sha256": "703377d772c043c10bc092ad7b520e3f8772beb33bc7d22f795e149ff12a6de4"
+      },
+      {
+        "object_id": "T05-08",
+        "sha256": "ea0c743388afd3d4ebdcad337ad49822d9a8431050283b36f9860c63d0848866"
+      },
+      {
+        "object_id": "T05-09",
+        "sha256": "58eeca65f48b825744521256d29136ad87c654b1581e8220cfbb2b1b572cf026"
+      },
+      {
+        "object_id": "T05-10",
+        "sha256": "a11ad797b2e162216e84e3a403c0b4727e8d16426db3bccd698136619584707e"
+      },
+      {
+        "object_id": "T05-11",
+        "sha256": "e0c701779fe669eb13389e00c393976dc61699892b9c31a618e2ba939bcfe66d"
+      },
+      {
+        "object_id": "T05-12",
+        "sha256": "d767ea4936da3b7c878ad4711a78fa71f025adbd55650c1517f34326ad9411dd"
+      },
+      {
+        "object_id": "T05-13",
+        "sha256": "0d2036d059bf845a31611af6044287e726041fca92478c4ed3d0014e0244b62b"
+      },
+      {
+        "object_id": "T05-14",
+        "sha256": "26df273583dc95f7bd9fe78f9e76bbf52f2a47e776858d31a2dd52d10b294763"
+      },
+      {
+        "object_id": "T05-16",
+        "sha256": "661e1aed85a49965b8122b324d97bf556f27cd814b6cc4ce6c351dc3885eeb66"
+      },
+      {
+        "object_id": "T05-17",
+        "sha256": "aee813176870654d9d9436e02a461f2cfd82fce3ac4b995ab78e252a4aa64af1"
+      },
+      {
+        "object_id": "T05-18",
+        "sha256": "75fceb6034997ea7a5360052380aa3174b284c30e041fcaaae7b0ccabd3cce61"
+      },
+      {
+        "object_id": "T05-19",
+        "sha256": "a6664f6026f6f69d27421b7edc03f7ba084ddfebf9219fed590628473bf7f33e"
+      },
+      {
+        "object_id": "T05-20",
+        "sha256": "c32920877b24efbb148ac34491510169bf5e45812d6a70a1723fd1fb878eb60b"
+      },
+      {
+        "object_id": "T05-21",
+        "sha256": "e06e662a8eb004a02d8c03df2870cf94e12e0708f2f7d6f80906904ccd675d30"
+      },
+      {
+        "object_id": "T05-22",
+        "sha256": "a1f5753721d465c8d307de48677d555f78ba189f22016cec4cb53b0349fc164f"
+      },
+      {
+        "object_id": "T05-23",
+        "sha256": "1caa384d06647939175da555d1a0de2ba5c32eb7fcf7dfc1a176f1eca85df2c3"
+      },
+      {
+        "object_id": "T05-24",
+        "sha256": "cd826d1ce831e402021a735d20eadb172e795e6cf2092f2bb7cd0b9eb233c6cc"
+      },
+      {
+        "object_id": "T05-25",
+        "sha256": "0bd69a4dfcd0ce53218995d15871e57d64bf0a39a8018dc9dba341c4c311fe9e"
+      },
+      {
+        "object_id": "T05-26",
+        "sha256": "784d4e62191ec450b4c5ab12dd94567edd6532328b4b38278b5045fd46c1e74d"
+      },
+      {
+        "object_id": "T05-27",
+        "sha256": "5131095f4acdd381e0e0dbd4e23d774487861065d70dd89f648a2658ddd54d80"
+      },
+      {
+        "object_id": "T05-28",
+        "sha256": "115e5eaa6ba19c1e875467ee2fbfd96a6dbda84e010a603f77acc61125aeb8f9"
+      },
+      {
+        "object_id": "T05-29",
+        "sha256": "ceb46a30387a4db78ede929a58185f0a3719c493b50d20da8cc79b5fc6792ea2"
+      },
+      {
+        "object_id": "T05-30",
+        "sha256": "f0d6598dc1ff78dcc7a0fe75888b3cd091f8a8059a2b26933dc1b6301a8d31e6"
+      },
+      {
+        "object_id": "T05-31",
+        "sha256": "b24487f7de3ea741d6565022376b28c17d78d082e5a73fd49b6151887e749f53"
+      }
+    ]
+  },
+  "source": "source.png",
+  "background": "background.png",
+  "objects": [
+    {
+      "object_id": "T05-01",
+      "name": "供桌或主题主台",
+      "description": "源图中央柚木雕刻供桌，提取完整独立空桌，保留桌面、雕饰、支撑与柜体。去掉桌旗、佛像、器物和后方独立雕木背屏；不要并入亭子柱梁。",
+      "classification": "standalone_object",
+      "sha256": "d5cbcec0bf2339400faef273cf9150be9c4e64899306807801d8c966dd955787",
+      "path": "objects/T05-01.png"
+    },
+    {
+      "object_id": "T05-02",
+      "name": "坐佛",
+      "description": "源图中央金铜色坐佛，完整雕像，无供桌或背屏。只在源图确有分件时去除莲花座，不切断一体雕刻结构。",
+      "classification": "standalone_object",
+      "sha256": "4a0825c78d87356e8f2d7d5344c0e302214d5d0e0f5eca2a24191b0f02a331e9",
+      "path": "objects/T05-02.png"
+    },
+    {
+      "object_id": "T05-04",
+      "name": "空花瓶",
+      "description": "源图供桌左侧较大的金铜花瓶，完整空置，移除白花和绿叶，展示瓶口内壁。不要混成右侧莲花瓶。",
+      "classification": "standalone_object",
+      "sha256": "467640059bf1243c3a792ed7768639caf72df2883ddc7f7185603906bbeae09c",
+      "path": "objects/T05-04.png"
+    },
+    {
+      "object_id": "T05-05",
+      "name": "花枝花束",
+      "description": "源图供桌左侧大花瓶中的白色花束和绿叶，整体独立，保留可插入枝脚，无花瓶和水；花种按源图外观，不另造花种。",
+      "classification": "standalone_object",
+      "sha256": "d1e12229aecac4a40db565beabf48f3aff1f2b483cf4ae59325426c7b20bf08a",
+      "path": "objects/T05-05.png"
+    },
+    {
+      "object_id": "T05-06",
+      "name": "空烛台或灯盏",
+      "description": "源图佛像左右台面上成对的高身镂空古铜灯笼，取一只完整灯具外壳和自身底座，空置，不带燃料、蜡烛、烟火。不要混入上方悬挂灯笼。",
+      "classification": "standalone_object",
+      "sha256": "4b89fb6b57d893f697159b194da727c972132b9b553eb7f56772214242199f5b",
+      "path": "objects/T05-06.png"
+    },
+    {
+      "object_id": "T05-07",
+      "name": "未点燃蜡芯",
+      "description": "源图台面镂空灯笼内部匹配的一枚未点燃燃料内芯，按可见外观提取；隐藏时仅作简洁适配重建。无灯罩、烟火或光晕。",
+      "classification": "reconstructed_functional_insert",
+      "sha256": "703377d772c043c10bc092ad7b520e3f8772beb33bc7d22f795e149ff12a6de4",
+      "path": "objects/T05-07.png"
+    },
+    {
+      "object_id": "T05-08",
+      "name": "空香炉",
+      "description": "源图供桌前方中央敞口金铜香炉，完整空炉，无炉盖、香、灰、烟火。源图没有炉盖，不添加盖。",
+      "classification": "standalone_object",
+      "sha256": "ea0c743388afd3d4ebdcad337ad49822d9a8431050283b36f9860c63d0848866",
+      "path": "objects/T05-08.png"
+    },
+    {
+      "object_id": "T05-09",
+      "name": "未点燃线香",
+      "description": "源图前方中央香炉中的单根完整未点燃线香，无烟火、香炉或地面。",
+      "classification": "standalone_object",
+      "sha256": "58eeca65f48b825744521256d29136ad87c654b1581e8220cfbb2b1b572cf026",
+      "path": "objects/T05-09.png"
+    },
+    {
+      "object_id": "T05-10",
+      "name": "空供盘",
+      "description": "源图供桌前右方金铜高足果盘，完整空置，移除橙子、绿色柑橘和白花，保留高足和承托面。",
+      "classification": "standalone_object",
+      "sha256": "a11ad797b2e162216e84e3a403c0b4727e8d16426db3bccd698136619584707e",
+      "path": "objects/T05-10.png"
+    },
+    {
+      "object_id": "T05-11",
+      "name": "橙子",
+      "description": "源图供桌前右果盘中的一枚完整橙色柑橘果，单枚，移除果盘、绿果和白花。",
+      "classification": "standalone_object",
+      "sha256": "e0c701779fe669eb13389e00c393976dc61699892b9c31a618e2ba939bcfe66d",
+      "path": "objects/T05-11.png"
+    },
+    {
+      "object_id": "T05-12",
+      "name": "茶壶",
+      "description": "源图右前方地面茶盘上的金铜功能茶壶，保持原图壶身、壶盖、把手及壶嘴，空壶，无液体、杯碟或茶盘。",
+      "classification": "standalone_object",
+      "sha256": "d767ea4936da3b7c878ad4711a78fa71f025adbd55650c1517f34326ad9411dd",
+      "path": "objects/T05-12.png"
+    },
+    {
+      "object_id": "T05-13",
+      "name": "空茶杯",
+      "description": "源图右前方茶盘上的金铜小茶杯，完整单只空杯，移除杯碟、茶壶和茶盘。",
+      "classification": "standalone_object",
+      "sha256": "0d2036d059bf845a31611af6044287e726041fca92478c4ed3d0014e0244b62b",
+      "path": "objects/T05-13.png"
+    },
+    {
+      "object_id": "T05-14",
+      "name": "茶托",
+      "description": "源图右前地面的雕木茶盘，单件完整空盘，保留自身边框及短足（如有），去除茶壶、杯碟与白花，不并入地席或供桌。",
+      "classification": "standalone_object",
+      "sha256": "26df273583dc95f7bd9fe78f9e76bbf52f2a47e776858d31a2dd52d10b294763",
+      "path": "objects/T05-14.png"
+    },
+    {
+      "object_id": "T05-16",
+      "name": "坐垫",
+      "description": "源图前景中央绿金纹样坐垫，完整单件，移除下方编织地席，不带地面或投影。",
+      "classification": "standalone_object",
+      "sha256": "661e1aed85a49965b8122b324d97bf556f27cd814b6cc4ce6c351dc3885eeb66",
+      "path": "objects/T05-16.png"
+    },
+    {
+      "object_id": "T05-17",
+      "name": "雕木金饰背屏",
+      "description": "源图佛像正后方深色雕木金饰宝座背屏，提取独立可移动的家具背屏及自身支撑，移除佛像与供桌，不含亭子建筑柱梁。若该部分确为固定建筑构件则返回空透明图待复核。",
+      "classification": "standalone_object",
+      "sha256": "aee813176870654d9d9436e02a461f2cfd82fce3ac4b995ab78e252a4aa64af1",
+      "path": "objects/T05-17.png"
+    },
+    {
+      "object_id": "T05-18",
+      "name": "悬挂古铜空灯笼",
+      "description": "源图左上或右上悬挂古铜灯笼，取一只完整空灯笼及自身挂环、悬链，不带建筑梁柱、火焰或内芯。保留可见镂空和灯体，区别台面高身灯。",
+      "classification": "standalone_object",
+      "sha256": "75fceb6034997ea7a5360052380aa3174b284c30e041fcaaae7b0ccabd3cce61",
+      "path": "objects/T05-18.png"
+    },
+    {
+      "object_id": "T05-19",
+      "name": "右侧莲花空瓶",
+      "description": "源图供桌右侧盛粉莲的金铜花瓶，仅在形状与左瓶不同需独立模型时提取；同款重复可复用则返回全透明空图。空瓶无花无水。",
+      "classification": "standalone_object",
+      "sha256": "a6664f6026f6f69d27421b7edc03f7ba084ddfebf9219fed590628473bf7f33e",
+      "path": "objects/T05-19.png"
+    },
+    {
+      "object_id": "T05-20",
+      "name": "粉莲绿叶花束",
+      "description": "源图供桌右侧花瓶中的粉色莲花与绿叶整束，保留原花姿和裸露茎脚，去掉花瓶与水，不与前景漂浮莲花混淆。",
+      "classification": "standalone_object",
+      "sha256": "c32920877b24efbb148ac34491510169bf5e45812d6a70a1723fd1fb878eb60b",
+      "path": "objects/T05-20.png"
+    },
+    {
+      "object_id": "T05-21",
+      "name": "白花空供钵",
+      "description": "源图供桌左前方装小簇白花的金铜小钵，完整空置，不带花、填充物或桌面。区别高身花瓶和果盘。",
+      "classification": "standalone_object",
+      "sha256": "e06e662a8eb004a02d8c03df2870cf94e12e0708f2f7d6f80906904ccd675d30",
+      "path": "objects/T05-21.png"
+    },
+    {
+      "object_id": "T05-22",
+      "name": "小簇白色供花",
+      "description": "源图供桌左前小钵中的一整簇白花，保持团簇原形，不带小钵或其他物件。不要新增源图没有的长花茎。",
+      "classification": "standalone_object",
+      "sha256": "a1f5753721d465c8d307de48677d555f78ba189f22016cec4cb53b0349fc164f",
+      "path": "objects/T05-22.png"
+    },
+    {
+      "object_id": "T05-23",
+      "name": "绿色柑橘果",
+      "description": "源图供桌前右果盘中的一枚绿色柑橘果，按源图形状纹理提取，不猜测未能确认的品种，不带果盘或橙子。",
+      "classification": "standalone_object",
+      "sha256": "1caa384d06647939175da555d1a0de2ba5c32eb7fcf7dfc1a176f1eca85df2c3",
+      "path": "objects/T05-23.png"
+    },
+    {
+      "object_id": "T05-24",
+      "name": "单朵白色供花",
+      "description": "源图果盘或右前茶盘上单独放置的白色小花，取一朵完整花，不带水果、盘子或茶具。若两处是同款，可复用一份；不从大花束中编造另一朵。",
+      "classification": "standalone_object",
+      "sha256": "cd826d1ce831e402021a735d20eadb172e795e6cf2092f2bb7cd0b9eb233c6cc",
+      "path": "objects/T05-24.png"
+    },
+    {
+      "object_id": "T05-25",
+      "name": "绿金流苏桌旗",
+      "description": "源图供桌正前垂落的绿金纹样流苏桌旗，独立完整布件，保持原花纹及垂折，无供桌、地面或文字。",
+      "classification": "standalone_object",
+      "sha256": "0bd69a4dfcd0ce53218995d15871e57d64bf0a39a8018dc9dba341c4c311fe9e",
+      "path": "objects/T05-25.png"
+    },
+    {
+      "object_id": "T05-26",
+      "name": "金铜独立杯碟",
+      "description": "源图右前茶盘上茶杯下方的独立金铜杯碟，完整单只空碟，不带杯、壶、花或木茶盘。",
+      "classification": "standalone_object",
+      "sha256": "784d4e62191ec450b4c5ab12dd94567edd6532328b4b38278b5045fd46c1e74d",
+      "path": "objects/T05-26.png"
+    },
+    {
+      "object_id": "T05-27",
+      "name": "前景空水钵",
+      "description": "源图最右前景石质或陶质水钵，按源图实际材质提取完整空钵，移除水、粉莲、荷叶和反光水面，显示合理重建内壁。",
+      "classification": "standalone_object",
+      "sha256": "5131095f4acdd381e0e0dbd4e23d774487861065d70dd89f648a2658ddd54d80",
+      "path": "objects/T05-27.png"
+    },
+    {
+      "object_id": "T05-28",
+      "name": "漂浮粉莲花",
+      "description": "源图右前景水钵中漂浮的一朵粉色莲花，完整单花，不带水钵、水面、倒影和荷叶，不额外增加长茎。",
+      "classification": "standalone_object",
+      "sha256": "115e5eaa6ba19c1e875467ee2fbfd96a6dbda84e010a603f77acc61125aeb8f9",
+      "path": "objects/T05-28.png"
+    },
+    {
+      "object_id": "T05-29",
+      "name": "独立荷叶",
+      "description": "源图右前水钵中的一片完整绿色荷叶，按原图形状提取，单片不带莲花、水面或容器。它本身为独立摆放叶片，不拆散瓶中花束的叶子。",
+      "classification": "standalone_object",
+      "sha256": "ceb46a30387a4db78ede929a58185f0a3719c493b50d20da8cc79b5fc6792ea2",
+      "path": "objects/T05-29.png"
+    },
+    {
+      "object_id": "T05-30",
+      "name": "天然编织地席",
+      "description": "源图坐垫和茶盘下方的整张天然纤维编织地席，独立完整，去掉全部器物、坐垫和木地板，遮挡部分合理补全。",
+      "classification": "standalone_object",
+      "sha256": "f0d6598dc1ff78dcc7a0fe75888b3cd091f8a8059a2b26933dc1b6301a8d31e6",
+      "path": "objects/T05-30.png"
+    },
+    {
+      "object_id": "T05-31",
+      "name": "右前水钵静水表面图层",
+      "description": "仅提取原图右前景石水钵内实际可见的深色反射静水表面，保留原画布位置、透视椭圆形、尺度和水面反射细节。移除石钵内外壁与钵沿、粉莲花和荷叶；T05-27、28、29分别覆盖这些部分。浮花与叶原遮挡的小区域仅用相邻水纹最小修补。不要重画完整水钵，不居中，不增加波浪、水滴、飞溅、光晕、地面或背景。除水面轮廓内外的柔和液面边缘外，所有其他区域真正透明。",
+      "classification": "environment_overlay",
+      "sha256": "b24487f7de3ea741d6565022376b28c17d78d082e5a73fd49b6151887e749f53",
+      "path": "objects/T05-31.png"
+    }
+  ],
+  "review": "../../reviews/themes/T05/overview.png",
+  "status": "generated_review_in_progress"
+}

@@ -1,0 +1,296 @@
+{
+  "theme_id": "T12",
+  "name": "竹林晨雾禅居",
+  "fingerprint": "cb38491962def271dfb36cce38943d8ceeaa101607fff123e37cff404d9ccd85",
+  "snapshot": {
+    "theme_id": "T12",
+    "review_protocol": "paired-v2",
+    "source_sha256": "948d10285302fb20b701bcf3852aaff595ca33d9cc3793c424b878e551f12f47",
+    "background_sha256": "f3019789008212fd0e3296a7bdd2bf4ca10688352a751646a0560de836d410d4",
+    "plan_sha256": "d1226279d6e272c7a7a4c5c44faab9aedcd031618a8af1a2d404d17f75af1424",
+    "objects": [
+      {
+        "object_id": "T12-01",
+        "sha256": "3ad8d6fe153ed9e92b1425ba7cffd90a863f43031505e07227c787602eb82be6"
+      },
+      {
+        "object_id": "T12-02",
+        "sha256": "ad3e5167ae9d8074da11313c17422a676e3be03a1ed62d993e12f636b4306add"
+      },
+      {
+        "object_id": "T12-03",
+        "sha256": "0bb36348c3054e0ac860a368b3cf479b89e52968a1d85fb403e189dfbdb487be"
+      },
+      {
+        "object_id": "T12-04",
+        "sha256": "46c87d28394a66728df6ca8ed0699afedcaf5de16acd0894ad4aef8de2c70e24"
+      },
+      {
+        "object_id": "T12-05",
+        "sha256": "91015cdb3619843f60fc8d5ed6b758ee67fe41a2e9605d5126d6e8bd55c503e5"
+      },
+      {
+        "object_id": "T12-06",
+        "sha256": "88ee8c710e46c01f859be51fa4d5a33dd47af0695290c5b71e060962f5d63cc6"
+      },
+      {
+        "object_id": "T12-07",
+        "sha256": "3b062d2683b2b1d9a2f737d29b02d8673b2517f6c35fff2a6938450ce78b7564"
+      },
+      {
+        "object_id": "T12-08",
+        "sha256": "9c4aabad7c99d25e3347aa6e3c6fce34b3d05ded81a38a95d45f128b6617db66"
+      },
+      {
+        "object_id": "T12-09",
+        "sha256": "6cbd8bd075cb51a5a6f0c1a07524a021db2c5c60f27ecf45731065e1e298e221"
+      },
+      {
+        "object_id": "T12-10",
+        "sha256": "a03567bf8c27755ade0ea352da6ad03ae0ff2cd4e1c13aec8a19a2a4d89677cb"
+      },
+      {
+        "object_id": "T12-11",
+        "sha256": "a09d6ea7ab680e23cd3bc1fa56a35f258c5bb134e9b0ccfa63de216f97dd9ff0"
+      },
+      {
+        "object_id": "T12-12",
+        "sha256": "b1d2030e3875663b30b2102b8d40eef8d7c76f8d68c324db58f25b00f53d89d8"
+      },
+      {
+        "object_id": "T12-13",
+        "sha256": "6eb6d025247b7f7038e678e83add2d5620b9c70481bdfafb5e1d04570ee1adc3"
+      },
+      {
+        "object_id": "T12-14",
+        "sha256": "27bd51fb391983acd0750425de3c6ad464519fcd4eee1cad3968652c5af50621"
+      },
+      {
+        "object_id": "T12-16",
+        "sha256": "88c027d115fc9414391c86b49350f21fd378eaaef4b665bb899ff122d78abb44"
+      },
+      {
+        "object_id": "T12-17",
+        "sha256": "6c6954f1498541274320057a0ef1f3fed46e2f458683f88ea20488cfcc6e7e06"
+      },
+      {
+        "object_id": "T12-18",
+        "sha256": "293d0ba796fc948d52838445dcc0859a1280cc4286441d69101e629df904c889"
+      },
+      {
+        "object_id": "T12-19",
+        "sha256": "756baf7d115b1905d66adbad49fa28b9fbb6e0651a7bee4a1eda69ec46d71283"
+      },
+      {
+        "object_id": "T12-20",
+        "sha256": "f20fc261bbbc42312bdb9bc7eac6343319f72d32d6f8ee0f0d784e72c05173d4"
+      },
+      {
+        "object_id": "T12-21",
+        "sha256": "6235540e25fe272ea2f62095650c6abe3026b062e91021faa2517d08153f90bc"
+      },
+      {
+        "object_id": "T12-22",
+        "sha256": "5806e7b6544208f8aaa46b8b5693245a5ad9edbfcc1b39581d50fb7c19318962"
+      },
+      {
+        "object_id": "T12-23",
+        "sha256": "3b8b353917f9c1175c48de21bf45bde1fbace0aa730302b3217ed0380f1f280f"
+      },
+      {
+        "object_id": "T12-24",
+        "sha256": "ccdebf4da85a21b57dc61baa01d07ff112ef63ae5c6a8a04448d0c19eab28387"
+      }
+    ]
+  },
+  "source": "source.png",
+  "background": "background.png",
+  "objects": [
+    {
+      "object_id": "T12-01",
+      "name": "供桌或主题主台",
+      "description": "源图中层下方灰色粗纹石供台，完整空台；仅提取独立可移动石桌或台体，不包含建筑地基，建筑一体结构则空透明图复核。",
+      "classification": "standalone_object",
+      "sha256": "3ad8d6fe153ed9e92b1425ba7cffd90a863f43031505e07227c787602eb82be6",
+      "path": "objects/T12-01.png"
+    },
+    {
+      "object_id": "T12-02",
+      "name": "坐佛",
+      "description": "源图最上层中央灰石坐佛，完整独立雕像，不含后方木框；莲花座仅明显可分时分离。",
+      "classification": "standalone_object",
+      "sha256": "ad3e5167ae9d8074da11313c17422a676e3be03a1ed62d993e12f636b4306add",
+      "path": "objects/T12-02.png"
+    },
+    {
+      "object_id": "T12-03",
+      "name": "佛像底座",
+      "description": "源图灰石坐佛下独立莲花座，完整空座，不凭空切割一体雕像。",
+      "classification": "standalone_object",
+      "sha256": "0bb36348c3054e0ac860a368b3cf479b89e52968a1d85fb403e189dfbdb487be",
+      "path": "objects/T12-03.png"
+    },
+    {
+      "object_id": "T12-04",
+      "name": "空花瓶",
+      "description": "源图上层左侧带褐斑青绿色陶瓶，完整空置，无白花和竹叶。",
+      "classification": "standalone_object",
+      "sha256": "46c87d28394a66728df6ca8ed0699afedcaf5de16acd0894ad4aef8de2c70e24",
+      "path": "objects/T12-04.png"
+    },
+    {
+      "object_id": "T12-05",
+      "name": "花枝花束",
+      "description": "源图上层左陶瓶中的白花绿竹叶整束，保留可插枝脚，无瓶。",
+      "classification": "standalone_object",
+      "sha256": "91015cdb3619843f60fc8d5ed6b758ee67fe41a2e9605d5126d6e8bd55c503e5",
+      "path": "objects/T12-05.png"
+    },
+    {
+      "object_id": "T12-06",
+      "name": "层台石塔空灯",
+      "description": "源图中层左侧灰石塔式灯，完整独立灯体，内腔空置无燃料；区别地面左右较大的园林石灯。",
+      "classification": "standalone_object",
+      "sha256": "88ee8c710e46c01f859be51fa4d5a33dd47af0695290c5b71e060962f5d63cc6",
+      "path": "objects/T12-06.png"
+    },
+    {
+      "object_id": "T12-07",
+      "name": "未点燃蜡芯",
+      "description": "为中层小石塔灯匹配的简洁未点燃内芯，不可见时仅作适配重建，无石灯或烟火。",
+      "classification": "standalone_object",
+      "sha256": "3b062d2683b2b1d9a2f737d29b02d8673b2517f6c35fff2a6938450ce78b7564",
+      "path": "objects/T12-07.png"
+    },
+    {
+      "object_id": "T12-08",
+      "name": "空香炉",
+      "description": "源图中层中左深铜圆形盖香炉，完整空炉身，取下盖去香灰。",
+      "classification": "standalone_object",
+      "sha256": "9c4aabad7c99d25e3347aa6e3c6fce34b3d05ded81a38a95d45f128b6617db66",
+      "path": "objects/T12-08.png"
+    },
+    {
+      "object_id": "T12-09",
+      "name": "未点燃线香",
+      "description": "源图中层香炉中的一根棕色未点燃线香，无炉或烟火。",
+      "classification": "standalone_object",
+      "sha256": "6cbd8bd075cb51a5a6f0c1a07524a021db2c5c60f27ecf45731065e1e298e221",
+      "path": "objects/T12-09.png"
+    },
+    {
+      "object_id": "T12-10",
+      "name": "空供盘",
+      "description": "源图上层右侧盛青梨的褐色木浅果盘，完整空盘，无果实。",
+      "classification": "standalone_object",
+      "sha256": "a03567bf8c27755ade0ea352da6ad03ae0ff2cd4e1c13aec8a19a2a4d89677cb",
+      "path": "objects/T12-10.png"
+    },
+    {
+      "object_id": "T12-11",
+      "name": "青梨",
+      "description": "源图上层木果盘中的一枚完整绿黄色梨，按实际果形提取，无木盘。",
+      "classification": "standalone_object",
+      "sha256": "a09d6ea7ab680e23cd3bc1fa56a35f258c5bb134e9b0ccfa63de216f97dd9ff0",
+      "path": "objects/T12-11.png"
+    },
+    {
+      "object_id": "T12-12",
+      "name": "茶壶",
+      "description": "源图中层右木茶盘上青瓷茶壶，保留竹藤提梁、壶盖和嘴，空壶无水。",
+      "classification": "standalone_object",
+      "sha256": "b1d2030e3875663b30b2102b8d40eef8d7c76f8d68c324db58f25b00f53d89d8",
+      "path": "objects/T12-12.png"
+    },
+    {
+      "object_id": "T12-13",
+      "name": "空茶杯",
+      "description": "源图中层木茶盘上一只完整青瓷空杯，无茶盘或其他杯。",
+      "classification": "standalone_object",
+      "sha256": "6eb6d025247b7f7038e678e83add2d5620b9c70481bdfafb5e1d04570ee1adc3",
+      "path": "objects/T12-13.png"
+    },
+    {
+      "object_id": "T12-14",
+      "name": "茶托",
+      "description": "源图中层中右褐色木茶盘，完整空盘，无壶、杯或层板。",
+      "classification": "standalone_object",
+      "sha256": "27bd51fb391983acd0750425de3c6ad464519fcd4eee1cad3968652c5af50621",
+      "path": "objects/T12-14.png"
+    },
+    {
+      "object_id": "T12-16",
+      "name": "坐垫",
+      "description": "源图前景中央天然藤编圆坐垫，独立完整，无下方矩形地席。",
+      "classification": "standalone_object",
+      "sha256": "88c027d115fc9414391c86b49350f21fd378eaaef4b665bb899ff122d78abb44",
+      "path": "objects/T12-16.png"
+    },
+    {
+      "object_id": "T12-17",
+      "name": "深铜圆香炉盖",
+      "description": "与源图中层T12-08圆香炉匹配的独立深铜盖，无炉身和线香。",
+      "classification": "standalone_object",
+      "sha256": "6c6954f1498541274320057a0ef1f3fed46e2f458683f88ea20488cfcc6e7e06",
+      "path": "objects/T12-17.png"
+    },
+    {
+      "object_id": "T12-18",
+      "name": "上层青瓷空杯",
+      "description": "源图上层左花瓶右边的青瓷杯，仅在器形区别中层茶杯时提取；完全同款可复用则空透明图。",
+      "classification": "standalone_object",
+      "sha256": "293d0ba796fc948d52838445dcc0859a1280cc4286441d69101e629df904c889",
+      "path": "objects/T12-18.png"
+    },
+    {
+      "object_id": "T12-19",
+      "name": "独立木供架",
+      "description": "源图支撑上中两层木板的浅木供架，只有确为独立家具时作为完整空架提取，包含自身竖柱与两层板；若是亭子的建筑梁柱则空透明图，不拆建筑。",
+      "classification": "standalone_object",
+      "sha256": "756baf7d115b1905d66adbad49fa28b9fbb6e0651a7bee4a1eda69ec46d71283",
+      "path": "objects/T12-19.png"
+    },
+    {
+      "object_id": "T12-20",
+      "name": "地面园林空石灯",
+      "description": "源图低石台左右地面园林石灯之一，完整独立空石灯，区别中层小塔灯，无内芯与地面。",
+      "classification": "standalone_object",
+      "sha256": "f20fc261bbbc42312bdb9bc7eac6343319f72d32d6f8ee0f0d784e72c05173d4",
+      "path": "objects/T12-20.png"
+    },
+    {
+      "object_id": "T12-21",
+      "name": "园林石灯未点燃内芯",
+      "description": "匹配源图地面园林石灯的简洁未点燃内芯，隐蔽部分为推断；若与中层内芯完全同款可复用则空图。",
+      "classification": "standalone_object",
+      "sha256": "6235540e25fe272ea2f62095650c6abe3026b062e91021faa2517d08153f90bc",
+      "path": "objects/T12-21.png"
+    },
+    {
+      "object_id": "T12-22",
+      "name": "前左装饰石",
+      "description": "源图石供台基部前左独立灰色装饰石，仅提取可移动摆石，无植被、碎石床或地面；建筑一体石基则空图。",
+      "classification": "standalone_object",
+      "sha256": "5806e7b6544208f8aaa46b8b5693245a5ad9edbfcc1b39581d50fb7c19318962",
+      "path": "objects/T12-22.png"
+    },
+    {
+      "object_id": "T12-23",
+      "name": "前右装饰石",
+      "description": "源图石供台前右独立灰色装饰石，保持本块真实轮廓，不带植物或地面；与左石同款复用则空图。",
+      "classification": "standalone_object",
+      "sha256": "3b8b353917f9c1175c48de21bf45bde1fbace0aa730302b3217ed0380f1f280f",
+      "path": "objects/T12-23.png"
+    },
+    {
+      "object_id": "T12-24",
+      "name": "矩形编织地席",
+      "description": "源图圆坐垫下天然纤维矩形地席，完整独立无坐垫、石台或木地板。",
+      "classification": "standalone_object",
+      "sha256": "ccdebf4da85a21b57dc61baa01d07ff112ef63ae5c6a8a04448d0c19eab28387",
+      "path": "objects/T12-24.png"
+    }
+  ],
+  "review": "../../reviews/themes/T12/overview.png",
+  "status": "generated_review_in_progress"
+}

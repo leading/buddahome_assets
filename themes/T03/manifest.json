@@ -1,0 +1,272 @@
+{
+  "theme_id": "T03",
+  "name": "日式侘寂禅室",
+  "fingerprint": "0c0b6b89b4cf4b652a006ebab34fa6104c53e08b13fe76fe8abcf254ebe6b8e3",
+  "snapshot": {
+    "theme_id": "T03",
+    "review_protocol": "paired-v2",
+    "source_sha256": "3b29672b93fcd998fb7bec2c1c308c1747c3d68c4bb243be88c4e422b28445e4",
+    "background_sha256": "d065d5114948b033471d46ddaafaf1a693151cd1bf23b80a76383e4e977ac6e8",
+    "plan_sha256": "5f734d819c9f5e8f0494e31e36f6a5a3f2bc6dbd240bdadc170e8d4e0613cfbe",
+    "objects": [
+      {
+        "object_id": "T03-01",
+        "sha256": "eb7930c6938da1c29d1944d6783f79fd940b499c24078c9545bd7080412faa3a"
+      },
+      {
+        "object_id": "T03-02",
+        "sha256": "eb0073ba4a05352fcb57711505dca56adb254730790d45fa160a4c2b8a9b0b1c"
+      },
+      {
+        "object_id": "T03-04",
+        "sha256": "20f384859a7a839356d2dd42adf173d87f923e311ae271ab70a3d7822d32f3e8"
+      },
+      {
+        "object_id": "T03-05",
+        "sha256": "eb728f55e741615cbf578ebfa3172e52df7d766711764643a238d764d9a41bb8"
+      },
+      {
+        "object_id": "T03-06",
+        "sha256": "b9bb4aee942c131c61399102ca56e2114aa8ec78c807ecd239f6fc907dcf311f"
+      },
+      {
+        "object_id": "T03-07",
+        "sha256": "3b09267e31437c938873ee671550f12dedc0c2cf8fbfade1dcd11c1ab5c6d2df"
+      },
+      {
+        "object_id": "T03-08",
+        "sha256": "43bd86891876ac0bdc62479734d1b01ca660cbaaea5860731f86d989dbc7adad"
+      },
+      {
+        "object_id": "T03-09",
+        "sha256": "66074164bfe92ae230aea88ed7c62d369d9e1486f79e111cd14161807ddfca2c"
+      },
+      {
+        "object_id": "T03-12",
+        "sha256": "2d5ec6a1012602433ed40cb45572189179ec1ed51c44db7beaff648f66f16ee9"
+      },
+      {
+        "object_id": "T03-13",
+        "sha256": "67f5351fc1490d202703fa1d18de0f13665703193dc595f2ba29553d3db2268b"
+      },
+      {
+        "object_id": "T03-14",
+        "sha256": "bbc484b4cebc771cc122f2e29ccd53de89aaeed2e54eefa55c5b8aa6899f66ee"
+      },
+      {
+        "object_id": "T03-16",
+        "sha256": "67239d5fa370085b73904b5d7cd1f4653e5f33d7b0276fb0b1bd92c453a28865"
+      },
+      {
+        "object_id": "T03-17",
+        "sha256": "754b5d0baf3b77427ef86a069614cc612d936bdc4b5d0d11c0b2ee7a16c5cb3f"
+      },
+      {
+        "object_id": "T03-18",
+        "sha256": "23b82774802e1bbf0540d3731695ed25ade9d00ebfa61db4d84dd7560969a1be"
+      },
+      {
+        "object_id": "T03-19",
+        "sha256": "c8a88e80ca476a3fb4d1a6b4bb997c0c335a1d62f372d7a0ef18988ed267b4d5"
+      },
+      {
+        "object_id": "T03-20",
+        "sha256": "5c449ef39741a0d1168e731ea1b24307c29bde95ba3d9143282d6fad7fb81185"
+      },
+      {
+        "object_id": "T03-21",
+        "sha256": "0a5abeac56ce2764d7ba6ae96bcd4e03c72a270a167600ddd777ca1f19a14e14"
+      },
+      {
+        "object_id": "T03-22",
+        "sha256": "255b11976059c04b4146e8cdceab2fa859de9b90ae136301b212730942e387b7"
+      },
+      {
+        "object_id": "T03-23",
+        "sha256": "f79d879a54f7c1fa17369ef93161b17769074e9015667f39bf6b4c1b8383062d"
+      },
+      {
+        "object_id": "T03-24",
+        "sha256": "1befa4b935badd9361125d7211c7adf1f7a0f311a219d3956e6637fb723e2819"
+      },
+      {
+        "object_id": "T03-25",
+        "sha256": "1e341cb3770b7b3edf6b2cd8d1838fc46dc7420f51b056f9522870d16b616425"
+      }
+    ]
+  },
+  "source": "source.png",
+  "background": "background.png",
+  "objects": [
+    {
+      "object_id": "T03-01",
+      "name": "供桌或主题主台",
+      "description": "源图中央偏低的深色原木供桌，保留不规则天然桌缘、完整桌腿和侘寂旧木质感。空桌，无任何物件、布料、坐垫或地面。",
+      "classification": "standalone_object",
+      "sha256": "eb7930c6938da1c29d1944d6783f79fd940b499c24078c9545bd7080412faa3a",
+      "path": "objects/T03-01.png"
+    },
+    {
+      "object_id": "T03-02",
+      "name": "坐佛",
+      "description": "源图中央灰色风化石坐佛，连同原图连续一体雕刻的两排莲花底座作为一个完整物件保留；莲座已由本资产覆盖，不再生成独立T03-03。保持原有石材、绿苔旧化、轮廓和比例，不截断佛像或莲座。",
+      "classification": "standalone_object",
+      "sha256": "eb0073ba4a05352fcb57711505dca56adb254730790d45fa160a4c2b8a9b0b1c",
+      "path": "objects/T03-02.png"
+    },
+    {
+      "object_id": "T03-04",
+      "name": "空花瓶",
+      "description": "源图供桌左侧带纹理的深灰色陶瓷花瓶，完整空置，保留原形和瓶口内壁，移除白花绿叶及水。",
+      "classification": "standalone_object",
+      "sha256": "20f384859a7a839356d2dd42adf173d87f923e311ae271ab70a3d7822d32f3e8",
+      "path": "objects/T03-04.png"
+    },
+    {
+      "object_id": "T03-05",
+      "name": "花枝花束",
+      "description": "源图左侧花瓶中的白花绿叶枝组，完整单束，保持自然枝形，裸露枝脚便于插入，不带花瓶、水或其他植物。",
+      "classification": "standalone_object",
+      "sha256": "eb728f55e741615cbf578ebfa3172e52df7d766711764643a238d764d9a41bb8",
+      "path": "objects/T03-05.png"
+    },
+    {
+      "object_id": "T03-06",
+      "name": "空烛台或灯盏",
+      "description": "源图供桌右侧承放米白蜡烛的深色石质碗形烛座，完整空置，不带蜡烛、蜡芯、烟火或外部地面。",
+      "classification": "standalone_object",
+      "sha256": "b9bb4aee942c131c61399102ca56e2114aa8ec78c807ecd239f6fc907dcf311f",
+      "path": "objects/T03-06.png"
+    },
+    {
+      "object_id": "T03-07",
+      "name": "未点燃蜡芯",
+      "description": "源图右侧石碗烛座中的米白色柱蜡烛，完整单根，烛芯未点燃，无火焰、红光、烟、碗或烛座。",
+      "classification": "standalone_object",
+      "sha256": "3b09267e31437c938873ee671550f12dedc0c2cf8fbfade1dcd11c1ab5c6d2df",
+      "path": "objects/T03-07.png"
+    },
+    {
+      "object_id": "T03-08",
+      "name": "空香炉",
+      "description": "源图供桌最右侧深色金属香炉的单独空炉身；必须把盖彻底移出图像。Only ONE object: the empty incense-burner BODY. No lid on the body, no lid beside it, no detached lid anywhere in the canvas. The source-matched removable lid is a DIFFERENT asset T03-21. Show the complete body with its opening and empty interior; remove incense, ash and all contents. Preserve the original body shape, cloud-shaped cutouts and metal material; do not add a second vessel, plate, lid, floor or shadow.",
+      "classification": "standalone_object",
+      "sha256": "43bd86891876ac0bdc62479734d1b01ca660cbaaea5860731f86d989dbc7adad",
+      "path": "objects/T03-08.png"
+    },
+    {
+      "object_id": "T03-09",
+      "name": "未点燃线香",
+      "description": "源图最右侧深色香炉中的一根完整未点燃线香，移除炉身与盖，无烟、火或余烬。",
+      "classification": "standalone_object",
+      "sha256": "66074164bfe92ae230aea88ed7c62d369d9e1486f79e111cd14161807ddfca2c",
+      "path": "objects/T03-09.png"
+    },
+    {
+      "object_id": "T03-12",
+      "name": "茶壶",
+      "description": "源图佛像右侧茶盘上的深色金属茶壶，保留编织提梁、壶嘴、壶盖和壶身，功能结构完整；壶内空置，无茶杯、托盘和液体。",
+      "classification": "standalone_object",
+      "sha256": "2d5ec6a1012602433ed40cb45572189179ec1ed51c44db7beaff648f66f16ee9",
+      "path": "objects/T03-12.png"
+    },
+    {
+      "object_id": "T03-13",
+      "name": "空茶杯",
+      "description": "源图佛像右侧茶盘上的小型浅色斑点陶瓷空茶杯，与左侧较大的茶碗不同。单只，移除杯碟和其他茶具，显示内底。",
+      "classification": "standalone_object",
+      "sha256": "67f5351fc1490d202703fa1d18de0f13665703193dc595f2ba29553d3db2268b",
+      "path": "objects/T03-13.png"
+    },
+    {
+      "object_id": "T03-14",
+      "name": "茶托",
+      "description": "源图佛像右侧承托茶壶与小茶杯的长方形木茶盘。完整空盘，移除茶具、独立杯碟及液体。不是圆形杯碟。",
+      "classification": "standalone_object",
+      "sha256": "bbc484b4cebc771cc122f2e29ccd53de89aaeed2e54eefa55c5b8aa6899f66ee",
+      "path": "objects/T03-14.png"
+    },
+    {
+      "object_id": "T03-16",
+      "name": "坐垫",
+      "description": "源图前景地席上的圆形编织坐垫，单独完整，只要垫本体，移除下方地席、地板与阴影。",
+      "classification": "standalone_object",
+      "sha256": "67239d5fa370085b73904b5d7cd1f4653e5f33d7b0276fb0b1bd92c453a28865",
+      "path": "objects/T03-16.png"
+    },
+    {
+      "object_id": "T03-17",
+      "name": "苔藓空钵",
+      "description": "源图供桌左前方盛绿色苔藓的浅钵，材质可能为石或陶，应忠实匹配图片而不另造材质。完整空钵，去掉全部苔藓、土和水，保留内外壁。",
+      "classification": "standalone_object",
+      "sha256": "754b5d0baf3b77427ef86a069614cc612d936bdc4b5d0d11c0b2ee7a16c5cb3f",
+      "path": "objects/T03-17.png"
+    },
+    {
+      "object_id": "T03-18",
+      "name": "苔藓植被块",
+      "description": "源图供桌左前方钵中的一整块苔藓植被。保留自然团块轮廓及必要自身基质，只提取苔藓，不带钵、其他草木或地面。",
+      "classification": "standalone_object",
+      "sha256": "23b82774802e1bbf0540d3731695ed25ade9d00ebfa61db4d84dd7560969a1be",
+      "path": "objects/T03-18.png"
+    },
+    {
+      "object_id": "T03-19",
+      "name": "大号纹样空茶碗",
+      "description": "源图佛像左侧独立的大号奶油色深纹陶瓷茶碗，区别于右侧小杯。完整单只空碗，移除所有内容物，显示内外壁与碗底。",
+      "classification": "standalone_object",
+      "sha256": "c8a88e80ca476a3fb4d1a6b4bb997c0c335a1d62f372d7a0ef18988ed267b4d5",
+      "path": "objects/T03-19.png"
+    },
+    {
+      "object_id": "T03-20",
+      "name": "浅色独立杯碟",
+      "description": "源图佛像右侧小茶杯下方独立陶瓷杯碟。单只完整空碟，不带杯、茶壶或长方木茶盘。仅当源图确有独立杯碟时提取。",
+      "classification": "standalone_object",
+      "sha256": "5c449ef39741a0d1168e731ea1b24307c29bde95ba3d9143282d6fad7fb81185",
+      "path": "objects/T03-20.png"
+    },
+    {
+      "object_id": "T03-21",
+      "name": "深色金属香炉盖",
+      "description": "与最右侧 T03-08 深色金属香炉对应的独立盖，仅提取盖和自身盖钮，移除炉身与线香。合理补全合口结构，不添加复杂源图未见纹饰。",
+      "classification": "standalone_object",
+      "sha256": "0a5abeac56ce2764d7ba6ae96bcd4e03c72a270a167600ddd777ca1f19a14e14",
+      "path": "objects/T03-21.png"
+    },
+    {
+      "object_id": "T03-22",
+      "name": "天然纤维地席",
+      "description": "源图前景坐垫下方天然纤维编织地席，单件完整，保留原矩形比例、织纹和边缘，无坐垫、家具、地板或投影。",
+      "classification": "standalone_object",
+      "sha256": "255b11976059c04b4146e8cdceab2fa859de9b90ae136301b212730942e387b7",
+      "path": "objects/T03-22.png"
+    },
+    {
+      "object_id": "T03-23",
+      "name": "米色纹理挂轴",
+      "description": "源图右侧墙上米色纹理挂轴，仅在它为可拆独立挂件时提取。保留源图自身卷杆或悬挂件，去掉墙和木柱，不添加文字。若只是墙面材质或建筑固定结构则返回全透明空图。",
+      "classification": "standalone_object",
+      "sha256": "f79d879a54f7c1fa17369ef93161b17769074e9015667f39bf6b4c1b8383062d",
+      "path": "objects/T03-23.png"
+    },
+    {
+      "object_id": "T03-24",
+      "name": "左下前景绿叶图层",
+      "description": "只提取原始主题图左下角近景中实际可见的虚焦绿叶和相连可见细枝，保留其自然柔焦、原色、叶形和原相机观察方向。这是边缘前景景观图层，不声称是有花盆的室内植物。仅忠实保存源图可见部分；不补造未出现的盆器、根部、树干、枝叶或整株植物。其他位置的花束、右侧枝叶、家具、墙地面和花园都不可带入。Only the source-visible bottom-left foreground foliage layer, as one isolated coherent cutout on real alpha; no invented hidden plant or pot, no opaque rectangle or scenery.",
+      "classification": "environment_overlay",
+      "sha256": "1befa4b935badd9361125d7211c7adf1f7a0f311a219d3956e6637fb723e2819",
+      "path": "objects/T03-24.png"
+    },
+    {
+      "object_id": "T03-25",
+      "name": "右侧前景枝叶图层",
+      "description": "只提取原始主题图右侧从画面边缘伸入的实际可见绿色枝叶，保存原来的枝干连接、叶片布局、颜色、自然景深和相机方向。与左花瓶中的白花绿叶枝束不同。此为边缘前景景观图层，室内外或固定植物归属未定，仅保留源图可见的连贯枝叶；不增添花盆、根部、独立树干、未见叶片或整株植物。无墙柱、挂轴、地板、其他植物或外景。Only the source-visible right-edge foreground leafy branch layer, isolated on true alpha with no invented hidden plant or pot; no opaque scene rectangle.",
+      "classification": "environment_overlay",
+      "sha256": "1e341cb3770b7b3edf6b2cd8d1838fc46dc7420f51b056f9522870d16b616425",
+      "path": "objects/T03-25.png"
+    }
+  ],
+  "review": "../../reviews/themes/T03/overview.png",
+  "status": "generated_review_in_progress"
+}

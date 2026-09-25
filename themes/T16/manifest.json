@@ -1,0 +1,344 @@
+{
+  "theme_id": "T16",
+  "name": "都市夜景黑金佛堂",
+  "fingerprint": "9366709a49c3985a2c3de5586545d19807077bbb6339051337d9d04afa638d19",
+  "snapshot": {
+    "theme_id": "T16",
+    "review_protocol": "paired-v2",
+    "source_sha256": "8b28ed30c71df82cbbfe6027043b64e1183056b64c7a098f3297356c68c6ed46",
+    "background_sha256": "afd4da2b3d3aab93337ae2ec7ddd4d7fe50a5f56434be74c5fe0595cdf44013d",
+    "plan_sha256": "35e1a73c7710bab3b6c824cc22a533e5e18ddb4af69b6423e2bf898c3bcffdf3",
+    "objects": [
+      {
+        "object_id": "T16-01",
+        "sha256": "c915942cef7a2c0ab134531699bf14dcb841ff5d10cc70ca439111d66fad7250"
+      },
+      {
+        "object_id": "T16-02",
+        "sha256": "1992f9a0bd5ef50a3f05e2cd02ede136ed4a446c2eead7049e51a0ce85df3987"
+      },
+      {
+        "object_id": "T16-03",
+        "sha256": "6012aa2286f88ccb05cf0d30395d797966ef5e73d967673c9cb6bcf861b1026b"
+      },
+      {
+        "object_id": "T16-04",
+        "sha256": "cede3a92d6d4854fb1f3f575544f4277dbb6186f6a0de832632ba8c11efc3a17"
+      },
+      {
+        "object_id": "T16-05",
+        "sha256": "6054f9ae635238a78dead62d3c3602b3569032d1f4ba7b393f056e6f8b0a7186"
+      },
+      {
+        "object_id": "T16-06",
+        "sha256": "6dd8dc21e8026290ac61769311993f86de4dc1d7b104019d0a4215a72fc1fbd8"
+      },
+      {
+        "object_id": "T16-07",
+        "sha256": "6bcf71bc00bbb52e6ea0921f979395898fe70b709a852b5bb1c8192f884959cd"
+      },
+      {
+        "object_id": "T16-08",
+        "sha256": "8a85e3f02c1f51eab3b06f288a51e4478053c328b55da874a0dd3d00def875dd"
+      },
+      {
+        "object_id": "T16-09",
+        "sha256": "9f038fc96cbd0409cccd4f10e396059d7f95436118c2eaa7673520b4ff5cdfa9"
+      },
+      {
+        "object_id": "T16-10",
+        "sha256": "6e4c7302158aaf715ed00dc0329034b318876e7cba9034f55548a815e3eac055"
+      },
+      {
+        "object_id": "T16-11",
+        "sha256": "0737cacdb8f5334f07cc777f3fbafe4303b7daa30df2e536616ce4e9c205f936"
+      },
+      {
+        "object_id": "T16-12",
+        "sha256": "b419c521610532d68f990035ffc471a4818d455294c163e26e7b4149492e5816"
+      },
+      {
+        "object_id": "T16-13",
+        "sha256": "c9fa647568bc25f02900f9ad539138d6f8c8536856cac48e1ad7abcdcab70388"
+      },
+      {
+        "object_id": "T16-14",
+        "sha256": "be8379aaab6e599734726b3fe1bf4e406d0df2362a09813e248e6bfce5859c23"
+      },
+      {
+        "object_id": "T16-15",
+        "sha256": "b0a50a0fd6b81bf208cf1c5b913cdfb57d1b4121a692374d1bd4131795d9a85b"
+      },
+      {
+        "object_id": "T16-16",
+        "sha256": "9c5d263ef8f59024826e3e852bd88dfeb6c2bebe14a1d9b5815107a03640fe3d"
+      },
+      {
+        "object_id": "T16-17",
+        "sha256": "8d640050865ef3d8ad8aa1c88338b5181569a3ef28f4c129b500599b0f6b9341"
+      },
+      {
+        "object_id": "T16-18",
+        "sha256": "4b40fbd2b56bef02a251364dc95a271a9e01e0ad2dd8d6d5f05720b2bc84b99f"
+      },
+      {
+        "object_id": "T16-19",
+        "sha256": "5fac7dd0db7f1ddc5ba80757611c57423b77df54593449f8669defc6185b7aee"
+      },
+      {
+        "object_id": "T16-20",
+        "sha256": "200e1ec3c4180f8454e1df18cc0c51ec7070a8f65b98b05d71b4620d4a3fe565"
+      },
+      {
+        "object_id": "T16-21",
+        "sha256": "1e1dddd03dc21f59174c721238d16edc5b082b3182045f7945c3f5d93d138fc3"
+      },
+      {
+        "object_id": "T16-22",
+        "sha256": "5b2c976e6bae9e792bdd01201aacce63b25c92cbc51cd21f518a350236e024e2"
+      },
+      {
+        "object_id": "T16-23",
+        "sha256": "f0603ab5e1544296ff88644b8a567d2b50943cdfc14905262951d9651c6a620a"
+      },
+      {
+        "object_id": "T16-24",
+        "sha256": "a44c9e6d1f79e78c13b774cc71f2683e98a38b44162f5098a6240b5b32fb329a"
+      },
+      {
+        "object_id": "T16-25",
+        "sha256": "12d3499d99caedb39a3e9b47e409adb6a8c0060cf916ad1a497eda4a5cde185e"
+      },
+      {
+        "object_id": "T16-26",
+        "sha256": "143190d961e84d55c662d32ebb4f60a899067adbcbcb93676d66e0804d5a3a99"
+      },
+      {
+        "object_id": "T16-27",
+        "sha256": "89a4395f96df432a772b99fdff8c99fc649930edb7956ff2c9f9fabc9a8c96c4"
+      }
+    ]
+  },
+  "source": "source.png",
+  "background": "background.png",
+  "objects": [
+    {
+      "object_id": "T16-01",
+      "name": "供桌或主题主台",
+      "description": "源图中央深色大理石台面配木饰面供桌，完整空桌，只含桌自身结构，不带墙上圆背板、佛像或物件。",
+      "classification": "standalone_object",
+      "sha256": "c915942cef7a2c0ab134531699bf14dcb841ff5d10cc70ca439111d66fad7250",
+      "path": "objects/T16-01.png"
+    },
+    {
+      "object_id": "T16-02",
+      "name": "坐佛",
+      "description": "源图中央深铜金属坐佛，完整雕像；仅可辨为独立的深石底座分开。",
+      "classification": "standalone_object",
+      "sha256": "1992f9a0bd5ef50a3f05e2cd02ede136ed4a446c2eead7049e51a0ce85df3987",
+      "path": "objects/T16-02.png"
+    },
+    {
+      "object_id": "T16-03",
+      "name": "佛像底座",
+      "description": "源图佛像下带细纹深石底座，完整空座，不强行改成莲花形；一体不可拆则空图。",
+      "classification": "standalone_object",
+      "sha256": "6012aa2286f88ccb05cf0d30395d797966ef5e73d967673c9cb6bcf861b1026b",
+      "path": "objects/T16-03.png"
+    },
+    {
+      "object_id": "T16-04",
+      "name": "空花瓶",
+      "description": "源图供桌左侧高身深色纹理陶瓶，完整空瓶，无白花枝和水。",
+      "classification": "standalone_object",
+      "sha256": "cede3a92d6d4854fb1f3f575544f4277dbb6186f6a0de832632ba8c11efc3a17",
+      "path": "objects/T16-04.png"
+    },
+    {
+      "object_id": "T16-05",
+      "name": "花枝花束",
+      "description": "源图左高瓶内棕色枝干与白花整束，保留完整可插枝脚，无瓶，不随意增加植物。",
+      "classification": "standalone_object",
+      "sha256": "6054f9ae635238a78dead62d3c3602b3569032d1f4ba7b393f056e6f8b0a7186",
+      "path": "objects/T16-05.png"
+    },
+    {
+      "object_id": "T16-06",
+      "name": "圆柱格栅空灯体",
+      "description": "源图供桌右侧圆柱格栅灯体，完整空灯壳；底座若确可独立拆分则去掉并另列，若固定不可拆则保留灯体自身底座。无内芯、烟火和光晕。",
+      "classification": "standalone_object",
+      "sha256": "6dd8dc21e8026290ac61769311993f86de4dc1d7b104019d0a4215a72fc1fbd8",
+      "path": "objects/T16-06.png"
+    },
+    {
+      "object_id": "T16-07",
+      "name": "未点燃灯内芯",
+      "description": "匹配源图圆柱格栅灯的简洁未点燃内芯；若确为电灯而非燃料灯，不把电气部件变成蜡烛或油芯，返回空透明图交复核。不可见结构属推断。",
+      "classification": "standalone_object",
+      "sha256": "6bcf71bc00bbb52e6ea0921f979395898fe70b709a852b5bb1c8192f884959cd",
+      "path": "objects/T16-07.png"
+    },
+    {
+      "object_id": "T16-08",
+      "name": "空香炉",
+      "description": "源图供桌前中央带装饰纹深色金属香炉，完整空炉身，去掉可拆盖、线香和灰，无烟火。",
+      "classification": "standalone_object",
+      "sha256": "8a85e3f02c1f51eab3b06f288a51e4478053c328b55da874a0dd3d00def875dd",
+      "path": "objects/T16-08.png"
+    },
+    {
+      "object_id": "T16-09",
+      "name": "未点燃线香",
+      "description": "源图中央香炉中的一根完整细未点燃线香，保留源图色调，无香炉烟火。",
+      "classification": "standalone_object",
+      "sha256": "9f038fc96cbd0409cccd4f10e396059d7f95436118c2eaa7673520b4ff5cdfa9",
+      "path": "objects/T16-09.png"
+    },
+    {
+      "object_id": "T16-10",
+      "name": "空供盘",
+      "description": "源图供桌左侧盛橙子的深色果碗，完整空碗，无橙子和台面。",
+      "classification": "standalone_object",
+      "sha256": "6e4c7302158aaf715ed00dc0329034b318876e7cba9034f55548a815e3eac055",
+      "path": "objects/T16-10.png"
+    },
+    {
+      "object_id": "T16-11",
+      "name": "橙子",
+      "description": "源图左果碗中的一枚完整橙子，无果碗和其他水果。",
+      "classification": "standalone_object",
+      "sha256": "0737cacdb8f5334f07cc777f3fbafe4303b7daa30df2e536616ce4e9c205f936",
+      "path": "objects/T16-11.png"
+    },
+    {
+      "object_id": "T16-12",
+      "name": "茶壶",
+      "description": "源图右侧木茶盘上的黑色铸铁风格功能茶壶，完整空壶，含自身盖、嘴与把手，不帶杯或液体。",
+      "classification": "standalone_object",
+      "sha256": "b419c521610532d68f990035ffc471a4818d455294c163e26e7b4149492e5816",
+      "path": "objects/T16-12.png"
+    },
+    {
+      "object_id": "T16-13",
+      "name": "空茶杯",
+      "description": "源图茶盘上的一只完整深色空茶杯，去掉独立杯碟。",
+      "classification": "standalone_object",
+      "sha256": "c9fa647568bc25f02900f9ad539138d6f8c8536856cac48e1ad7abcdcab70388",
+      "path": "objects/T16-13.png"
+    },
+    {
+      "object_id": "T16-14",
+      "name": "茶托",
+      "description": "源图供桌右侧矩形木茶盘，完整空盘，无壶、杯碟或台面。",
+      "classification": "standalone_object",
+      "sha256": "be8379aaab6e599734726b3fe1bf4e406d0df2362a09813e248e6bfce5859c23",
+      "path": "objects/T16-14.png"
+    },
+    {
+      "object_id": "T16-15",
+      "name": "经书",
+      "description": "源图左前矮柜书堆中的一本完整深色封面闭合书册，无其他书或可读文字。",
+      "classification": "standalone_object",
+      "sha256": "b0a50a0fd6b81bf208cf1c5b913cdfb57d1b4121a692374d1bd4131795d9a85b",
+      "path": "objects/T16-15.png"
+    },
+    {
+      "object_id": "T16-16",
+      "name": "坐垫",
+      "description": "源图供桌前深色布艺圆坐垫，完整独立，无下方深色地毯或大理石地面。",
+      "classification": "standalone_object",
+      "sha256": "9c5d263ef8f59024826e3e852bd88dfeb6c2bebe14a1d9b5815107a03640fe3d",
+      "path": "objects/T16-16.png"
+    },
+    {
+      "object_id": "T16-17",
+      "name": "圆形深色金属背板",
+      "description": "源图佛像后墙深色纹理圆金属背板，仅在为独立可拆圆盘时完整提取，无墙、圆形建筑凹槽或佛像；若只是墙面凹槽或固定饰面则空图。",
+      "classification": "standalone_object",
+      "sha256": "8d640050865ef3d8ad8aa1c88338b5181569a3ef28f4c129b500599b0f6b9341",
+      "path": "objects/T16-17.png"
+    },
+    {
+      "object_id": "T16-18",
+      "name": "圆柱灯独立底座",
+      "description": "源图圆柱格栅灯下深金属底座，仅在明显独立可拆时完整提取空座，无灯罩；一体不可拆则返回空图，不能重复切割灯体。",
+      "classification": "standalone_object",
+      "sha256": "4b40fbd2b56bef02a251364dc95a271a9e01e0ad2dd8d6d5f05720b2bc84b99f",
+      "path": "objects/T16-18.png"
+    },
+    {
+      "object_id": "T16-19",
+      "name": "左前深木矮柜",
+      "description": "源图左前方承放盆栽和书册的深木矮柜或边几，完整空家具，无书、盆栽、地面或主供桌。",
+      "classification": "standalone_object",
+      "sha256": "5fac7dd0db7f1ddc5ba80757611c57423b77df54593449f8669defc6185b7aee",
+      "path": "objects/T16-19.png"
+    },
+    {
+      "object_id": "T16-20",
+      "name": "矮柜上深色空花盆",
+      "description": "源图左前矮柜上绿植的深色圆盆，完整空盆，无土、水或植物。",
+      "classification": "standalone_object",
+      "sha256": "200e1ec3c4180f8454e1df18cc0c51ec7070a8f65b98b05d71b4620d4a3fe565",
+      "path": "objects/T16-20.png"
+    },
+    {
+      "object_id": "T16-21",
+      "name": "矮柜上完整绿植",
+      "description": "源图左前矮柜盆中的完整绿叶植物，保留茎枝、叶及必要根部，无花盆或矮柜。",
+      "classification": "standalone_object",
+      "sha256": "1e1dddd03dc21f59174c721238d16edc5b082b3182045f7945c3f5d93d138fc3",
+      "path": "objects/T16-21.png"
+    },
+    {
+      "object_id": "T16-22",
+      "name": "左缘前景空花盆",
+      "description": "源图左侧画面边缘另一株前景植物的盆，只有盆体实际可见才提取并合理补齐被边缘遮挡部分，不凭绿叶捏造盆器。完全不可见则空图。",
+      "classification": "standalone_object",
+      "sha256": "5b2c976e6bae9e792bdd01201aacce63b25c92cbc51cd21f518a350236e024e2",
+      "path": "objects/T16-22.png"
+    },
+    {
+      "object_id": "T16-23",
+      "name": "左缘前景绿植",
+      "description": "源图左缘另一株部分出镜绿植，按可见枝叶外观补成完整独立植物，不带盆，不混入窗外城市景物；不可见部分标为重建。",
+      "classification": "standalone_object",
+      "sha256": "f0603ab5e1544296ff88644b8a567d2b50943cdfc14905262951d9651c6a620a",
+      "path": "objects/T16-23.png"
+    },
+    {
+      "object_id": "T16-24",
+      "name": "深金属独立香炉盖",
+      "description": "源图中央T16-08纹饰香炉的独立深金属盖，仅盖无炉身、香或烟。",
+      "classification": "standalone_object",
+      "sha256": "a44c9e6d1f79e78c13b774cc71f2683e98a38b44162f5098a6240b5b32fb329a",
+      "path": "objects/T16-24.png"
+    },
+    {
+      "object_id": "T16-25",
+      "name": "深色独立杯碟",
+      "description": "源图右侧茶杯下深色独立杯碟，完整空碟，无杯或茶盘。",
+      "classification": "standalone_object",
+      "sha256": "12d3499d99caedb39a3e9b47e409adb6a8c0060cf916ad1a497eda4a5cde185e",
+      "path": "objects/T16-25.png"
+    },
+    {
+      "object_id": "T16-26",
+      "name": "浅色封面书册",
+      "description": "源图左前矮柜书堆中浅色封面的单本闭合书，保留与深色书不同的实际装帧，无其他书或可读文字。",
+      "classification": "standalone_object",
+      "sha256": "143190d961e84d55c662d32ebb4f60a899067adbcbcb93676d66e0804d5a3a99",
+      "path": "objects/T16-26.png"
+    },
+    {
+      "object_id": "T16-27",
+      "name": "深色矩形织毯",
+      "description": "源图供桌前圆坐垫下深色矩形织物地毯，完整单件，无坐垫或石地面。",
+      "classification": "standalone_object",
+      "sha256": "89a4395f96df432a772b99fdff8c99fc649930edb7956ff2c9f9fabc9a8c96c4",
+      "path": "objects/T16-27.png"
+    }
+  ],
+  "review": "../../reviews/themes/T16/overview.png",
+  "status": "generated_review_in_progress"
+}

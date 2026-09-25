@@ -1,0 +1,176 @@
+{
+  "theme_id": "T15",
+  "name": "清水混凝土极简佛堂",
+  "fingerprint": "51da0203e940f4bd402b9edd4e0fb674039f086d873fe5905eed902009d58654",
+  "snapshot": {
+    "theme_id": "T15",
+    "review_protocol": "paired-v2",
+    "source_sha256": "852be4bf6fa128a597cd1442e7372eef3f45a171de970332723ba562b5bda521",
+    "background_sha256": "bec19e2997cd47de72868b83ac95fe0f9c1b860bd5bceaf19ef52c3947a6cd86",
+    "plan_sha256": "734d939ca31b9422d45da417783f4d5b965b3d2576889bff91e9024ed8bea3fd",
+    "objects": [
+      {
+        "object_id": "T15-02",
+        "sha256": "637e22e5c1a8c33c2809c5d6f9e094d4e8cadb5e126248376f219a370e1085a1"
+      },
+      {
+        "object_id": "T15-03",
+        "sha256": "d063fe1f3175e9a24c180a794ab6792b486fdaea7bce0eab20c70c1aab24effb"
+      },
+      {
+        "object_id": "T15-04",
+        "sha256": "10291045d91c2b9fdc432e4b585ad23fae1d69758dc85311aad79ec42e820752"
+      },
+      {
+        "object_id": "T15-05",
+        "sha256": "5b31f9dd2790015311f4529e0fea6f91e39515a32af4c497ee7e5fb5dd2bc931"
+      },
+      {
+        "object_id": "T15-06",
+        "sha256": "39a2e8f277c1fdeb27a74e66a6762c6b9b81fd5b1325be29712169a71f4225e5"
+      },
+      {
+        "object_id": "T15-07",
+        "sha256": "b28f28de0f43c782de73d0d8a054584a14a07306bc11d917c8d878b16ff79d5e"
+      },
+      {
+        "object_id": "T15-08",
+        "sha256": "3ba9d81c297048be93e185da08a803e5bcab0e60a780dc609cd50ae979caa616"
+      },
+      {
+        "object_id": "T15-09",
+        "sha256": "86d12f2422303545e40c76ccc524b9423d98836e4d7e6ad34a32c63f60c4c08c"
+      },
+      {
+        "object_id": "T15-10",
+        "sha256": "4551cd0f675286cbff13ec3acd768d624b5adbfa279529ca6697f77492ea1bfc"
+      },
+      {
+        "object_id": "T15-11",
+        "sha256": "0d94a46920290072a1620721362e1d544e938449a6b78bd7a9607bd043c4795d"
+      },
+      {
+        "object_id": "T15-12",
+        "sha256": "c82272fe3f6617e87951105900f45a0992b9cf49c5f153c35062792606f25029"
+      },
+      {
+        "object_id": "T15-13",
+        "sha256": "d1d3490312199863e94521f040836f98825659dc40e0741f247e497392f8e590"
+      },
+      {
+        "object_id": "T15-14",
+        "sha256": "0ed32dc555696201b339ba19c1adf76cab581c19231a760f37d84798e1005c03"
+      }
+    ]
+  },
+  "source": "source.png",
+  "background": "background.png",
+  "objects": [
+    {
+      "object_id": "T15-02",
+      "name": "坐佛",
+      "description": "源图后墙中央龛中深灰石坐佛，完整雕像，不带建筑壁龛或内嵌石平台。",
+      "classification": "standalone_object",
+      "sha256": "637e22e5c1a8c33c2809c5d6f9e094d4e8cadb5e126248376f219a370e1085a1",
+      "path": "objects/T15-02.png"
+    },
+    {
+      "object_id": "T15-03",
+      "name": "佛像底座",
+      "description": "仅提取源图佛像本体下可辨为独立可移动的深灰底座；如果所见底座就是墙龛固定石平台，则返回全透明空图，保留建筑平台在背景。",
+      "classification": "standalone_object",
+      "sha256": "d063fe1f3175e9a24c180a794ab6792b486fdaea7bce0eab20c70c1aab24effb",
+      "path": "objects/T15-03.png"
+    },
+    {
+      "object_id": "T15-04",
+      "name": "空花瓶",
+      "description": "源图上层左側带轻微纹理的深灰石或陶花瓶，完整空置，去掉全部白花枝和水。",
+      "classification": "standalone_object",
+      "sha256": "10291045d91c2b9fdc432e4b585ad23fae1d69758dc85311aad79ec42e820752",
+      "path": "objects/T15-04.png"
+    },
+    {
+      "object_id": "T15-05",
+      "name": "花枝花束",
+      "description": "源图左深色瓶里的棕枝白花整束，完整可插枝脚，无瓶，不凭空增加绿色枝叶。",
+      "classification": "standalone_object",
+      "sha256": "5b31f9dd2790015311f4529e0fea6f91e39515a32af4c497ee7e5fb5dd2bc931",
+      "path": "objects/T15-05.png"
+    },
+    {
+      "object_id": "T15-06",
+      "name": "空烛台或灯盏",
+      "description": "源图左竖向壁龛里的深色金属碗形油灯，完整空灯碗，去掉内芯、油、火烟和壁龛墙体。",
+      "classification": "standalone_object",
+      "sha256": "39a2e8f277c1fdeb27a74e66a6762c6b9b81fd5b1325be29712169a71f4225e5",
+      "path": "objects/T15-06.png"
+    },
+    {
+      "object_id": "T15-07",
+      "name": "浅色未点燃灯芯",
+      "description": "源图左壁龛碗灯中一枚浅色未点燃蜡芯或灯芯，按实际外观提取，不擅定隐藏材质，无灯碗烟火。",
+      "classification": "standalone_object",
+      "sha256": "b28f28de0f43c782de73d0d8a054584a14a07306bc11d917c8d878b16ff79d5e",
+      "path": "objects/T15-07.png"
+    },
+    {
+      "object_id": "T15-08",
+      "name": "空香炉",
+      "description": "源图前平台中央深金属三足敞口香炉，完整空炉，无盖、线香、灰或烟，源图无盖不添加。",
+      "classification": "standalone_object",
+      "sha256": "3ba9d81c297048be93e185da08a803e5bcab0e60a780dc609cd50ae979caa616",
+      "path": "objects/T15-08.png"
+    },
+    {
+      "object_id": "T15-09",
+      "name": "未点燃线香",
+      "description": "源图三足炉中的一根细棕色未点燃线香，无炉或烟火。",
+      "classification": "standalone_object",
+      "sha256": "86d12f2422303545e40c76ccc524b9423d98836e4d7e6ad34a32c63f60c4c08c",
+      "path": "objects/T15-09.png"
+    },
+    {
+      "object_id": "T15-10",
+      "name": "空供盘",
+      "description": "源图前平台左中部盛青梨的深石供碗，完整空碗，无梨和石台。",
+      "classification": "standalone_object",
+      "sha256": "4551cd0f675286cbff13ec3acd768d624b5adbfa279529ca6697f77492ea1bfc",
+      "path": "objects/T15-10.png"
+    },
+    {
+      "object_id": "T15-11",
+      "name": "青梨",
+      "description": "源图深石果碗中的一枚完整青梨，按原图真实果型，无碗和其他梨。",
+      "classification": "standalone_object",
+      "sha256": "0d94a46920290072a1620721362e1d544e938449a6b78bd7a9607bd043c4795d",
+      "path": "objects/T15-11.png"
+    },
+    {
+      "object_id": "T15-12",
+      "name": "茶壶",
+      "description": "源图前平台右侧深色金属功能茶壶，完整空壶，保留盖、嘴与把手，不带茶盘、杯或水。",
+      "classification": "standalone_object",
+      "sha256": "c82272fe3f6617e87951105900f45a0992b9cf49c5f153c35062792606f25029",
+      "path": "objects/T15-12.png"
+    },
+    {
+      "object_id": "T15-13",
+      "name": "空茶杯",
+      "description": "源图右侧茶组一只深陶碗形空茶杯，完整单只，无茶盤或其他杯。",
+      "classification": "standalone_object",
+      "sha256": "d1d3490312199863e94521f040836f98825659dc40e0741f247e497392f8e590",
+      "path": "objects/T15-13.png"
+    },
+    {
+      "object_id": "T15-14",
+      "name": "茶托",
+      "description": "源图前平台右侧深色矩形茶盘，完整空盘，去掉壶杯与平台。",
+      "classification": "standalone_object",
+      "sha256": "0ed32dc555696201b339ba19c1adf76cab581c19231a760f37d84798e1005c03",
+      "path": "objects/T15-14.png"
+    }
+  ],
+  "review": "../../reviews/themes/T15/overview.png",
+  "status": "generated_review_in_progress"
+}

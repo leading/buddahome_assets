@@ -1,0 +1,284 @@
+{
+  "theme_id": "T18",
+  "name": "新艺术琉璃花房佛堂",
+  "fingerprint": "cefb623b02c3697df15dcd5874fd0e926e573ba836032cf5be35779159ca8ea1",
+  "snapshot": {
+    "theme_id": "T18",
+    "review_protocol": "paired-v2",
+    "source_sha256": "e6e91cf8977c1ef383b80139508c10ac2e9a5c8f379f2b866492af541a971c50",
+    "background_sha256": "d8aec39e71bc0a2a62a763913862084f3cd4404368fabc3d50c1c7618f70ab27",
+    "plan_sha256": "203c04011995d56fdc5084c28203735f7697c2148394e8719d27ab3c8feed715",
+    "objects": [
+      {
+        "object_id": "T18-01",
+        "sha256": "f1fa1daadf59fc4b1ac725c27df7aaeb8f32be7557253347d38143b400282056"
+      },
+      {
+        "object_id": "T18-02",
+        "sha256": "f5730c117f1df830a65a0909500821088f6fafd7b7343fd793c4f96681af5ed3"
+      },
+      {
+        "object_id": "T18-03",
+        "sha256": "6ccddf6f9e75aa09e4b6d10738298a22acd8c73af5231d2fc25ae9d35cc7b4ac"
+      },
+      {
+        "object_id": "T18-04",
+        "sha256": "92a30e136f412a21f704598f4a572a119be9b8289ccc37fc5a9157de5528c3ef"
+      },
+      {
+        "object_id": "T18-05",
+        "sha256": "1f6b163ebb520b7b26bda203cf52676edf7d19d8405979aefd861c2e17bacefe"
+      },
+      {
+        "object_id": "T18-06",
+        "sha256": "800050fb32f63ecf8008bedb5d842935c649de19ddd72b197398acbf55654f3b"
+      },
+      {
+        "object_id": "T18-07",
+        "sha256": "7c30d7f0fa36af280480359f2ef2838a38616fec198795c11645c8c4dc45b2e3"
+      },
+      {
+        "object_id": "T18-08",
+        "sha256": "762cf283ef4a84a83cf48f7f33c711281959002c45f13135c280782bf03c302f"
+      },
+      {
+        "object_id": "T18-09",
+        "sha256": "02867a5db1b13b4a547cb666dd44b897054df04980d21deacdaafca80599cf79"
+      },
+      {
+        "object_id": "T18-10",
+        "sha256": "0e47977ff9c633c853aafd49ef994b2dcd2963272cddcd9ed3f220155ee6e469"
+      },
+      {
+        "object_id": "T18-11",
+        "sha256": "92667a79be4a856c131757c2df46317393eeb5271a64683641c08077986c3d59"
+      },
+      {
+        "object_id": "T18-12",
+        "sha256": "f969510dd9966fb190d2fb57e9c4e6fff5a73ae0aba1c8024935681013eb6afd"
+      },
+      {
+        "object_id": "T18-13",
+        "sha256": "b94ecf08aa5733a5b581f38c473721395ea050f6dacc0bdb62236192f19c31bf"
+      },
+      {
+        "object_id": "T18-14",
+        "sha256": "a0edf5fe9088306e32da94e0881c131ca47b0571a320d1e296c9cb4bb4e67ff2"
+      },
+      {
+        "object_id": "T18-17",
+        "sha256": "228c0e451d01e4eb90e37b984c67a12a62d4349dce72b822c9281d46e5bf40a8"
+      },
+      {
+        "object_id": "T18-18",
+        "sha256": "0a68861f0d39280d1ca903d4caae0fa1b870615f7122b267002bce08fa494fb2"
+      },
+      {
+        "object_id": "T18-19",
+        "sha256": "7769c71972b803deb5251d104814f8807538563c8c05aab3ef819a4dcd04ebd1"
+      },
+      {
+        "object_id": "T18-20",
+        "sha256": "0aa0d2f574a6845dfa8125f1bacbe91d6d8708b5ddd355f5e06d72c29abfc51e"
+      },
+      {
+        "object_id": "T18-21",
+        "sha256": "bd44dda62aaf5241281a4f79f203194129b0d677ef43a3cced873ecf3b217a3a"
+      },
+      {
+        "object_id": "T18-22",
+        "sha256": "7305011368daf5aa84ed4993cf00b20132a61dda97cbed9f221032816f90eab3"
+      },
+      {
+        "object_id": "T18-23",
+        "sha256": "5fec6f8de454cf61d815d9cae4fab56b70c16dfe823e62995fbfd1bfe2a2e4a8"
+      },
+      {
+        "object_id": "T18-24",
+        "sha256": "e32dee16eb8987444b5dd50b012a68849a777081abde3851a1dac07b0a370456"
+      }
+    ]
+  },
+  "source": "source.png",
+  "background": "background.png",
+  "objects": [
+    {
+      "object_id": "T18-01",
+      "name": "供桌或主题主台",
+      "description": "源图前方主要低供桌，深木配金色细节，完整空家具，去掉全部器物和绿金桌旗，不带后方建筑彩玻璃或雕像底座。",
+      "classification": "standalone_object",
+      "sha256": "f1fa1daadf59fc4b1ac725c27df7aaeb8f32be7557253347d38143b400282056",
+      "path": "objects/T18-01.png"
+    },
+    {
+      "object_id": "T18-02",
+      "name": "坐佛",
+      "description": "源图后方中央实际金属坐佛，完整雕像，不把背后彩玻璃上的佛像图案提取成另一个雕像；可辨独立木底座另拆。",
+      "classification": "standalone_object",
+      "sha256": "f5730c117f1df830a65a0909500821088f6fafd7b7343fd793c4f96681af5ed3",
+      "path": "objects/T18-02.png"
+    },
+    {
+      "object_id": "T18-03",
+      "name": "佛像底座",
+      "description": "源图金属坐佛下深木金饰独立底座，完整空座，不改为金属莲座；如它与家具一体则空图交复核。",
+      "classification": "standalone_object",
+      "sha256": "6ccddf6f9e75aa09e4b6d10738298a22acd8c73af5231d2fc25ae9d35cc7b4ac",
+      "path": "objects/T18-03.png"
+    },
+    {
+      "object_id": "T18-04",
+      "name": "空花瓶",
+      "description": "源图前桌左后方绿色玻璃配金底花瓶，完整空瓶，无花枝、果簇或水，保留玻璃材质与真实瓶口。",
+      "classification": "standalone_object",
+      "sha256": "92a30e136f412a21f704598f4a572a119be9b8289ccc37fc5a9157de5528c3ef",
+      "path": "objects/T18-04.png"
+    },
+    {
+      "object_id": "T18-05",
+      "name": "花枝花束",
+      "description": "源图左绿玻璃瓶中的完整白花与绿色圆簇枝材组合，按图忠实保留，盘点称葡萄但若实为花苞不能强改水果；无花瓶。",
+      "classification": "standalone_object",
+      "sha256": "1f6b163ebb520b7b26bda203cf52676edf7d19d8405979aefd861c2e17bacefe",
+      "path": "objects/T18-05.png"
+    },
+    {
+      "object_id": "T18-06",
+      "name": "空烛台或灯盏",
+      "description": "源图后方左右金属雕饰玻璃罩灯之一，完整空灯壳和自身底部，无内部燃料、火焰或光晕，保留实际玻璃与金色结构。",
+      "classification": "standalone_object",
+      "sha256": "800050fb32f63ecf8008bedb5d842935c649de19ddd72b197398acbf55654f3b",
+      "path": "objects/T18-06.png"
+    },
+    {
+      "object_id": "T18-07",
+      "name": "未点燃灯内芯",
+      "description": "源图雕饰玻璃罩灯中的单个未点燃内芯，按可见金属玻璃结构提取；不可见部分为推断，若是电灯组件则不可改造为蜡烛。无灯壳烟火。",
+      "classification": "standalone_object",
+      "sha256": "7c30d7f0fa36af280480359f2ef2838a38616fec198795c11645c8c4dc45b2e3",
+      "path": "objects/T18-07.png"
+    },
+    {
+      "object_id": "T18-08",
+      "name": "空香炉",
+      "description": "源图前桌中央绿底金纹香炉的完整空炉碗，取下金属镂空盖，去掉线香与灰，保持真实源图材质。",
+      "classification": "standalone_object",
+      "sha256": "762cf283ef4a84a83cf48f7f33c711281959002c45f13135c280782bf03c302f",
+      "path": "objects/T18-08.png"
+    },
+    {
+      "object_id": "T18-09",
+      "name": "未点燃线香",
+      "description": "源图绿色金纹香炉中一根完整未点燃细线香，无炉盖、炉身或烟火。",
+      "classification": "standalone_object",
+      "sha256": "02867a5db1b13b4a547cb666dd44b897054df04980d21deacdaafca80599cf79",
+      "path": "objects/T18-09.png"
+    },
+    {
+      "object_id": "T18-10",
+      "name": "空供盘",
+      "description": "源图香炉右侧盛绿葡萄的金色果盘，完整空盘，无葡萄或桌面。",
+      "classification": "standalone_object",
+      "sha256": "0e47977ff9c633c853aafd49ef994b2dcd2963272cddcd9ed3f220155ee6e469",
+      "path": "objects/T18-10.png"
+    },
+    {
+      "object_id": "T18-11",
+      "name": "绿葡萄串",
+      "description": "源图金色果盘上的一小串完整绿色葡萄，保留自然串梗，不带果盘或花枝。",
+      "classification": "standalone_object",
+      "sha256": "92667a79be4a856c131757c2df46317393eeb5271a64683641c08077986c3d59",
+      "path": "objects/T18-11.png"
+    },
+    {
+      "object_id": "T18-12",
+      "name": "茶壶",
+      "description": "源图桌前右绿底金饰功能茶壶，完整空壶保留盖嘴把手，无茶盘、杯和水。",
+      "classification": "standalone_object",
+      "sha256": "f969510dd9966fb190d2fb57e9c4e6fff5a73ae0aba1c8024935681013eb6afd",
+      "path": "objects/T18-12.png"
+    },
+    {
+      "object_id": "T18-13",
+      "name": "空茶杯",
+      "description": "源图深色圆茶盘上的一只绿色金边空茶杯，完整单只，去掉独立杯碟。",
+      "classification": "standalone_object",
+      "sha256": "b94ecf08aa5733a5b581f38c473721395ea050f6dacc0bdb62236192f19c31bf",
+      "path": "objects/T18-13.png"
+    },
+    {
+      "object_id": "T18-14",
+      "name": "茶托",
+      "description": "源图绿色金饰茶具下的深色圆茶盘，完整空盘，无全部壶杯碟。",
+      "classification": "standalone_object",
+      "sha256": "a0edf5fe9088306e32da94e0881c131ca47b0571a320d1e296c9cb4bb4e67ff2",
+      "path": "objects/T18-14.png"
+    },
+    {
+      "object_id": "T18-17",
+      "name": "后方独立高供台",
+      "description": "源图后方承托佛像和成对灯的高供台，仅在确为独立于前桌及佛像底座的可移动家具时完整空置提取；若只是同体阶台、雕像底座或建筑则空透明图，避免重复。",
+      "classification": "standalone_object",
+      "sha256": "228c0e451d01e4eb90e37b984c67a12a62d4349dce72b822c9281d46e5bf40a8",
+      "path": "objects/T18-17.png"
+    },
+    {
+      "object_id": "T18-18",
+      "name": "右侧绿玻璃空花瓶",
+      "description": "源图前桌右后绿色玻璃金底花瓶，仅器形区别左瓶时独立提取；同款重复可复用则空图。完整空瓶无花水。",
+      "classification": "standalone_object",
+      "sha256": "0a68861f0d39280d1ca903d4caae0fa1b870615f7122b267002bce08fa494fb2",
+      "path": "objects/T18-18.png"
+    },
+    {
+      "object_id": "T18-19",
+      "name": "右侧白花绿叶束",
+      "description": "源图右绿瓶中的完整白花绿叶束，保留本侧实际枝形、裸露茎脚，无瓶，不把绿叶改成葡萄。",
+      "classification": "standalone_object",
+      "sha256": "7769c71972b803deb5251d104814f8807538563c8c05aab3ef819a4dcd04ebd1",
+      "path": "objects/T18-19.png"
+    },
+    {
+      "object_id": "T18-20",
+      "name": "金属镂空香炉盖",
+      "description": "源图绿色金纹香炉上的独立金色镂空炉盖，保留真实花纹与盖钮，无炉身、线香或烟。",
+      "classification": "standalone_object",
+      "sha256": "0aa0d2f574a6845dfa8125f1bacbe91d6d8708b5ddd355f5e06d72c29abfc51e",
+      "path": "objects/T18-20.png"
+    },
+    {
+      "object_id": "T18-21",
+      "name": "绿色金边独立杯碟",
+      "description": "源图绿色金边茶杯下的一只独立杯碟，完整空碟，无杯或深色圆茶盘。",
+      "classification": "standalone_object",
+      "sha256": "bd44dda62aaf5241281a4f79f203194129b0d677ef43a3cced873ecf3b217a3a",
+      "path": "objects/T18-21.png"
+    },
+    {
+      "object_id": "T18-22",
+      "name": "绿色空供花碗",
+      "description": "源图香炉左侧装白花的绿色碗，完整空置，无花、填充物或桌面，实际材质按源图保留。",
+      "classification": "standalone_object",
+      "sha256": "7305011368daf5aa84ed4993cf00b20132a61dda97cbed9f221032816f90eab3",
+      "path": "objects/T18-22.png"
+    },
+    {
+      "object_id": "T18-23",
+      "name": "碗中白色供花簇",
+      "description": "源图香炉左绿碗中的完整白色小花簇，无碗或其他花瓶花束，保留原安排。",
+      "classification": "standalone_object",
+      "sha256": "5fec6f8de454cf61d815d9cae4fab56b70c16dfe823e62995fbfd1bfe2a2e4a8",
+      "path": "objects/T18-23.png"
+    },
+    {
+      "object_id": "T18-24",
+      "name": "绿金花纹流苏桌旗",
+      "description": "源图前供桌中央绿底金花纹流苏桌旗，完整独立布件，保留原垂落折形，无桌或器物。",
+      "classification": "standalone_object",
+      "sha256": "e32dee16eb8987444b5dd50b012a68849a777081abde3851a1dac07b0a370456",
+      "path": "objects/T18-24.png"
+    }
+  ],
+  "review": "../../reviews/themes/T18/overview.png",
+  "status": "generated_review_in_progress"
+}

@@ -1,0 +1,512 @@
+{
+  "theme_id": "T10",
+  "name": "明式文人禅室",
+  "fingerprint": "fe3d6a2d3941045ac5f73ed12ef647647732c672d20164cafc323d868269a2fe",
+  "snapshot": {
+    "theme_id": "T10",
+    "review_protocol": "paired-v2",
+    "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
+    "background_sha256": "cc2024e34cf7adc651d0669ff8729b67805453666e16100c71d9ee27bd15124e",
+    "plan_sha256": "e9ca2f48066a99f2ea57f3f403efa95365243aab5259b710cf67b43bb3741a7a",
+    "objects": [
+      {
+        "object_id": "T10-01",
+        "sha256": "a540dd29622c435177ea6b2f00aaa793e88be161d34800d3da8e5efa57fed39e"
+      },
+      {
+        "object_id": "T10-02",
+        "sha256": "b303f69f0736bcf38541de959d41b73749adf8bbb9a72f77d0047f2dacd2c120"
+      },
+      {
+        "object_id": "T10-03",
+        "sha256": "378c6ed2dbdeefd1f2c006dfb352ab19c4c82d4769557f4671c101d83ea403a6"
+      },
+      {
+        "object_id": "T10-04",
+        "sha256": "fb2bb24ff9132222e8c064d9e0ec7431cc4d44bf35f3ef282a06d3a00e51f32a"
+      },
+      {
+        "object_id": "T10-05",
+        "sha256": "fde862138e9813a2be1cf0d9058e97300f6f6e2031b5854f1b3f1fc80892e445"
+      },
+      {
+        "object_id": "T10-06",
+        "sha256": "f8bab2bbd845e07d0ff1f40028bfcc1cb106e118da7ca57569ea1252e8de212f"
+      },
+      {
+        "object_id": "T10-07",
+        "sha256": "80d08d675a524916a4fc71dbea6824a1ddf601114655d4e4699656ac9d388dce"
+      },
+      {
+        "object_id": "T10-08",
+        "sha256": "0b4c0da37c0fa6ea8891a037de8e3c4cb2466fe0cf285e7cb61481f91e6e2da6"
+      },
+      {
+        "object_id": "T10-09",
+        "sha256": "41c5013c2d51d31f3e52ae5bdaa2e10e9e877ae7f3557e4c7f85e6294131255d"
+      },
+      {
+        "object_id": "T10-10",
+        "sha256": "8149c93e93db208169cade9c3df7fb657d10fccae9ce5cc71f6d56b0d9c9d4c1"
+      },
+      {
+        "object_id": "T10-11",
+        "sha256": "d405399dd98e772b05af20550e92a521f61a668d158a529b51009868f233da9a"
+      },
+      {
+        "object_id": "T10-12",
+        "sha256": "5797a5bff23d30641157aa8e68a6d84f16f259ca034017214cb6d59d0f805ae9"
+      },
+      {
+        "object_id": "T10-13",
+        "sha256": "4ff5e48fe236e1ae1ba39fbaa2f7f1c36016820c96c6716a1a2a90fa32fd7a9b"
+      },
+      {
+        "object_id": "T10-14",
+        "sha256": "c8ca546bda84b781af3343e3d026d5996a46c61daecbc5041ee1e233bb09da08"
+      },
+      {
+        "object_id": "T10-15",
+        "sha256": "e2b03d066cc569d858064bb8cc74650e5ef226c15bb2e94b6c134e882b49a89a"
+      },
+      {
+        "object_id": "T10-16",
+        "sha256": "406db7985d49aeeeb089195db8823ddfd99a03f1da6fa97ae0a66937004374ef"
+      },
+      {
+        "object_id": "T10-17",
+        "sha256": "12cd85174bce5ac974d7ddc35696acb1955c49d4e6f2d17d0af9ca5661e70bc0"
+      },
+      {
+        "object_id": "T10-18",
+        "sha256": "36ecd27cc81db46d9287cec67d0482d472218c05b638f08d7531c279ff2d834f"
+      },
+      {
+        "object_id": "T10-19",
+        "sha256": "c5f4f7a2d18f4b2b2fdf17c1e872870278fb6860675a48b72d5fef966b7b95ec"
+      },
+      {
+        "object_id": "T10-20",
+        "sha256": "a498714624852ae1ad821121029de972d6430559db15c7bb05f93248f91ffa51"
+      },
+      {
+        "object_id": "T10-21",
+        "sha256": "39096ee148b31f7abd07a0ef21cd1bb727784803ac080e9e8cbfd05c02526c74"
+      },
+      {
+        "object_id": "T10-22",
+        "sha256": "9ecb801321b2f571ae6c88cd956cba3699d72d2dac9f496c7090ca30d7ec4727"
+      },
+      {
+        "object_id": "T10-23",
+        "sha256": "767e51cfef81926ccbc8be873fdc2ec1f3520df27f0c681d38efb8def5c1e8c7"
+      },
+      {
+        "object_id": "T10-24",
+        "sha256": "b18ad58da313838c3826baf75150c7c464dd1b8631998f4837633a475221bdd7"
+      },
+      {
+        "object_id": "T10-25",
+        "sha256": "ebaa56d8fd29afd9d5c11dbddd24efc11528337e13f9e3076db8d37747bd577c"
+      },
+      {
+        "object_id": "T10-26",
+        "sha256": "00946cf6c29fa5794bcca50bdc2ddcd2ab2426e90a5692e2b7028ea2aef7077b"
+      },
+      {
+        "object_id": "T10-27",
+        "sha256": "bb70289a9b81e5b1cf504dc34eb3cddf88686cdb0b88c93f870946d12ae7b68f"
+      },
+      {
+        "object_id": "T10-28",
+        "sha256": "178f500785ecb07cccea2647233e07509c5537748615445ded13e8cea75518c9"
+      },
+      {
+        "object_id": "T10-29",
+        "sha256": "f6179a14f29f29db8f02da81e890341924dce1d4707c511de4d73a02ef927847"
+      },
+      {
+        "object_id": "T10-30",
+        "sha256": "989f73fa5fddd8f23dd500781f22558a1eaf8e24b72048bd44fef9ea9d712b3a"
+      },
+      {
+        "object_id": "T10-31",
+        "sha256": "649f8bcb69733e71eaa082d1ad0bc6167d89a0275f3f8fb7cce3291564562160"
+      },
+      {
+        "object_id": "T10-32",
+        "sha256": "017555a73c73e29fedc98e969d1b86eb7c52244ab6746ba38b26e4903bc0b8f4"
+      },
+      {
+        "object_id": "T10-33",
+        "sha256": "0415e2d8e7bde2a7b4c66bfaa5284bdcce42fdae0c0bcb0fca2b05eda772712e"
+      },
+      {
+        "object_id": "T10-34",
+        "sha256": "35d3fe99e77f2002cbab35d3700a76d03e926666c12730537cad6b387db44ece"
+      },
+      {
+        "object_id": "T10-35",
+        "sha256": "399389e4841d19bc22e92c2824b4d329884e63c2ae67f48ee3d5937e137bc8bc"
+      },
+      {
+        "object_id": "T10-36",
+        "sha256": "e64c1be80f4fe3829409073b1736425f08b93ca19f50a8e34fc27fccc8c48de7"
+      },
+      {
+        "object_id": "T10-37",
+        "sha256": "a21589eda4a334256a0c299b187d7e0ae568209c7a7fce4900fa1bfa4140e52d"
+      },
+      {
+        "object_id": "T10-38",
+        "sha256": "d15e1753b0a3722a4d664145d98595e500cf4f4f0049b7fea17bdfb77738f03b"
+      },
+      {
+        "object_id": "T10-39",
+        "sha256": "e1da514fbdab4d8ffb7557509603a4a5dbab2612347c8fdf5e0a4d3715c71698"
+      },
+      {
+        "object_id": "T10-40",
+        "sha256": "6b08347ce2af6dba6649940d84ce4739baf7805a1786a523ee78ccbcafd1e50b"
+      },
+      {
+        "object_id": "T10-41",
+        "sha256": "54f065922da0b988e70de429509390e512aba1e6b7def6f51591af5f1c11fddb"
+      }
+    ]
+  },
+  "source": "source.png",
+  "background": "background.png",
+  "objects": [
+    {
+      "object_id": "T10-01",
+      "name": "供桌或主题主台",
+      "description": "源图后方靠墙深木高供桌，完整空桌；去掉所有台面物件，不带前方矮茶桌或后墙画。",
+      "classification": "standalone_object",
+      "sha256": "a540dd29622c435177ea6b2f00aaa793e88be161d34800d3da8e5efa57fed39e",
+      "path": "objects/T10-01.png"
+    },
+    {
+      "object_id": "T10-02",
+      "name": "坐佛",
+      "description": "源图后桌中央乳白石坐佛，完整雕像，仅明显可分莲花座独立拆分。",
+      "classification": "standalone_object",
+      "sha256": "b303f69f0736bcf38541de959d41b73749adf8bbb9a72f77d0047f2dacd2c120",
+      "path": "objects/T10-02.png"
+    },
+    {
+      "object_id": "T10-03",
+      "name": "佛像底座",
+      "description": "源图佛像下独立乳白莲花座，完整空座，一体不可拆则空透明图待复核。",
+      "classification": "standalone_object",
+      "sha256": "378c6ed2dbdeefd1f2c006dfb352ab19c4c82d4769557f4671c101d83ea403a6",
+      "path": "objects/T10-03.png"
+    },
+    {
+      "object_id": "T10-04",
+      "name": "空花瓶",
+      "description": "源图后供桌左侧青花瓷瓶，完整空瓶，去掉白花绿叶和水。",
+      "classification": "standalone_object",
+      "sha256": "fb2bb24ff9132222e8c064d9e0ec7431cc4d44bf35f3ef282a06d3a00e51f32a",
+      "path": "objects/T10-04.png"
+    },
+    {
+      "object_id": "T10-05",
+      "name": "花枝花束",
+      "description": "源图左青花瓶中完整白花绿叶花束，保留可插枝脚，无瓶。",
+      "classification": "standalone_object",
+      "sha256": "fde862138e9813a2be1cf0d9058e97300f6f6e2031b5854f1b3f1fc80892e445",
+      "path": "objects/T10-05.png"
+    },
+    {
+      "object_id": "T10-06",
+      "name": "空烛台或灯盏",
+      "description": "源图后桌左右黄铜烛灯取一只，完整空灯架或灯壳，去掉白蜡烛、燃料与烟火。",
+      "classification": "standalone_object",
+      "sha256": "f8bab2bbd845e07d0ff1f40028bfcc1cb106e118da7ca57569ea1252e8de212f",
+      "path": "objects/T10-06.png"
+    },
+    {
+      "object_id": "T10-07",
+      "name": "未点燃白蜡烛",
+      "description": "源图后桌黄铜烛灯中一根完整白蜡烛，芯未点燃，无灯具烟火。",
+      "classification": "standalone_object",
+      "sha256": "80d08d675a524916a4fc71dbea6824a1ddf601114655d4e4699656ac9d388dce",
+      "path": "objects/T10-07.png"
+    },
+    {
+      "object_id": "T10-08",
+      "name": "空香炉",
+      "description": "源图后桌中央偏绿金属双耳香炉，完整空炉身，去掉香、灰与盖，不添加旁边放置的炉盖。",
+      "classification": "standalone_object",
+      "sha256": "0b4c0da37c0fa6ea8891a037de8e3c4cb2466fe0cf285e7cb61481f91e6e2da6",
+      "path": "objects/T10-08.png"
+    },
+    {
+      "object_id": "T10-09",
+      "name": "未点燃线香",
+      "description": "源图后桌香炉中一根完整棕色未点燃线香，无香炉或烟火。",
+      "classification": "standalone_object",
+      "sha256": "41c5013c2d51d31f3e52ae5bdaa2e10e9e877ae7f3557e4c7f85e6294131255d",
+      "path": "objects/T10-09.png"
+    },
+    {
+      "object_id": "T10-10",
+      "name": "空供盘",
+      "description": "源图后桌左中盛红色供果的青瓷碗，完整空碗，无供果和台面。",
+      "classification": "standalone_object",
+      "sha256": "8149c93e93db208169cade9c3df7fb657d10fccae9ce5cc71f6d56b0d9c9d4c1",
+      "path": "objects/T10-10.png"
+    },
+    {
+      "object_id": "T10-11",
+      "name": "红色供果",
+      "description": "源图后桌左中青瓷碗中的一枚完整红色果实，按源图果型提取，不擅自认定品种。无碗。",
+      "classification": "standalone_object",
+      "sha256": "d405399dd98e772b05af20550e92a521f61a668d158a529b51009868f233da9a",
+      "path": "objects/T10-11.png"
+    },
+    {
+      "object_id": "T10-12",
+      "name": "茶壶",
+      "description": "源图前方茶盘上的青花瓷功能茶壶，完整空壶，保留盖、把手与嘴。",
+      "classification": "standalone_object",
+      "sha256": "5797a5bff23d30641157aa8e68a6d84f16f259ca034017214cb6d59d0f805ae9",
+      "path": "objects/T10-12.png"
+    },
+    {
+      "object_id": "T10-13",
+      "name": "空茶杯",
+      "description": "源图前方茶盘中的一只完整青花瓷空杯，去掉木杯碟。",
+      "classification": "standalone_object",
+      "sha256": "4ff5e48fe236e1ae1ba39fbaa2f7f1c36016820c96c6716a1a2a90fa32fd7a9b",
+      "path": "objects/T10-13.png"
+    },
+    {
+      "object_id": "T10-14",
+      "name": "茶托",
+      "description": "源图前方矮桌上的深木茶盘，完整空盘，无全部茶具、书或香炉盖。",
+      "classification": "standalone_object",
+      "sha256": "c8ca546bda84b781af3343e3d026d5996a46c61daecbc5041ee1e233bb09da08",
+      "path": "objects/T10-14.png"
+    },
+    {
+      "object_id": "T10-15",
+      "name": "经书",
+      "description": "源图后供桌右青花瓶下叠书的一本完整闭合书册，不帶花瓶或其他书，无可读文字。",
+      "classification": "standalone_object",
+      "sha256": "e2b03d066cc569d858064bb8cc74650e5ef226c15bb2e94b6c134e882b49a89a",
+      "path": "objects/T10-15.png"
+    },
+    {
+      "object_id": "T10-16",
+      "name": "坐垫",
+      "description": "源图前景天然纤维圆坐垫，单独完整，无下方地毯。",
+      "classification": "standalone_object",
+      "sha256": "406db7985d49aeeeb089195db8823ddfd99a03f1da6fa97ae0a66937004374ef",
+      "path": "objects/T10-16.png"
+    },
+    {
+      "object_id": "T10-17",
+      "name": "前方独立矮茶桌",
+      "description": "源图前方深色木矮茶桌，完整空桌，去掉茶盘、书、笔、炉盖与后桌。",
+      "classification": "standalone_object",
+      "sha256": "12cd85174bce5ac974d7ddc35696acb1955c49d4e6f2d17d0af9ca5661e70bc0",
+      "path": "objects/T10-17.png"
+    },
+    {
+      "object_id": "T10-18",
+      "name": "右侧青花空瓶",
+      "description": "源图后桌右侧盛竹枝的青花瓶，器形或图案区别左瓶才另提取；同款复用则空透明图。完整空瓶。",
+      "classification": "standalone_object",
+      "sha256": "36ecd27cc81db46d9287cec67d0482d472218c05b638f08d7531c279ff2d834f",
+      "path": "objects/T10-18.png"
+    },
+    {
+      "object_id": "T10-19",
+      "name": "竹枝绿叶组合",
+      "description": "源图后桌右青花瓶中的完整绿叶竹枝组合，保留枝脚，无瓶和书。",
+      "classification": "standalone_object",
+      "sha256": "c5f4f7a2d18f4b2b2fdf17c1e872870278fb6860675a48b72d5fef966b7b95ec",
+      "path": "objects/T10-19.png"
+    },
+    {
+      "object_id": "T10-20",
+      "name": "后桌深色供石",
+      "description": "源图后桌左侧深色文人供石，完整石体，去掉木托与桌面。",
+      "classification": "standalone_object",
+      "sha256": "a498714624852ae1ad821121029de972d6430559db15c7bb05f93248f91ffa51",
+      "path": "objects/T10-20.png"
+    },
+    {
+      "object_id": "T10-21",
+      "name": "后桌供石木托",
+      "description": "源图后桌左供石下深木托座，完整空托，保留接合轮廓，无石体。",
+      "classification": "standalone_object",
+      "sha256": "39096ee148b31f7abd07a0ef21cd1bb727784803ac080e9e8cbfd05c02526c74",
+      "path": "objects/T10-21.png"
+    },
+    {
+      "object_id": "T10-22",
+      "name": "镂空金属香炉盖",
+      "description": "源图放在前方矮桌上的偏绿金属镂空炉盖，与后桌香炉匹配；单独盖，无炉身和桌。",
+      "classification": "standalone_object",
+      "sha256": "9ecb801321b2f571ae6c88cd956cba3699d72d2dac9f496c7090ca30d7ec4727",
+      "path": "objects/T10-22.png"
+    },
+    {
+      "object_id": "T10-23",
+      "name": "后桌空金属盖器",
+      "description": "源图后桌右中黄铜古铜带盖容器，完整空器身，取盖并去除内容物，不猜用途。",
+      "classification": "standalone_object",
+      "sha256": "767e51cfef81926ccbc8be873fdc2ec1f3520df27f0c681d38efb8def5c1e8c7",
+      "path": "objects/T10-23.png"
+    },
+    {
+      "object_id": "T10-24",
+      "name": "后桌金属器盖",
+      "description": "源图后桌右中带盖容器的独立盖，无器身，隐藏盖底合理重建。",
+      "classification": "standalone_object",
+      "sha256": "b18ad58da313838c3826baf75150c7c464dd1b8631998f4837633a475221bdd7",
+      "path": "objects/T10-24.png"
+    },
+    {
+      "object_id": "T10-25",
+      "name": "盆景空浅盆",
+      "description": "源图左侧高几上盆景的深色浅盆，完整空盆，去掉树、土与水。",
+      "classification": "standalone_object",
+      "sha256": "ebaa56d8fd29afd9d5c11dbddd24efc11528337e13f9e3076db8d37747bd577c",
+      "path": "objects/T10-25.png"
+    },
+    {
+      "object_id": "T10-26",
+      "name": "盆景树体",
+      "description": "源图左高几浅盆中的完整盆景树体，保留枝叶、树干与必要根部，无盆或高几。",
+      "classification": "standalone_object",
+      "sha256": "00946cf6c29fa5794bcca50bdc2ddcd2ab2426e90a5692e2b7028ea2aef7077b",
+      "path": "objects/T10-26.png"
+    },
+    {
+      "object_id": "T10-27",
+      "name": "左侧木花几",
+      "description": "源图后桌左侧承托盆景的深木高花几，完整空几，无盆栽或供桌。",
+      "classification": "standalone_object",
+      "sha256": "bb70289a9b81e5b1cf504dc34eb3cddf88686cdb0b88c93f870946d12ae7b68f",
+      "path": "objects/T10-27.png"
+    },
+    {
+      "object_id": "T10-28",
+      "name": "木框空落地灯",
+      "description": "源图后桌右侧木框白罩落地灯，完整空灯体及自身底座，无内芯、光晕或烟火。",
+      "classification": "standalone_object",
+      "sha256": "178f500785ecb07cccea2647233e07509c5537748615445ded13e8cea75518c9",
+      "path": "objects/T10-28.png"
+    },
+    {
+      "object_id": "T10-29",
+      "name": "落地灯未点燃内芯",
+      "description": "匹配右侧落地灯的一枚简洁未点燃内芯；不可见结构为推断重建，无灯体或烟火。",
+      "classification": "standalone_object",
+      "sha256": "f6179a14f29f29db8f02da81e890341924dce1d4707c511de4d73a02ef927847",
+      "path": "objects/T10-29.png"
+    },
+    {
+      "object_id": "T10-30",
+      "name": "深木独立杯碟",
+      "description": "源图前茶盘中青花杯下深色木杯碟，完整单只空碟，无杯和茶盘。",
+      "classification": "standalone_object",
+      "sha256": "989f73fa5fddd8f23dd500781f22558a1eaf8e24b72048bd44fef9ea9d712b3a",
+      "path": "objects/T10-30.png"
+    },
+    {
+      "object_id": "T10-31",
+      "name": "前桌书册",
+      "description": "源图前桌右侧书堆中一册，只有封面装帧区别后桌书册时另提取；完全同款可复用则空图。闭合，无文字。",
+      "classification": "standalone_object",
+      "sha256": "649f8bcb69733e71eaa082d1ad0bc6167d89a0275f3f8fb7cce3291564562160",
+      "path": "objects/T10-31.png"
+    },
+    {
+      "object_id": "T10-32",
+      "name": "布包书卷",
+      "description": "源图前桌左侧布包书或卷册，按源图完整外观提取，不猜测被布遮住的内容，不展开增加文字。",
+      "classification": "standalone_object",
+      "sha256": "017555a73c73e29fedc98e969d1b86eb7c52244ab6746ba38b26e4903bc0b8f4",
+      "path": "objects/T10-32.png"
+    },
+    {
+      "object_id": "T10-33",
+      "name": "书写毛笔",
+      "description": "源图前桌左侧笔或笔组中的一支完整可辨毛笔，保留笔杆笔毫，不带书和桌；不同笔型另待复核。",
+      "classification": "standalone_object",
+      "sha256": "0415e2d8e7bde2a7b4c66bfaa5284bdcce42fdae0c0bcb0fca2b05eda772712e",
+      "path": "objects/T10-33.png"
+    },
+    {
+      "object_id": "T10-34",
+      "name": "天然编织地毯",
+      "description": "源图坐垫和前桌下天然纤维编织地毯，完整单件，无家具和地面。",
+      "classification": "standalone_object",
+      "sha256": "35d3fe99e77f2002cbab35d3700a76d03e926666c12730537cad6b387db44ece",
+      "path": "objects/T10-34.png"
+    },
+    {
+      "object_id": "T10-35",
+      "name": "山水画左幅",
+      "description": "源图后墙三幅框装山水屏画的左幅，仅独立画框与画芯，无其余两幅或墙，不新增可读文字。",
+      "classification": "standalone_object",
+      "sha256": "399389e4841d19bc22e92c2824b4d329884e63c2ae67f48ee3d5937e137bc8bc",
+      "path": "objects/T10-35.png"
+    },
+    {
+      "object_id": "T10-36",
+      "name": "山水画中幅",
+      "description": "源图后墙三幅框装山水屏画的中幅，独立完整画框和画芯，无墙和左右画。",
+      "classification": "standalone_object",
+      "sha256": "e64c1be80f4fe3829409073b1736425f08b93ca19f50a8e34fc27fccc8c48de7",
+      "path": "objects/T10-36.png"
+    },
+    {
+      "object_id": "T10-37",
+      "name": "山水画右幅",
+      "description": "源图后墙三幅框装山水屏画的右幅，独立完整画框和画芯，无墙和其他画。",
+      "classification": "standalone_object",
+      "sha256": "a21589eda4a334256a0c299b187d7e0ae568209c7a7fce4900fa1bfa4140e52d",
+      "path": "objects/T10-37.png"
+    },
+    {
+      "object_id": "T10-38",
+      "name": "书架书册",
+      "description": "源图右侧嵌墙书架上的一册独立书，只有装帧区别其他已列书册时提取；同款可复用则空图。书架本身归背景。",
+      "classification": "standalone_object",
+      "sha256": "d15e1753b0a3722a4d664145d98595e500cf4f4f0049b7fea17bdfb77738f03b",
+      "path": "objects/T10-38.png"
+    },
+    {
+      "object_id": "T10-39",
+      "name": "书架供石",
+      "description": "源图右侧嵌墙书架上的独立供石，仅当形状区别后桌供石时提取，无书架与周围物件；同款重复则空图。",
+      "classification": "standalone_object",
+      "sha256": "e1da514fbdab4d8ffb7557509603a4a5dbab2612347c8fdf5e0a4d3715c71698",
+      "path": "objects/T10-39.png"
+    },
+    {
+      "object_id": "T10-40",
+      "name": "书架青花空罐",
+      "description": "源图右侧嵌墙书架上的青花瓷罐，完整空罐身，有独立盖则取下，不带书架、内容物或周围书。",
+      "classification": "standalone_object",
+      "sha256": "6b08347ce2af6dba6649940d84ce4739baf7805a1786a523ee78ccbcafd1e50b",
+      "path": "objects/T10-40.png"
+    },
+    {
+      "object_id": "T10-41",
+      "name": "书架青花罐盖",
+      "description": "源图右书架青花罐若可见独立盖则单独提取，仅盖无罐；看不出独立盖时返回空透明图，不造盖。",
+      "classification": "standalone_object",
+      "sha256": "54f065922da0b988e70de429509390e512aba1e6b7def6f51591af5f1c11fddb",
+      "path": "objects/T10-41.png"
+    }
+  ],
+  "review": "../../reviews/themes/T10/overview.png",
+  "status": "generated_review_in_progress"
+}

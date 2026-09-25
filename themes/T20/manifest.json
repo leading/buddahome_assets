@@ -1,0 +1,428 @@
+{
+  "theme_id": "T20",
+  "name": "冬雪暖灯佛堂",
+  "fingerprint": "24acc99864339252b0bdb9ba41b3d82f185fb1ec24f17497c34fa6460ccffcf5",
+  "snapshot": {
+    "theme_id": "T20",
+    "review_protocol": "paired-v2",
+    "source_sha256": "569ef6d0865c17e66928e83bf6d61ac802469d63aa9e2404c4522ecfbd1c6bc0",
+    "background_sha256": "ed2212b5563f7afd663b9794a8485946f332a5464974a7d31ea40d82191143bb",
+    "plan_sha256": "c36c2566c14942e81861dbfc422916a96ea5ab218dd32c819df8e609b19adf34",
+    "objects": [
+      {
+        "object_id": "T20-01",
+        "sha256": "7de7b485a69bd8de37cf160021e674b3ef50fa2de31fc46fcd51269c1b226a49"
+      },
+      {
+        "object_id": "T20-02",
+        "sha256": "1eaa430e01fb50245ae474769efc5cac94d2f7a35248d1fb0a4709e9feb45894"
+      },
+      {
+        "object_id": "T20-03",
+        "sha256": "9f30285c5d42a7d49bb0a3535d8d2b8b0b908488cb2573fbeaaf61805e0dcb3c"
+      },
+      {
+        "object_id": "T20-04",
+        "sha256": "9b2dd7c4fed5141386eb7c1d6ec4d0044ae185f336c1388e5d4263d02590addb"
+      },
+      {
+        "object_id": "T20-05",
+        "sha256": "4e3cc1e1116b87a50ddd5ca8444c6533de9c38794cb092b6c26898ac3d05c3dc"
+      },
+      {
+        "object_id": "T20-06",
+        "sha256": "5fdc688bd4f74bbc8da4fbc6d6b2b02b82278d99ab502ea1be7f7e80e2c163f9"
+      },
+      {
+        "object_id": "T20-07",
+        "sha256": "5565100195b03f10ea31afb2389e900ffd6468a1e6dd69b91875edb05bcbd0e6"
+      },
+      {
+        "object_id": "T20-08",
+        "sha256": "4a0cfabda445c20cf25f44f671c4a79a3569337eb5026b8a2dcd6796f906ea12"
+      },
+      {
+        "object_id": "T20-09",
+        "sha256": "eb8273316199ade6af6018aaccf8c99fa13a7f44409c74edbccd6d22dee9b89f"
+      },
+      {
+        "object_id": "T20-10",
+        "sha256": "9f226a7d54248ac675ab00950402cd5e7abe19f20427aef67dd1cacc178edf57"
+      },
+      {
+        "object_id": "T20-11",
+        "sha256": "900b77191dd8582de63ac01f26902322c481ab74db2aae4d660412e8bcd14345"
+      },
+      {
+        "object_id": "T20-12",
+        "sha256": "a48706a733023dd0810a4170cb11728347a9db35babe61fb9fd4f2a68c53360a"
+      },
+      {
+        "object_id": "T20-13",
+        "sha256": "e6b41269614416fdf9fdb0720e66780af9fccdfd99b7573370ef6ef561e3fc25"
+      },
+      {
+        "object_id": "T20-14",
+        "sha256": "7249f74d9aba0d29e72e10e2e3ccf2dd1744cae4d24fd2eeb4479659b7ad19a5"
+      },
+      {
+        "object_id": "T20-16",
+        "sha256": "7e9828eed7381e00cdd6f14908aa48058e32bc44f999305e62c6c15cdf0f4077"
+      },
+      {
+        "object_id": "T20-17",
+        "sha256": "9158e27ccbaf1747db93934f740e1be91a53111de6fd5dfd24b1b6e75b2f44d9"
+      },
+      {
+        "object_id": "T20-18",
+        "sha256": "0bf443077dd27d3dde8e6e90bb3ca5cafebf98bd4a8c465e596d3b0f607a4c3b"
+      },
+      {
+        "object_id": "T20-19",
+        "sha256": "b2f7f0c4c357339193f6f0213218e627049c4bbcddca09be33ccbc0189645015"
+      },
+      {
+        "object_id": "T20-20",
+        "sha256": "ea1c482581d4e4550522c0bd93066cfe51c31434f459bc7e6139cadd48864fd8"
+      },
+      {
+        "object_id": "T20-21",
+        "sha256": "63dab81c1e4dd7fc43011f1a5e7910aa8eb2a9bdf1224e8df84e1d953404b998"
+      },
+      {
+        "object_id": "T20-22",
+        "sha256": "736e8876e41446475158febb91370918ef7dcd3a7874d93d57a92987759e17c6"
+      },
+      {
+        "object_id": "T20-23",
+        "sha256": "90533e6a62b105b02c60ae3e66cb05bccdeefe10c147d723e7be027201a9dc19"
+      },
+      {
+        "object_id": "T20-24",
+        "sha256": "cf4e120e1597005dc9955f6232fd90a51521e31bc3cc332bcc5604f79545b69f"
+      },
+      {
+        "object_id": "T20-25",
+        "sha256": "302d4bb3ce7c3908b28e6b595b5a773470b53954c0a23caf9e300e183a27c872"
+      },
+      {
+        "object_id": "T20-26",
+        "sha256": "b40f1b0365db6b4e05ea9fc82622429c790e262447b4115b1da66f2136dfef7f"
+      },
+      {
+        "object_id": "T20-27",
+        "sha256": "64014252a837050a9d5a337ec350ed3d68c59665cc8ef7ac9d6dae35a9497dd2"
+      },
+      {
+        "object_id": "T20-28",
+        "sha256": "234bad759b690915c24ec0ab06d1287156764f837d44a52fdb3300d3b6bfb877"
+      },
+      {
+        "object_id": "T20-29",
+        "sha256": "7a8ab67d34abe1eecbaff6e0b995bbb1c1915c3d62c5b3e2a4a739579322c17b"
+      },
+      {
+        "object_id": "T20-30",
+        "sha256": "cdbd375b4c903a22c0334c7ef4c59fb4a812f08899133e8baa990725c1f56030"
+      },
+      {
+        "object_id": "T20-31",
+        "sha256": "8ab56a2b7370614bcc7aac08e027ecb9f087fbd8b431161c90d3ffe658bba3e6"
+      },
+      {
+        "object_id": "T20-32",
+        "sha256": "e8a9975b72ca17b4858361a5ebedd146a364b5f5616ad4ec62e5e096e19d4104"
+      },
+      {
+        "object_id": "T20-33",
+        "sha256": "9da42b0cafe984f1dd60a430cfdfe6619d6d90672457c06366e0f1af757af3ff"
+      },
+      {
+        "object_id": "T20-34",
+        "sha256": "8827b1ad4489707ef709b6ff9d8f37aae381d2238a64690f670964646b8136b7"
+      },
+      {
+        "object_id": "T20-35",
+        "sha256": "ca7adefec57e9ca389484b2f6bc35424ce3e38a83d82b16ed8029b00d0059cb8"
+      }
+    ]
+  },
+  "source": "source.png",
+  "background": "background.png",
+  "objects": [
+    {
+      "object_id": "T20-01",
+      "name": "供桌或主题主台",
+      "description": "源图后方承托白石坐佛的深木高供桌，完整空家具，保留真实桌腿和柜体结构，不夹带前方低柜供案、佛像、花器灯具或墙面。",
+      "classification": "standalone_object",
+      "sha256": "7de7b485a69bd8de37cf160021e674b3ef50fa2de31fc46fcd51269c1b226a49",
+      "path": "objects/T20-01.png"
+    },
+    {
+      "object_id": "T20-02",
+      "name": "坐佛",
+      "description": "源图中央象牙白石坐佛，完整独立佛身，不带可辨独立莲花底座、桌面或背景。",
+      "classification": "standalone_object",
+      "sha256": "1eaa430e01fb50245ae474769efc5cac94d2f7a35248d1fb0a4709e9feb45894",
+      "path": "objects/T20-02.png"
+    },
+    {
+      "object_id": "T20-03",
+      "name": "佛像底座",
+      "description": "源图白石坐佛下的象牙白莲花座，只有独立可拆接缝明确时提取完整空座；若与佛身同体则交复核，不硬造另一底座。",
+      "classification": "standalone_object",
+      "sha256": "9f30285c5d42a7d49bb0a3535d8d2b8b0b908488cb2573fbeaaf61805e0dcb3c",
+      "path": "objects/T20-03.png"
+    },
+    {
+      "object_id": "T20-04",
+      "name": "空花瓶",
+      "description": "源图后供桌左侧大型白瓷花瓶，完整空瓶，无白红花枝或水，保留真实口部、釉面与器形。",
+      "classification": "standalone_object",
+      "sha256": "9b2dd7c4fed5141386eb7c1d6ec4d0044ae185f336c1388e5d4263d02590addb",
+      "path": "objects/T20-04.png"
+    },
+    {
+      "object_id": "T20-05",
+      "name": "花枝花束",
+      "description": "源图左侧大白瓷瓶中的完整白花与红色枝材组合，保留自然枝形和裸露可插入枝脚，无花瓶。",
+      "classification": "standalone_object",
+      "sha256": "4e3cc1e1116b87a50ddd5ca8444c6533de9c38794cb092b6c26898ac3d05c3dc",
+      "path": "objects/T20-05.png"
+    },
+    {
+      "object_id": "T20-06",
+      "name": "左侧金属镂空空落地灯",
+      "description": "源图地面左侧青铜金色金属镂空灯笼，完整空灯壳，保留原框架底座，去掉内部燃料烟火；不带前方独立白蜡烛和小碟。",
+      "classification": "standalone_object",
+      "sha256": "5fdc688bd4f74bbc8da4fbc6d6b2b02b82278d99ab502ea1be7f7e80e2c163f9",
+      "path": "objects/T20-06.png"
+    },
+    {
+      "object_id": "T20-07",
+      "name": "桌面未点燃白柱蜡烛",
+      "description": "源图茶壶右侧小碟上的一根白色柱形蜡烛，完整单件，保留未燃烛芯，不带小碟、灯罩、火焰余烬或烟。",
+      "classification": "standalone_object",
+      "sha256": "5565100195b03f10ea31afb2389e900ffd6468a1e6dd69b91875edb05bcbd0e6",
+      "path": "objects/T20-07.png"
+    },
+    {
+      "object_id": "T20-08",
+      "name": "空香炉",
+      "description": "源图前方中央小型青铜金色香炉，完整空炉身，去掉三根线香及灰，不添加盘点未确认的独立炉盖。",
+      "classification": "standalone_object",
+      "sha256": "4a0cfabda445c20cf25f44f671c4a79a3569337eb5026b8a2dcd6796f906ea12",
+      "path": "objects/T20-08.png"
+    },
+    {
+      "object_id": "T20-09",
+      "name": "未点燃线香",
+      "description": "源图青铜香炉中一根完整未点燃细线香，保留可插入端，无炉身、灰、火头、余烬或烟；源图三根同款可复用。",
+      "classification": "standalone_object",
+      "sha256": "eb8273316199ade6af6018aaccf8c99fa13a7f44409c74edbccd6d22dee9b89f",
+      "path": "objects/T20-09.png"
+    },
+    {
+      "object_id": "T20-10",
+      "name": "空供盘",
+      "description": "源图佛像左前盛红苹果的深色木果盘，完整空盘，不带苹果、花材或桌面。",
+      "classification": "standalone_object",
+      "sha256": "9f226a7d54248ac675ab00950402cd5e7abe19f20427aef67dd1cacc178edf57",
+      "path": "objects/T20-10.png"
+    },
+    {
+      "object_id": "T20-11",
+      "name": "红苹果",
+      "description": "源图木果盘中一枚完整红苹果，保留实际颜色果形和果梗，无果盘；源图四枚同品种可复用。",
+      "classification": "standalone_object",
+      "sha256": "900b77191dd8582de63ac01f26902322c481ab74db2aae4d660412e8bcd14345",
+      "path": "objects/T20-11.png"
+    },
+    {
+      "object_id": "T20-12",
+      "name": "茶壶",
+      "description": "源图深色茶盘上的白底蓝纹茶壶，完整空壶，保留真实盖嘴把手，无杯盘与水。",
+      "classification": "standalone_object",
+      "sha256": "a48706a733023dd0810a4170cb11728347a9db35babe61fb9fd4f2a68c53360a",
+      "path": "objects/T20-12.png"
+    },
+    {
+      "object_id": "T20-13",
+      "name": "空茶杯",
+      "description": "源图茶盘上的一只白色空茶杯，源图同款两只，完整单件不带托盘和水。",
+      "classification": "standalone_object",
+      "sha256": "e6b41269614416fdf9fdb0720e66780af9fccdfd99b7573370ef6ef561e3fc25",
+      "path": "objects/T20-13.png"
+    },
+    {
+      "object_id": "T20-14",
+      "name": "茶托",
+      "description": "源图右中深色木茶盘，完整空盘，无壶杯、烛碟或其他器物。",
+      "classification": "standalone_object",
+      "sha256": "7249f74d9aba0d29e72e10e2e3ccf2dd1744cae4d24fd2eeb4479659b7ad19a5",
+      "path": "objects/T20-14.png"
+    },
+    {
+      "object_id": "T20-16",
+      "name": "坐垫",
+      "description": "源图前景中央灰色圆形针织冥想坐垫，完整独立织物，去掉下方地毯、左侧粗针织毯和地板。",
+      "classification": "standalone_object",
+      "sha256": "7e9828eed7381e00cdd6f14908aa48058e32bc44f999305e62c6c15cdf0f4077",
+      "path": "objects/T20-16.png"
+    },
+    {
+      "object_id": "T20-17",
+      "name": "前方圆金饰低供柜",
+      "description": "源图前方中央较低深木供柜，保留正面圆形金属饰件及自身结构，完整空柜，不带后方高供桌或所有器物。圆饰若为固定柜门五金须保留在柜上。",
+      "classification": "standalone_object",
+      "sha256": "9158e27ccbaf1747db93934f740e1be91a53111de6fd5dfd24b1b6e75b2f44d9",
+      "path": "objects/T20-17.png"
+    },
+    {
+      "object_id": "T20-18",
+      "name": "左上布罩悬挂灯",
+      "description": "源图左上高悬布灯罩配深色框架的完整独立吊灯，保留自身悬挂结构，去掉烟火和背景，不误当窗框或建筑。",
+      "classification": "standalone_object",
+      "sha256": "0bf443077dd27d3dde8e6e90bb3ca5cafebf98bd4a8c465e596d3b0f607a4c3b",
+      "path": "objects/T20-18.png"
+    },
+    {
+      "object_id": "T20-19",
+      "name": "右后矩形布罩台灯",
+      "description": "源图后供桌右侧矩形布罩深框台灯，完整独立灯具，保留真实框架灯罩与底座，无烟火和桌面。",
+      "classification": "standalone_object",
+      "sha256": "b2f7f0c4c357339193f6f0213218e627049c4bbcddca09be33ccbc0189645015",
+      "path": "objects/T20-19.png"
+    },
+    {
+      "object_id": "T20-20",
+      "name": "右侧矩形布罩落地灯",
+      "description": "源图地面右侧矩形布罩深框灯，按本体实际比例提取完整灯具，无地面；如与右后台灯完全同设计可复用则空图待判，不虚构新款。",
+      "classification": "standalone_object",
+      "sha256": "ea1c482581d4e4550522c0bd93066cfe51c31434f459bc7e6139cadd48864fd8",
+      "path": "objects/T20-20.png"
+    },
+    {
+      "object_id": "T20-21",
+      "name": "右后深棕纹样空花瓶",
+      "description": "源图后供桌最右深棕纹样花瓶，完整空瓶，无红果枝或水，区别左侧白瓷大瓶。",
+      "classification": "standalone_object",
+      "sha256": "63dab81c1e4dd7fc43011f1a5e7910aa8eb2a9bdf1224e8df84e1d953404b998",
+      "path": "objects/T20-21.png"
+    },
+    {
+      "object_id": "T20-22",
+      "name": "右侧红果枝束",
+      "description": "源图右后棕瓶中的完整红色浆果枝材，保留细枝果簇与裸露茎脚，无花瓶；不改为左瓶花束。",
+      "classification": "standalone_object",
+      "sha256": "736e8876e41446475158febb91370918ef7dcd3a7874d93d57a92987759e17c6",
+      "path": "objects/T20-22.png"
+    },
+    {
+      "object_id": "T20-23",
+      "name": "桌面蜡烛空小碟",
+      "description": "源图茶壶右方白色柱蜡下的完整小碟，空置无蜡烛，保留实际材质颜色，不另添装饰。",
+      "classification": "standalone_object",
+      "sha256": "90533e6a62b105b02c60ae3e66cb05bccdeefe10c147d723e7be027201a9dc19",
+      "path": "objects/T20-23.png"
+    },
+    {
+      "object_id": "T20-24",
+      "name": "左地面未点燃白蜡烛",
+      "description": "源图左落地灯前小碟上的白色柱蜡，只有形态区别桌面白蜡才单独提取，否则空图交复用判定。无小碟、烟火。",
+      "classification": "standalone_object",
+      "sha256": "cf4e120e1597005dc9955f6232fd90a51521e31bc3cc332bcc5604f79545b69f",
+      "path": "objects/T20-24.png"
+    },
+    {
+      "object_id": "T20-25",
+      "name": "左地面蜡烛空小碟",
+      "description": "源图左落地灯前白蜡下小碟，完整空置；若与桌面烛碟同款则复用，不造第二种。无蜡烛地面。",
+      "classification": "standalone_object",
+      "sha256": "302d4bb3ce7c3908b28e6b595b5a773470b53954c0a23caf9e300e183a27c872",
+      "path": "objects/T20-25.png"
+    },
+    {
+      "object_id": "T20-26",
+      "name": "米色粗针织盖毯",
+      "description": "源图左下前景米色粗针织盖毯，完整独立织物，保留自然折形，移除上方木烛座与蜡烛；不包含下方粗织地毯。",
+      "classification": "standalone_object",
+      "sha256": "b40f1b0365db6b4e05ea9fc82622429c790e262447b4115b1da66f2136dfef7f",
+      "path": "objects/T20-26.png"
+    },
+    {
+      "object_id": "T20-27",
+      "name": "毯上圆形空木烛座",
+      "description": "源图左下针织毯上白色蜡烛的圆形木烛座，完整空座，无蜡烛、毯或火光。",
+      "classification": "standalone_object",
+      "sha256": "64014252a837050a9d5a337ec350ed3d68c59665cc8ef7ac9d6dae35a9497dd2",
+      "path": "objects/T20-27.png"
+    },
+    {
+      "object_id": "T20-28",
+      "name": "木座中未点燃白蜡烛",
+      "description": "源图左下木烛座中的单根完整白色柱蜡，仅形态区别其他白蜡时单独提取，否则交复用复核。无木座与毯，未点燃。",
+      "classification": "standalone_object",
+      "sha256": "234bad759b690915c24ec0ab06d1287156764f837d44a52fdb3300d3b6bfb877",
+      "path": "objects/T20-28.png"
+    },
+    {
+      "object_id": "T20-29",
+      "name": "右前低矮木边桌",
+      "description": "源图右下前景独立深木低边桌，完整空家具，移除金属碗与所有器物，不夹带主供案。",
+      "classification": "standalone_object",
+      "sha256": "7a8ab67d34abe1eecbaff6e0b995bbb1c1915c3d62c5b3e2a4a739579322c17b",
+      "path": "objects/T20-29.png"
+    },
+    {
+      "object_id": "T20-30",
+      "name": "边桌青铜空碗",
+      "description": "源图右下边桌上的青铜金色金属碗，完整空碗，保留真实口沿内腔，不带边桌或填充物。",
+      "classification": "standalone_object",
+      "sha256": "cdbd375b4c903a22c0334c7ef4c59fb4a812f08899133e8baa990725c1f56030",
+      "path": "objects/T20-30.png"
+    },
+    {
+      "object_id": "T20-31",
+      "name": "米色粗织地毯",
+      "description": "源图坐垫和前景家具下的米色粗织地毯，完整独立织物，移除坐垫、针织盖毯、边桌及其他物件。",
+      "classification": "standalone_object",
+      "sha256": "8ab56a2b7370614bcc7aac08e027ecb9f087fbd8b431161c90d3ffe658bba3e6",
+      "path": "objects/T20-31.png"
+    },
+    {
+      "object_id": "T20-32",
+      "name": "壁架灰陶空小花瓶",
+      "description": "源图左侧固定壁架上的灰色陶小芽瓶，完整空瓶，移除白色细枝；不包含固定木架。",
+      "classification": "standalone_object",
+      "sha256": "e8a9975b72ca17b4858361a5ebedd146a364b5f5616ad4ec62e5e096e19d4104",
+      "path": "objects/T20-32.png"
+    },
+    {
+      "object_id": "T20-33",
+      "name": "壁架白色细枝束",
+      "description": "源图左壁架灰色小花瓶里的完整白色枝束，保留可插入茎脚，无小花瓶与壁架。",
+      "classification": "standalone_object",
+      "sha256": "9da42b0cafe984f1dd60a430cfdfe6619d6d90672457c06366e0f1af757af3ff",
+      "path": "objects/T20-33.png"
+    },
+    {
+      "object_id": "T20-34",
+      "name": "壁架深色空小碗",
+      "description": "源图左侧固定壁架上的深色小碗，完整空置，区别右下边桌青铜碗，无壁架和其他器物。",
+      "classification": "standalone_object",
+      "sha256": "8827b1ad4489707ef709b6ff9d8f37aae381d2238a64690f670964646b8136b7",
+      "path": "objects/T20-34.png"
+    },
+    {
+      "object_id": "T20-35",
+      "name": "壁架未点燃白蜡烛",
+      "description": "源图左侧固定壁架上的单根白色柱蜡，只有尺寸形态区别桌面或地面蜡烛设计时新增，否则交复用复核。无架，无火焰余烬烟。",
+      "classification": "standalone_object",
+      "sha256": "ca7adefec57e9ca389484b2f6bc35424ce3e38a83d82b16ed8029b00d0059cb8",
+      "path": "objects/T20-35.png"
+    }
+  ],
+  "review": "../../reviews/themes/T20/overview.png",
+  "status": "generated_review_in_progress"
+}

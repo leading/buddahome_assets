@@ -1,0 +1,320 @@
+{
+  "theme_id": "T19",
+  "name": "秋山枫影禅室",
+  "fingerprint": "f9676d6ad4c9a84844a30f30636eaaad3aeac01dd72ea8cccd0a35f540e6cfe5",
+  "snapshot": {
+    "theme_id": "T19",
+    "review_protocol": "paired-v2",
+    "source_sha256": "9d453d9b345f1ac68a3833a16c883f1dca7c9bc2dda62444e03563bd12877505",
+    "background_sha256": "e20ae336abacfd1efd5cd7b88b8ffc21c0dfa6f786ff137708ec0d0b3639a54e",
+    "plan_sha256": "255b233a96e199d3e29754605d36513941165a177dd7019168880864b106669e",
+    "objects": [
+      {
+        "object_id": "T19-01",
+        "sha256": "1833505d3e3a6e2b8377d3296869a1cedcb861acf41f4f2b6d37840534f59226"
+      },
+      {
+        "object_id": "T19-02",
+        "sha256": "4c15df91289cf9a28b2979d6f2a37f4ed6e01cb9ac29d3235b35e5158d81ac91"
+      },
+      {
+        "object_id": "T19-03",
+        "sha256": "205d2bd5212762aec62caecb8dbb7e1b992540c8daaa231eef26f3a46d6508a4"
+      },
+      {
+        "object_id": "T19-04",
+        "sha256": "6d27ca4f068f727976feff4199a79a1e84f3ab2802b4637cc0666ef33f1a5e4b"
+      },
+      {
+        "object_id": "T19-05",
+        "sha256": "4c3d8bdab53814343ae6d29d3507e45b4702bf05863321a084b043fda90026c6"
+      },
+      {
+        "object_id": "T19-06",
+        "sha256": "db48ca1672d1279d14ab4ca279f86a49726880679774a609a4526eace528099c"
+      },
+      {
+        "object_id": "T19-07",
+        "sha256": "70a0d78bc3603148f68ea988d6375e657d30dd6e5ca471b55ca1541c5b75cd88"
+      },
+      {
+        "object_id": "T19-08",
+        "sha256": "aad93b91bff0bade651edf64e56220378197bb99ae553ce916bd7bd33e0ae72d"
+      },
+      {
+        "object_id": "T19-10",
+        "sha256": "300961073df1314aceeb6db8337efb2973034773b4f2063d99f14ba2dcaa8a53"
+      },
+      {
+        "object_id": "T19-11",
+        "sha256": "c69b28baed7bc0285d44b77f23477a586c4cd2300143cbfbede2b025b92b1bdc"
+      },
+      {
+        "object_id": "T19-12",
+        "sha256": "178dd228ee5fda1a03c5fc257080e619eeca531e5ae9fd12227d47bc83ef571f"
+      },
+      {
+        "object_id": "T19-13",
+        "sha256": "e785b875517273ec2bd2b81328dde2f7adc329700897245adb8c27e4d13f4d1e"
+      },
+      {
+        "object_id": "T19-14",
+        "sha256": "e1b217bb94853a46db46d66b423342fc1638f579237a5eebe90bc9648a07f1f2"
+      },
+      {
+        "object_id": "T19-16",
+        "sha256": "e702a3ad7ff122048daf71c0bbc3e5aee5434f025c20e7b0178c9ad90533b4e2"
+      },
+      {
+        "object_id": "T19-17",
+        "sha256": "8d4e03a7a1424b31e34136af51eb887ac7bc86094b5d627997c904fbdef858c3"
+      },
+      {
+        "object_id": "T19-18",
+        "sha256": "cbbe615dad8eff866603bd6da9f8be496e1cf93b39c716057a7dfc21313f9856"
+      },
+      {
+        "object_id": "T19-19",
+        "sha256": "4c3505b01f459a91e519d3fdd0c83353aad52540f20ab1114dce59d8d6e73e55"
+      },
+      {
+        "object_id": "T19-20",
+        "sha256": "8358b9747a79ad39b17abecf17a648b061c4dc2c75ec2ab402c0baa694c66d3c"
+      },
+      {
+        "object_id": "T19-21",
+        "sha256": "7efe1aaeb3d7cf31ccc7f294bfd7821624866aca61583c6641f12e43be5f9d5c"
+      },
+      {
+        "object_id": "T19-22",
+        "sha256": "c9e5ed578502232cbea4857154d38de6d53b4a57ea294644ed75d0733d839c11"
+      },
+      {
+        "object_id": "T19-23",
+        "sha256": "9024d62526bf60c23af071259e976c8603170d51a4b7fa60bd5cdcb58b325850"
+      },
+      {
+        "object_id": "T19-24",
+        "sha256": "85ecafee2719c410f0f01b2c4752fec1b0eb35c7de09cd9c399753c3ad9c57cf"
+      },
+      {
+        "object_id": "T19-25",
+        "sha256": "b71b5f74de82d9b75a76237c2636c8d6525572abd785e50a15893e44f8b511df"
+      },
+      {
+        "object_id": "T19-26",
+        "sha256": "8302a544c4aa958656d7f1cb106c5ce9585568d1c79a4f47932684162401267d"
+      },
+      {
+        "object_id": "T19-27",
+        "sha256": "d2db05e45afd3c841c6baea5a0002bf3ff7c2077968066ce001024d9ee4787bf"
+      }
+    ]
+  },
+  "source": "source.png",
+  "background": "background.png",
+  "objects": [
+    {
+      "object_id": "T19-01",
+      "name": "供桌或主题主台",
+      "description": "源图中央完整自然边木供桌，保留自身桌腿和原结构，去掉全部供器、灯、花瓶、落叶及雕像；不是桌面与桌腿分离的新家具。",
+      "classification": "standalone_object",
+      "sha256": "1833505d3e3a6e2b8377d3296869a1cedcb861acf41f4f2b6d37840534f59226",
+      "path": "objects/T19-01.png"
+    },
+    {
+      "object_id": "T19-02",
+      "name": "坐佛",
+      "description": "源图中央灰石坐佛，保留其真实衣褶、面部和手势，单独于可辨独立莲花石底座，无供桌。",
+      "classification": "standalone_object",
+      "sha256": "4c15df91289cf9a28b2979d6f2a37f4ed6e01cb9ac29d3235b35e5158d81ac91",
+      "path": "objects/T19-02.png"
+    },
+    {
+      "object_id": "T19-03",
+      "name": "佛像底座",
+      "description": "源图灰石坐佛下的莲花石座，仅有明确独立接缝时拆出完整空座；若雕像与莲座同体不可硬造可拆座，应交复核。",
+      "classification": "standalone_object",
+      "sha256": "205d2bd5212762aec62caecb8dbb7e1b992540c8daaa231eef26f3a46d6508a4",
+      "path": "objects/T19-03.png"
+    },
+    {
+      "object_id": "T19-04",
+      "name": "空花瓶",
+      "description": "源图供桌左侧棕色斑点陶瓷花瓶，完整空瓶，去掉全部枫枝白花与水；保留实际釉面和瓶口。",
+      "classification": "standalone_object",
+      "sha256": "6d27ca4f068f727976feff4199a79a1e84f3ab2802b4637cc0666ef33f1a5e4b",
+      "path": "objects/T19-04.png"
+    },
+    {
+      "object_id": "T19-05",
+      "name": "花枝花束",
+      "description": "源图左瓶中的完整红枫枝与白花组合，保留原枝形与可插入茎脚，不带花瓶。",
+      "classification": "standalone_object",
+      "sha256": "4c3d8bdab53814343ae6d29d3507e45b4702bf05863321a084b043fda90026c6",
+      "path": "objects/T19-05.png"
+    },
+    {
+      "object_id": "T19-06",
+      "name": "空烛台或灯盏",
+      "description": "源图供桌最左侧深色金属玻璃灯笼，完整独立空灯壳，含自身结构与底座，去掉内部燃料、光焰烟及桌面。",
+      "classification": "standalone_object",
+      "sha256": "db48ca1672d1279d14ab4ca279f86a49726880679774a609a4526eace528099c",
+      "path": "objects/T19-06.png"
+    },
+    {
+      "object_id": "T19-07",
+      "name": "未点燃蜡芯",
+      "description": "与源图金属玻璃灯笼相适配的单个未点燃灯内芯；只保留可见设计，不可见形态明确为推断补充，不能另造新灯。",
+      "classification": "standalone_object",
+      "sha256": "70a0d78bc3603148f68ea988d6375e657d30dd6e5ca471b55ca1541c5b75cd88",
+      "path": "objects/T19-07.png"
+    },
+    {
+      "object_id": "T19-08",
+      "name": "深色空有盖器身",
+      "description": "源图茶壶右方的深色陶瓷有盖小器，单独完整空器身，移除独立盖；功能未确认，不强改为香炉，不添加源图未见线香。",
+      "classification": "standalone_object",
+      "sha256": "aad93b91bff0bade651edf64e56220378197bb99ae553ce916bd7bd33e0ae72d",
+      "path": "objects/T19-08.png"
+    },
+    {
+      "object_id": "T19-10",
+      "name": "空供盘",
+      "description": "源图佛像左侧盛橙果的棕色供碗，按实际陶或石质纹理提取完整空碗，无水果；不凭文字盘点强改材质。",
+      "classification": "standalone_object",
+      "sha256": "300961073df1314aceeb6db8337efb2973034773b4f2063d99f14ba2dcaa8a53",
+      "path": "objects/T19-10.png"
+    },
+    {
+      "object_id": "T19-11",
+      "name": "橙果",
+      "description": "源图左侧供碗与碗外同种橙色水果的一枚完整橙果，无盘碗。盘点三枚在碗、一枚在桌，若同品种可重复使用此资产。",
+      "classification": "standalone_object",
+      "sha256": "c69b28baed7bc0285d44b77f23477a586c4cd2300143cbfbede2b025b92b1bdc",
+      "path": "objects/T19-11.png"
+    },
+    {
+      "object_id": "T19-12",
+      "name": "茶壶",
+      "description": "源图佛像右侧木茶盘上的棕色陶茶壶，完整空壶，保留盖嘴把手，不带杯碟茶盘或液体。",
+      "classification": "standalone_object",
+      "sha256": "178dd228ee5fda1a03c5fc257080e619eeca531e5ae9fd12227d47bc83ef571f",
+      "path": "objects/T19-12.png"
+    },
+    {
+      "object_id": "T19-13",
+      "name": "空茶杯",
+      "description": "源图茶盘上茶壶左方的深色陶杯，完整单只空杯，与其下独立杯碟分离，无水。",
+      "classification": "standalone_object",
+      "sha256": "e785b875517273ec2bd2b81328dde2f7adc329700897245adb8c27e4d13f4d1e",
+      "path": "objects/T19-13.png"
+    },
+    {
+      "object_id": "T19-14",
+      "name": "茶托",
+      "description": "源图佛像右侧的矩形木茶盘，完整空盘，去掉所有壶杯、独立杯碟和有盖器。",
+      "classification": "standalone_object",
+      "sha256": "e1b217bb94853a46db46d66b423342fc1638f579237a5eebe90bc9648a07f1f2",
+      "path": "objects/T19-14.png"
+    },
+    {
+      "object_id": "T19-16",
+      "name": "坐垫",
+      "description": "源图前景中央红橙色圆形冥想坐垫，完整单独织物，无其下编织地垫、木地板或投影。",
+      "classification": "standalone_object",
+      "sha256": "e702a3ad7ff122048daf71c0bbc3e5aee5434f025c20e7b0178c9ad90533b4e2",
+      "path": "objects/T19-16.png"
+    },
+    {
+      "object_id": "T19-17",
+      "name": "右侧浅色纹样空花瓶",
+      "description": "源图桌右端浅色带纹样花瓶，完整空瓶，去掉红枫枝白花；与左侧棕色斑点瓶分别保留。",
+      "classification": "standalone_object",
+      "sha256": "8d4e03a7a1424b31e34136af51eb887ac7bc86094b5d627997c904fbdef858c3",
+      "path": "objects/T19-17.png"
+    },
+    {
+      "object_id": "T19-18",
+      "name": "右侧红枫白花枝束",
+      "description": "源图右瓶中完整红枫枝和白花组合，保留本侧枝形，不带花瓶，不把左右花束合成一件。",
+      "classification": "standalone_object",
+      "sha256": "cbbe615dad8eff866603bd6da9f8be496e1cf93b39c716057a7dfc21313f9856",
+      "path": "objects/T19-18.png"
+    },
+    {
+      "object_id": "T19-19",
+      "name": "深色独立杯碟",
+      "description": "源图茶盘上的深色陶杯下方独立杯碟，完整空碟，去掉杯，不包含大茶盘。",
+      "classification": "standalone_object",
+      "sha256": "4c3505b01f459a91e519d3fdd0c83353aad52540f20ab1114dce59d8d6e73e55",
+      "path": "objects/T19-19.png"
+    },
+    {
+      "object_id": "T19-20",
+      "name": "深色有盖器盖",
+      "description": "源图茶壶右方深色有盖陶器的独立盖，保留盖钮与原配合口，不带器身。",
+      "classification": "standalone_object",
+      "sha256": "8358b9747a79ad39b17abecf17a648b061c4dc2c75ec2ab402c0baa694c66d3c",
+      "path": "objects/T19-20.png"
+    },
+    {
+      "object_id": "T19-21",
+      "name": "自然纤维编织地垫",
+      "description": "源图圆坐垫下浅棕色自然纤维编织地垫，完整独立织物，去掉坐垫和地板。",
+      "classification": "standalone_object",
+      "sha256": "7efe1aaeb3d7cf31ccc7f294bfd7821624866aca61583c6641f12e43be5f9d5c",
+      "path": "objects/T19-21.png"
+    },
+    {
+      "object_id": "T19-22",
+      "name": "桌面左侧红枫落叶",
+      "description": "源图木桌左侧的一片独立红枫落叶，保留实际轮廓和叶梗，不带桌面或树枝。",
+      "classification": "standalone_object",
+      "sha256": "c9e5ed578502232cbea4857154d38de6d53b4a57ea294644ed75d0733d839c11",
+      "path": "objects/T19-22.png"
+    },
+    {
+      "object_id": "T19-23",
+      "name": "桌面右侧红枫落叶",
+      "description": "源图木桌右侧独立红枫落叶，仅轮廓卷曲或颜色与左侧不同才新增；同设计可复用则交空图复核，无桌面。",
+      "classification": "standalone_object",
+      "sha256": "9024d62526bf60c23af071259e976c8603170d51a4b7fa60bd5cdcb58b325850",
+      "path": "objects/T19-23.png"
+    },
+    {
+      "object_id": "T19-24",
+      "name": "左地面红枫落叶",
+      "description": "源图桌左地面独立红枫落叶，仅轮廓卷曲或颜色区别已有桌面叶时新增；否则交复用复核。无地面。",
+      "classification": "standalone_object",
+      "sha256": "85ecafee2719c410f0f01b2c4752fec1b0eb35c7de09cd9c399753c3ad9c57cf",
+      "path": "objects/T19-24.png"
+    },
+    {
+      "object_id": "T19-25",
+      "name": "右地面红枫落叶",
+      "description": "源图桌右地面独立红枫落叶，提取实际不同设计，不另造叶片；与已有叶同设计则交复用复核。无地面。",
+      "classification": "standalone_object",
+      "sha256": "b71b5f74de82d9b75a76237c2636c8d6525572abd785e50a15893e44f8b511df",
+      "path": "objects/T19-25.png"
+    },
+    {
+      "object_id": "T19-26",
+      "name": "果碗旁红枫落叶",
+      "description": "源图左果碗旁的一片独立红枫落叶，仅确为另一位置且形态区别其他候选时新增；若盘点重复或同款则交复核，无果碗桌面。",
+      "classification": "standalone_object",
+      "sha256": "8302a544c4aa958656d7f1cb106c5ce9585568d1c79a4f47932684162401267d",
+      "path": "objects/T19-26.png"
+    },
+    {
+      "object_id": "T19-27",
+      "name": "右侧深色玻璃灯笼",
+      "description": "源图供桌最右侧深色金属玻璃灯笼，仅结构比例与最左灯不同才独立提取；同款则复用左灯并交空图复核。完整空灯，无内部燃料烟火。",
+      "classification": "standalone_object",
+      "sha256": "d2db05e45afd3c841c6baea5a0002bf3ff7c2077968066ce001024d9ee4787bf",
+      "path": "objects/T19-27.png"
+    }
+  ],
+  "review": "../../reviews/themes/T19/overview.png",
+  "status": "generated_review_in_progress"
+}

@@ -1,0 +1,332 @@
+{
+  "theme_id": "T14",
+  "name": "北欧原木静修室",
+  "fingerprint": "8c2e0af351616c2abd87d1a4f66927e047b9d9e6219a6bfe44675c1fc2c140d8",
+  "snapshot": {
+    "theme_id": "T14",
+    "review_protocol": "paired-v2",
+    "source_sha256": "ffeac69e152110e84286aaaeeb2012b609ea294f81b9a6252c3b7c932d92c5df",
+    "background_sha256": "dd336147aca47c476831fc68c9d2e9aaab206ccda2f789602882d53a554c76d3",
+    "plan_sha256": "6281fe2c384cf5caf61cd5967311034168e60dfeabb7d86d1599a4fa4fb78a96",
+    "objects": [
+      {
+        "object_id": "T14-01",
+        "sha256": "aed4c5fa3ca39e06027378e4925e6130f0cc8b743f44db0afc96f8d2dfb271ac"
+      },
+      {
+        "object_id": "T14-02",
+        "sha256": "3dff4266fac7301684cf3ffe9c019ad0d6acc582349b23c5e6190fe43250acdc"
+      },
+      {
+        "object_id": "T14-03",
+        "sha256": "a632401c5b6bf4dbf68594cd605d50e378019509eb0840964e998b0a97f57a6a"
+      },
+      {
+        "object_id": "T14-04",
+        "sha256": "54c39743074afb85a13a781779941429213b7b3e5fbf2cf022c10a78651fe27f"
+      },
+      {
+        "object_id": "T14-05",
+        "sha256": "6d2d03b85a8067ed1a6a8ab3638acc99e3be9dc704a78ee77656c4d47119d32d"
+      },
+      {
+        "object_id": "T14-06",
+        "sha256": "1c020122cbd6e0417d0b3ba3da2a1e9ac792e51a7b1b7821ddcc072af2a4acb1"
+      },
+      {
+        "object_id": "T14-07",
+        "sha256": "63bbef73975b12658ef95578d205e99d50c99b10041a53a5db38ac1370aa9f5f"
+      },
+      {
+        "object_id": "T14-08",
+        "sha256": "1753baa4b2fcd96621f00640bb5cb7d2eae42a97eaa87414f8e1c59b0179d0c0"
+      },
+      {
+        "object_id": "T14-09",
+        "sha256": "0c894c8faee3d66d1d8d06545e3558273ea92937c441d7cb541d04bf66054ece"
+      },
+      {
+        "object_id": "T14-10",
+        "sha256": "e76cc58aee9581926263e66ae8cebac8634295b99d8ae56b2e1604d47235d1a5"
+      },
+      {
+        "object_id": "T14-11",
+        "sha256": "ed52e1fe98771756ed5beb0efb4085842b28338a945c3c602802eaa08a0d3d98"
+      },
+      {
+        "object_id": "T14-12",
+        "sha256": "f8700bd4e74d575ae7b72f755b6f2fc143739b0d8a4fa19174dad7dd4579a009"
+      },
+      {
+        "object_id": "T14-13",
+        "sha256": "5fa587cbfeee91c0909fd49b219e3e69ee57af6872480a7959335cdefd210dd6"
+      },
+      {
+        "object_id": "T14-14",
+        "sha256": "3433d354613a2f9af5ba804b33513bf131a5ec423a354e85c54ff74b428f39a0"
+      },
+      {
+        "object_id": "T14-16",
+        "sha256": "a804e0d6e6b7b9ab83633f7baa8b8994f5a25544cca8d34c357d204f36e89ffc"
+      },
+      {
+        "object_id": "T14-17",
+        "sha256": "d59be92ebe707cb3add9c16905d88c7068ba40409688be0aecd47cf0c9b7d938"
+      },
+      {
+        "object_id": "T14-18",
+        "sha256": "6d127c8dae9cb76000a9ba1b412b70b41228ae3eb9b852048d4c580702775b7a"
+      },
+      {
+        "object_id": "T14-19",
+        "sha256": "be627bbfbc899e9df9b9459b264312b6e3865f7419025923d3c081c28b7c0560"
+      },
+      {
+        "object_id": "T14-20",
+        "sha256": "a825857be8547538f5cfabec49c3ad325a35f8995a65a8650280d2b64bab5017"
+      },
+      {
+        "object_id": "T14-21",
+        "sha256": "d8f208635da3fc1ab4250177aaf82049033c962e2aba762252c397a495d9d8c4"
+      },
+      {
+        "object_id": "T14-22",
+        "sha256": "37f5711fa6c7bf9e04deb3e09033c7370665481743ac2363e6eb75ec3a859287"
+      },
+      {
+        "object_id": "T14-23",
+        "sha256": "8a0bb7f21ce0e59e1ebbd41d0ce1b66efb82c50d7b92db7ef0a406e676be910f"
+      },
+      {
+        "object_id": "T14-24",
+        "sha256": "d4b14ddf598f16a8bedea03f3ac9c91c5b8fdee8bbd4407f04a3b5307907791b"
+      },
+      {
+        "object_id": "T14-25",
+        "sha256": "39674009c9c163ec6acb1c0eea6c8c71551799067c65dc04f3ae9f4c71a13248"
+      },
+      {
+        "object_id": "T14-26",
+        "sha256": "0b0c20f525eab979a3e42e4aa75df61ae47bec5d7827ab91896b8d4017c87323"
+      },
+      {
+        "object_id": "T14-27",
+        "sha256": "b8353913afd77378e2ff023c250a2112c03a1c97400cd12221d294bf6c06072f"
+      }
+    ]
+  },
+  "source": "source.png",
+  "background": "background.png",
+  "objects": [
+    {
+      "object_id": "T14-01",
+      "name": "供桌或主题主台",
+      "description": "源图中央米色石供桌，完整空桌，去掉全部物件，不带地面或台阶。",
+      "classification": "standalone_object",
+      "sha256": "aed4c5fa3ca39e06027378e4925e6130f0cc8b743f44db0afc96f8d2dfb271ac",
+      "path": "objects/T14-01.png"
+    },
+    {
+      "object_id": "T14-02",
+      "name": "坐佛",
+      "description": "源图中央白石坐佛，完整雕像，仅明显独立的米色底座分离。",
+      "classification": "standalone_object",
+      "sha256": "3dff4266fac7301684cf3ffe9c019ad0d6acc582349b23c5e6190fe43250acdc",
+      "path": "objects/T14-02.png"
+    },
+    {
+      "object_id": "T14-03",
+      "name": "佛像底座",
+      "description": "源图白佛下米色石底座，完整空座，按实际形状不强行改成莲座；一体不可分则空图。",
+      "classification": "standalone_object",
+      "sha256": "a632401c5b6bf4dbf68594cd605d50e378019509eb0840964e998b0a97f57a6a",
+      "path": "objects/T14-03.png"
+    },
+    {
+      "object_id": "T14-04",
+      "name": "空花瓶",
+      "description": "源图供桌左斑点米色陶瓶，完整空置，无白花绿叶或水。",
+      "classification": "standalone_object",
+      "sha256": "54c39743074afb85a13a781779941429213b7b3e5fbf2cf022c10a78651fe27f",
+      "path": "objects/T14-04.png"
+    },
+    {
+      "object_id": "T14-05",
+      "name": "花枝花束",
+      "description": "源图左瓶中完整白花绿叶枝组，保留可插茎脚，无瓶。",
+      "classification": "standalone_object",
+      "sha256": "6d2d03b85a8067ed1a6a8ab3638acc99e3be9dc704a78ee77656c4d47119d32d",
+      "path": "objects/T14-05.png"
+    },
+    {
+      "object_id": "T14-06",
+      "name": "空烛台或灯盏",
+      "description": "源图佛像左侧白柱蜡烛下的金属烛托，完整空置，无蜡烛、烟火。",
+      "classification": "standalone_object",
+      "sha256": "1c020122cbd6e0417d0b3ba3da2a1e9ac792e51a7b1b7821ddcc072af2a4acb1",
+      "path": "objects/T14-06.png"
+    },
+    {
+      "object_id": "T14-07",
+      "name": "未点燃白柱蜡烛",
+      "description": "源图佛像左侧一根完整白柱蜡烛，保留未点燃芯，无金属烛托或烟火。",
+      "classification": "standalone_object",
+      "sha256": "63bbef73975b12658ef95578d205e99d50c99b10041a53a5db38ac1370aa9f5f",
+      "path": "objects/T14-07.png"
+    },
+    {
+      "object_id": "T14-08",
+      "name": "空香炉",
+      "description": "源图佛像右侧斑点米色陶盖香炉的完整空炉身，取盖去香与灰。",
+      "classification": "standalone_object",
+      "sha256": "1753baa4b2fcd96621f00640bb5cb7d2eae42a97eaa87414f8e1c59b0179d0c0",
+      "path": "objects/T14-08.png"
+    },
+    {
+      "object_id": "T14-09",
+      "name": "未点燃线香",
+      "description": "源图米色香炉中一根棕色未点燃线香，无炉或烟火。",
+      "classification": "standalone_object",
+      "sha256": "0c894c8faee3d66d1d8d06545e3558273ea92937c441d7cb541d04bf66054ece",
+      "path": "objects/T14-09.png"
+    },
+    {
+      "object_id": "T14-10",
+      "name": "空供盘",
+      "description": "源图佛像左侧盛青苹果的天然木碗，完整空碗，去掉全部果实。",
+      "classification": "standalone_object",
+      "sha256": "e76cc58aee9581926263e66ae8cebac8634295b99d8ae56b2e1604d47235d1a5",
+      "path": "objects/T14-10.png"
+    },
+    {
+      "object_id": "T14-11",
+      "name": "青苹果",
+      "description": "源图木碗中的一枚完整绿色苹果，无碗和其他果实。",
+      "classification": "standalone_object",
+      "sha256": "ed52e1fe98771756ed5beb0efb4085842b28338a945c3c602802eaa08a0d3d98",
+      "path": "objects/T14-11.png"
+    },
+    {
+      "object_id": "T14-12",
+      "name": "茶壶",
+      "description": "源图右木盘上斑点米色陶瓷茶壶，完整空壶含金属提梁、盖和嘴。",
+      "classification": "standalone_object",
+      "sha256": "f8700bd4e74d575ae7b72f755b6f2fc143739b0d8a4fa19174dad7dd4579a009",
+      "path": "objects/T14-12.png"
+    },
+    {
+      "object_id": "T14-13",
+      "name": "空茶杯",
+      "description": "源图右侧木茶盘上左边一只斑点米陶空杯，完整单只无托盘。",
+      "classification": "standalone_object",
+      "sha256": "5fa587cbfeee91c0909fd49b219e3e69ee57af6872480a7959335cdefd210dd6",
+      "path": "objects/T14-13.png"
+    },
+    {
+      "object_id": "T14-14",
+      "name": "茶托",
+      "description": "源图供桌右侧矩形木茶盘，完整空盘，无杯、壶或杯碟。",
+      "classification": "standalone_object",
+      "sha256": "3433d354613a2f9af5ba804b33513bf131a5ec423a354e85c54ff74b428f39a0",
+      "path": "objects/T14-14.png"
+    },
+    {
+      "object_id": "T14-16",
+      "name": "坐垫",
+      "description": "源图前景天然纤维编织坐垫，完整独立，无下方地毯。",
+      "classification": "standalone_object",
+      "sha256": "a804e0d6e6b7b9ab83633f7baa8b8994f5a25544cca8d34c357d204f36e89ffc",
+      "path": "objects/T14-16.png"
+    },
+    {
+      "object_id": "T14-17",
+      "name": "米陶独立香炉盖",
+      "description": "与T14-08斑点米陶炉身配套的独立陶盖，保留源图原形，无炉身或线香。",
+      "classification": "standalone_object",
+      "sha256": "d59be92ebe707cb3add9c16905d88c7068ba40409688be0aecd47cf0c9b7d938",
+      "path": "objects/T14-17.png"
+    },
+    {
+      "object_id": "T14-18",
+      "name": "木质独立杯碟",
+      "description": "源图茶盘上最右茶杯下的独立木杯碟，完整空碟，无杯或茶盘。",
+      "classification": "standalone_object",
+      "sha256": "6d127c8dae9cb76000a9ba1b412b70b41228ae3eb9b852048d4c580702775b7a",
+      "path": "objects/T14-18.png"
+    },
+    {
+      "object_id": "T14-19",
+      "name": "右侧未点燃白蜡烛",
+      "description": "源图供桌右侧碟上的白柱蜡烛，仅在尺寸设计区别左侧蜡烛时提取；同款复用则空透明图。无碟烟火。",
+      "classification": "standalone_object",
+      "sha256": "be627bbfbc899e9df9b9459b264312b6e3865f7419025923d3c081c28b7c0560",
+      "path": "objects/T14-19.png"
+    },
+    {
+      "object_id": "T14-20",
+      "name": "右侧独立烛碟",
+      "description": "源图右白蜡烛下独立小碟，仅确为不同于木杯碟的独立器形时提取完整空碟；同款复用或不存在则空图。",
+      "classification": "standalone_object",
+      "sha256": "a825857be8547538f5cfabec49c3ad325a35f8995a65a8650280d2b64bab5017",
+      "path": "objects/T14-20.png"
+    },
+    {
+      "object_id": "T14-21",
+      "name": "米色浮雕壁饰",
+      "description": "源图右墙米色纹理浮雕壁饰，完整独立板件，不带墙。若它其实是固定墙面肌理而非挂件则空图。",
+      "classification": "standalone_object",
+      "sha256": "d8f208635da3fc1ab4250177aaf82049033c962e2aba762252c397a495d9d8c4",
+      "path": "objects/T14-21.png"
+    },
+    {
+      "object_id": "T14-22",
+      "name": "左后大型空陶盆",
+      "description": "源图左后室外可见盛树的白米斑点大型陶盆，完整空盆，无树、土、水或建筑台阶。",
+      "classification": "standalone_object",
+      "sha256": "37f5711fa6c7bf9e04deb3e09033c7370665481743ac2363e6eb75ec3a859287",
+      "path": "objects/T14-22.png"
+    },
+    {
+      "object_id": "T14-23",
+      "name": "盆栽完整树体",
+      "description": "源图左后大陶盆中的完整绿叶树体，保留树干枝叶和可插根部，不带盆或窗外其他树木。",
+      "classification": "standalone_object",
+      "sha256": "8a0bb7f21ce0e59e1ebbd41d0ce1b66efb82c50d7b92db7ef0a406e676be910f",
+      "path": "objects/T14-23.png"
+    },
+    {
+      "object_id": "T14-24",
+      "name": "右前落地空花瓶",
+      "description": "源图右前地面斑点米色落地陶瓶，完整空瓶，无白花绿叶。区别桌面左花瓶。",
+      "classification": "standalone_object",
+      "sha256": "d4b14ddf598f16a8bedea03f3ac9c91c5b8fdee8bbd4407f04a3b5307907791b",
+      "path": "objects/T14-24.png"
+    },
+    {
+      "object_id": "T14-25",
+      "name": "右前落地花枝组",
+      "description": "源图右前落地瓶中完整小白花绿叶枝组，保留该组实际枝形与茎脚，无花瓶。",
+      "classification": "standalone_object",
+      "sha256": "39674009c9c163ec6acb1c0eea6c8c71551799067c65dc04f3ae9f4c71a13248",
+      "path": "objects/T14-25.png"
+    },
+    {
+      "object_id": "T14-26",
+      "name": "天然纤维地毯",
+      "description": "源图前景坐垫下天然纤维地毯，完整单件，无坐垫和石地面。",
+      "classification": "standalone_object",
+      "sha256": "0b0c20f525eab979a3e42e4aa75df61ae47bec5d7827ab91896b8d4017c87323",
+      "path": "objects/T14-26.png"
+    },
+    {
+      "object_id": "T14-27",
+      "name": "右侧斑点米陶空杯",
+      "description": "源图木茶盘右侧斑点米陶杯，仅形状区别左杯时提取；完全同款复用则空透明图。完整空杯，无碟。",
+      "classification": "standalone_object",
+      "sha256": "b8353913afd77378e2ff023c250a2112c03a1c97400cd12221d294bf6c06072f",
+      "path": "objects/T14-27.png"
+    }
+  ],
+  "review": "../../reviews/themes/T14/overview.png",
+  "status": "generated_review_in_progress"
+}

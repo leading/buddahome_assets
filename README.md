@@ -6,6 +6,8 @@ App screenshots and authorized UI references for visual comparison. No source co
 
 T02–T21 原尺寸透明物件、空背景、原主题图与整套对照截图。首轮已全部生成，仍在逐套查漏修正；文件存在不等于已验收。
 
+当前有效透明物件 **540 个**，背景 **20 张**；正式验收 **8/20 套**。其余12套的待修项目见 reviews/themes/current-progress.json。
+
 - [整套对照图与状态](reviews/themes/README.md)
 - [原尺寸素材目录](themes)
 - 每套 themes/Txx/manifest.json 列出全部PNG及SHA-256；index.html 可在下载后直接打开。

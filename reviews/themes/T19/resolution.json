@@ -201,7 +201,8 @@
     },
     "T19-07": {
       "status": "pass",
-      "reason": "未点燃杯蜡内芯独立；遮挡结构仅作适配补全，不宣称为源图可见内部细节。"
+      "reason": "未点燃杯蜡内芯独立；遮挡结构仅作适配补全，不宣称为源图可见内部细节。",
+      "evidence_type": "functional_reconstruction"
     },
     "T19-08": {
       "status": "pass",

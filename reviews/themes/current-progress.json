@@ -1,0 +1,346 @@
+{
+  "updated_at": "2026-09-25T17:17:04.899822+00:00",
+  "scope": "T02–T21, all 20 themes",
+  "initial_generation_complete": true,
+  "active_transparent_object_pngs": 540,
+  "background_pngs": 20,
+  "verified_theme_count": 8,
+  "verified_themes": [
+    "T02",
+    "T03",
+    "T04",
+    "T05",
+    "T15",
+    "T19",
+    "T20",
+    "T21"
+  ],
+  "pending_themes": [
+    "T06",
+    "T07",
+    "T08",
+    "T09",
+    "T10",
+    "T11",
+    "T12",
+    "T13",
+    "T14",
+    "T16",
+    "T17",
+    "T18"
+  ],
+  "technical_validation_scope": "Every current PNG decoded and has real alpha where required; library copies checked by delivery refresh. All current public object IDs and object/source/background SHA-256 match local exports. This does not accept pending visual content.",
+  "theme_file_checks": [
+    {
+      "theme_id": "T02",
+      "object_pngs": 31,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "verified",
+      "fingerprint": "b6f17f7cb81e570cf35bdd4149f5b1f63b8d69483c1b1757333ae2bd60bc7ba2"
+    },
+    {
+      "theme_id": "T03",
+      "object_pngs": 21,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "verified",
+      "fingerprint": "0c0b6b89b4cf4b652a006ebab34fa6104c53e08b13fe76fe8abcf254ebe6b8e3"
+    },
+    {
+      "theme_id": "T04",
+      "object_pngs": 31,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "verified",
+      "fingerprint": "57b4ceb8e9204574f65748490e46ca6ab0925c88f271c2c69b3e0b51602340bc"
+    },
+    {
+      "theme_id": "T05",
+      "object_pngs": 30,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "verified",
+      "fingerprint": "be4b5fd95a5dcf606be9df2cf73c863ee9b83ffd435c1910425dcfacdabf89e5"
+    },
+    {
+      "theme_id": "T06",
+      "object_pngs": 29,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "pending",
+      "fingerprint": "0e2c30989dd831afd4031c5c5cef5ab7622be8c45655bcdbeaece127637ddb83"
+    },
+    {
+      "theme_id": "T07",
+      "object_pngs": 37,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "pending",
+      "fingerprint": "05388d9bfccbcff066cc2ea7819dc4dd914517c3253198fbd60e3fdd7a5991e9"
+    },
+    {
+      "theme_id": "T08",
+      "object_pngs": 32,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "pending",
+      "fingerprint": "d98a8cedd137bd64545a5850849633c6a5f58ea23cc699ac5d5f0ded98da6d21"
+    },
+    {
+      "theme_id": "T09",
+      "object_pngs": 26,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "pending",
+      "fingerprint": "b5429be726e0fe55f4c440191e0570b2b84cacfb53a7d02bbe9780d3051dd24c"
+    },
+    {
+      "theme_id": "T10",
+      "object_pngs": 40,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "pending",
+      "fingerprint": "e5c947f1b6e55799aac97894f7a3316803d01f4cfd8b35c0ed0c16952f4ae0e1"
+    },
+    {
+      "theme_id": "T11",
+      "object_pngs": 25,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "pending",
+      "fingerprint": "cdb8d3d94a6984e31913b9079be9767dc1e7c0117c786bf0e36b740a3e0b32ae"
+    },
+    {
+      "theme_id": "T12",
+      "object_pngs": 22,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "pending",
+      "fingerprint": "6c52c2410a33c170333e1d835e0dc96a575af7aad9269d81719098ab7434a574"
+    },
+    {
+      "theme_id": "T13",
+      "object_pngs": 23,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "pending",
+      "fingerprint": "cf336a5afedae767b16e1471aff67fd0f9ded48b49324b603c8235506ff4c11b"
+    },
+    {
+      "theme_id": "T14",
+      "object_pngs": 26,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "pending",
+      "fingerprint": "4fde60d8ebf0545773804385cc0bc1019a4b51a45a3911550cb1429d7d690954"
+    },
+    {
+      "theme_id": "T15",
+      "object_pngs": 12,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "verified",
+      "fingerprint": "b7e57a347feb1f61e48d19c2c6831fb515a0c69d67a120dfd19f971370658cac"
+    },
+    {
+      "theme_id": "T16",
+      "object_pngs": 26,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "pending",
+      "fingerprint": "27d727da7009ecbacc06d15ca352f249057bbd249e41fbc0081d3412d4d75f1d"
+    },
+    {
+      "theme_id": "T17",
+      "object_pngs": 25,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "pending",
+      "fingerprint": "4066e00717f6808f2e0ea4f88ee6b0dfca55684d8bb14c7bdcc20714bc201cbb"
+    },
+    {
+      "theme_id": "T18",
+      "object_pngs": 22,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "pending",
+      "fingerprint": "6e9a199074cc4b07dbfe683b34f023686933831cb95340ff4d16a5375b72f1d2"
+    },
+    {
+      "theme_id": "T19",
+      "object_pngs": 24,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "verified",
+      "fingerprint": "a14c171a059c74139af84679dc38b31f4835301449f8caf2ea97a480ca193a97"
+    },
+    {
+      "theme_id": "T20",
+      "object_pngs": 33,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "verified",
+      "fingerprint": "e6e317d9941eff328e78f76e0284b62cd826376b05cc78dede146c533e0650ef"
+    },
+    {
+      "theme_id": "T21",
+      "object_pngs": 25,
+      "background_png": true,
+      "public_files_match_current_export": true,
+      "review_status": "verified",
+      "fingerprint": "d232e9c48f1f0adbc129a43153737130801e6762ef2d7d3b578025f1f0c0532d"
+    }
+  ],
+  "confirmed_generation_repairs_pending": [
+    {
+      "object_id": "T07-34",
+      "reason": "现有花材图底部仍带完整铜花盆。只保留原右侧开花绿植的花朵、枝干和叶片；彻底删除铜盆、盆口、泥土外壳及底碟。33号已有独立空盆。保留枝形花型，不把移除的盆摆到旁边。",
+      "status": "failed"
+    },
+    {
+      "object_id": "T08-19",
+      "reason": "现有图错误加了白色雕花高脚花盆。源图佛像左后方的绿叶与白花没有这只容器。保留白色鸡蛋花、绿叶及自身枝茎，彻底删除所有花盆、雕花基座、土团和底座；不可重新发明容器。",
+      "status": "failed"
+    },
+    {
+      "object_id": "T08-20",
+      "reason": "现有图错误加了白色雕花高脚花盆。源图佛像右后方的绿叶与白花没有这只容器。保留本侧白色鸡蛋花、绿叶及自身枝茎，彻底删除所有花盆、雕花基座、土团和底座；不可重新发明容器。",
+      "status": "failed"
+    },
+    {
+      "object_id": "T10-07",
+      "reason": "现有PNG把整座黄铜烛台一起带出。只保留一根完整未点燃白蜡烛及烛芯；删除全部黄铜灯座、托碗、立柱及圆底座。06号已有独立烛台。",
+      "status": "failed"
+    },
+    {
+      "object_id": "T10-23",
+      "reason": "现有PNG仍是盖着盖的黄铜容器。只保留完整敞口的空容器身及其双耳、底足和本身纹饰，完整移除炉盖和盖钮；24号已有单独的盖，不在旁边摆盖。",
+      "status": "failed"
+    },
+    {
+      "object_id": "T10-40",
+      "reason": "现有青花罐PNG仍带盖。只保留完整敞口空罐身及蓝白纹饰；完整移除圆盖、盖钮，不在旁边摆盖。41号已有独立罐盖。",
+      "status": "failed"
+    },
+    {
+      "object_id": "T12-22",
+      "reason": "精确对象是原图中央粗石供台基部前左、蕨类前方的那块低矮圆润灰色自然石，表面灰白斑驳，形体横向不规则卵石。只提取这块石头，合理补全被少量叶片遮挡的边缘；无植物、苔藓地床或其他石头。绝对不是旁边的园林石灯：禁止屋顶、灯室、窗格、塔身、基座或建筑雕刻。",
+      "status": "failed"
+    },
+    {
+      "object_id": "T12-23",
+      "reason": "精确对象是原图中央粗石供台基部前右、蕨类旁的低矮宽扁灰色自然石，表面灰白斑驳，真实轮廓与左石不同。只提取这块横向不规则圆石，合理补全少量遮挡边缘；无植物、碎石床或其他石头。绝对不是园林石灯：禁止屋顶、灯室、窗格、塔身、基座和建筑雕刻。",
+      "status": "failed"
+    }
+  ],
+  "additional_confirmed_repairs": [
+    "T14-19 candle/holder separation"
+  ],
+  "image_service_status": "Latest targeted generation attempts returned HTTP 502 from upstream; no successful round2 replacement promoted.",
+  "local_mask_candidates_status": "Five candidates inspected through HTTPS and not promoted due to visible residuals or cut-edge defects.",
+  "remaining_findings": {
+    "T06": {
+      "stage": "coverage_finalization",
+      "checks": [
+        "核对左下近景白梅与既有05/28枝材的覆盖关系，再完成整套验收。",
+        "07已披露为隐藏结构适配补全；03重复底座已归档。"
+      ]
+    },
+    "T07": {
+      "stage": "confirmed_repairs_pending",
+      "confirmed": [
+        "34绿植仍带铜盆；新生成尝试返回上游502。"
+      ],
+      "checks": [
+        "核对前景水钵水面是否另需原位层。",
+        "核对03是否重复一体莲座。"
+      ]
+    },
+    "T08": {
+      "stage": "confirmed_repairs_pending",
+      "confirmed": [
+        "19/20后方花材被添加无来源白色雕花盆，须清除。"
+      ],
+      "checks": [
+        "核对31/32前景石水钵与原图器形、材质及水面覆盖。",
+        "核对03一体莲座重复问题。"
+      ]
+    },
+    "T09": {
+      "stage": "coverage_finalization",
+      "checks": [
+        "检查前景花材覆盖与源图分区映射。",
+        "03、21、30重复候选已归档。08开口炉身已修正；实际独立炉盖编号为24，旧纠错文字写25需在后续计划整理时更正。"
+      ]
+    },
+    "T10": {
+      "stage": "confirmed_repairs_pending",
+      "confirmed": [
+        "07白蜡仍连着烛台。",
+        "23后桌金属盖器与40青花罐仍带盖，须只保留敞口器身。"
+      ],
+      "checks": [
+        "核对墙面山水屏片与固定背景归属。",
+        "29错误整灯式内芯已归档。"
+      ]
+    },
+    "T11": {
+      "stage": "coverage_finalization",
+      "checks": [
+        "卷轴与右室内盆栽已从背景清理；复查其对应物件和近景花叶覆盖。",
+        "核对22隐藏内芯，明确披露补全属性。"
+      ]
+    },
+    "T12": {
+      "stage": "confirmed_repairs_pending",
+      "confirmed": [
+        "22/23装饰石被误生成园林石灯，须按原图低矮圆润自然石重做。"
+      ],
+      "checks": [
+        "核对石供台周围蕨类及碎石地被的背景保留或独立层覆盖。",
+        "05花束已确认包含白花，不重做。21整灯式内芯已归档。"
+      ]
+    },
+    "T13": {
+      "stage": "coverage_finalization",
+      "checks": [
+        "核对前景莲池边花叶与背景/独立花材的完整对应，疑似需恢复原位环境层。",
+        "17悬灯吊链实际完整，不重复修正。03与18已归档。"
+      ]
+    },
+    "T14": {
+      "stage": "confirmed_repairs_pending",
+      "confirmed": [
+        "19柱蜡仍含黄铜托碗，须分离为干净完整蜡烛。"
+      ],
+      "checks": [
+        "核对03底座与场景平台关系。"
+      ]
+    },
+    "T16": {
+      "stage": "coverage_finalization",
+      "checks": [
+        "18疑似重复06灯具自带底座，核对源图分件边界。",
+        "两株室内绿植已从背景移除，21/23已去盆；07整灯式内芯已归档。"
+      ]
+    },
+    "T17": {
+      "stage": "coverage_finalization",
+      "checks": [
+        "核对25窗帘与空背景固定窗饰的重复覆盖。",
+        "核对壁龛蜡烛是否夹带托座。",
+        "08去盖与22绿植去盆已生成，等待整套复查。"
+      ]
+    },
+    "T18": {
+      "stage": "coverage_finalization",
+      "checks": [
+        "核对前景白花绿叶的来源覆盖，必要时增加原位层。",
+        "07隐藏内芯需明确补全属性；23供花已去掉绿色碗。"
+      ]
+    }
+  },
+  "chat_base64_images": false,
+  "full_goal_status": "active"
+}

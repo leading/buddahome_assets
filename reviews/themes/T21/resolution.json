@@ -266,7 +266,8 @@
     },
     "T21-22": {
       "status": "pass",
-      "reason": "后方玻璃灯笼用白柱蜡独立；遮挡部分按简单适配补全。"
+      "reason": "后方玻璃灯笼用白柱蜡独立；遮挡部分按简单适配补全。",
+      "evidence_type": "functional_reconstruction"
     },
     "T21-23": {
       "status": "pass",

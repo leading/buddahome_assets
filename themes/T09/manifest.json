@@ -1,13 +1,13 @@
 {
   "theme_id": "T09",
   "name": "唐风朱砂金殿",
-  "fingerprint": "4d5b00c64abd8d66e964b082ebf72f31a4fb34c8b7ba9fb1fcc76357ceb4938d",
+  "fingerprint": "c7b92ef47a56b54aaeb3da2978d01ccd3977eda7b91f774b136a9fd33526a756",
   "snapshot": {
     "theme_id": "T09",
     "review_protocol": "paired-v2",
     "source_sha256": "10704c2edd9274bbfea90228c51601f27fe455f5d8e528637a83d3483c6100e7",
     "background_sha256": "a94aadc03cb1c7255cc2bf606abc8ad31f4e033c056dae33b34171c9266073d5",
-    "plan_sha256": "bd338faa9ff7ede7d9a7c101ab2155bbf074b079558825669fe6435db4c3639a",
+    "plan_sha256": "bddebaa270f3b75c0b923636625b26f67cdce506dab9e64b47b5eb4125f831a7",
     "objects": [
       {
         "object_id": "T09-01",
@@ -112,6 +112,14 @@
       {
         "object_id": "T09-29",
         "sha256": "1a8636365bc65618fcd0666ceb221ae184365c66e0b919b3b56f4067998729fa"
+      },
+      {
+        "object_id": "T09-31",
+        "sha256": "43d77cead29289cb48748e5a88a1483a09523f26140e744d12a87d8ac6d078d7"
+      },
+      {
+        "object_id": "T09-32",
+        "sha256": "48f487492351b3fbc434f6a4b122c258f3ee6dd08a172c7a2d72ec485d17267d"
       }
     ]
   },
@@ -325,6 +333,22 @@
       "classification": "standalone_object",
       "sha256": "1a8636365bc65618fcd0666ceb221ae184365c66e0b919b3b56f4067998729fa",
       "path": "objects/T09-29.png"
+    },
+    {
+      "object_id": "T09-31",
+      "name": "左下近景粉白花簇原位层",
+      "description": "Extract ONLY the large soft-focus pink/white peony flower cluster and associated green leaves entering from the LOWER LEFT foreground. Exclude the altar vase bouquets, cushions, steps and floor. Preserve exact source placement, size, natural blur and clipping.",
+      "classification": "source_position_layer",
+      "sha256": "43d77cead29289cb48748e5a88a1483a09523f26140e744d12a87d8ac6d078d7",
+      "path": "objects/T09-31.png"
+    },
+    {
+      "object_id": "T09-32",
+      "name": "右下近景粉白花簇原位层",
+      "description": "Extract ONLY the soft-focus pink/white peony flower cluster and associated leaves entering from the LOWER RIGHT foreground. Exclude the altar vase bouquets, cushions, steps and floor. Preserve exact source placement, size, natural blur and clipping.",
+      "classification": "source_position_layer",
+      "sha256": "48f487492351b3fbc434f6a4b122c258f3ee6dd08a172c7a2d72ec485d17267d",
+      "path": "objects/T09-32.png"
     }
   ],
   "review": "../../reviews/themes/T09/overview.jpg",

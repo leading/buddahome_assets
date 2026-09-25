@@ -534,13 +534,13 @@
   {
     "theme_id": "T06",
     "name": "新罗韩屋禅堂",
-    "fingerprint": "0e2c30989dd831afd4031c5c5cef5ab7622be8c45655bcdbeaece127637ddb83",
+    "fingerprint": "b8aa8e801ab3a6bacf7613ca9993735d8e253c4053511de20a191777503021ed",
     "source_snapshot": {
       "theme_id": "T06",
       "review_protocol": "paired-v2",
       "source_sha256": "6c4e4c317d734ff2ebcac81f986c2dec05a3ed0ca6445e49082aacfb0c330933",
       "background_sha256": "b7530e73bf7153dc727853dc829252e2a1dc2366073f68b768b7ff0e7a036e6c",
-      "plan_sha256": "6a6efba1fd312108f9465c78b36b15373ec93fe9250e63385c5b87aaa259212c",
+      "plan_sha256": "a1cce728fb815589959aea42bb533e90b6c50e253b37be2c662b14996dbb5dd5",
       "objects": [
         {
           "object_id": "T06-01",
@@ -657,15 +657,19 @@
         {
           "object_id": "T06-30",
           "sha256": "2b31301e32d65508efbd5ba4ec4a30f54faf7058e70e96da2b3769d6b174d725"
+        },
+        {
+          "object_id": "T06-31",
+          "sha256": "8e6c1071bbf272b7f695d06a9f405ff39abddfbd84d79a546da1346f820541e7"
         }
       ]
     },
-    "object_count": 29,
-    "screenshot_sha256": "095fbaddab4b1390fb04d90627dce097f1b20a5c5a3f50050541b927c968dbff",
+    "object_count": 30,
+    "screenshot_sha256": "d3ab6c4a7b21980c2e731a75152a746eabef4086b8dc97d79758622c892750fc",
     "status": "pending_visual_review",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
-    "fast_preview_sha256": "554e75d0ee87ed4f1f8d914154aacdcdd12193206a6d3abe1a05e85eaab0fb71"
+    "fast_preview_sha256": "d64ffb42be1a9942eecce5f485d20d7ec4f25d79e71da94b18a49229e12e99a4"
   },
   {
     "theme_id": "T07",
@@ -978,13 +982,13 @@
   {
     "theme_id": "T09",
     "name": "唐风朱砂金殿",
-    "fingerprint": "4d5b00c64abd8d66e964b082ebf72f31a4fb34c8b7ba9fb1fcc76357ceb4938d",
+    "fingerprint": "c7b92ef47a56b54aaeb3da2978d01ccd3977eda7b91f774b136a9fd33526a756",
     "source_snapshot": {
       "theme_id": "T09",
       "review_protocol": "paired-v2",
       "source_sha256": "10704c2edd9274bbfea90228c51601f27fe455f5d8e528637a83d3483c6100e7",
       "background_sha256": "a94aadc03cb1c7255cc2bf606abc8ad31f4e033c056dae33b34171c9266073d5",
-      "plan_sha256": "bd338faa9ff7ede7d9a7c101ab2155bbf074b079558825669fe6435db4c3639a",
+      "plan_sha256": "bddebaa270f3b75c0b923636625b26f67cdce506dab9e64b47b5eb4125f831a7",
       "objects": [
         {
           "object_id": "T09-01",
@@ -1089,15 +1093,23 @@
         {
           "object_id": "T09-29",
           "sha256": "1a8636365bc65618fcd0666ceb221ae184365c66e0b919b3b56f4067998729fa"
+        },
+        {
+          "object_id": "T09-31",
+          "sha256": "43d77cead29289cb48748e5a88a1483a09523f26140e744d12a87d8ac6d078d7"
+        },
+        {
+          "object_id": "T09-32",
+          "sha256": "48f487492351b3fbc434f6a4b122c258f3ee6dd08a172c7a2d72ec485d17267d"
         }
       ]
     },
-    "object_count": 26,
-    "screenshot_sha256": "5c2613f8e24d8064d84572fb75fadcf411a26bd21e7b49230b2e80233255e84b",
+    "object_count": 28,
+    "screenshot_sha256": "dac3b9dd058919435a5c8587ae8e010f2c0f4e725c2c2ac7fe329c47674d461d",
     "status": "pending_visual_review",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
-    "fast_preview_sha256": "e4190227d620d1da804672ddf26bc92fd3adab0f29f5213a9d54edd14e0d14ea"
+    "fast_preview_sha256": "24964e4fb2c0698a31b1cab9a53c0af8743486d386511ab6d1bd09b2f0107eb1"
   },
   {
     "theme_id": "T10",
@@ -1270,13 +1282,13 @@
   {
     "theme_id": "T11",
     "name": "江南雨窗佛堂",
-    "fingerprint": "d1b9e96cf7c7c5e54d4aeb9ace262eab38808bbd16389ecf78d4f6cee669590f",
+    "fingerprint": "3a3c2b1116ffba42dc9f39323342847780d0b26cdee9dc15bf637145fd3af560",
     "source_snapshot": {
       "theme_id": "T11",
       "review_protocol": "paired-v2",
       "source_sha256": "f685283f987bf713f1d13ba060017f5aa786f77a76cdf770c6bb2351e84500a3",
       "background_sha256": "edc8309672e317c164ed87c024182bcac5b4064da2ec66441627a7d522608b8c",
-      "plan_sha256": "707b0f959375460801814090df738d105abf35d4f736bced6bb3a813af74da13",
+      "plan_sha256": "d9806bfb6d6e9f01ca66781fa4e347347a85186ed030cd20f880affd173c1fbb",
       "objects": [
         {
           "object_id": "T11-01",
@@ -1373,15 +1385,19 @@
         {
           "object_id": "T11-27",
           "sha256": "e0875c94cddfc45ac526f76404160f0ec37cb608e59161674d26bcd48cdd295d"
+        },
+        {
+          "object_id": "T11-28",
+          "sha256": "9efcaeb0d716c3adee5b5c80a34e2d366c29109baef9381c072b8e1afe6ea678"
         }
       ]
     },
-    "object_count": 24,
-    "screenshot_sha256": "f35684ec434d6a44817209aab19f4256e5e833ccad09bce93795bcff1a4f48d5",
+    "object_count": 25,
+    "screenshot_sha256": "f8c4bc7c10e8493b4902afa6ea588f47597400f3846d3fc4aae9826e72a18c43",
     "status": "pending_visual_review",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
-    "fast_preview_sha256": "dfab48352c123aadee230eb169a4be44d928e01ffba8d95703ffb01ca42e756a"
+    "fast_preview_sha256": "ea9ac1267933b1bc04a9bbb2ceb3cd4b6cf68a2fea4866feb4d113258cb9a3fa"
   },
   {
     "theme_id": "T12",
@@ -1910,7 +1926,7 @@
     },
     "object_count": 25,
     "screenshot_sha256": "c46bbedeb3b7494058bc5656d5e387741d03f514dbbc331f32df8623a29aceaf",
-    "status": "pending_visual_review",
+    "status": "verified",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
     "fast_preview_sha256": "c64fd9df830a3b2b644a0a72630fc8d94d35cde9a8f4e5897ee9dc8c28d208b0"
@@ -2146,7 +2162,7 @@
     },
     "object_count": 23,
     "screenshot_sha256": "0b71f6d4dcab54e706a7a15703a5953892757c8a56fa62e0436614aab2e2d589",
-    "status": "pending_visual_review",
+    "status": "verified",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
     "fast_preview_sha256": "4eaa79854446a225682b1adee34fb9320e725c05173823c5cfb0e8d45a4feac6"

@@ -1,13 +1,13 @@
 {
   "theme_id": "T06",
   "name": "新罗韩屋禅堂",
-  "fingerprint": "0e2c30989dd831afd4031c5c5cef5ab7622be8c45655bcdbeaece127637ddb83",
+  "fingerprint": "b8aa8e801ab3a6bacf7613ca9993735d8e253c4053511de20a191777503021ed",
   "snapshot": {
     "theme_id": "T06",
     "review_protocol": "paired-v2",
     "source_sha256": "6c4e4c317d734ff2ebcac81f986c2dec05a3ed0ca6445e49082aacfb0c330933",
     "background_sha256": "b7530e73bf7153dc727853dc829252e2a1dc2366073f68b768b7ff0e7a036e6c",
-    "plan_sha256": "6a6efba1fd312108f9465c78b36b15373ec93fe9250e63385c5b87aaa259212c",
+    "plan_sha256": "a1cce728fb815589959aea42bb533e90b6c50e253b37be2c662b14996dbb5dd5",
     "objects": [
       {
         "object_id": "T06-01",
@@ -124,6 +124,10 @@
       {
         "object_id": "T06-30",
         "sha256": "2b31301e32d65508efbd5ba4ec4a30f54faf7058e70e96da2b3769d6b174d725"
+      },
+      {
+        "object_id": "T06-31",
+        "sha256": "8e6c1071bbf272b7f695d06a9f405ff39abddfbd84d79a546da1346f820541e7"
       }
     ]
   },
@@ -361,6 +365,14 @@
       "classification": "standalone_object",
       "sha256": "2b31301e32d65508efbd5ba4ec4a30f54faf7058e70e96da2b3769d6b174d725",
       "path": "objects/T06-30.png"
+    },
+    {
+      "object_id": "T06-31",
+      "name": "左下近景白梅枝原位层",
+      "description": "Extract ONLY the soft-focus white plum blossoms and their brown branches overlapping the LOWER LEFT foreground of the original scene. Exclude the separate vase arrangement on the altar and all furniture. Preserve every visible foreground blossom and branch at its exact original position, size and edge clipping; no invented pot, roots or whole tree.",
+      "classification": "source_position_layer",
+      "sha256": "8e6c1071bbf272b7f695d06a9f405ff39abddfbd84d79a546da1346f820541e7",
+      "path": "objects/T06-31.png"
     }
   ],
   "review": "../../reviews/themes/T06/overview.jpg",

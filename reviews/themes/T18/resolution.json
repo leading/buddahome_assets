@@ -1,0 +1,366 @@
+{
+  "theme_id": "T18",
+  "status": "resolved",
+  "review_method": "direct_https_html_screenshot_visual_inspection",
+  "fingerprint": "c43180532efce3eea1b5a072f5247a84bdfd6b80edf91c31f8db3855692e9196",
+  "snapshot": {
+    "theme_id": "T18",
+    "review_protocol": "paired-v2",
+    "source_sha256": "e6e91cf8977c1ef383b80139508c10ac2e9a5c8f379f2b866492af541a971c50",
+    "background_sha256": "d8aec39e71bc0a2a62a763913862084f3cd4404368fabc3d50c1c7618f70ab27",
+    "plan_sha256": "49a59e499f9ca0c7d8b2db74684cfcf3fb8a833d6e000687b84cb158b27ef88d",
+    "objects": [
+      {
+        "object_id": "T18-01",
+        "sha256": "f1fa1daadf59fc4b1ac725c27df7aaeb8f32be7557253347d38143b400282056"
+      },
+      {
+        "object_id": "T18-02",
+        "sha256": "f5730c117f1df830a65a0909500821088f6fafd7b7343fd793c4f96681af5ed3"
+      },
+      {
+        "object_id": "T18-03",
+        "sha256": "6ccddf6f9e75aa09e4b6d10738298a22acd8c73af5231d2fc25ae9d35cc7b4ac"
+      },
+      {
+        "object_id": "T18-04",
+        "sha256": "92a30e136f412a21f704598f4a572a119be9b8289ccc37fc5a9157de5528c3ef"
+      },
+      {
+        "object_id": "T18-05",
+        "sha256": "1f6b163ebb520b7b26bda203cf52676edf7d19d8405979aefd861c2e17bacefe"
+      },
+      {
+        "object_id": "T18-06",
+        "sha256": "800050fb32f63ecf8008bedb5d842935c649de19ddd72b197398acbf55654f3b"
+      },
+      {
+        "object_id": "T18-07",
+        "sha256": "7c30d7f0fa36af280480359f2ef2838a38616fec198795c11645c8c4dc45b2e3"
+      },
+      {
+        "object_id": "T18-08",
+        "sha256": "762cf283ef4a84a83cf48f7f33c711281959002c45f13135c280782bf03c302f"
+      },
+      {
+        "object_id": "T18-09",
+        "sha256": "02867a5db1b13b4a547cb666dd44b897054df04980d21deacdaafca80599cf79"
+      },
+      {
+        "object_id": "T18-10",
+        "sha256": "0e47977ff9c633c853aafd49ef994b2dcd2963272cddcd9ed3f220155ee6e469"
+      },
+      {
+        "object_id": "T18-11",
+        "sha256": "92667a79be4a856c131757c2df46317393eeb5271a64683641c08077986c3d59"
+      },
+      {
+        "object_id": "T18-12",
+        "sha256": "f969510dd9966fb190d2fb57e9c4e6fff5a73ae0aba1c8024935681013eb6afd"
+      },
+      {
+        "object_id": "T18-13",
+        "sha256": "b94ecf08aa5733a5b581f38c473721395ea050f6dacc0bdb62236192f19c31bf"
+      },
+      {
+        "object_id": "T18-14",
+        "sha256": "a0edf5fe9088306e32da94e0881c131ca47b0571a320d1e296c9cb4bb4e67ff2"
+      },
+      {
+        "object_id": "T18-17",
+        "sha256": "228c0e451d01e4eb90e37b984c67a12a62d4349dce72b822c9281d46e5bf40a8"
+      },
+      {
+        "object_id": "T18-18",
+        "sha256": "0a68861f0d39280d1ca903d4caae0fa1b870615f7122b267002bce08fa494fb2"
+      },
+      {
+        "object_id": "T18-19",
+        "sha256": "7769c71972b803deb5251d104814f8807538563c8c05aab3ef819a4dcd04ebd1"
+      },
+      {
+        "object_id": "T18-20",
+        "sha256": "0aa0d2f574a6845dfa8125f1bacbe91d6d8708b5ddd355f5e06d72c29abfc51e"
+      },
+      {
+        "object_id": "T18-21",
+        "sha256": "bd44dda62aaf5241281a4f79f203194129b0d677ef43a3cced873ecf3b217a3a"
+      },
+      {
+        "object_id": "T18-22",
+        "sha256": "7305011368daf5aa84ed4993cf00b20132a61dda97cbed9f221032816f90eab3"
+      },
+      {
+        "object_id": "T18-23",
+        "sha256": "e9c68bd5a93d83acc9cf30adc43d6132b5de89fdff21d16c174c7262a207852b"
+      },
+      {
+        "object_id": "T18-24",
+        "sha256": "e32dee16eb8987444b5dd50b012a68849a777081abde3851a1dac07b0a370456"
+      },
+      {
+        "object_id": "T18-25",
+        "sha256": "8b29988fdb84ee047b839b74d87e6c2d818029dad8fb625b448a085abf0045ec"
+      }
+    ]
+  },
+  "coverage": {
+    "status": "pass",
+    "unresolved": [],
+    "source_mapping": [
+      {
+        "source_region": "前后两供台、坐佛及基座",
+        "asset_ids": [
+          "T18-01",
+          "T18-02",
+          "T18-03",
+          "T18-17"
+        ]
+      },
+      {
+        "source_region": "两侧绿玻璃瓶和花束",
+        "asset_ids": [
+          "T18-04",
+          "T18-05",
+          "T18-18",
+          "T18-19"
+        ]
+      },
+      {
+        "source_region": "成对玻璃灯与适配内芯",
+        "asset_ids": [
+          "T18-06",
+          "T18-07"
+        ]
+      },
+      {
+        "source_region": "香炉及盖、线香",
+        "asset_ids": [
+          "T18-08",
+          "T18-09",
+          "T18-20"
+        ]
+      },
+      {
+        "source_region": "金果盘与葡萄",
+        "asset_ids": [
+          "T18-10",
+          "T18-11"
+        ]
+      },
+      {
+        "source_region": "绿色茶壶、杯碟及深圆盘",
+        "asset_ids": [
+          "T18-12",
+          "T18-13",
+          "T18-14",
+          "T18-21"
+        ]
+      },
+      {
+        "source_region": "小供花碗与白花簇",
+        "asset_ids": [
+          "T18-22",
+          "T18-23"
+        ]
+      },
+      {
+        "source_region": "绿金流苏桌旗",
+        "asset_ids": [
+          "T18-24"
+        ]
+      },
+      {
+        "source_region": "左下近景花叶",
+        "asset_ids": [
+          "T18-25"
+        ]
+      }
+    ]
+  },
+  "background": {
+    "status": "pass",
+    "unresolved": [],
+    "reason": "固定新艺术彩玻璃、雕花框架、室内建筑和地面保留；前后供台、金属佛像与底座、两侧灯、花器、香果茶具、桌旗及近景白花已移除。彩玻璃内的佛像图案属于窗画，没有虚构第二尊雕像。"
+  },
+  "objects": {
+    "T18-01": {
+      "status": "pass",
+      "reason": "前方深木供桌完整空置，无桌旗。"
+    },
+    "T18-02": {
+      "status": "pass",
+      "reason": "独立金属坐佛完整，无彩窗或木基座。"
+    },
+    "T18-03": {
+      "status": "pass",
+      "reason": "深木金饰雕像底座独立。"
+    },
+    "T18-04": {
+      "status": "pass",
+      "reason": "左侧绿玻璃花瓶空置，保留金底。"
+    },
+    "T18-05": {
+      "status": "pass",
+      "reason": "左瓶白花绿簇枝束独立，无瓶。"
+    },
+    "T18-06": {
+      "status": "pass",
+      "reason": "金属雕饰玻璃灯壳独立，同款成对灯复用。"
+    },
+    "T18-07": {
+      "status": "pass",
+      "reason": "独立未燃金属灯内芯；遮挡内部为适配重建，无灯罩。"
+    },
+    "T18-08": {
+      "status": "pass",
+      "reason": "绿色金纹空香炉碗，无炉盖。"
+    },
+    "T18-09": {
+      "status": "pass",
+      "reason": "单根未燃线香，无炉。"
+    },
+    "T18-10": {
+      "status": "pass",
+      "reason": "金色浅果盘空置，无葡萄。"
+    },
+    "T18-11": {
+      "status": "pass",
+      "reason": "独立绿葡萄串，无盘。"
+    },
+    "T18-12": {
+      "status": "pass",
+      "reason": "绿色金饰茶壶完整，无茶盘。"
+    },
+    "T18-13": {
+      "status": "pass",
+      "reason": "绿色金边茶杯独立，无碟。"
+    },
+    "T18-14": {
+      "status": "pass",
+      "reason": "深色圆茶盘完整空置。"
+    },
+    "T18-17": {
+      "status": "pass",
+      "reason": "后方高供台独立空置，区别前桌与雕像底座。"
+    },
+    "T18-18": {
+      "status": "pass",
+      "reason": "右侧绿玻璃花瓶空置。"
+    },
+    "T18-19": {
+      "status": "pass",
+      "reason": "右侧白花绿叶枝束独立。"
+    },
+    "T18-20": {
+      "status": "pass",
+      "reason": "金色镂空香炉盖独立，无炉身。"
+    },
+    "T18-21": {
+      "status": "pass",
+      "reason": "绿色金边杯碟空置。"
+    },
+    "T18-22": {
+      "status": "pass",
+      "reason": "绿色供花碗完整空置。"
+    },
+    "T18-23": {
+      "status": "pass",
+      "reason": "碗中白花簇独立，绿色碗已去除。"
+    },
+    "T18-24": {
+      "status": "pass",
+      "reason": "绿金花纹流苏桌旗独立，无桌面。"
+    },
+    "T18-25": {
+      "status": "pass",
+      "reason": "左下前景白花绿叶原位层，未粘连地面家具。"
+    }
+  },
+  "retired_candidates": [],
+  "supplemental_evidence": [],
+  "evidence": [
+    {
+      "kind": "whole_source_coverage",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T18_新艺术琉璃花房佛堂/拆后检查/直接HTML检查/c43180532efce3ee/direct-visual-review.md",
+      "text_sha256": "f32d19a277375faa0ea4fc745fa84b588c9462b5f692c51f00d65f1488a25ad9",
+      "wanted_ids": []
+    },
+    {
+      "kind": "empty_background",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T18_新艺术琉璃花房佛堂/拆后检查/直接HTML检查/c43180532efce3ee/direct-visual-review.md",
+      "text_sha256": "f32d19a277375faa0ea4fc745fa84b588c9462b5f692c51f00d65f1488a25ad9",
+      "wanted_ids": []
+    },
+    {
+      "kind": "individual_assets",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T18_新艺术琉璃花房佛堂/拆后检查/直接HTML检查/c43180532efce3ee/direct-visual-review.md",
+      "text_sha256": "f32d19a277375faa0ea4fc745fa84b588c9462b5f692c51f00d65f1488a25ad9",
+      "wanted_ids": [
+        "T18-01",
+        "T18-02",
+        "T18-03",
+        "T18-04",
+        "T18-05",
+        "T18-06",
+        "T18-07",
+        "T18-08",
+        "T18-09",
+        "T18-10",
+        "T18-11",
+        "T18-12",
+        "T18-13",
+        "T18-14",
+        "T18-17",
+        "T18-18",
+        "T18-19",
+        "T18-20",
+        "T18-21",
+        "T18-22",
+        "T18-23",
+        "T18-24",
+        "T18-25"
+      ]
+    }
+  ],
+  "direct_visual_review": {
+    "manifest_path": "exports/buddhahome-theme-assets/01_主题总库/T18_新艺术琉璃花房佛堂/拆后检查/直接HTML检查/c43180532efce3ee/manifest.json",
+    "screenshot_sha256": "0b71f6d4dcab54e706a7a15703a5953892757c8a56fa62e0436614aab2e2d589",
+    "repository_commit": "8e1a45e1ad0b84a7aa7298a5f42dfd929320abbc",
+    "viewed_https_url": "https://raw.githubusercontent.com/leading/buddahome_assets/8e1a45e1ad0b84a7aa7298a5f42dfd929320abbc/reviews/themes/T18/overview-fast.jpg",
+    "reviewed_ids": [
+      "T18-01",
+      "T18-02",
+      "T18-03",
+      "T18-04",
+      "T18-05",
+      "T18-06",
+      "T18-07",
+      "T18-08",
+      "T18-09",
+      "T18-10",
+      "T18-11",
+      "T18-12",
+      "T18-13",
+      "T18-14",
+      "T18-17",
+      "T18-18",
+      "T18-19",
+      "T18-20",
+      "T18-21",
+      "T18-22",
+      "T18-23",
+      "T18-24",
+      "T18-25"
+    ],
+    "source_inspected": true,
+    "background_inspected": true,
+    "inspected_at": "2026-09-25T20:16:13.432878+00:00",
+    "viewed_jpeg_sha256": "4eaa79854446a225682b1adee34fb9320e725c05173823c5cfb0e8d45a4feac6"
+  },
+  "limitations": [
+    "隐藏表面为适配补全；不宣称逐像素还原。",
+    "T18-07为玻璃灯中遮挡内芯的金属结构适配重建，不宣称源图可见其内部细节，也未改造成白蜡烛。"
+  ],
+  "updated_at": "2026-09-25T20:16:13.434701+00:00"
+}

@@ -1,13 +1,13 @@
 {
   "theme_id": "T11",
   "name": "江南雨窗佛堂",
-  "fingerprint": "d1b9e96cf7c7c5e54d4aeb9ace262eab38808bbd16389ecf78d4f6cee669590f",
+  "fingerprint": "3a3c2b1116ffba42dc9f39323342847780d0b26cdee9dc15bf637145fd3af560",
   "snapshot": {
     "theme_id": "T11",
     "review_protocol": "paired-v2",
     "source_sha256": "f685283f987bf713f1d13ba060017f5aa786f77a76cdf770c6bb2351e84500a3",
     "background_sha256": "edc8309672e317c164ed87c024182bcac5b4064da2ec66441627a7d522608b8c",
-    "plan_sha256": "707b0f959375460801814090df738d105abf35d4f736bced6bb3a813af74da13",
+    "plan_sha256": "d9806bfb6d6e9f01ca66781fa4e347347a85186ed030cd20f880affd173c1fbb",
     "objects": [
       {
         "object_id": "T11-01",
@@ -104,6 +104,10 @@
       {
         "object_id": "T11-27",
         "sha256": "e0875c94cddfc45ac526f76404160f0ec37cb608e59161674d26bcd48cdd295d"
+      },
+      {
+        "object_id": "T11-28",
+        "sha256": "9efcaeb0d716c3adee5b5c80a34e2d366c29109baef9381c072b8e1afe6ea678"
       }
     ]
   },
@@ -301,6 +305,14 @@
       "classification": "standalone_object",
       "sha256": "e0875c94cddfc45ac526f76404160f0ec37cb608e59161674d26bcd48cdd295d",
       "path": "objects/T11-27.png"
+    },
+    {
+      "object_id": "T11-28",
+      "name": "左下近景白花绿叶原位层",
+      "description": "Extract ONLY the large soft-focus white camellia flowers and green leaves entering the LOWER LEFT foreground. Exclude the small separate offering flower on the tea table, the altar bouquet, tables and floor. Preserve exact source placement, size, natural blur and clipping.",
+      "classification": "source_position_layer",
+      "sha256": "9efcaeb0d716c3adee5b5c80a34e2d366c29109baef9381c072b8e1afe6ea678",
+      "path": "objects/T11-28.png"
     }
   ],
   "review": "../../reviews/themes/T11/overview.jpg",

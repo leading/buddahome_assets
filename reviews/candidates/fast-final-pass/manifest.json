@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T20:07:38.974675+00:00",
+  "updated_at": "2026-09-25T20:22:04.036954+00:00",
   "candidates": [
     {
       "id": "T14-19",
@@ -48,21 +48,21 @@
       "kind": "addition",
       "sha256": "8e6c1071bbf272b7f695d06a9f405ff39abddfbd84d79a546da1346f820541e7",
       "source_sha256": "6c4e4c317d734ff2ebcac81f986c2dec05a3ed0ca6445e49082aacfb0c330933",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T09-31",
       "kind": "addition",
       "sha256": "43d77cead29289cb48748e5a88a1483a09523f26140e744d12a87d8ac6d078d7",
       "source_sha256": "10704c2edd9274bbfea90228c51601f27fe455f5d8e528637a83d3483c6100e7",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T09-32",
       "kind": "addition",
       "sha256": "48f487492351b3fbc434f6a4b122c258f3ee6dd08a172c7a2d72ec485d17267d",
       "source_sha256": "10704c2edd9274bbfea90228c51601f27fe455f5d8e528637a83d3483c6100e7",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T10-42",
@@ -76,7 +76,7 @@
       "kind": "addition",
       "sha256": "9efcaeb0d716c3adee5b5c80a34e2d366c29109baef9381c072b8e1afe6ea678",
       "source_sha256": "f685283f987bf713f1d13ba060017f5aa786f77a76cdf770c6bb2351e84500a3",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T12-25",
@@ -84,6 +84,20 @@
       "sha256": "03aceb325fcded9a5ff876dec5d1a06214e910275437079942ff0aa105e8f958",
       "source_sha256": "948d10285302fb20b701bcf3852aaff595ca33d9cc3793c424b878e551f12f47",
       "status": "promoted_after_https_review"
+    },
+    {
+      "id": "T13-27",
+      "kind": "addition",
+      "sha256": "7ed018c4e1b3d1fcc20eddb60b6193f0a4f15e37bf56c0852bd53fcd0602e314",
+      "source_sha256": "f8fe6541602bbc00a9350c7114468ddd3558b94ef1d42308fb8975b63c5dd9a0",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T13-28",
+      "kind": "addition",
+      "sha256": "1591d1cce45e35b8c130789c336c2d010316089790bb0d2b4e7f5cf6178a3ec0",
+      "source_sha256": "f8fe6541602bbc00a9350c7114468ddd3558b94ef1d42308fb8975b63c5dd9a0",
+      "status": "generated_pending_review"
     },
     {
       "id": "T18-25",
@@ -126,6 +140,97 @@
       "sha256": "25325eb4be696652a10cf90eb3ed890247e451f31eb1ef00521a943dddbcbde7",
       "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
       "status": "promoted_after_https_review"
+    },
+    {
+      "id": "T07-34",
+      "kind": "replacement",
+      "sha256": "fe8363fac221466e5093d55c90cf3d0d48c5bf61e9fa6d786d07a65a68c68e3d",
+      "source_sha256": "a57e65ce8714c601d031d46b178651d6d2e2e3fd28d97ea8db6a725a5fd6a0cc",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T08-19",
+      "kind": "replacement",
+      "sha256": "6554353f1cc25cd6ab7acc386ad6fdcddfa0a5dd9ba23686ea420c9877497c80",
+      "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T08-20",
+      "kind": "replacement",
+      "sha256": "87ea99344d1aa050ec041c52f829912a2a5e0900aa5181185160efb8e1858087",
+      "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T10-23",
+      "kind": "replacement",
+      "sha256": "99ac082aca22e8bb8ecca146aee74510f792c66fa85ff62d1839619e58bb66c4",
+      "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T10-40",
+      "kind": "replacement",
+      "sha256": "6540bbb0bd513989abc5182fb1a1fb93da1017bfdf9d27482b0d4cdf85f85848",
+      "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T12-22",
+      "kind": "replacement",
+      "sha256": "955862c2cdafe842cece1c4bc3c84448c1f03cd5c1a75dd9ee2a53dd0592f4b9",
+      "source_sha256": "948d10285302fb20b701bcf3852aaff595ca33d9cc3793c424b878e551f12f47",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T12-23",
+      "kind": "replacement",
+      "sha256": "69039e6c46e35497110a9628fbcf3491337a67a22759ad28b45a854674abfe32",
+      "source_sha256": "948d10285302fb20b701bcf3852aaff595ca33d9cc3793c424b878e551f12f47",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T08-36",
+      "kind": "addition",
+      "sha256": "39477bbfaea9c496a4960e656af4ac0899fa51aca93433e494aad65b2607519d",
+      "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T10-43",
+      "kind": "addition",
+      "sha256": "987cd4ccc42d344ea527d8d816cc1b4816288a19c1b39810cef4c931006ceea1",
+      "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T10-44",
+      "kind": "addition",
+      "sha256": "97ed61c2a77e20085f0ddd81e67b76d4422f7f0bbc5232b4ed19c66f7650642f",
+      "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T14-28",
+      "kind": "addition",
+      "sha256": "5a4e9b066f6cda25cadd459f215c9c1fc86df9f8ed4eb323ccef2bd47ab2e5fb",
+      "source_sha256": "ffeac69e152110e84286aaaeeb2012b609ea294f81b9a6252c3b7c932d92c5df",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T17-28",
+      "kind": "addition",
+      "sha256": "702f95590e4766f962705e912d3c3cb718b1687cac645f169f7344d237f97900",
+      "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T17-BG2",
+      "kind": "background",
+      "sha256": "e3fba34e073ba9a7d455ff8bdd8c5062459a2da1ee8564037680742816667183",
+      "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
+      "status": "generated_pending_review"
     }
   ],
   "not_final_theme_acceptance": true

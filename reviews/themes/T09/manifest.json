@@ -1,13 +1,13 @@
 {
   "theme_id": "T09",
   "name": "唐风朱砂金殿",
-  "fingerprint": "4d5b00c64abd8d66e964b082ebf72f31a4fb34c8b7ba9fb1fcc76357ceb4938d",
+  "fingerprint": "c7b92ef47a56b54aaeb3da2978d01ccd3977eda7b91f774b136a9fd33526a756",
   "source_snapshot": {
     "theme_id": "T09",
     "review_protocol": "paired-v2",
     "source_sha256": "10704c2edd9274bbfea90228c51601f27fe455f5d8e528637a83d3483c6100e7",
     "background_sha256": "a94aadc03cb1c7255cc2bf606abc8ad31f4e033c056dae33b34171c9266073d5",
-    "plan_sha256": "bd338faa9ff7ede7d9a7c101ab2155bbf074b079558825669fe6435db4c3639a",
+    "plan_sha256": "bddebaa270f3b75c0b923636625b26f67cdce506dab9e64b47b5eb4125f831a7",
     "objects": [
       {
         "object_id": "T09-01",
@@ -112,13 +112,21 @@
       {
         "object_id": "T09-29",
         "sha256": "1a8636365bc65618fcd0666ceb221ae184365c66e0b919b3b56f4067998729fa"
+      },
+      {
+        "object_id": "T09-31",
+        "sha256": "43d77cead29289cb48748e5a88a1483a09523f26140e744d12a87d8ac6d078d7"
+      },
+      {
+        "object_id": "T09-32",
+        "sha256": "48f487492351b3fbc434f6a4b122c258f3ee6dd08a172c7a2d72ec485d17267d"
       }
     ]
   },
-  "object_count": 26,
-  "screenshot_sha256": "5c2613f8e24d8064d84572fb75fadcf411a26bd21e7b49230b2e80233255e84b",
+  "object_count": 28,
+  "screenshot_sha256": "dac3b9dd058919435a5c8587ae8e010f2c0f4e725c2c2ac7fe329c47674d461d",
   "status": "pending_visual_review",
   "screenshot": "overview.png",
   "fast_preview": "overview-fast.jpg",
-  "fast_preview_sha256": "e4190227d620d1da804672ddf26bc92fd3adab0f29f5213a9d54edd14e0d14ea"
+  "fast_preview_sha256": "24964e4fb2c0698a31b1cab9a53c0af8743486d386511ab6d1bd09b2f0107eb1"
 }

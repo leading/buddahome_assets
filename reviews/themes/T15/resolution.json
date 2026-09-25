@@ -1,0 +1,255 @@
+{
+  "theme_id": "T15",
+  "status": "resolved",
+  "review_method": "direct_https_html_screenshot_visual_inspection",
+  "fingerprint": "b7e57a347feb1f61e48d19c2c6831fb515a0c69d67a120dfd19f971370658cac",
+  "snapshot": {
+    "theme_id": "T15",
+    "review_protocol": "paired-v2",
+    "source_sha256": "852be4bf6fa128a597cd1442e7372eef3f45a171de970332723ba562b5bda521",
+    "background_sha256": "bec19e2997cd47de72868b83ac95fe0f9c1b860bd5bceaf19ef52c3947a6cd86",
+    "plan_sha256": "26f9d5f26008ea13894254ec34411d7845e6b7e370b9ed95cb3faac1c0b7f380",
+    "objects": [
+      {
+        "object_id": "T15-02",
+        "sha256": "637e22e5c1a8c33c2809c5d6f9e094d4e8cadb5e126248376f219a370e1085a1"
+      },
+      {
+        "object_id": "T15-04",
+        "sha256": "10291045d91c2b9fdc432e4b585ad23fae1d69758dc85311aad79ec42e820752"
+      },
+      {
+        "object_id": "T15-05",
+        "sha256": "5b31f9dd2790015311f4529e0fea6f91e39515a32af4c497ee7e5fb5dd2bc931"
+      },
+      {
+        "object_id": "T15-06",
+        "sha256": "39a2e8f277c1fdeb27a74e66a6762c6b9b81fd5b1325be29712169a71f4225e5"
+      },
+      {
+        "object_id": "T15-07",
+        "sha256": "b28f28de0f43c782de73d0d8a054584a14a07306bc11d917c8d878b16ff79d5e"
+      },
+      {
+        "object_id": "T15-08",
+        "sha256": "3ba9d81c297048be93e185da08a803e5bcab0e60a780dc609cd50ae979caa616"
+      },
+      {
+        "object_id": "T15-09",
+        "sha256": "86d12f2422303545e40c76ccc524b9423d98836e4d7e6ad34a32c63f60c4c08c"
+      },
+      {
+        "object_id": "T15-10",
+        "sha256": "4551cd0f675286cbff13ec3acd768d624b5adbfa279529ca6697f77492ea1bfc"
+      },
+      {
+        "object_id": "T15-11",
+        "sha256": "0d94a46920290072a1620721362e1d544e938449a6b78bd7a9607bd043c4795d"
+      },
+      {
+        "object_id": "T15-12",
+        "sha256": "c82272fe3f6617e87951105900f45a0992b9cf49c5f153c35062792606f25029"
+      },
+      {
+        "object_id": "T15-13",
+        "sha256": "d1d3490312199863e94521f040836f98825659dc40e0741f247e497392f8e590"
+      },
+      {
+        "object_id": "T15-14",
+        "sha256": "0ed32dc555696201b339ba19c1adf76cab581c19231a760f37d84798e1005c03"
+      }
+    ]
+  },
+  "coverage": {
+    "status": "pass",
+    "unresolved": [],
+    "source_mapping": [
+      {
+        "source_region": "墙龛中央雕像",
+        "asset_ids": [
+          "T15-02"
+        ]
+      },
+      {
+        "source_region": "左侧瓶花",
+        "asset_ids": [
+          "T15-04",
+          "T15-05"
+        ]
+      },
+      {
+        "source_region": "左右壁龛灯盏及可复用蜡烛",
+        "asset_ids": [
+          "T15-06",
+          "T15-07"
+        ]
+      },
+      {
+        "source_region": "台面中央香炉和线香",
+        "asset_ids": [
+          "T15-08",
+          "T15-09"
+        ]
+      },
+      {
+        "source_region": "左前果盘和同款梨",
+        "asset_ids": [
+          "T15-10",
+          "T15-11"
+        ]
+      },
+      {
+        "source_region": "右前茶壶、茶杯及矩形托盘",
+        "asset_ids": [
+          "T15-12",
+          "T15-13",
+          "T15-14"
+        ]
+      }
+    ]
+  },
+  "background": {
+    "status": "pass",
+    "unresolved": [],
+    "reason": "墙龛、固定台阶与石平台、侧壁灯龛、混凝土墙和反射石地保留；雕像、瓶花、灯具、香炉、果碗和茶具清除。03重复建筑平台已归入背景，不再叠放。"
+  },
+  "objects": {
+    "T15-02": {
+      "status": "pass",
+      "reason": "深色石坐佛完整独立，无固定平台。"
+    },
+    "T15-04": {
+      "status": "pass",
+      "reason": "单只黑灰陶瓶空置，无花枝。"
+    },
+    "T15-05": {
+      "status": "pass",
+      "reason": "浅色花枝独立，保留可插入枝脚。"
+    },
+    "T15-06": {
+      "status": "pass",
+      "reason": "壁龛中的小深色灯盏独立空置。"
+    },
+    "T15-07": {
+      "status": "pass",
+      "reason": "一根未点燃窄蜡烛，未带灯盏或底碟。"
+    },
+    "T15-08": {
+      "status": "pass",
+      "reason": "完整敞口三足香炉，无线香、灰或烟。"
+    },
+    "T15-09": {
+      "status": "pass",
+      "reason": "单根未点燃线香独立。"
+    },
+    "T15-10": {
+      "status": "pass",
+      "reason": "深色浅果盘空置，无梨。"
+    },
+    "T15-11": {
+      "status": "pass",
+      "reason": "单个梨保留梨柄，无盘。"
+    },
+    "T15-12": {
+      "status": "pass",
+      "reason": "黑色提梁茶壶完整，未粘连杯或托盘。"
+    },
+    "T15-13": {
+      "status": "pass",
+      "reason": "单只深色茶杯空置，无盘及其他杯。"
+    },
+    "T15-14": {
+      "status": "pass",
+      "reason": "右侧矩形茶托独立空置，无茶具。"
+    }
+  },
+  "retired_candidates": [
+    {
+      "object_id": "T15-03",
+      "status": "retired_fixed_architecture",
+      "covered_by": [],
+      "covered_by_background": true,
+      "retained_asset_sha256": {},
+      "reason": "源图坐佛下方为墙龛一体浇筑的固定石平台，空背景已完整保留。原计划明确建筑平台应留背景；03的独立灰石板是重复建筑件，不能再当可移动家具叠放。",
+      "original_candidate": {
+        "slot": 3,
+        "name": "佛像底座",
+        "category": "家具与底座",
+        "subcategory": "底座",
+        "ability": "可承托",
+        "texture": "1k",
+        "description": "仅提取源图佛像本体下可辨为独立可移动的深灰底座；如果所见底座就是墙龛固定石平台，则返回全透明空图，保留建筑平台在背景。",
+        "review_note": "依据源图盘点模型草稿细化；数量、材质及可拆关系待视觉复核。"
+      },
+      "retired_at": "2026-09-25T16:00:26.352411+00:00",
+      "source_sha256": "852be4bf6fa128a597cd1442e7372eef3f45a171de970332723ba562b5bda521",
+      "retired_png_sha256": "d063fe1f3175e9a24c180a794ab6792b486fdaea7bce0eab20c70c1aab24effb",
+      "archived_png": "历史版本/候选退役/T15-03/d063fe1f3175e9a2/T15_03_佛像底座.png",
+      "evidence_metadata": "exports/buddhahome-theme-assets/01_主题总库/T15_清水混凝土极简佛堂/拆后检查/直接退役证据/51da0203e940f4bd/T15-03.json",
+      "evidence_text_sha256": "f0ca6caaad5fa6005b876e23d750d188928385197b604d3d263fe996e30736b2",
+      "retained_background_sha256": "bec19e2997cd47de72868b83ac95fe0f9c1b860bd5bceaf19ef52c3947a6cd86"
+    }
+  ],
+  "supplemental_evidence": [],
+  "evidence": [
+    {
+      "kind": "whole_source_coverage",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T15_清水混凝土极简佛堂/拆后检查/直接HTML检查/b7e57a347feb1f61/direct-visual-review.md",
+      "text_sha256": "c8309340933cf1864002cf1b3115869ee6bc86b08e353f20f7ed4aa39154a803",
+      "wanted_ids": []
+    },
+    {
+      "kind": "empty_background",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T15_清水混凝土极简佛堂/拆后检查/直接HTML检查/b7e57a347feb1f61/direct-visual-review.md",
+      "text_sha256": "c8309340933cf1864002cf1b3115869ee6bc86b08e353f20f7ed4aa39154a803",
+      "wanted_ids": []
+    },
+    {
+      "kind": "individual_assets",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T15_清水混凝土极简佛堂/拆后检查/直接HTML检查/b7e57a347feb1f61/direct-visual-review.md",
+      "text_sha256": "c8309340933cf1864002cf1b3115869ee6bc86b08e353f20f7ed4aa39154a803",
+      "wanted_ids": [
+        "T15-02",
+        "T15-04",
+        "T15-05",
+        "T15-06",
+        "T15-07",
+        "T15-08",
+        "T15-09",
+        "T15-10",
+        "T15-11",
+        "T15-12",
+        "T15-13",
+        "T15-14"
+      ]
+    }
+  ],
+  "direct_visual_review": {
+    "manifest_path": "exports/buddhahome-theme-assets/01_主题总库/T15_清水混凝土极简佛堂/拆后检查/直接HTML检查/b7e57a347feb1f61/manifest.json",
+    "screenshot_sha256": "7d4e6430b728ce40e2844c571b9fa5f25d2311dbe1c4f15950bdb12ef63e55eb",
+    "repository_commit": "365e29300470ddc6eb776988a90d605bdb4a8a5c",
+    "viewed_https_url": "https://raw.githubusercontent.com/leading/buddahome_assets/365e29300470ddc6eb776988a90d605bdb4a8a5c/reviews/themes/T15/overview.jpg",
+    "reviewed_ids": [
+      "T15-02",
+      "T15-04",
+      "T15-05",
+      "T15-06",
+      "T15-07",
+      "T15-08",
+      "T15-09",
+      "T15-10",
+      "T15-11",
+      "T15-12",
+      "T15-13",
+      "T15-14"
+    ],
+    "source_inspected": true,
+    "background_inspected": true,
+    "inspected_at": "2026-09-25T17:03:10.020808+00:00",
+    "viewed_jpeg_sha256": "0b86b5039ba745b04928d41d478356fffb3e64a0ebcece2355fa37e8f0566e9a"
+  },
+  "limitations": [
+    "源图遮挡内腔和不可见部分为适配补全，不是逐像素原图复原。"
+  ],
+  "updated_at": "2026-09-25T17:03:10.025978+00:00"
+}

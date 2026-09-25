@@ -1,0 +1,505 @@
+{
+  "theme_id": "T20",
+  "status": "resolved",
+  "review_method": "direct_https_html_screenshot_visual_inspection",
+  "fingerprint": "e6e317d9941eff328e78f76e0284b62cd826376b05cc78dede146c533e0650ef",
+  "snapshot": {
+    "theme_id": "T20",
+    "review_protocol": "paired-v2",
+    "source_sha256": "569ef6d0865c17e66928e83bf6d61ac802469d63aa9e2404c4522ecfbd1c6bc0",
+    "background_sha256": "ed2212b5563f7afd663b9794a8485946f332a5464974a7d31ea40d82191143bb",
+    "plan_sha256": "3e18baff0139c8c7b08ee3962480eff51913ad608e1b104387893cbcb5e8f338",
+    "objects": [
+      {
+        "object_id": "T20-01",
+        "sha256": "7de7b485a69bd8de37cf160021e674b3ef50fa2de31fc46fcd51269c1b226a49"
+      },
+      {
+        "object_id": "T20-02",
+        "sha256": "1eaa430e01fb50245ae474769efc5cac94d2f7a35248d1fb0a4709e9feb45894"
+      },
+      {
+        "object_id": "T20-04",
+        "sha256": "9b2dd7c4fed5141386eb7c1d6ec4d0044ae185f336c1388e5d4263d02590addb"
+      },
+      {
+        "object_id": "T20-05",
+        "sha256": "4e3cc1e1116b87a50ddd5ca8444c6533de9c38794cb092b6c26898ac3d05c3dc"
+      },
+      {
+        "object_id": "T20-06",
+        "sha256": "5fdc688bd4f74bbc8da4fbc6d6b2b02b82278d99ab502ea1be7f7e80e2c163f9"
+      },
+      {
+        "object_id": "T20-07",
+        "sha256": "5565100195b03f10ea31afb2389e900ffd6468a1e6dd69b91875edb05bcbd0e6"
+      },
+      {
+        "object_id": "T20-08",
+        "sha256": "4a0cfabda445c20cf25f44f671c4a79a3569337eb5026b8a2dcd6796f906ea12"
+      },
+      {
+        "object_id": "T20-09",
+        "sha256": "eb8273316199ade6af6018aaccf8c99fa13a7f44409c74edbccd6d22dee9b89f"
+      },
+      {
+        "object_id": "T20-10",
+        "sha256": "9f226a7d54248ac675ab00950402cd5e7abe19f20427aef67dd1cacc178edf57"
+      },
+      {
+        "object_id": "T20-11",
+        "sha256": "900b77191dd8582de63ac01f26902322c481ab74db2aae4d660412e8bcd14345"
+      },
+      {
+        "object_id": "T20-12",
+        "sha256": "a48706a733023dd0810a4170cb11728347a9db35babe61fb9fd4f2a68c53360a"
+      },
+      {
+        "object_id": "T20-13",
+        "sha256": "e6b41269614416fdf9fdb0720e66780af9fccdfd99b7573370ef6ef561e3fc25"
+      },
+      {
+        "object_id": "T20-14",
+        "sha256": "7249f74d9aba0d29e72e10e2e3ccf2dd1744cae4d24fd2eeb4479659b7ad19a5"
+      },
+      {
+        "object_id": "T20-16",
+        "sha256": "7e9828eed7381e00cdd6f14908aa48058e32bc44f999305e62c6c15cdf0f4077"
+      },
+      {
+        "object_id": "T20-17",
+        "sha256": "9158e27ccbaf1747db93934f740e1be91a53111de6fd5dfd24b1b6e75b2f44d9"
+      },
+      {
+        "object_id": "T20-18",
+        "sha256": "0bf443077dd27d3dde8e6e90bb3ca5cafebf98bd4a8c465e596d3b0f607a4c3b"
+      },
+      {
+        "object_id": "T20-19",
+        "sha256": "b2f7f0c4c357339193f6f0213218e627049c4bbcddca09be33ccbc0189645015"
+      },
+      {
+        "object_id": "T20-20",
+        "sha256": "ea1c482581d4e4550522c0bd93066cfe51c31434f459bc7e6139cadd48864fd8"
+      },
+      {
+        "object_id": "T20-21",
+        "sha256": "63dab81c1e4dd7fc43011f1a5e7910aa8eb2a9bdf1224e8df84e1d953404b998"
+      },
+      {
+        "object_id": "T20-22",
+        "sha256": "736e8876e41446475158febb91370918ef7dcd3a7874d93d57a92987759e17c6"
+      },
+      {
+        "object_id": "T20-23",
+        "sha256": "90533e6a62b105b02c60ae3e66cb05bccdeefe10c147d723e7be027201a9dc19"
+      },
+      {
+        "object_id": "T20-24",
+        "sha256": "a7c19d85d0d44909f4b3fd91a7dd9285ea2ce35a4812056bf4c8c72114031711"
+      },
+      {
+        "object_id": "T20-25",
+        "sha256": "302d4bb3ce7c3908b28e6b595b5a773470b53954c0a23caf9e300e183a27c872"
+      },
+      {
+        "object_id": "T20-26",
+        "sha256": "b40f1b0365db6b4e05ea9fc82622429c790e262447b4115b1da66f2136dfef7f"
+      },
+      {
+        "object_id": "T20-27",
+        "sha256": "64014252a837050a9d5a337ec350ed3d68c59665cc8ef7ac9d6dae35a9497dd2"
+      },
+      {
+        "object_id": "T20-28",
+        "sha256": "13c21f4925906ad2aeea941db97f5d0ea3ec074553b967d9357b44eb59694efd"
+      },
+      {
+        "object_id": "T20-29",
+        "sha256": "7a8ab67d34abe1eecbaff6e0b995bbb1c1915c3d62c5b3e2a4a739579322c17b"
+      },
+      {
+        "object_id": "T20-30",
+        "sha256": "cdbd375b4c903a22c0334c7ef4c59fb4a812f08899133e8baa990725c1f56030"
+      },
+      {
+        "object_id": "T20-31",
+        "sha256": "8ab56a2b7370614bcc7aac08e027ecb9f087fbd8b431161c90d3ffe658bba3e6"
+      },
+      {
+        "object_id": "T20-32",
+        "sha256": "e8a9975b72ca17b4858361a5ebedd146a364b5f5616ad4ec62e5e096e19d4104"
+      },
+      {
+        "object_id": "T20-33",
+        "sha256": "9da42b0cafe984f1dd60a430cfdfe6619d6d90672457c06366e0f1af757af3ff"
+      },
+      {
+        "object_id": "T20-34",
+        "sha256": "8827b1ad4489707ef709b6ff9d8f37aae381d2238a64690f670964646b8136b7"
+      },
+      {
+        "object_id": "T20-35",
+        "sha256": "ca7adefec57e9ca389484b2f6bc35424ce3e38a83d82b16ed8029b00d0059cb8"
+      }
+    ]
+  },
+  "coverage": {
+    "status": "pass",
+    "unresolved": [],
+    "source_mapping": [
+      {
+        "source_region": "后高供桌、前低供柜与白石坐佛",
+        "asset_ids": [
+          "T20-01",
+          "T20-02",
+          "T20-17"
+        ]
+      },
+      {
+        "source_region": "左右不同瓶花",
+        "asset_ids": [
+          "T20-04",
+          "T20-05",
+          "T20-21",
+          "T20-22"
+        ]
+      },
+      {
+        "source_region": "左地面灯、上悬灯、右台灯和右落地灯",
+        "asset_ids": [
+          "T20-06",
+          "T20-18",
+          "T20-19",
+          "T20-20"
+        ]
+      },
+      {
+        "source_region": "供案香炉、线香、果盘与红苹果",
+        "asset_ids": [
+          "T20-08",
+          "T20-09",
+          "T20-10",
+          "T20-11"
+        ]
+      },
+      {
+        "source_region": "右侧茶壶、杯与茶盘",
+        "asset_ids": [
+          "T20-12",
+          "T20-13",
+          "T20-14"
+        ]
+      },
+      {
+        "source_region": "桌面及左地面白柱蜡和独立小碟",
+        "asset_ids": [
+          "T20-07",
+          "T20-23",
+          "T20-24",
+          "T20-25"
+        ]
+      },
+      {
+        "source_region": "前景坐垫、地毯、粗针织盖毯及木座柱蜡",
+        "asset_ids": [
+          "T20-16",
+          "T20-26",
+          "T20-27",
+          "T20-28",
+          "T20-31"
+        ]
+      },
+      {
+        "source_region": "右前低边桌及金属碗",
+        "asset_ids": [
+          "T20-29",
+          "T20-30"
+        ]
+      },
+      {
+        "source_region": "固定壁架上的独立小瓶、枝束、小碗与柱蜡",
+        "asset_ids": [
+          "T20-32",
+          "T20-33",
+          "T20-34",
+          "T20-35"
+        ]
+      }
+    ]
+  },
+  "background": {
+    "status": "pass",
+    "unresolved": [],
+    "reason": "固定木墙、窗框、壁架、木地板及窗外雪林湖面保留；前后供柜、白石坐佛、全部灯具与花器、桌上供器、坐垫、织毯、前景木座与边桌均清除。壁架上的独立瓶花、碗和柱蜡已拆出。"
+  },
+  "objects": {
+    "T20-01": {
+      "status": "pass",
+      "reason": "后方高供桌独立空置，遮挡柜体按源图风格补全。"
+    },
+    "T20-02": {
+      "status": "pass",
+      "reason": "白石坐佛保留连续莲座，重复03已归档。"
+    },
+    "T20-04": {
+      "status": "pass",
+      "reason": "左侧白瓷瓶完整空置，无花枝。"
+    },
+    "T20-05": {
+      "status": "pass",
+      "reason": "左瓶白花红枝束独立，无瓶。"
+    },
+    "T20-06": {
+      "status": "pass",
+      "reason": "左侧镂空落地灯壳独立，无前方另放的柱蜡和小碟。"
+    },
+    "T20-07": {
+      "status": "pass",
+      "reason": "桌面未燃白柱蜡独立，无烛碟。"
+    },
+    "T20-08": {
+      "status": "pass",
+      "reason": "青铜金色香炉敞口，无香枝或虚构炉盖。"
+    },
+    "T20-09": {
+      "status": "pass",
+      "reason": "单根完整未燃线香，可复用源图三根同款。"
+    },
+    "T20-10": {
+      "status": "pass",
+      "reason": "深色木果盘空置，无苹果。"
+    },
+    "T20-11": {
+      "status": "pass",
+      "reason": "单枚红苹果完整，可复用原图同款果实。"
+    },
+    "T20-12": {
+      "status": "pass",
+      "reason": "白底蓝纹提梁茶壶完整，无杯或托盘。"
+    },
+    "T20-13": {
+      "status": "pass",
+      "reason": "单只白瓷蓝纹茶杯空置，无茶盘。"
+    },
+    "T20-14": {
+      "status": "pass",
+      "reason": "深木茶盘空置，无茶具和烛碟。"
+    },
+    "T20-16": {
+      "status": "pass",
+      "reason": "灰色针织圆坐垫独立，无地毯或盖毯。"
+    },
+    "T20-17": {
+      "status": "pass",
+      "reason": "前方低供柜保留自身圆形金属五金，不拆成无来源小饰件。"
+    },
+    "T20-18": {
+      "status": "pass",
+      "reason": "左上悬挂布罩灯保留自身悬挂结构，无建筑。"
+    },
+    "T20-19": {
+      "status": "pass",
+      "reason": "右后布罩台灯完整独立，保留灯罩框架与底座。"
+    },
+    "T20-20": {
+      "status": "pass",
+      "reason": "右侧布罩落地灯完整，比例区别台灯。"
+    },
+    "T20-21": {
+      "status": "pass",
+      "reason": "右后深棕纹样花瓶空置。"
+    },
+    "T20-22": {
+      "status": "pass",
+      "reason": "右侧红果枝束独立，与左花束区分。"
+    },
+    "T20-23": {
+      "status": "pass",
+      "reason": "桌面烛碟空置，无白柱蜡。"
+    },
+    "T20-24": {
+      "status": "pass",
+      "reason": "修正后的左地面白柱蜡已去掉托碟和金属边。"
+    },
+    "T20-25": {
+      "status": "pass",
+      "reason": "左地面空烛碟独立，无蜡烛和地面。"
+    },
+    "T20-26": {
+      "status": "pass",
+      "reason": "米色粗针织盖毯完整，无木座、蜡烛或下方地毯。"
+    },
+    "T20-27": {
+      "status": "pass",
+      "reason": "圆形木烛座空置，无蜡烛和盖毯。"
+    },
+    "T20-28": {
+      "status": "pass",
+      "reason": "修正后的木座用白柱蜡已去掉木座与毯。"
+    },
+    "T20-29": {
+      "status": "pass",
+      "reason": "右前低木边桌空置，无金属碗。"
+    },
+    "T20-30": {
+      "status": "pass",
+      "reason": "边桌金属碗完整空置，无边桌。"
+    },
+    "T20-31": {
+      "status": "pass",
+      "reason": "米色粗织地毯完整，无坐垫、盖毯和家具。"
+    },
+    "T20-32": {
+      "status": "pass",
+      "reason": "壁架灰陶小瓶空置，无细枝及壁架。"
+    },
+    "T20-33": {
+      "status": "pass",
+      "reason": "壁架白色细枝束独立，无瓶。"
+    },
+    "T20-34": {
+      "status": "pass",
+      "reason": "壁架深色小碗独立空置。"
+    },
+    "T20-35": {
+      "status": "pass",
+      "reason": "壁架白柱蜡独立未点燃，无壁架或火烟。"
+    }
+  },
+  "retired_candidates": [
+    {
+      "object_id": "T20-03",
+      "status": "retired_duplicate_or_unsubstantiated_component",
+      "covered_by": [
+        "T20-02"
+      ],
+      "covered_by_background": false,
+      "retained_asset_sha256": {
+        "T20-02": "1eaa430e01fb50245ae474769efc5cac94d2f7a35248d1fb0a4709e9feb45894"
+      },
+      "reason": "源图象牙白坐佛和莲座为连续同体雕像；02完整包含同款莲座，03不作为额外可移动底座交付。",
+      "original_candidate": {
+        "slot": 3,
+        "name": "佛像底座",
+        "category": "家具与底座",
+        "subcategory": "底座",
+        "ability": "可承托",
+        "texture": "1k",
+        "description": "源图白石坐佛下的象牙白莲花座，只有独立可拆接缝明确时提取完整空座；若与佛身同体则交复核，不硬造另一底座。",
+        "review_note": "依据源图盘点模型草稿细化；数量、材质及可拆关系待视觉复核。"
+      },
+      "retired_at": "2026-09-25T16:00:31.216499+00:00",
+      "source_sha256": "569ef6d0865c17e66928e83bf6d61ac802469d63aa9e2404c4522ecfbd1c6bc0",
+      "retired_png_sha256": "9f30285c5d42a7d49bb0a3535d8d2b8b0b908488cb2573fbeaaf61805e0dcb3c",
+      "archived_png": "历史版本/候选退役/T20-03/9f30285c5d42a7d4/T20_03_佛像底座.png",
+      "evidence_metadata": "exports/buddhahome-theme-assets/01_主题总库/T20_冬雪暖灯佛堂/拆后检查/直接退役证据/df2d1e5eb82af8fc/T20-03.json",
+      "evidence_text_sha256": "df0308b8f4a98eee77fc3e2d3248a65fdcfdde4c9992d1e409c7171d3e6643cc",
+      "retained_png_sha256": "1eaa430e01fb50245ae474769efc5cac94d2f7a35248d1fb0a4709e9feb45894"
+    }
+  ],
+  "supplemental_evidence": [],
+  "evidence": [
+    {
+      "kind": "whole_source_coverage",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T20_冬雪暖灯佛堂/拆后检查/直接HTML检查/e6e317d9941eff32/direct-visual-review.md",
+      "text_sha256": "bdfe4f8b4f329b458b6281a93debc0998028eea97cd56114ac1f478f6692c865",
+      "wanted_ids": []
+    },
+    {
+      "kind": "empty_background",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T20_冬雪暖灯佛堂/拆后检查/直接HTML检查/e6e317d9941eff32/direct-visual-review.md",
+      "text_sha256": "bdfe4f8b4f329b458b6281a93debc0998028eea97cd56114ac1f478f6692c865",
+      "wanted_ids": []
+    },
+    {
+      "kind": "individual_assets",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T20_冬雪暖灯佛堂/拆后检查/直接HTML检查/e6e317d9941eff32/direct-visual-review.md",
+      "text_sha256": "bdfe4f8b4f329b458b6281a93debc0998028eea97cd56114ac1f478f6692c865",
+      "wanted_ids": [
+        "T20-01",
+        "T20-02",
+        "T20-04",
+        "T20-05",
+        "T20-06",
+        "T20-07",
+        "T20-08",
+        "T20-09",
+        "T20-10",
+        "T20-11",
+        "T20-12",
+        "T20-13",
+        "T20-14",
+        "T20-16",
+        "T20-17",
+        "T20-18",
+        "T20-19",
+        "T20-20",
+        "T20-21",
+        "T20-22",
+        "T20-23",
+        "T20-24",
+        "T20-25",
+        "T20-26",
+        "T20-27",
+        "T20-28",
+        "T20-29",
+        "T20-30",
+        "T20-31",
+        "T20-32",
+        "T20-33",
+        "T20-34",
+        "T20-35"
+      ]
+    }
+  ],
+  "direct_visual_review": {
+    "manifest_path": "exports/buddhahome-theme-assets/01_主题总库/T20_冬雪暖灯佛堂/拆后检查/直接HTML检查/e6e317d9941eff32/manifest.json",
+    "screenshot_sha256": "dfc2ae4c96cd2f23b711da80b697cb87565052c96ba0b120f87a11a0b01b9c74",
+    "repository_commit": "365e29300470ddc6eb776988a90d605bdb4a8a5c",
+    "viewed_https_url": "https://raw.githubusercontent.com/leading/buddahome_assets/365e29300470ddc6eb776988a90d605bdb4a8a5c/reviews/themes/T20/overview.jpg",
+    "reviewed_ids": [
+      "T20-01",
+      "T20-02",
+      "T20-04",
+      "T20-05",
+      "T20-06",
+      "T20-07",
+      "T20-08",
+      "T20-09",
+      "T20-10",
+      "T20-11",
+      "T20-12",
+      "T20-13",
+      "T20-14",
+      "T20-16",
+      "T20-17",
+      "T20-18",
+      "T20-19",
+      "T20-20",
+      "T20-21",
+      "T20-22",
+      "T20-23",
+      "T20-24",
+      "T20-25",
+      "T20-26",
+      "T20-27",
+      "T20-28",
+      "T20-29",
+      "T20-30",
+      "T20-31",
+      "T20-32",
+      "T20-33",
+      "T20-34",
+      "T20-35"
+    ],
+    "source_inspected": true,
+    "background_inspected": true,
+    "inspected_at": "2026-09-25T17:03:17.241308+00:00",
+    "viewed_jpeg_sha256": "38c122091a4fa5e7e93c931db84f136d6bac87a6c9c694689b133f48197e0b25"
+  },
+  "limitations": [
+    "源图遮挡内腔和不可见部分为适配补全，不是逐像素原图复原。"
+  ],
+  "updated_at": "2026-09-25T17:03:17.245398+00:00"
+}

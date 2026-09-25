@@ -1,6 +1,6 @@
 # 20 套主题拆件对照图
 
-20套初次拆件和背景均已生成；当前正式验收 4/20 套：T02, T03, T04, T05。其余仍在逐套查漏与修正。
+20套初次拆件和背景均已生成；当前正式验收 8/20 套：T02, T03, T04, T05, T15, T19, T20, T21。其余仍在逐套查漏与修正。
 
 | 主题 | 透明物件数 | 整套对照图 | 状态 |
 |---|---:|---|---|
@@ -17,10 +17,10 @@
 | T12 竹林晨雾禅居 | 22 | [HTTPS 对照图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T12/overview.jpg) | pending_visual_review |
 | T13 热带莲池佛堂 | 23 | [HTTPS 对照图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T13/overview.jpg) | pending_visual_review |
 | T14 北欧原木静修室 | 26 | [HTTPS 对照图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T14/overview.jpg) | pending_visual_review |
-| T15 清水混凝土极简佛堂 | 12 | [HTTPS 对照图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T15/overview.jpg) | pending_visual_review |
+| T15 清水混凝土极简佛堂 | 12 | [HTTPS 对照图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T15/overview.jpg) | verified |
 | T16 都市夜景黑金佛堂 | 26 | [HTTPS 对照图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T16/overview.jpg) | pending_visual_review |
 | T17 海岸白石禅室 | 25 | [HTTPS 对照图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T17/overview.jpg) | pending_visual_review |
 | T18 新艺术琉璃花房佛堂 | 22 | [HTTPS 对照图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T18/overview.jpg) | pending_visual_review |
-| T19 秋山枫影禅室 | 24 | [HTTPS 对照图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T19/overview.jpg) | pending_visual_review |
-| T20 冬雪暖灯佛堂 | 33 | [HTTPS 对照图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T20/overview.jpg) | pending_visual_review |
-| T21 星空琉璃光境 | 25 | [HTTPS 对照图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T21/overview.jpg) | pending_visual_review |
+| T19 秋山枫影禅室 | 24 | [HTTPS 对照图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T19/overview.jpg) | verified |
+| T20 冬雪暖灯佛堂 | 33 | [HTTPS 对照图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T20/overview.jpg) | verified |
+| T21 星空琉璃光境 | 25 | [HTTPS 对照图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T21/overview.jpg) | verified |

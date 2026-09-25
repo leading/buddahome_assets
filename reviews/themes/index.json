@@ -1788,7 +1788,7 @@
     },
     "object_count": 12,
     "screenshot_sha256": "7d4e6430b728ce40e2844c571b9fa5f25d2311dbe1c4f15950bdb12ef63e55eb",
-    "status": "pending_visual_review",
+    "status": "verified",
     "screenshot": "overview.png"
   },
   {
@@ -2248,7 +2248,7 @@
     },
     "object_count": 24,
     "screenshot_sha256": "bd434b14d54e9ef6d7ef7b39998a16c5630dae4762f34c9c2031d3ee9aa65fe5",
-    "status": "pending_visual_review",
+    "status": "verified",
     "screenshot": "overview.png"
   },
   {
@@ -2398,7 +2398,7 @@
     },
     "object_count": 33,
     "screenshot_sha256": "dfc2ae4c96cd2f23b711da80b697cb87565052c96ba0b120f87a11a0b01b9c74",
-    "status": "pending_visual_review",
+    "status": "verified",
     "screenshot": "overview.png"
   },
   {
@@ -2516,7 +2516,7 @@
     },
     "object_count": 25,
     "screenshot_sha256": "e3032f8e94fd3fc66b71a3dd24eef50ef0f406535d8e94aa50729b3a02fcae03",
-    "status": "pending_visual_review",
+    "status": "verified",
     "screenshot": "overview.png"
   }
 ]

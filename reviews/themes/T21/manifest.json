@@ -113,6 +113,6 @@
   },
   "object_count": 25,
   "screenshot_sha256": "e3032f8e94fd3fc66b71a3dd24eef50ef0f406535d8e94aa50729b3a02fcae03",
-  "status": "pending_visual_review",
+  "status": "verified",
   "screenshot": "overview.png"
 }

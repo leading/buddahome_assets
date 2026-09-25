@@ -1,0 +1,396 @@
+{
+  "theme_id": "T19",
+  "status": "resolved",
+  "review_method": "direct_https_html_screenshot_visual_inspection",
+  "fingerprint": "a14c171a059c74139af84679dc38b31f4835301449f8caf2ea97a480ca193a97",
+  "snapshot": {
+    "theme_id": "T19",
+    "review_protocol": "paired-v2",
+    "source_sha256": "9d453d9b345f1ac68a3833a16c883f1dca7c9bc2dda62444e03563bd12877505",
+    "background_sha256": "e20ae336abacfd1efd5cd7b88b8ffc21c0dfa6f786ff137708ec0d0b3639a54e",
+    "plan_sha256": "91cc480e735cdf3ba9fd412f89aa61c169987a1266c989c08c4a3e20b980bfd2",
+    "objects": [
+      {
+        "object_id": "T19-01",
+        "sha256": "1833505d3e3a6e2b8377d3296869a1cedcb861acf41f4f2b6d37840534f59226"
+      },
+      {
+        "object_id": "T19-02",
+        "sha256": "4c15df91289cf9a28b2979d6f2a37f4ed6e01cb9ac29d3235b35e5158d81ac91"
+      },
+      {
+        "object_id": "T19-04",
+        "sha256": "6d27ca4f068f727976feff4199a79a1e84f3ab2802b4637cc0666ef33f1a5e4b"
+      },
+      {
+        "object_id": "T19-05",
+        "sha256": "4c3d8bdab53814343ae6d29d3507e45b4702bf05863321a084b043fda90026c6"
+      },
+      {
+        "object_id": "T19-06",
+        "sha256": "db48ca1672d1279d14ab4ca279f86a49726880679774a609a4526eace528099c"
+      },
+      {
+        "object_id": "T19-07",
+        "sha256": "70a0d78bc3603148f68ea988d6375e657d30dd6e5ca471b55ca1541c5b75cd88"
+      },
+      {
+        "object_id": "T19-08",
+        "sha256": "33a9cfa610ccc655cf0e8c6c6cd3307912dffd50ad7b8d833d40c0bc79cf8e8e"
+      },
+      {
+        "object_id": "T19-10",
+        "sha256": "300961073df1314aceeb6db8337efb2973034773b4f2063d99f14ba2dcaa8a53"
+      },
+      {
+        "object_id": "T19-11",
+        "sha256": "c69b28baed7bc0285d44b77f23477a586c4cd2300143cbfbede2b025b92b1bdc"
+      },
+      {
+        "object_id": "T19-12",
+        "sha256": "178dd228ee5fda1a03c5fc257080e619eeca531e5ae9fd12227d47bc83ef571f"
+      },
+      {
+        "object_id": "T19-13",
+        "sha256": "c507f3f35e63c3c8d55143ddd43cb995f0dacd7ced533e2165150b9d0bd58aaf"
+      },
+      {
+        "object_id": "T19-14",
+        "sha256": "e1b217bb94853a46db46d66b423342fc1638f579237a5eebe90bc9648a07f1f2"
+      },
+      {
+        "object_id": "T19-16",
+        "sha256": "e702a3ad7ff122048daf71c0bbc3e5aee5434f025c20e7b0178c9ad90533b4e2"
+      },
+      {
+        "object_id": "T19-17",
+        "sha256": "8d4e03a7a1424b31e34136af51eb887ac7bc86094b5d627997c904fbdef858c3"
+      },
+      {
+        "object_id": "T19-18",
+        "sha256": "cbbe615dad8eff866603bd6da9f8be496e1cf93b39c716057a7dfc21313f9856"
+      },
+      {
+        "object_id": "T19-19",
+        "sha256": "4c3505b01f459a91e519d3fdd0c83353aad52540f20ab1114dce59d8d6e73e55"
+      },
+      {
+        "object_id": "T19-20",
+        "sha256": "8358b9747a79ad39b17abecf17a648b061c4dc2c75ec2ab402c0baa694c66d3c"
+      },
+      {
+        "object_id": "T19-21",
+        "sha256": "7efe1aaeb3d7cf31ccc7f294bfd7821624866aca61583c6641f12e43be5f9d5c"
+      },
+      {
+        "object_id": "T19-22",
+        "sha256": "c9e5ed578502232cbea4857154d38de6d53b4a57ea294644ed75d0733d839c11"
+      },
+      {
+        "object_id": "T19-23",
+        "sha256": "9024d62526bf60c23af071259e976c8603170d51a4b7fa60bd5cdcb58b325850"
+      },
+      {
+        "object_id": "T19-24",
+        "sha256": "85ecafee2719c410f0f01b2c4752fec1b0eb35c7de09cd9c399753c3ad9c57cf"
+      },
+      {
+        "object_id": "T19-25",
+        "sha256": "b71b5f74de82d9b75a76237c2636c8d6525572abd785e50a15893e44f8b511df"
+      },
+      {
+        "object_id": "T19-26",
+        "sha256": "8302a544c4aa958656d7f1cb106c5ce9585568d1c79a4f47932684162401267d"
+      },
+      {
+        "object_id": "T19-27",
+        "sha256": "d2db05e45afd3c841c6baea5a0002bf3ff7c2077968066ce001024d9ee4787bf"
+      }
+    ]
+  },
+  "coverage": {
+    "status": "pass",
+    "unresolved": [],
+    "source_mapping": [
+      {
+        "source_region": "自然边木桌与完整坐佛",
+        "asset_ids": [
+          "T19-01",
+          "T19-02"
+        ]
+      },
+      {
+        "source_region": "左右不同花瓶与枫枝白花束",
+        "asset_ids": [
+          "T19-04",
+          "T19-05",
+          "T19-17",
+          "T19-18"
+        ]
+      },
+      {
+        "source_region": "左右玻璃灯笼及适配未燃内芯",
+        "asset_ids": [
+          "T19-06",
+          "T19-07",
+          "T19-27"
+        ]
+      },
+      {
+        "source_region": "左侧供碗与橙色果实",
+        "asset_ids": [
+          "T19-10",
+          "T19-11"
+        ]
+      },
+      {
+        "source_region": "右侧茶具和带盖小器",
+        "asset_ids": [
+          "T19-08",
+          "T19-12",
+          "T19-13",
+          "T19-14",
+          "T19-19",
+          "T19-20"
+        ]
+      },
+      {
+        "source_region": "前景圆坐垫与编织地垫",
+        "asset_ids": [
+          "T19-16",
+          "T19-21"
+        ]
+      },
+      {
+        "source_region": "桌面、果碗旁和地面的不同红枫落叶",
+        "asset_ids": [
+          "T19-22",
+          "T19-23",
+          "T19-24",
+          "T19-25",
+          "T19-26"
+        ]
+      }
+    ]
+  },
+  "background": {
+    "status": "pass",
+    "unresolved": [],
+    "reason": "固定木窗框、室外枫林与山谷、室内木地面保留；供桌、雕像、花器、灯笼、茶果器物、坐垫地垫和室内散落红叶均移除。屋外红枫枝保留在背景，桌面及地面独立落叶由22至26覆盖。"
+  },
+  "objects": {
+    "T19-01": {
+      "status": "pass",
+      "reason": "自然边整木供桌含完整桌腿，台面空置。"
+    },
+    "T19-02": {
+      "status": "pass",
+      "reason": "灰白石坐佛保留一体莲座，重复03已归档。"
+    },
+    "T19-04": {
+      "status": "pass",
+      "reason": "左侧棕色斑点花瓶完整空置。"
+    },
+    "T19-05": {
+      "status": "pass",
+      "reason": "左瓶红枫与白花枝束独立，无瓶。"
+    },
+    "T19-06": {
+      "status": "pass",
+      "reason": "左侧金属玻璃灯笼完整，无独立燃料芯。"
+    },
+    "T19-07": {
+      "status": "pass",
+      "reason": "未点燃杯蜡内芯独立；遮挡结构仅作适配补全，不宣称为源图可见内部细节。"
+    },
+    "T19-08": {
+      "status": "pass",
+      "reason": "深色有盖器已修为敞口空器身，20盖单独保留，未改称线香炉。"
+    },
+    "T19-10": {
+      "status": "pass",
+      "reason": "左侧花纹供碗空置，无橙色果实。"
+    },
+    "T19-11": {
+      "status": "pass",
+      "reason": "橙色带果蒂供果单件，可复用源图同种果实。"
+    },
+    "T19-12": {
+      "status": "pass",
+      "reason": "棕陶茶壶保留盖嘴把手，未带杯盘。"
+    },
+    "T19-13": {
+      "status": "pass",
+      "reason": "修正后的陶杯独立空置，已去掉杯碟。"
+    },
+    "T19-14": {
+      "status": "pass",
+      "reason": "矩形木茶盘独立空置。"
+    },
+    "T19-16": {
+      "status": "pass",
+      "reason": "红橙针织圆坐垫完整，无地垫。"
+    },
+    "T19-17": {
+      "status": "pass",
+      "reason": "右侧浅色纹样花瓶完整空置，区别左瓶。"
+    },
+    "T19-18": {
+      "status": "pass",
+      "reason": "右侧红枫白花枝束独立，保留该侧枝形。"
+    },
+    "T19-19": {
+      "status": "pass",
+      "reason": "单只深色陶杯碟空置，无杯。"
+    },
+    "T19-20": {
+      "status": "pass",
+      "reason": "深色有盖器独立盖，与08器身分离。"
+    },
+    "T19-21": {
+      "status": "pass",
+      "reason": "浅棕编织地垫完整，无坐垫及木地面。"
+    },
+    "T19-22": {
+      "status": "pass",
+      "reason": "桌左红枫单叶独立，无桌面。"
+    },
+    "T19-23": {
+      "status": "pass",
+      "reason": "桌右红枫单叶独立，卷曲及叶尖轮廓与22区分。"
+    },
+    "T19-24": {
+      "status": "pass",
+      "reason": "左地面红枫落叶独立，无地面。"
+    },
+    "T19-25": {
+      "status": "pass",
+      "reason": "右地面红枫落叶独立，无地面。"
+    },
+    "T19-26": {
+      "status": "pass",
+      "reason": "果碗旁红枫单叶独立，无碗或桌面。"
+    },
+    "T19-27": {
+      "status": "pass",
+      "reason": "右侧深色玻璃灯笼独立，框格比例与左灯区分。"
+    }
+  },
+  "retired_candidates": [
+    {
+      "object_id": "T19-03",
+      "status": "retired_duplicate_or_unsubstantiated_component",
+      "covered_by": [
+        "T19-02"
+      ],
+      "covered_by_background": false,
+      "retained_asset_sha256": {
+        "T19-02": "4c15df91289cf9a28b2979d6f2a37f4ed6e01cb9ac29d3235b35e5158d81ac91"
+      },
+      "reason": "源图灰白雕像下莲花石座与佛像一体，没有明确拆缝；02已完整覆盖同一雕座，03为重复候选。",
+      "original_candidate": {
+        "slot": 3,
+        "name": "佛像底座",
+        "category": "家具与底座",
+        "subcategory": "底座",
+        "ability": "可承托",
+        "texture": "1k",
+        "description": "源图灰石坐佛下的莲花石座，仅有明确独立接缝时拆出完整空座；若雕像与莲座同体不可硬造可拆座，应交复核。",
+        "review_note": "依据源图盘点模型草稿细化；数量、材质及可拆关系待视觉复核。"
+      },
+      "retired_at": "2026-09-25T16:00:29.422961+00:00",
+      "source_sha256": "9d453d9b345f1ac68a3833a16c883f1dca7c9bc2dda62444e03563bd12877505",
+      "retired_png_sha256": "205d2bd5212762aec62caecb8dbb7e1b992540c8daaa231eef26f3a46d6508a4",
+      "archived_png": "历史版本/候选退役/T19-03/205d2bd5212762ae/T19_03_佛像底座.png",
+      "evidence_metadata": "exports/buddhahome-theme-assets/01_主题总库/T19_秋山枫影禅室/拆后检查/直接退役证据/8daf162cfedb6ed8/T19-03.json",
+      "evidence_text_sha256": "8469e7a9ace08da95f3146defd7682c59416dbfb1cf8d6b1cef87d16de7467df",
+      "retained_png_sha256": "4c15df91289cf9a28b2979d6f2a37f4ed6e01cb9ac29d3235b35e5158d81ac91"
+    }
+  ],
+  "supplemental_evidence": [],
+  "evidence": [
+    {
+      "kind": "whole_source_coverage",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T19_秋山枫影禅室/拆后检查/直接HTML检查/a14c171a059c7413/direct-visual-review.md",
+      "text_sha256": "8ebe1ae6c14ce27dfb930dd4fd5606730aefe1613f1db37ecfe539347e9414b1",
+      "wanted_ids": []
+    },
+    {
+      "kind": "empty_background",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T19_秋山枫影禅室/拆后检查/直接HTML检查/a14c171a059c7413/direct-visual-review.md",
+      "text_sha256": "8ebe1ae6c14ce27dfb930dd4fd5606730aefe1613f1db37ecfe539347e9414b1",
+      "wanted_ids": []
+    },
+    {
+      "kind": "individual_assets",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T19_秋山枫影禅室/拆后检查/直接HTML检查/a14c171a059c7413/direct-visual-review.md",
+      "text_sha256": "8ebe1ae6c14ce27dfb930dd4fd5606730aefe1613f1db37ecfe539347e9414b1",
+      "wanted_ids": [
+        "T19-01",
+        "T19-02",
+        "T19-04",
+        "T19-05",
+        "T19-06",
+        "T19-07",
+        "T19-08",
+        "T19-10",
+        "T19-11",
+        "T19-12",
+        "T19-13",
+        "T19-14",
+        "T19-16",
+        "T19-17",
+        "T19-18",
+        "T19-19",
+        "T19-20",
+        "T19-21",
+        "T19-22",
+        "T19-23",
+        "T19-24",
+        "T19-25",
+        "T19-26",
+        "T19-27"
+      ]
+    }
+  ],
+  "direct_visual_review": {
+    "manifest_path": "exports/buddhahome-theme-assets/01_主题总库/T19_秋山枫影禅室/拆后检查/直接HTML检查/a14c171a059c7413/manifest.json",
+    "screenshot_sha256": "bd434b14d54e9ef6d7ef7b39998a16c5630dae4762f34c9c2031d3ee9aa65fe5",
+    "repository_commit": "365e29300470ddc6eb776988a90d605bdb4a8a5c",
+    "viewed_https_url": "https://raw.githubusercontent.com/leading/buddahome_assets/365e29300470ddc6eb776988a90d605bdb4a8a5c/reviews/themes/T19/overview.jpg",
+    "reviewed_ids": [
+      "T19-01",
+      "T19-02",
+      "T19-04",
+      "T19-05",
+      "T19-06",
+      "T19-07",
+      "T19-08",
+      "T19-10",
+      "T19-11",
+      "T19-12",
+      "T19-13",
+      "T19-14",
+      "T19-16",
+      "T19-17",
+      "T19-18",
+      "T19-19",
+      "T19-20",
+      "T19-21",
+      "T19-22",
+      "T19-23",
+      "T19-24",
+      "T19-25",
+      "T19-26",
+      "T19-27"
+    ],
+    "source_inspected": true,
+    "background_inspected": true,
+    "inspected_at": "2026-09-25T17:03:13.050217+00:00",
+    "viewed_jpeg_sha256": "95732768df3638981423748ef454e908bd75cf0d148607bee1e7f447e70762de"
+  },
+  "limitations": [
+    "源图遮挡内腔和不可见部分为适配补全，不是逐像素原图复原。"
+  ],
+  "updated_at": "2026-09-25T17:03:13.053612+00:00"
+}

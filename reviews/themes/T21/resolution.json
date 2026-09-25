@@ -1,0 +1,377 @@
+{
+  "theme_id": "T21",
+  "status": "resolved",
+  "review_method": "direct_https_html_screenshot_visual_inspection",
+  "fingerprint": "d232e9c48f1f0adbc129a43153737130801e6762ef2d7d3b578025f1f0c0532d",
+  "snapshot": {
+    "theme_id": "T21",
+    "review_protocol": "paired-v2",
+    "source_sha256": "98ba76ca32b8d34913e10912d044b1b2d6aec75e1bded8a3fc8938fd76536dcd",
+    "background_sha256": "9c4eea0ea6277bcb43a82a9f07a3dd656de795cd4f65fead3e80ca572d92c093",
+    "plan_sha256": "c9132ef638974620c33df0a1b6ddb458050b391eeddb49eb2c73a2bbe5a592e6",
+    "objects": [
+      {
+        "object_id": "T21-01",
+        "sha256": "c7591e12285f512b3a3467b9ce42794821c9f95d8b44d4fa214c6fc410597a15"
+      },
+      {
+        "object_id": "T21-02",
+        "sha256": "ffd574b60ab4c74a7e389905fa86cda3a6b02dbfbe047b0228f48b3938665637"
+      },
+      {
+        "object_id": "T21-03",
+        "sha256": "298a83a1a46b2ad4ea1bbdb413bdd6273ad0af7eeb9072ce0d8e3155c613a6db"
+      },
+      {
+        "object_id": "T21-04",
+        "sha256": "ee2fa1822dc35ef2c5f3af8147baf1409e432e8d8ea9b2e6b4f67842d2d5b130"
+      },
+      {
+        "object_id": "T21-05",
+        "sha256": "19a389d0c5daa7589f132cd7e32a5f8d3c3bc2076c5a2ea3e22e58777e7e1c59"
+      },
+      {
+        "object_id": "T21-06",
+        "sha256": "13809effe265919e60f642e09c65f3e2e7773d6df8d26d236fb39f726c1326fa"
+      },
+      {
+        "object_id": "T21-07",
+        "sha256": "c78cb45a6c6d81cbb2f0ac072bcd8c0db28776b92c453b5c077fbfb8952fa09c"
+      },
+      {
+        "object_id": "T21-08",
+        "sha256": "22eedbeed58955e83e6b176543c5110f3688f73641b3e12e709c40ae3bf472d8"
+      },
+      {
+        "object_id": "T21-09",
+        "sha256": "611ac48c850ffacb5e4d327ab3484b2f47087b09913ef56b708f821d85abd156"
+      },
+      {
+        "object_id": "T21-10",
+        "sha256": "47893a8f4d3dc9c5224b051a311aadcbb615c0bc332591bafbad97f33869e504"
+      },
+      {
+        "object_id": "T21-11",
+        "sha256": "28343184d480e0af9cee57337690c9ccddad9743d93548a709f94c504ccea514"
+      },
+      {
+        "object_id": "T21-12",
+        "sha256": "410a4ebbb7386464670cc8d0f6091f8f3221509df16fa8648578bc6f7400bcab"
+      },
+      {
+        "object_id": "T21-13",
+        "sha256": "7715f4a0b2d78b59189b1fb110a07f44560f7ece6b3be1fae2cb990468b2411e"
+      },
+      {
+        "object_id": "T21-14",
+        "sha256": "a29ea28477fdc38103a6e1cd89a2a30da110b90e311437be85ac636a0eab6191"
+      },
+      {
+        "object_id": "T21-16",
+        "sha256": "01a1b52844f2343e9499df741ba7113b5bc76f88cbccd24efd93c8aebc515458"
+      },
+      {
+        "object_id": "T21-17",
+        "sha256": "d50067fac302a3a49059da264981f0567235b94012e109d110fbd1418cec349f"
+      },
+      {
+        "object_id": "T21-18",
+        "sha256": "15123152c8014cb78d76444ec0829018adb19a49683861ba31ecb44c30be3f9b"
+      },
+      {
+        "object_id": "T21-19",
+        "sha256": "f3866fc22a6ce4bac2010ca7ccf9a86888f41e994cdedbe789f8133335b4c6a4"
+      },
+      {
+        "object_id": "T21-20",
+        "sha256": "27162e0bb60d910787e2715cf89ed676bdee47aede44882eb32e467ec8699c0f"
+      },
+      {
+        "object_id": "T21-21",
+        "sha256": "786f7602525d5166f8b27a00447bb0884c6b2a61b81049d6efb06026ea22cf9a"
+      },
+      {
+        "object_id": "T21-22",
+        "sha256": "1c4a4dab54cd7fd0bb53fb15ac103c44100ab8c5f09aee2f9f4019e445e40761"
+      },
+      {
+        "object_id": "T21-23",
+        "sha256": "5b51436ddeb58f7402f3b20ed1027c12e4d9fffb67e80aa14c9fa262ef79edcb"
+      },
+      {
+        "object_id": "T21-24",
+        "sha256": "413cf694abc39119e230f097ecd34453100bda1b1144d1e23675663cb656a1e3"
+      },
+      {
+        "object_id": "T21-25",
+        "sha256": "be3ac96c800c5079cfa247c75b84926b4c4667586b52d22c7667a3d5a62100c8"
+      },
+      {
+        "object_id": "T21-26",
+        "sha256": "ad295698234f16143f50fbbfbf554804fb842911da64abed0cb59346696153bb"
+      }
+    ]
+  },
+  "coverage": {
+    "status": "pass",
+    "unresolved": [],
+    "source_mapping": [
+      {
+        "source_region": "前供台、阶形基座、晶体坐佛和独立细金属圆环",
+        "asset_ids": [
+          "T21-01",
+          "T21-02",
+          "T21-03",
+          "T21-17"
+        ]
+      },
+      {
+        "source_region": "两侧蓝釉花瓶与白花枝束",
+        "asset_ids": [
+          "T21-04",
+          "T21-05",
+          "T21-18",
+          "T21-19"
+        ]
+      },
+      {
+        "source_region": "前后四灯与可复用未燃柱蜡",
+        "asset_ids": [
+          "T21-06",
+          "T21-07",
+          "T21-20",
+          "T21-21",
+          "T21-22",
+          "T21-23"
+        ]
+      },
+      {
+        "source_region": "香炉与线香",
+        "asset_ids": [
+          "T21-08",
+          "T21-09"
+        ]
+      },
+      {
+        "source_region": "果碗与深紫色供果",
+        "asset_ids": [
+          "T21-10",
+          "T21-11"
+        ]
+      },
+      {
+        "source_region": "蓝釉茶壶、两款杯、杯碟与茶盘",
+        "asset_ids": [
+          "T21-12",
+          "T21-13",
+          "T21-14",
+          "T21-24",
+          "T21-25"
+        ]
+      },
+      {
+        "source_region": "前景坐垫及矩形织毯",
+        "asset_ids": [
+          "T21-16",
+          "T21-26"
+        ]
+      }
+    ]
+  },
+  "background": {
+    "status": "pass",
+    "unresolved": [],
+    "reason": "固定黑色石柱、台阶、地面、星空和山景保留；晶体坐佛、独立阶形基座、细金属光环、前供台、全部花器灯具、茶果供器、坐垫地垫均已移除。没有把建筑柱廊拆成独立道具。"
+  },
+  "objects": {
+    "T21-01": {
+      "status": "pass",
+      "reason": "前方黑石供台完整空置，无器物。"
+    },
+    "T21-02": {
+      "status": "pass",
+      "reason": "透明晶体坐佛及一体莲座完整，保留晶体材质表现。"
+    },
+    "T21-03": {
+      "status": "pass",
+      "reason": "深色阶形独立基座完整，与建筑台阶分开。"
+    },
+    "T21-04": {
+      "status": "pass",
+      "reason": "左侧蓝釉空花瓶完整，无枝材。"
+    },
+    "T21-05": {
+      "status": "pass",
+      "reason": "左侧白花枝束独立，无瓶。"
+    },
+    "T21-06": {
+      "status": "pass",
+      "reason": "左前镂空金属灯壳完整，无内芯。"
+    },
+    "T21-07": {
+      "status": "pass",
+      "reason": "独立未燃白柱蜡内芯，无灯壳。"
+    },
+    "T21-08": {
+      "status": "pass",
+      "reason": "深色敞口香炉完整，无线香、灰或烟。"
+    },
+    "T21-09": {
+      "status": "pass",
+      "reason": "单根未燃线香独立。"
+    },
+    "T21-10": {
+      "status": "pass",
+      "reason": "黑石果碗空置，无深色果实。"
+    },
+    "T21-11": {
+      "status": "pass",
+      "reason": "单枚深紫供果完整，无碗。"
+    },
+    "T21-12": {
+      "status": "pass",
+      "reason": "蓝釉提梁茶壶完整，无茶盘或杯。"
+    },
+    "T21-13": {
+      "status": "pass",
+      "reason": "深蓝金边茶杯独立空置，无杯碟。"
+    },
+    "T21-14": {
+      "status": "pass",
+      "reason": "黑石矩形茶盘完整空置。"
+    },
+    "T21-16": {
+      "status": "pass",
+      "reason": "深色织物圆坐垫独立，无下方织毯。"
+    },
+    "T21-17": {
+      "status": "pass",
+      "reason": "细金属圆环与自身底架完整，已从空背景去除。"
+    },
+    "T21-18": {
+      "status": "pass",
+      "reason": "右侧蓝釉花瓶独立空置，与左瓶造型区分。"
+    },
+    "T21-19": {
+      "status": "pass",
+      "reason": "右侧白花枝束独立，保留该侧枝形。"
+    },
+    "T21-20": {
+      "status": "pass",
+      "reason": "右前镂空金属灯壳独立，比例区别左灯。"
+    },
+    "T21-21": {
+      "status": "pass",
+      "reason": "左后玻璃框灯笼独立，无建筑和燃料芯。"
+    },
+    "T21-22": {
+      "status": "pass",
+      "reason": "后方玻璃灯笼用白柱蜡独立；遮挡部分按简单适配补全。"
+    },
+    "T21-23": {
+      "status": "pass",
+      "reason": "右后玻璃框灯笼独立，无建筑。"
+    },
+    "T21-24": {
+      "status": "pass",
+      "reason": "修正后的蓝釉杯碟空置，已去掉蓝茶杯。"
+    },
+    "T21-25": {
+      "status": "pass",
+      "reason": "另一只蓝釉茶杯独立空置，无杯碟。"
+    },
+    "T21-26": {
+      "status": "pass",
+      "reason": "深色矩形织毯完整，无圆坐垫或石地面。"
+    }
+  },
+  "retired_candidates": [],
+  "supplemental_evidence": [],
+  "evidence": [
+    {
+      "kind": "whole_source_coverage",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T21_星空琉璃光境/拆后检查/直接HTML检查/d232e9c48f1f0adb/direct-visual-review.md",
+      "text_sha256": "3230691b54998ceafba3575d93aef33f071ff79c794f4e9984975b42138068b8",
+      "wanted_ids": []
+    },
+    {
+      "kind": "empty_background",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T21_星空琉璃光境/拆后检查/直接HTML检查/d232e9c48f1f0adb/direct-visual-review.md",
+      "text_sha256": "3230691b54998ceafba3575d93aef33f071ff79c794f4e9984975b42138068b8",
+      "wanted_ids": []
+    },
+    {
+      "kind": "individual_assets",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T21_星空琉璃光境/拆后检查/直接HTML检查/d232e9c48f1f0adb/direct-visual-review.md",
+      "text_sha256": "3230691b54998ceafba3575d93aef33f071ff79c794f4e9984975b42138068b8",
+      "wanted_ids": [
+        "T21-01",
+        "T21-02",
+        "T21-03",
+        "T21-04",
+        "T21-05",
+        "T21-06",
+        "T21-07",
+        "T21-08",
+        "T21-09",
+        "T21-10",
+        "T21-11",
+        "T21-12",
+        "T21-13",
+        "T21-14",
+        "T21-16",
+        "T21-17",
+        "T21-18",
+        "T21-19",
+        "T21-20",
+        "T21-21",
+        "T21-22",
+        "T21-23",
+        "T21-24",
+        "T21-25",
+        "T21-26"
+      ]
+    }
+  ],
+  "direct_visual_review": {
+    "manifest_path": "exports/buddhahome-theme-assets/01_主题总库/T21_星空琉璃光境/拆后检查/直接HTML检查/d232e9c48f1f0adb/manifest.json",
+    "screenshot_sha256": "e3032f8e94fd3fc66b71a3dd24eef50ef0f406535d8e94aa50729b3a02fcae03",
+    "repository_commit": "365e29300470ddc6eb776988a90d605bdb4a8a5c",
+    "viewed_https_url": "https://raw.githubusercontent.com/leading/buddahome_assets/365e29300470ddc6eb776988a90d605bdb4a8a5c/reviews/themes/T21/overview.jpg",
+    "reviewed_ids": [
+      "T21-01",
+      "T21-02",
+      "T21-03",
+      "T21-04",
+      "T21-05",
+      "T21-06",
+      "T21-07",
+      "T21-08",
+      "T21-09",
+      "T21-10",
+      "T21-11",
+      "T21-12",
+      "T21-13",
+      "T21-14",
+      "T21-16",
+      "T21-17",
+      "T21-18",
+      "T21-19",
+      "T21-20",
+      "T21-21",
+      "T21-22",
+      "T21-23",
+      "T21-24",
+      "T21-25",
+      "T21-26"
+    ],
+    "source_inspected": true,
+    "background_inspected": true,
+    "inspected_at": "2026-09-25T17:03:20.874267+00:00",
+    "viewed_jpeg_sha256": "97b9096cc1b3a140a11ddb74648abfac01cf9b72895b25019dff16b269eb99b9"
+  },
+  "limitations": [
+    "源图遮挡内腔和不可见部分为适配补全，不是逐像素原图复原。"
+  ],
+  "updated_at": "2026-09-25T17:03:20.877314+00:00"
+}

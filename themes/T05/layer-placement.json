@@ -1,0 +1,55 @@
+{
+  "theme_id": "T05",
+  "source_sha256": "8eacf1ef25070af08622ed92bf2390cb59e6fb363f53e58116469b076a13488d",
+  "background_sha256": "83b9aa9ab4fdf6948abcdcb9da063d3965b444c9ef1149ee9a6fa0d3f73183c8",
+  "canvas": [
+    948,
+    1659
+  ],
+  "layers": [
+    {
+      "object_id": "T05-31",
+      "path": "物件/静态水面图层/T05_31_右前水钵静水表面图层.png",
+      "sha256": "b24487f7de3ea741d6565022376b28c17d78d082e5a73fd49b6151887e749f53",
+      "canvas": [
+        948,
+        1659
+      ],
+      "place_at": [
+        0,
+        0
+      ],
+      "scale": 1,
+      "visible_bbox_alpha_ge_128": [
+        692,
+        1455,
+        948,
+        1578
+      ],
+      "status": "https_position_reviewed"
+    },
+    {
+      "object_id": "T05-32",
+      "path": "物件/静态景观图层/T05_32_左下近景白花绿叶图层.png",
+      "sha256": "ba877f57b788575778a3536699793b59b66385bd2293125691ba5b8658fae494",
+      "canvas": [
+        948,
+        1659
+      ],
+      "place_at": [
+        0,
+        0
+      ],
+      "scale": 1,
+      "visible_bbox_alpha_ge_128": [
+        0,
+        1243,
+        374,
+        1659
+      ],
+      "status": "https_position_reviewed"
+    }
+  ],
+  "instructions": "31水面与32前景花叶均已将位置烘焙进948×1659透明画布；以0,0和原尺寸叠加。不要按缩略图重新居中。32历史缩放已烘焙，不再重复缩放。",
+  "updated_at": "2026-09-25T15:46:48.881917+00:00"
+}

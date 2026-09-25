@@ -1,13 +1,13 @@
 {
   "theme_id": "T16",
   "name": "都市夜景黑金佛堂",
-  "fingerprint": "27d727da7009ecbacc06d15ca352f249057bbd249e41fbc0081d3412d4d75f1d",
+  "fingerprint": "a9777115e7423febc4a2b6f02f90bb58cad2702dffe85a39c3c010702da4f2a5",
   "snapshot": {
     "theme_id": "T16",
     "review_protocol": "paired-v2",
     "source_sha256": "8b28ed30c71df82cbbfe6027043b64e1183056b64c7a098f3297356c68c6ed46",
     "background_sha256": "449e151e9b4796181e31516c24e4b9c952720d33222573ca6a89c7246fa19450",
-    "plan_sha256": "3d2992c755621c6bbe0fc04cc8ad9d7bfa38f79b10a4209335044fbc8e2e64ea",
+    "plan_sha256": "b65fe25b132a4e66c878b5524d35a41af7e011e0594eb41e4616067388deca7e",
     "objects": [
       {
         "object_id": "T16-01",
@@ -72,10 +72,6 @@
       {
         "object_id": "T16-17",
         "sha256": "8d640050865ef3d8ad8aa1c88338b5181569a3ef28f4c129b500599b0f6b9341"
-      },
-      {
-        "object_id": "T16-18",
-        "sha256": "4b40fbd2b56bef02a251364dc95a271a9e01e0ad2dd8d6d5f05720b2bc84b99f"
       },
       {
         "object_id": "T16-19",
@@ -245,14 +241,6 @@
       "classification": "standalone_object",
       "sha256": "8d640050865ef3d8ad8aa1c88338b5181569a3ef28f4c129b500599b0f6b9341",
       "path": "objects/T16-17.png"
-    },
-    {
-      "object_id": "T16-18",
-      "name": "圆柱灯独立底座",
-      "description": "源图圆柱格栅灯下深金属底座，仅在明显独立可拆时完整提取空座，无灯罩；一体不可拆则返回空图，不能重复切割灯体。",
-      "classification": "standalone_object",
-      "sha256": "4b40fbd2b56bef02a251364dc95a271a9e01e0ad2dd8d6d5f05720b2bc84b99f",
-      "path": "objects/T16-18.png"
     },
     {
       "object_id": "T16-19",

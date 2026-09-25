@@ -1,0 +1,659 @@
+{
+  "theme_id": "T02",
+  "status": "resolved",
+  "fingerprint": "b6f17f7cb81e570cf35bdd4149f5b1f63b8d69483c1b1757333ae2bd60bc7ba2",
+  "updated_at": "2026-09-25T11:54:46.038130+00:00",
+  "review_method": "外部图像服务对照本地原图和实际拆件，结果经本地OCR转为文字后逐项处理；未向当前聊天传入图片。",
+  "coverage": {
+    "status": "pass",
+    "unresolved": [],
+    "source_mapping": [
+      {
+        "source_location": "后方高供桌",
+        "asset_ids": [
+          "T02-01"
+        ]
+      },
+      {
+        "source_location": "后案中央一体佛像、双层莲座与薄底台",
+        "asset_ids": [
+          "T02-02"
+        ]
+      },
+      {
+        "source_location": "后案左侧青瓷瓶与白梅花枝",
+        "asset_ids": [
+          "T02-04",
+          "T02-05"
+        ]
+      },
+      {
+        "source_location": "后案左右两套同款铜灯架与未点燃白蜡烛",
+        "asset_ids": [
+          "T02-06",
+          "T02-07"
+        ]
+      },
+      {
+        "source_location": "后案左侧带环把青铜香炉及独立盖",
+        "asset_ids": [
+          "T02-18",
+          "T02-19"
+        ]
+      },
+      {
+        "source_location": "后案右侧两本同款经书与环形铜摆件",
+        "asset_ids": [
+          "T02-15",
+          "T02-20"
+        ]
+      },
+      {
+        "source_location": "前方低木供案",
+        "asset_ids": [
+          "T02-17"
+        ]
+      },
+      {
+        "source_location": "前案左缘米色纹样桌旗",
+        "asset_ids": [
+          "T02-25"
+        ]
+      },
+      {
+        "source_location": "前案左侧青瓷供盘与四枚可见橙子",
+        "asset_ids": [
+          "T02-10",
+          "T02-11"
+        ]
+      },
+      {
+        "source_location": "前案左中小深色供碟与若干红枣",
+        "asset_ids": [
+          "T02-21",
+          "T02-22"
+        ]
+      },
+      {
+        "source_location": "前案中间青瓷香炉与多根未燃线香",
+        "asset_ids": [
+          "T02-08",
+          "T02-09"
+        ]
+      },
+      {
+        "source_location": "前案右中木茶盘、青瓷壶及两只杯",
+        "asset_ids": [
+          "T02-14",
+          "T02-12",
+          "T02-13"
+        ]
+      },
+      {
+        "source_location": "前案右端小型青铜罐身及独立盖",
+        "asset_ids": [
+          "T02-23",
+          "T02-24"
+        ]
+      },
+      {
+        "source_location": "右缘可见竹叶及细枝",
+        "asset_ids": [
+          "T02-27"
+        ]
+      },
+      {
+        "source_location": "地面圆形编织坐垫",
+        "asset_ids": [
+          "T02-16"
+        ]
+      },
+      {
+        "source_location": "坐垫与供案下编织地毯",
+        "asset_ids": [
+          "T02-31"
+        ]
+      },
+      {
+        "source_location": "左下角原位虚焦前景叶枝",
+        "asset_ids": [
+          "T02-26"
+        ]
+      },
+      {
+        "source_location": "左下石水钵",
+        "asset_ids": [
+          "T02-28"
+        ]
+      },
+      {
+        "source_location": "石水钵内可见静水面",
+        "asset_ids": [
+          "T02-32"
+        ]
+      },
+      {
+        "source_location": "水面上两朵可见同款白花",
+        "asset_ids": [
+          "T02-29"
+        ]
+      },
+      {
+        "source_location": "水钵周围石地面若干散落白瓣",
+        "asset_ids": [
+          "T02-30"
+        ]
+      }
+    ],
+    "reason": "当前31个有效资产全部与源图可见设计对应。新增前景叶枝、水钵、静水面、漂浮花、散瓣及地毯均已逐项对照；同款重复实例复用，T02-03为一体佛像莲座的重复候选，已按既有证据退役。固定山水墙板和室外石灯景观保留在背景。",
+    "potential_missing_designs": [],
+    "confirmed_new_components": [
+      "T02-26",
+      "T02-27",
+      "T02-28",
+      "T02-29",
+      "T02-30",
+      "T02-31",
+      "T02-32"
+    ],
+    "clarification_findings": {
+      "fixed_background": [
+        "佛像后方山水艺术是无卷杆、无挂绳的固定嵌墙板，保留在背景；非独立挂轴。",
+        "左侧室外石灯与山石树木是固定景观，保留在背景。"
+      ],
+      "missing_visible_foreground": [
+        "左下可见虚焦绿叶、右缘竹叶，没有证据支持隐藏花盆。",
+        "左下石水钵及可见水面、小白花；地面散落白瓣；坐垫与前供案下的编织地毯。"
+      ],
+      "mapping_correction": "后排带提环盖香炉为T02-18/19；前排小型铜罐为T02-23/24，专项对照确认是两种不同器型，不能都误标23/24。",
+      "evidence_metadata": "output/imagegen/buddhahome-themes/extraction-reviews/T02/0bb10146fead8efb/clarification-missing-elements/clarification.json"
+    }
+  },
+  "background": {
+    "status": "pass",
+    "unresolved": [],
+    "reason": "当前背景详细对照第6—7节及同源同背景哈希的专项检查一致确认：全部可移动道具、地毯、左右前景叶枝与水钵/水面已移除；固定山水墙板、木梁、台阶、地砖、窗外树木山石及石灯保留。未见残影、烟火或房间几何改动。引言误称前景保留，已通过详细检查与专项对照交叉消解。"
+  },
+  "objects": {
+    "T02-01": {
+      "status": "pass",
+      "reason": "后方高供桌的深木结构和比例与源图对应，空置且不再夹带前方低供案。",
+      "evidence_part": "assets-01"
+    },
+    "T02-02": {
+      "status": "pass",
+      "reason": "初始源图盘点与专项对照均确认佛像、两排莲瓣及底部薄平台为连续一体雕刻。专项实际切图对照确认这些部分完整包含在T02-02；T02-03重复同一莲座，归档退役，由T02-02完整覆盖。",
+      "evidence_part": "assets-01"
+    },
+    "T02-04": {
+      "status": "pass",
+      "reason": "花瓶器形对应，瓶口与内壁可见，无花枝、花朵及水。",
+      "evidence_part": "assets-01"
+    },
+    "T02-05": {
+      "status": "pass",
+      "reason": "花枝花型与源图对应，完整枝材保留可插入枝脚，无花瓶。",
+      "evidence_part": "assets-01"
+    },
+    "T02-06": {
+      "status": "pass",
+      "reason": "灯架结构对应，空置，无蜡烛、火焰、余烬及烟。",
+      "evidence_part": "assets-01"
+    },
+    "T02-07": {
+      "status": "pass",
+      "reason": "单个白色柱形蜡烛和烛芯对应源图，无火焰、余烬或烟。",
+      "evidence_part": "assets-01"
+    },
+    "T02-08": {
+      "status": "pass",
+      "reason": "香炉器形对应，开口内腔可见，无香、灰、烟及盖。",
+      "evidence_part": "assets-01"
+    },
+    "T02-09": {
+      "status": "pass",
+      "reason": "单根未点燃线香完整，保留插入端，无余烬、烟或其他物件。",
+      "evidence_part": "assets-01"
+    },
+    "T02-10": {
+      "status": "pass",
+      "reason": "青瓷莲瓣供盘与源图对应，包含本身承托足，盘内空置、无供品。",
+      "evidence_part": "assets-02"
+    },
+    "T02-11": {
+      "status": "pass",
+      "reason": "源图对应的一枚完整橙色供果，无盘子及其他水果。",
+      "evidence_part": "assets-02"
+    },
+    "T02-12": {
+      "status": "pass",
+      "reason": "青瓷花纹茶壶保留自身盖、把手与壶嘴，样式与源图对应，无液体、杯或盘。",
+      "evidence_part": "assets-02"
+    },
+    "T02-13": {
+      "status": "pass",
+      "reason": "单只青瓷花纹空茶杯，内外壁及杯底完整，无液体、托盘或其他杯。",
+      "evidence_part": "assets-02"
+    },
+    "T02-14": {
+      "status": "pass",
+      "reason": "长方形木茶盘具有原有围边与两侧把手，承托面空置，无杯壶。",
+      "evidence_part": "assets-02"
+    },
+    "T02-15": {
+      "status": "pass",
+      "reason": "深色封面的闭合线装经书，装饰及装订与源图对应，无可读文字或其他书。",
+      "evidence_part": "assets-02"
+    },
+    "T02-16": {
+      "status": "pass",
+      "reason": "圆形编织坐垫具有源图对应的莲纹，单独完整，无地席、地面或其他物件。",
+      "evidence_part": "assets-02"
+    },
+    "T02-17": {
+      "status": "pass",
+      "reason": "前方独立低木供桌设计、深色木材、完整桌面及腿部与源图相符；仅空桌。",
+      "evidence_part": "assets-02"
+    },
+    "T02-18": {
+      "status": "pass",
+      "reason": "后方青铜香炉空炉身的云纹、环形把手及自身足座与源图一致，开口和空内壁完整，无炉盖。",
+      "evidence_part": "assets-03"
+    },
+    "T02-19": {
+      "status": "pass",
+      "reason": "独立炉盖与T02-18配套，盖钮及镂空云纹对应源图，无炉身及其他物件。",
+      "evidence_part": "assets-03"
+    },
+    "T02-20": {
+      "status": "pass",
+      "reason": "青铜环形摆件具有原环体、云纹与自身方形底足，独立提取，无书册。",
+      "evidence_part": "assets-03"
+    },
+    "T02-21": {
+      "status": "pass",
+      "reason": "深色陶质小供碟的形状与材质对应源图，单独空置。",
+      "evidence_part": "assets-03"
+    },
+    "T02-22": {
+      "status": "pass",
+      "reason": "源图所示红枣的一枚完整独立资产，无盘或其他供品。",
+      "evidence_part": "assets-03"
+    },
+    "T02-23": {
+      "status": "pass",
+      "reason": "小青铜盖罐的空罐身保留莲纹与自身底足，开口完整，无独立盖及内容物。",
+      "evidence_part": "assets-03"
+    },
+    "T02-24": {
+      "status": "pass",
+      "reason": "与T02-23配套的独立盖保留原莲苞盖钮与设计，无罐身。",
+      "evidence_part": "assets-03"
+    },
+    "T02-25": {
+      "status": "pass",
+      "reason": "米色纹样桌旗与前方供桌左侧源图布料的颜色、纹样、比例及自然垂落一致；独立完整，无桌、器物或供果。",
+      "evidence_part": "assets-03"
+    },
+    "T02-26": {
+      "status": "pass",
+      "reason": "左下原位虚焦绿叶与细枝的形状、规模、景深及左/下边缘裁切与源图一致；无花盆、石钵、花朵或背景块。",
+      "evidence_part": "assets-04"
+    },
+    "T02-27": {
+      "status": "pass",
+      "reason": "右缘竹叶与细枝在原画布上位置、方向与叶簇布局匹配；仅可见植物片段，无推测花盆、根系或其他场景物件。",
+      "evidence_part": "assets-04"
+    },
+    "T02-28": {
+      "status": "pass",
+      "reason": "独立完整粗石水钵，低矮圆形器壁与源图一致；钵内空置，不含水、花、植物或地面。",
+      "evidence_part": "assets-04"
+    },
+    "T02-29": {
+      "status": "pass",
+      "reason": "单朵五瓣白花配黄色花心，与水钵内可见漂浮花朵对应；无水面、容器、叶茎或额外花朵。",
+      "evidence_part": "assets-04"
+    },
+    "T02-30": {
+      "status": "pass",
+      "reason": "单枚弯曲白花瓣，根部轻微黄色与地面散瓣对应；无地面、完整花朵或其他散瓣。",
+      "evidence_part": "assets-04"
+    },
+    "T02-31": {
+      "status": "pass",
+      "reason": "完整长方形天然纤维编织地毯，颜色、纹理与源图地毯一致；无坐垫、家具、地砖或植物。",
+      "evidence_part": "assets-04"
+    },
+    "T02-32": {
+      "status": "pass",
+      "reason": "原位椭圆静水表面保留源图透视、反射及尺度；漂浮白花单独拆分，不含石钵沿、外壁、植物和地面。",
+      "evidence_part": "assets-04"
+    }
+  },
+  "evidence": [
+    {
+      "part": "coverage",
+      "kind": "whole_source_coverage",
+      "wanted_ids": [],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T02/b6f17f7cb81e570c/review-coverage.ocr.txt",
+      "image_sha256": "e0d14a6b0f85bb26913645f45656267748537ae1229f92d52bed97a8d5f6497b",
+      "text_sha256": "35cb549faa8858e8a88b852826d14f1003b769a0ac36c286acabbbd930c5443e"
+    },
+    {
+      "part": "background",
+      "kind": "empty_background",
+      "wanted_ids": [],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T02/b6f17f7cb81e570c/review-background.ocr.txt",
+      "image_sha256": "b06ae5cf18126ae386add1c6805ebab7da3142192f6769446aab20d5679801f8",
+      "text_sha256": "d96dd151bfa081f32396165ca614eda0a4b4faae2fcf7fd82f421003fbc42dec"
+    },
+    {
+      "part": "assets-01",
+      "kind": "individual_assets",
+      "wanted_ids": [
+        "T02-01",
+        "T02-02",
+        "T02-04",
+        "T02-05",
+        "T02-06",
+        "T02-07",
+        "T02-08",
+        "T02-09"
+      ],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T02/b6f17f7cb81e570c/review-assets-01.ocr.txt",
+      "image_sha256": "e24a26aee5ccac6b50b726aa29cff856ba95aec3f90c107417e40d7734ca5866",
+      "text_sha256": "9f6cd3abe0f0bc7cd8658afcee579e5d115757e8b25689ada5b618824c40d646"
+    },
+    {
+      "part": "assets-02",
+      "kind": "individual_assets",
+      "wanted_ids": [
+        "T02-10",
+        "T02-11",
+        "T02-12",
+        "T02-13",
+        "T02-14",
+        "T02-15",
+        "T02-16",
+        "T02-17"
+      ],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T02/b6f17f7cb81e570c/review-assets-02.ocr.txt",
+      "image_sha256": "9e1608c919476ef8019fac385ff7da524df7b5998ce4e7ff611c5bb813cdb7df",
+      "text_sha256": "5c974a0a6c9865db1a0ba3e2d045df94c4f0dead8d8e7fe6914b7c4460cbc450"
+    },
+    {
+      "part": "assets-03",
+      "kind": "individual_assets",
+      "wanted_ids": [
+        "T02-18",
+        "T02-19",
+        "T02-20",
+        "T02-21",
+        "T02-22",
+        "T02-23",
+        "T02-24",
+        "T02-25"
+      ],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T02/b6f17f7cb81e570c/review-assets-03.ocr.txt",
+      "image_sha256": "ba83efed26773552830204528612f522b2f3a73e773d4771dc25f8fe431dd8ce",
+      "text_sha256": "5027aad02d835a0b4952d9a0e9d14d9737d8cc7c4a57e217e25aa910b30b59ac"
+    },
+    {
+      "part": "assets-04",
+      "kind": "individual_assets",
+      "wanted_ids": [
+        "T02-26",
+        "T02-27",
+        "T02-28",
+        "T02-29",
+        "T02-30",
+        "T02-31",
+        "T02-32"
+      ],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T02/b6f17f7cb81e570c/review-assets-04.ocr.txt",
+      "image_sha256": "632de8299a78eb73b1a1190757fcab4af000b9c6a94aadce91a6cd223b2864c8",
+      "text_sha256": "a2460773da36230b6cb131fa94edd14ed26c26f4fa9772b6348a42f7507382e5"
+    }
+  ],
+  "limitations": [
+    "依据原图与实际PNG的图像服务对照和本地文件/透明度检查验收，并非人工逐像素抠图鉴定；证据绑定当前源图、计划、背景及资产哈希。",
+    "相同可见设计允许多实例复用；未知遮挡数量、隐藏花盆与不可见结构不作推测。",
+    "图像报告自动生成的计数、日期或边缘泛化文字已按具体证据纠正；不将这些文字当作源图事实。"
+  ],
+  "retired_candidates": [
+    {
+      "object_id": "T02-03",
+      "status": "retired_duplicate_integrated_part",
+      "covered_by": [
+        "T02-02"
+      ],
+      "reason": "初始源图盘点与专项对照均确认佛像、两排莲瓣及底部薄平台为连续一体雕刻。专项实际切图对照确认这些部分完整包含在T02-02；T02-03重复同一莲座，归档退役，由T02-02完整覆盖。",
+      "original_candidate": {
+        "slot": 3,
+        "name": "佛像底座",
+        "category": "家具与底座",
+        "subcategory": "底座",
+        "ability": "可承托",
+        "texture": "1k",
+        "description": "空底座，顶部可承托佛像；不带佛像或其他物件",
+        "review_note": "拆分关系待复核：图像盘点稿将莲花座描述为佛像一体，既有拆件单列底座；建模前确认是否可拆，避免重复叠放或把推测当成源图事实。"
+      },
+      "retired_at": "2026-09-25T01:43:11.853482+00:00",
+      "source_sha256": "40b3d3b5492ae7635c84980c5b59b3e8a48ae21db6633e4358baaa42d74705a3",
+      "retired_png_sha256": "6a2139a31e775f7c9ab724b606ad1d5719514bdb150d00705085ef012c55e965",
+      "retained_png_sha256": "9a756a8c328093bac51005222c021fb67f33006a5d63feaa532eef0c5ed75d4f",
+      "archived_png": "历史版本/候选退役/T02-03/6a2139a31e775f7c/T02_03_佛像底座.png",
+      "evidence_metadata": "output/imagegen/buddhahome-themes/extraction-reviews/T02/9b9ec9738d113fac/clarification-02/clarification.json",
+      "evidence_text_sha256": "1cf6364ddc07a02d0a1c45f32b11bc96fc502ae4c2392fdea88bdcd197f870ec"
+    }
+  ],
+  "supplemental_evidence": [
+    {
+      "kind": "integrated_base_clarification",
+      "metadata_path": "output/imagegen/buddhahome-themes/extraction-reviews/T02/9b9ec9738d113fac/clarification-02/clarification.json",
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T02/9b9ec9738d113fac/clarification-02/clarification.ocr.txt",
+      "text_sha256": "1cf6364ddc07a02d0a1c45f32b11bc96fc502ae4c2392fdea88bdcd197f870ec"
+    },
+    {
+      "metadata_path": "output/imagegen/buddhahome-themes/extraction-reviews/T02/0bb10146fead8efb/clarification-missing-elements/clarification.json",
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T02/0bb10146fead8efb/clarification-missing-elements/clarification.ocr.txt",
+      "text_sha256": "42bc8e810cae5421bb87e41d6b3e7d2f71098d8d86be1c1ba17490f8918f1063"
+    },
+    {
+      "kind": "source_positioned_layer_alignment",
+      "metadata_path": "output/imagegen/buddhahome-themes/extraction-reviews/T02/b6f17f7cb81e570c/clarification-layer-placement/clarification.json",
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T02/b6f17f7cb81e570c/clarification-layer-placement/clarification.ocr.txt",
+      "text_sha256": "ff36bb602bf8e0f11c500c35e5f4095de3569baecff5c74bf1e754001e9b2cd7"
+    }
+  ],
+  "snapshot": {
+    "theme_id": "T02",
+    "review_protocol": "paired-v2",
+    "source_sha256": "40b3d3b5492ae7635c84980c5b59b3e8a48ae21db6633e4358baaa42d74705a3",
+    "background_sha256": "6096295ed84fe2377dc8c3116a10ddae2fea2e9ec63465d6a977a6f6bb3c36b2",
+    "plan_sha256": "5da49e0ea497f0883ad7b25b4b90e7b132f66033c8b19e9de841d4b3f6a7f934",
+    "objects": [
+      {
+        "object_id": "T02-01",
+        "sha256": "542b0f67d5871289782c675c229f307381a2104ee1c038d3d87c3ec2456a2976"
+      },
+      {
+        "object_id": "T02-02",
+        "sha256": "9a756a8c328093bac51005222c021fb67f33006a5d63feaa532eef0c5ed75d4f"
+      },
+      {
+        "object_id": "T02-04",
+        "sha256": "81b28571774f63d93e0f12f80d23c88748cdba195419b4db7da693df92ea5da0"
+      },
+      {
+        "object_id": "T02-05",
+        "sha256": "a67c2bbe73dd193ffa45d3903d8e45727e861b60372d8ee6b5534926eb191842"
+      },
+      {
+        "object_id": "T02-06",
+        "sha256": "918ce61eab1a224c529cb8e690048a7430afb774ed76874347d80c8fae2c1bd6"
+      },
+      {
+        "object_id": "T02-07",
+        "sha256": "2c49cfcb8d2dcdf103f922d78de72cd6ac2a158accef9246a9f07c75087c763d"
+      },
+      {
+        "object_id": "T02-08",
+        "sha256": "6f91054edae93ea0c49ff92719a4a2340a0164a66d45725f61300e33e0dc5eeb"
+      },
+      {
+        "object_id": "T02-09",
+        "sha256": "2675d353fe517f822c73bb5285301844b22e393db7f8a206d1f47ea96625be17"
+      },
+      {
+        "object_id": "T02-10",
+        "sha256": "7374b5762a9f677a79792b19a63cd8ebc7cd45c6b5542292070c8e993fbc2e24"
+      },
+      {
+        "object_id": "T02-11",
+        "sha256": "9315033f9431a6f0a7639464a9818d469536b11137057dc9bc7163b944412f1c"
+      },
+      {
+        "object_id": "T02-12",
+        "sha256": "317050d167ca2c6051704ed6820f12c2e047d4ecd5274ee080420f2ed1701af2"
+      },
+      {
+        "object_id": "T02-13",
+        "sha256": "a9ca1ce3ccd8b7f07f08cb11cc5db67e183d76972f6a4c341e2b22dd0957225c"
+      },
+      {
+        "object_id": "T02-14",
+        "sha256": "9372c3444db1f2a118f76111f9b8a8b295035ca210b28bde37c0516b8c2c7d50"
+      },
+      {
+        "object_id": "T02-15",
+        "sha256": "01be87ac4328b002e5c94245178c79289cd452e0e990aef565622c7e017549a3"
+      },
+      {
+        "object_id": "T02-16",
+        "sha256": "ff1a9e5296232904fbadee50b8e87723b932491112807e203348c6fa0dee405b"
+      },
+      {
+        "object_id": "T02-17",
+        "sha256": "c844c387d18b50e6f18424523d5dd38627bbc0e2f0a05e7e810b3211a5ee7bd2"
+      },
+      {
+        "object_id": "T02-18",
+        "sha256": "d0891971ee2d31f8a46585b1ab19741a46c63c8c9ab14821b9be023c7d0b2bbb"
+      },
+      {
+        "object_id": "T02-19",
+        "sha256": "a34bbef139bb23d92e8910115585c12f77302faf6c54e3806d53fb2111124552"
+      },
+      {
+        "object_id": "T02-20",
+        "sha256": "86c2e3f34d179b984994e8cd9efbcd9752441406ca678e0ecea5830bd882bb0f"
+      },
+      {
+        "object_id": "T02-21",
+        "sha256": "a1d5554dfa5db03eb5b7792c902ee74144ab217f5617e8f66b60e1b9e48bbc65"
+      },
+      {
+        "object_id": "T02-22",
+        "sha256": "f5a1c29aaef5177f577d25a1c1384f9ce338d08964f8036f0f3b69e2edbf1064"
+      },
+      {
+        "object_id": "T02-23",
+        "sha256": "cbfc489586fb06660d64404ccd5344f21324f783336c180a589aaec22071430b"
+      },
+      {
+        "object_id": "T02-24",
+        "sha256": "0ad9febce2e43ea421bbfef9d5af1e02bbede16a2577002f76b9b9c80a8b0d2c"
+      },
+      {
+        "object_id": "T02-25",
+        "sha256": "a142dd8e09db428d2a96ad5412b1c43f6e1b3134ede54bead00e4fb7b2f743bc"
+      },
+      {
+        "object_id": "T02-26",
+        "sha256": "a33ff9691dec0f6249b9b5fa762d2426ae514af0246f901dc5c4e277615920c5"
+      },
+      {
+        "object_id": "T02-27",
+        "sha256": "07a5dcd0eec2b8c592f3d8e53d480ccb0d491b151cf149720868a794ee7b3ffd"
+      },
+      {
+        "object_id": "T02-28",
+        "sha256": "34d93fe88a1c8d44a8c75478b925be4001729c6e1adf56b605b6bf6300a14b0a"
+      },
+      {
+        "object_id": "T02-29",
+        "sha256": "5cff4526832236f24286dd9cb50bb336303fa0c1fa93dafb43dc2e5056241dff"
+      },
+      {
+        "object_id": "T02-30",
+        "sha256": "46c5484f3817352a773458578ace7d3c59ae339416689dfa51b3b12a4e2d33d4"
+      },
+      {
+        "object_id": "T02-31",
+        "sha256": "cfb24b63f4a95ba9697e81c942a9ea6810fd61ad6c3b9e333b342ab5117df01c"
+      },
+      {
+        "object_id": "T02-32",
+        "sha256": "3fa02c63d9dbba218bda6c6d6248380be2d99fb3931ba4c2aaf20c3ad7386302"
+      }
+    ]
+  },
+  "resolved_at": "2026-09-25T11:54:46.038160+00:00",
+  "review_errata": [
+    {
+      "finding": "coverage报告把有效资产数写成32并笼统写01至32。",
+      "resolution": "实际提供和映射的有效ID为31个；03已退役且覆盖于02。以当前计划、逐件页和逐ID映射精确集合为准。"
+    },
+    {
+      "finding": "当前背景报告引言说26/27/32保留，与同页详细第6—7节矛盾；旧0bb背景总报告还把固定墙板误称已移除挂轴。",
+      "resolution": "当前背景详细结果和0bb专项missing-elements针对相同源图/背景的实际比较均确认墙板保留、三个前景层移除；专项报告明确没有卷轴杆或挂绳，固定墙板归背景。"
+    },
+    {
+      "finding": "图层专项将右缘竹叶泛称在上、右、下三侧裁切。",
+      "resolution": "实际948×1659画布上alpha>=2边界[680,219,948,1354]，有意义可见内容仅触右缘。位置、叶簇与尺度的专项比较及逐件页均匹配，不采纳错误的上下边缘文字。"
+    }
+  ],
+  "technical_checks": {
+    "alpha_edges": "拆后检查/alpha-edge-diagnostic.json",
+    "alpha_edges_sha256": "f3333e93bd429b4a16d5f95a4a5699a6ba3c213560e204f7470b5ed6161570d3",
+    "interpretation": "远离主要轮廓的极少8位Alpha=1像素最多产生1级通道差异；不是可见物件片段。保留源景深软边，不将原位图层错误居中或裁切。"
+  },
+  "historical_carry_forward_basis": {
+    "previous_fingerprint": "0bb10146fead8efb40fa0875c48cb74828bdf37acde0a8558c7462cdd5c0fa90",
+    "reason": "The original 24 active source-bound cutouts and the background are byte-identical to their prior individual/targeted inspections. Seven new source-confirmed items have been generated; their final comparison and the new full source mapping remain pending.",
+    "unchanged_ids": [
+      "T02-01",
+      "T02-02",
+      "T02-04",
+      "T02-05",
+      "T02-06",
+      "T02-07",
+      "T02-08",
+      "T02-09",
+      "T02-10",
+      "T02-11",
+      "T02-12",
+      "T02-13",
+      "T02-14",
+      "T02-15",
+      "T02-16",
+      "T02-17",
+      "T02-18",
+      "T02-19",
+      "T02-20",
+      "T02-21",
+      "T02-22",
+      "T02-23",
+      "T02-24",
+      "T02-25"
+    ]
+  }
+}

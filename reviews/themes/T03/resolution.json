@@ -1,0 +1,479 @@
+{
+  "theme_id": "T03",
+  "status": "resolved",
+  "fingerprint": "0c0b6b89b4cf4b652a006ebab34fa6104c53e08b13fe76fe8abcf254ebe6b8e3",
+  "updated_at": "2026-09-25T01:52:20.160434+00:00",
+  "review_method": "Image-service comparison of actual source, background and PNGs; local OCR and explicit text reconciliation. No human visual inspection claimed.",
+  "coverage": {
+    "status": "pass",
+    "unresolved": [],
+    "source_mapping": [
+      {
+        "source_location": "中央低木供桌",
+        "asset_ids": [
+          "T03-01"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "供桌中央坐佛及连续一体莲座",
+        "asset_ids": [
+          "T03-02"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "供桌左侧深灰花瓶",
+        "asset_ids": [
+          "T03-04"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "左花瓶内白花绿叶枝束",
+        "asset_ids": [
+          "T03-05"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "供桌左侧承装苔藓的碗",
+        "asset_ids": [
+          "T03-17"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "苔藓碗内绿色苔藓团",
+        "asset_ids": [
+          "T03-18"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "佛像左前方较大的纹样陶碗",
+        "asset_ids": [
+          "T03-19"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "右侧木茶盘上的茶壶",
+        "asset_ids": [
+          "T03-12"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "茶壶右侧小斑点茶杯",
+        "asset_ids": [
+          "T03-13"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "右侧小杯配套浅斑点碟",
+        "asset_ids": [
+          "T03-20"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "右侧承放杯壶的木茶盘",
+        "asset_ids": [
+          "T03-14"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "茶盘右侧深色碗形烛座",
+        "asset_ids": [
+          "T03-06"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "碗形烛座中的米白柱蜡",
+        "asset_ids": [
+          "T03-07"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "供桌最右侧香炉空炉身",
+        "asset_ids": [
+          "T03-08"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "最右侧香炉的独立炉盖",
+        "asset_ids": [
+          "T03-21"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "最右侧香炉中线香",
+        "asset_ids": [
+          "T03-09"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "地面前景圆编织坐垫",
+        "asset_ids": [
+          "T03-16"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "地面独立编织席",
+        "asset_ids": [
+          "T03-22"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "右侧墙面可拆米色挂轴",
+        "asset_ids": [
+          "T03-23"
+        ],
+        "source_instance_count": 1,
+        "role": "standalone_object"
+      },
+      {
+        "source_location": "左下角源图可见近景绿叶",
+        "asset_ids": [
+          "T03-24"
+        ],
+        "source_instance_count": 1,
+        "role": "transparent_environment_overlay"
+      },
+      {
+        "source_location": "右边缘源图可见近景枝叶",
+        "asset_ids": [
+          "T03-25"
+        ],
+        "source_instance_count": 1,
+        "role": "transparent_environment_overlay"
+      }
+    ],
+    "report_corrections": [
+      {
+        "original_report_row": 4,
+        "issue": "只列苔藓T03-18，遗漏同句所指容器的资产编号。",
+        "correct_asset_ids": [
+          "T03-17",
+          "T03-18"
+        ],
+        "basis": "当前逐件页2分别核对空苔藓碗与苔藓团。"
+      },
+      {
+        "original_report_row": 5,
+        "issue": "左侧较大纹样陶碗误写为右侧杯碟T03-20。",
+        "correct_asset_ids": [
+          "T03-19"
+        ],
+        "basis": "当前逐件页2核对左大碗T03-19及右杯碟T03-20；专项杯碟对照确认右侧杯与碟独立。"
+      },
+      {
+        "original_report_row": 8,
+        "issue": "深色碗形烛座误写为花枝T03-05。",
+        "correct_asset_ids": [
+          "T03-06"
+        ],
+        "basis": "当前逐件页1分别核对T03-05白花枝与T03-06空烛座。"
+      },
+      {
+        "original_report_row": 6,
+        "issue": "文字提到承放茶具的木盘但未单列盘的资产编号。",
+        "correct_asset_ids": [
+          "T03-14"
+        ],
+        "basis": "当前逐件页2核对独立空木茶盘。"
+      },
+      {
+        "original_report_row": 10,
+        "issue": "列炉身与香却未列可见独立炉盖。",
+        "correct_asset_ids": [
+          "T03-08",
+          "T03-09",
+          "T03-21"
+        ],
+        "basis": "专项炉盖对照确认原图存在独立炉盖，当前逐件页3再次确认T03-21只含对应炉盖；当前页1确认T03-08只含空炉身。"
+      },
+      {
+        "original_report_row": 7,
+        "issue": "右侧杯碟的碟编号被放到左碗位置，应恢复右侧独立碟映射。",
+        "correct_asset_ids": [
+          "T03-13",
+          "T03-20"
+        ],
+        "basis": "当前逐件页2与专项杯碟对照共同确认独立小杯、独立空碟。"
+      }
+    ],
+    "reason": "将整幅源图扫描、当前三页逐件对照及专项杯碟/炉盖与一体莲座证据逐项交叉核对。完整映射19件独立物件及2处实际可见的前景图层；整体报告的编号错配和遗漏编号已按逐件图像事实纠正，没有未映射的已识别独立设计。重复莲座已归档，由完整坐佛覆盖。"
+  },
+  "background": {
+    "status": "pass",
+    "unresolved": [],
+    "reason": "当前背景对照确认可拆挂轴与全部家具、器物、坐垫和地席已移除；永久木柱、障子窗、墙地面、相机和远处花园保持一致，无残影。T03-24/25明确独立交付为前景图层，不重复嵌入空环境基底。"
+  },
+  "objects": {
+    "T03-01": {
+      "status": "pass",
+      "reason": "源图自然不规则桌缘及两块支腿对应，木供桌完整空置，无其他物件。"
+    },
+    "T03-02": {
+      "status": "pass",
+      "reason": "坐佛与两排莲座为一个完整的一体物件，源图石材、风化绿苔和轮廓对应，无重复底座。"
+    },
+    "T03-04": {
+      "status": "pass",
+      "reason": "深灰纹理陶瓶与源图对应，保留开口及内缘，空置无花、水或内容物。"
+    },
+    "T03-05": {
+      "status": "pass",
+      "reason": "白花绿叶枝束对应源图，枝形与插入端完整，无花瓶或其他物件。"
+    },
+    "T03-06": {
+      "status": "pass",
+      "reason": "源图深色石质碗形烛座已独立空置，无蜡烛、烛芯或火焰。"
+    },
+    "T03-07": {
+      "status": "pass",
+      "reason": "米白柱蜡含未点燃烛芯，与源图对应，无烛座、火焰或烟。"
+    },
+    "T03-08": {
+      "status": "pass",
+      "reason": "修正后的深色金属空炉身具有原云形镂孔及三个球足；不再附带炉盖，内壁空置。"
+    },
+    "T03-09": {
+      "status": "pass",
+      "reason": "单根未点燃线香具有深色香体和浅色插入端，无炉、烟或余烬。"
+    },
+    "T03-12": {
+      "status": "pass",
+      "reason": "右侧深色金属茶壶保留编织提梁、嘴、盖与壶体，单独空置，无盘杯或液体。"
+    },
+    "T03-13": {
+      "status": "pass",
+      "reason": "右侧浅色斑点小茶杯单独空置，内壁完整，无杯碟。"
+    },
+    "T03-14": {
+      "status": "pass",
+      "reason": "长方形木茶盘及侧把手与源图相符，盘面空置，无壶杯或其他物件。"
+    },
+    "T03-16": {
+      "status": "pass",
+      "reason": "圆形编织坐垫与源图对应，完整单独，无地席或地面。"
+    },
+    "T03-17": {
+      "status": "pass",
+      "reason": "苔藓碗的莲瓣纹及石陶材质与源图对应，单独空碗，无苔藓、土或水。"
+    },
+    "T03-18": {
+      "status": "pass",
+      "reason": "苔藓团及可见根基对应源图，单独自然团块，无碗或其他植物。"
+    },
+    "T03-19": {
+      "status": "pass",
+      "reason": "左侧较大的纹样陶碗与源图对应，内外壁完整、空置，与右侧小茶杯区分。"
+    },
+    "T03-20": {
+      "status": "pass",
+      "reason": "右侧小杯对应的浅色斑点碟单独空置，无杯、壶或茶盘。"
+    },
+    "T03-21": {
+      "status": "pass",
+      "reason": "独立深色金属香炉盖与源图最右香炉对应，圆盖钮、通气孔、材质及比例相符；仅盖，无炉身、线香或其他物件。"
+    },
+    "T03-22": {
+      "status": "pass",
+      "reason": "独立自然纤维编织地席与源图一致，矩形轮廓、棕色材质及编织纹理完整，无坐垫、家具或地面。"
+    },
+    "T03-23": {
+      "status": "pass",
+      "reason": "独立米色织物挂轴保留原上下木杆及挂绳，与源图右墙位置对应；无文字、墙、木柱或其他景物。"
+    },
+    "T03-24": {
+      "status": "pass",
+      "reason": "仅保存源图左下角可见的柔焦绿叶与相连细枝，保留原帧边缘截断、布局与景深；无虚构花盆、树干或其他植物结构，948×1659画布与原图和背景对齐。"
+    },
+    "T03-25": {
+      "status": "pass",
+      "reason": "仅保存源图从右边缘伸入的绿色叶片与细枝，方向和布局对应，保留实际可见部分；无花盆、树干及额外虚构枝叶，948×1659画布与原图和背景对齐。"
+    }
+  },
+  "evidence": [
+    {
+      "part": "coverage",
+      "kind": "whole_source_coverage",
+      "wanted_ids": [],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T03/0c0b6b89b4cf4b65/review-coverage.ocr.txt",
+      "image_sha256": "58ed042c1790ebd447e0ba2ce90209d6e611b6c62f6ffbffc5ee7b26877f64e8",
+      "text_sha256": "7b1c900cb9cfd4396cb8189bb0cda48c837c13c8346db0f239578a984a1cae4c"
+    },
+    {
+      "part": "background",
+      "kind": "empty_background",
+      "wanted_ids": [],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T03/0c0b6b89b4cf4b65/review-background.ocr.txt",
+      "image_sha256": "ecf058ee9e0c00bd119373034f77e12f3fe8e7cd8661cfd345974382f8c69251",
+      "text_sha256": "e8ce51c40af6bc56e423e725354ba58cdd8ea2b4fae14cd7b75b2e0af63d6f59"
+    },
+    {
+      "part": "assets-01",
+      "kind": "individual_assets",
+      "wanted_ids": [
+        "T03-01",
+        "T03-02",
+        "T03-04",
+        "T03-05",
+        "T03-06",
+        "T03-07",
+        "T03-08",
+        "T03-09"
+      ],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T03/0c0b6b89b4cf4b65/review-assets-01.ocr.txt",
+      "image_sha256": "a3ed8cf2e591aaf35fc46887d42693f5011704c148dbbc280623ef13d5f570f8",
+      "text_sha256": "9b2cb4d846e79ffa38d4ab889d0b87c1f442468304e6e2c07df80f5164c67fc9"
+    },
+    {
+      "part": "assets-02",
+      "kind": "individual_assets",
+      "wanted_ids": [
+        "T03-12",
+        "T03-13",
+        "T03-14",
+        "T03-16",
+        "T03-17",
+        "T03-18",
+        "T03-19",
+        "T03-20"
+      ],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T03/0c0b6b89b4cf4b65/review-assets-02.ocr.txt",
+      "image_sha256": "d02cc013e9d077455860e9ec47fd0ef636968869598df9de69b720b62e602416",
+      "text_sha256": "fc460089348bcff42b4994b5ad14d627538737843478de3bdba5f1b0326b0b93"
+    },
+    {
+      "part": "assets-03",
+      "kind": "individual_assets",
+      "wanted_ids": [
+        "T03-21",
+        "T03-22",
+        "T03-23",
+        "T03-24",
+        "T03-25"
+      ],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T03/0c0b6b89b4cf4b65/review-assets-03.ocr.txt",
+      "image_sha256": "175ec99d0590e0943e3ea266c854666c8163f2a8af9a6a52fc3860f400cb8320",
+      "text_sha256": "df45f198f76d517ef1ed9baca4906867665d582f34f2c4f1b12d56ef3d9ec4f0"
+    }
+  ],
+  "supplemental_evidence": [
+    {
+      "kind": "targeted_scene_clarification",
+      "metadata_path": "output/imagegen/buddhahome-themes/extraction-reviews/T03/2d4da73573769a18/clarification-01/clarification.json",
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T03/2d4da73573769a18/clarification-01/clarification.ocr.txt",
+      "text_sha256": "8783df06eb79fc75be12d8e3a0200c8cd979d5efda7cf615f0dc7316c7e4ba1a"
+    }
+  ],
+  "pending_clarification": "output/imagegen/buddhahome-themes/extraction-reviews/T03/f8b8895773c23fb0/clarification-01/state.json",
+  "findings_in_progress": [
+    {
+      "object_ids": [
+        "T03-02",
+        "T03-03"
+      ],
+      "status": "resolved",
+      "finding": "专项源图对照确认坐佛与两排石莲座为连续一体雕刻，无额外独立支座；T03-03重复了T03-02已包含的莲座。保留完整T03-02，独立候选归档退役，不计为遗漏。"
+    },
+    {
+      "object_ids": [
+        "T03-08",
+        "T03-21"
+      ],
+      "status": "resolved",
+      "finding": "旧炉身PNG保留了另放的炉盖；炉身已重拆，独立炉盖的源图对应待核实。",
+      "old_body_sha256": "4ec159cf96d26e2a8dd75b6b854053b6a991382b9b34036b7b1825be14d1e2e9",
+      "new_body_sha256": "43bd86891876ac0bdc62479734d1b01ca660cbaaea5860731f86d989dbc7adad"
+    },
+    {
+      "object_ids": [
+        "T03-13",
+        "T03-20"
+      ],
+      "status": "resolved",
+      "finding": "覆盖报告将碟描述为杯碟组合，与独立杯、空碟目标不符。"
+    },
+    {
+      "object_ids": [
+        "T03-23"
+      ],
+      "status": "resolved",
+      "finding": "需区分可拆卷轴与固定壁龛面板；核实背景是否误留卷轴。"
+    },
+    {
+      "object_ids": [],
+      "status": "resolved",
+      "finding": "左右前景植物需确认属于可移动物件还是自然外景，分别决定补件或恢复背景。"
+    }
+  ],
+  "retired_candidates": [
+    {
+      "object_id": "T03-03",
+      "status": "retired_duplicate_integrated_part",
+      "covered_by": [
+        "T03-02"
+      ],
+      "reason": "专项源图对照确认坐佛与两排石莲座为连续一体雕刻，无额外独立支座；T03-03重复了T03-02已包含的莲座。保留完整T03-02，独立候选归档退役，不计为遗漏。",
+      "original_candidate": {
+        "slot": 3,
+        "name": "佛像底座",
+        "category": "家具与底座",
+        "subcategory": "底座",
+        "ability": "可承托",
+        "texture": "1k",
+        "description": "源图坐佛下方偏青绿色石莲花座，仅在该底座确实可辨为独立可拆部件时提取；不可把一体雕刻的佛像下部另造为底座。无法确认独立存在时输出全透明空图交复核。",
+        "review_note": "依据源图盘点草稿细化；材质、数量和可拆关系待视觉复核。"
+      },
+      "retired_at": "2026-09-25T01:23:39.037522+00:00",
+      "source_sha256": "3b29672b93fcd998fb7bec2c1c308c1747c3d68c4bb243be88c4e422b28445e4",
+      "retired_png_sha256": "5d6c0740765317024f889f2e5bce9ab1ee722a059ddd2739b54570b7d0617016",
+      "retained_png_sha256": "eb0073ba4a05352fcb57711505dca56adb254730790d45fa160a4c2b8a9b0b1c",
+      "archived_png": "历史版本/候选退役/T03-03/5d6c074076531702/T03_03_佛像底座.png",
+      "evidence_metadata": "output/imagegen/buddhahome-themes/extraction-reviews/T03/1e53b3cc3f453376/clarification-02/clarification.json",
+      "evidence_text_sha256": "3fba15c11d990f6940796fc94dddc7a028924d94dc39fbe33c673847f08d7e0e"
+    }
+  ],
+  "source_interpretation": {
+    "ambiguous_foreground_foliage": "Store visible left and right foliage as independent transparent environment overlays. Do not invent hidden pots or assert indoor/outdoor origin. Reassembly retains all visible scene content."
+  },
+  "resolved_at": "2026-09-25T01:52:20.159714+00:00",
+  "completion_scope": "T03 only: 19 independent object assets, 2 source-positioned transparent foreground layers, one clean architectural background, duplicate-base retirement and source omission mapping."
+}

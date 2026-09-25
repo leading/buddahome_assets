@@ -1,13 +1,13 @@
 {
   "theme_id": "T09",
   "name": "唐风朱砂金殿",
-  "fingerprint": "b5429be726e0fe55f4c440191e0570b2b84cacfb53a7d02bbe9780d3051dd24c",
+  "fingerprint": "4d5b00c64abd8d66e964b082ebf72f31a4fb34c8b7ba9fb1fcc76357ceb4938d",
   "snapshot": {
     "theme_id": "T09",
     "review_protocol": "paired-v2",
     "source_sha256": "10704c2edd9274bbfea90228c51601f27fe455f5d8e528637a83d3483c6100e7",
     "background_sha256": "a94aadc03cb1c7255cc2bf606abc8ad31f4e033c056dae33b34171c9266073d5",
-    "plan_sha256": "a06b2059ab52a43ab88094c6cbb7067d2dec4dd9f3ff74d6b3e592f05c4f2f5d",
+    "plan_sha256": "bd338faa9ff7ede7d9a7c101ab2155bbf074b079558825669fe6435db4c3639a",
     "objects": [
       {
         "object_id": "T09-01",
@@ -169,7 +169,7 @@
     {
       "object_id": "T09-08",
       "name": "空香炉",
-      "description": "源图主桌中央金色香炉的完整空炉身，取下可辨的炉盖，去香和灰，无烟火。 精确纠错约束：现有PNG仍是带盖香炉。只保留完整敞口空炉身；彻底去掉炉盖，盖也不能放到旁边。独立盖已有25号。",
+      "description": "源图主桌中央金色香炉的完整空炉身，取下可辨的炉盖，去香和灰，无烟火。 精确纠错约束：现有PNG仍是带盖香炉。只保留完整敞口空炉身；彻底去掉炉盖，盖也不能放到旁边。独立盖已有24号。",
       "classification": "standalone_object",
       "sha256": "ccbc925806779d9c2867fcb8f2a0780bd4644c8b33127cc321cb03e7e492566f",
       "path": "objects/T09-08.png"

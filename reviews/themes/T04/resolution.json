@@ -1,0 +1,671 @@
+{
+  "schema_version": 1,
+  "theme_id": "T04",
+  "status": "resolved",
+  "fingerprint": "57b4ceb8e9204574f65748490e46ca6ab0925c88f271c2c69b3e0b51602340bc",
+  "snapshot": {
+    "theme_id": "T04",
+    "review_protocol": "paired-v2",
+    "source_sha256": "cbf476e0da7431d295e321b80027982463f2eab1d41a72c62533093ab6178bf6",
+    "background_sha256": "8a03f612b6af7f0dfa159611a68d950300040904811b8996270ca5569ec258b7",
+    "plan_sha256": "8cf7bffcdc888f0efb4937f4b4e46dfcf1810a989c612ece4af920ed56499188",
+    "objects": [
+      {
+        "object_id": "T04-01",
+        "sha256": "42c65d7265a7622fda78aeec6d905e0720b1db580a6987cc9413eb130da121a8"
+      },
+      {
+        "object_id": "T04-02",
+        "sha256": "6ebc7bbfb629a693de500a72987bae9c4de8ac75b153750d259d1212e7141fcf"
+      },
+      {
+        "object_id": "T04-04",
+        "sha256": "07c9658009a6f96b66493d65262523bbbadfc231f1ee14bc110883c67f306a1b"
+      },
+      {
+        "object_id": "T04-05",
+        "sha256": "d9e33cafde9132208781ece2c406b8ce3236878ad9c88e4b3d87548e068421bf"
+      },
+      {
+        "object_id": "T04-06",
+        "sha256": "1778c72554902e898354156501ac3845d5317671ddfcecee5217e46750ac0cca"
+      },
+      {
+        "object_id": "T04-07",
+        "sha256": "8dd441ebdca633e48040c6eda6589b83289ea50d00ad437471ee84945fbcd6ec"
+      },
+      {
+        "object_id": "T04-08",
+        "sha256": "724789dab285720083df12533f9526105f57f2dd63792f93dea618cf4fe46fe7"
+      },
+      {
+        "object_id": "T04-09",
+        "sha256": "9cea12a10052b14a99b8004a0d419e2f0466ff9f4801a268b086726192420902"
+      },
+      {
+        "object_id": "T04-10",
+        "sha256": "47266f658f2899a80ebe36de8148916aff81c75e8d11d8be22da103b93d5f203"
+      },
+      {
+        "object_id": "T04-11",
+        "sha256": "44581424925c450735d9ffa71d3966ee20e27305855d194093ff046dbf744e49"
+      },
+      {
+        "object_id": "T04-12",
+        "sha256": "6d85d3e68bd0f7fc37050ec499013e14c39816fe589859c69f7164b72e2aa439"
+      },
+      {
+        "object_id": "T04-13",
+        "sha256": "1096ac6849ea26c5a112bf50e9f3439f574917c45347ed668692a0e9ad51e0ee"
+      },
+      {
+        "object_id": "T04-15",
+        "sha256": "77f42d82566187c0b84f3045f2316d15ad644a1fcebfef4cae852b7675c06a32"
+      },
+      {
+        "object_id": "T04-16",
+        "sha256": "41a392e507fad3c57c05fd116f586f81a94f5973769e3755d276e012ce329999"
+      },
+      {
+        "object_id": "T04-17",
+        "sha256": "e163f2b03dd9be8995cd0abcad2ada9e280f6a203e3658170c55b017a37fc702"
+      },
+      {
+        "object_id": "T04-18",
+        "sha256": "cb455595b8acd3613b315e6b0ee6a628c1a2cd46dc0056565bae114ec223ad84"
+      },
+      {
+        "object_id": "T04-19",
+        "sha256": "5c1c7f6b6d280e687f11e9dab504618455551c8a11a31eaa277debc948df3077"
+      },
+      {
+        "object_id": "T04-20",
+        "sha256": "dd6ccce48bddcb474df2c265435d700d7f7b19cfccd24bca15ea9f2334e58a58"
+      },
+      {
+        "object_id": "T04-21",
+        "sha256": "4daed79db418bd03856a88a5cf1171e66d80e20595a36104c22a04cad795553b"
+      },
+      {
+        "object_id": "T04-22",
+        "sha256": "6de30d8d8729ce60b6651f966f943f37402bb007e2d810276ca45f6bf33fd4ab"
+      },
+      {
+        "object_id": "T04-23",
+        "sha256": "feff120de4c26b8f11a2699e838a17bdb081dde7541302d90da1781aaafdf370"
+      },
+      {
+        "object_id": "T04-24",
+        "sha256": "56022032f564d9d62cd29cfcf813e1777cfa72b31ac1f1ad4468bf04272c4c78"
+      },
+      {
+        "object_id": "T04-25",
+        "sha256": "780422f6db9dbbd69dcb517ef742ab934376e2b4eafa6392344a795625b49f3d"
+      },
+      {
+        "object_id": "T04-26",
+        "sha256": "30dec2546067768e15f647f9f69cedb40ee9bcc3961c56e6235e9750608976c1"
+      },
+      {
+        "object_id": "T04-27",
+        "sha256": "3480f2ec83411874e13d5cdc6331e08d82c1db4a22a535a93f934f3f5831107f"
+      },
+      {
+        "object_id": "T04-28",
+        "sha256": "2a5cd8b922b6c72caf5d6996cab9e596c6165aaa157e5a7e8717ff8effbecfc6"
+      },
+      {
+        "object_id": "T04-29",
+        "sha256": "07d8bd804c13c76aa2c5ffcf86dbc5527628d0454174c32fcecbbaf7f8493694"
+      },
+      {
+        "object_id": "T04-30",
+        "sha256": "529572a701065d6eeb6dec8126a52ab147355136e7c1c49e71da63fe558b8862"
+      },
+      {
+        "object_id": "T04-31",
+        "sha256": "7a13bf2466a6ff591f28741605548f9593178cacc3953a72ff202a64348c3617"
+      },
+      {
+        "object_id": "T04-34",
+        "sha256": "6cbc525fe25e1f6e40a105017ea4fd0a57e5ce31cdfdad06ec82ddbbead3b73a"
+      },
+      {
+        "object_id": "T04-35",
+        "sha256": "afa53c790e9570aac667a28590eaac55bb962976527950364efb8269f1412a85"
+      }
+    ]
+  },
+  "updated_at": "2026-09-25T12:15:57.771946+00:00",
+  "method": "External image-service source/cutout comparison with local OCR text review. No images or base64 returned to chat.",
+  "objects": {
+    "T04-01": {
+      "status": "pass",
+      "reason": "Cutout shows the mulit-tiered wooden altar matching the source design, with carved panels and painted inlay patterns. No Buddha, vessels, flowers, fruits, cloth, or other props attached. Single complete furniture piece with clear margins.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-01.ocr.txt",
+      "evidence_part": "assets-01"
+    },
+    "T04-02": {
+      "status": "pass",
+      "reason": "Seated Buddha statue matches the source design, including the lotus pedestal. Complete single object with correct material, proportions and details. No background, altar or other objects attached.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-01.ocr.txt",
+      "evidence_part": "assets-01"
+    },
+    "T04-04": {
+      "status": "pass",
+      "reason": "Empty metal vase matches the source left-side vase, with the same shape, flared rim and engraved pattern. Single complete object with clear margins. No flowers or other contents.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-01.ocr.txt",
+      "evidence_part": "assets-01"
+    },
+    "T04-05": {
+      "status": "pass",
+      "reason": "Flower bouquet matches the source left-side arrangement, including white lilies, pink lotus, yellow and red flowers with green leaves. Stems included. No vase or water. Single bouquet with clear margins.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-01.ocr.txt",
+      "evidence_part": "assets-01"
+    },
+    "T04-06": {
+      "status": "pass",
+      "reason": "Tall standing lamp matches the outer side lamp in the source image, with the same tiered profile and finial. Empty lamp with no wick, fuel, flame or smoke. Single complete object with clear margins.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-01.ocr.txt",
+      "evidence_part": "assets-01"
+    },
+    "T04-07": {
+      "status": "pass",
+      "reason": "Unlit wick matches the source lamps, shown as a single white twisted wick. No lamp bowl, fuel, flame or smoke. Simple and clean cutout.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-01.ocr.txt",
+      "evidence_part": "assets-01"
+    },
+    "T04-08": {
+      "status": "pass",
+      "reason": "Bronze censer matches the front center incense burner, with the same rounded body, ornate handles and lion feet. Lid removed and interior visible. Empty with no incense, ash or smoke. Single complete object with clear margins.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-01.ocr.txt",
+      "evidence_part": "assets-01"
+    },
+    "T04-09": {
+      "status": "pass",
+      "reason": "Single unlit incense stick cutout. Matches the scene's central incense sticks in color and form. Complete stick shown with no burner, smoke or flame, and generous margins.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-02.ocr.txt",
+      "evidence_part": "assets-01"
+    },
+    "T04-10": {
+      "status": "pass",
+      "reason": "Empty offering bowl cutout. Matches the left middle-layer golden fruit bowl in the scene with the same lotus-petal design and proportions. Single object, empty, with no fruit, no base/platform and clean margins.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-02.ocr.txt",
+      "evidence_part": "assets-02"
+    },
+    "T04-11": {
+      "status": "pass",
+      "reason": "Single orange cutout. Matches the oranges on the left offering bowl in the scene. One complete orange only, with no bowl or other fruit, shown with clear margins.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-02.ocr.txt",
+      "evidence_part": "assets-02"
+    },
+    "T04-12": {
+      "status": "pass",
+      "reason": "Teapot cutout. Matches the silver metal teapot on the left front low table in the scene, with lid, handle, spout and engraved design. Single complete teapot, empty, with no cups, books, table or other props.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-02.ocr.txt",
+      "evidence_part": "assets-02"
+    },
+    "T04-13": {
+      "status": "pass",
+      "reason": "Empty tea cup cutout. Matches the small golden cup on the left front low table in the scene. Single cup, empty, showing inner and outer surfaces, with no separate saucer and no other objects.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-02.ocr.txt",
+      "evidence_part": "assets-02"
+    },
+    "T04-15": {
+      "status": "pass",
+      "reason": "Sutra book cutout. Matches the red embroidered book on the left front low table in the scene. Single closed book with the same cover design and proportions, no text, no other books or props.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-02.ocr.txt",
+      "evidence_part": "assets-02"
+    },
+    "T04-16": {
+      "status": "pass",
+      "reason": "Cushion cutout. Matches the front center embroidered cushion in the scene with the same red and blue textile pattern and shape. Single complete cushion, no floor or carpet.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-02.ocr.txt",
+      "evidence_part": "assets-02"
+    },
+    "T04-17": {
+      "status": "pass",
+      "reason": "Left front carved wooden tea table cutout. Matches the low rectangular carved table in the scene. Single empty table with identical carving details and proportions, with no teaware, book, cloth or carpet, and not part of the central altar.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-02.ocr.txt",
+      "evidence_part": "assets-02"
+    },
+    "T04-18": {
+      "status": "pass",
+      "reason": "The image shows a single silver-colored metal vase with engraved floral patterns, matching the right-side vase from the scene. It is empty, complete with integrated base, and isolated on a white background with no attached props.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-03.ocr.txt",
+      "evidence_part": "assets-02"
+    },
+    "T04-19": {
+      "status": "pass",
+      "reason": "The image shows a single colorful flower bouquet with the same mix of white lilies, pink lotus, yellow daisy, red and white filler flowers and green leaves as the right-side arrangement in the scene. Stems are visible, no vase, and no extra props.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-03.ocr.txt",
+      "evidence_part": "assets-03"
+    },
+    "T04-20": {
+      "status": "pass",
+      "reason": "The image shows a single medium-sized gold metal lamp cup with lotus petal design, matching the shorter inner lamp type in front of the altar. It is empty, complete with base, and has no wick, oil, flame or other attachments.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-03.ocr.txt",
+      "evidence_part": "assets-03"
+    },
+    "T04-21": {
+      "status": "pass",
+      "reason": "The image shows a single small gold offering bowl with rounded petal design, matching the smaller bowls on the front side steps. It is empty, complete with base, and has no contents or extra props.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-03.ocr.txt",
+      "evidence_part": "assets-03"
+    },
+    "T04-22": {
+      "status": "pass",
+      "reason": "The image shows a single central incense burner lid in antique bronze with openwork floral pattern and lotus bud knob, matching the lid on the central burner. No burner body, no incense, and no smoke. The lid is complete and isolated with reasonable reconstruction of the bottom edge.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-03.ocr.txt",
+      "evidence_part": "assets-03"
+    },
+    "T04-23": {
+      "status": "pass",
+      "reason": "The image shows a single red apple, consistent with the apples on the altar. It is one complete fruit with no plate, no other fruits, and no extra props.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-03.ocr.txt",
+      "evidence_part": "assets-03"
+    },
+    "T04-24": {
+      "status": "pass",
+      "reason": "The image shows a single bunch of purple grapes with stem, matching the grapes on the right-side offering plate. It is a complete bunch with natural arrangement, and no plate or other offerings.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-03.ocr.txt",
+      "evidence_part": "assets-03"
+    },
+    "T04-25": {
+      "status": "pass",
+      "reason": "The image shows a single gold metal cup saucer/dish matching the small saucer under the tea cup on the left front table. It is empty, complete with integrated base, and has no cup or other props.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-03.ocr.txt",
+      "evidence_part": "assets-03"
+    },
+    "T04-26": {
+      "status": "pass",
+      "reason": "Single cloth hanging with the same embroidered pattern, colors and tassels as the front altar hanging in the scene. Complete object with natural drape. No table, text or other props attached",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-04.ocr.txt",
+      "evidence_part": "assets-03"
+    },
+    "T04-27": {
+      "status": "pass",
+      "reason": "Single rectangular altar tablecloth matching the layered altar cloth on the altar steps in the scene. Pattern, colors and tassels consistent. Complete object, clean cutout with no table, vessels or other props.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-04.ocr.txt",
+      "evidence_part": "assets-04"
+    },
+    "T04-28": {
+      "status": "pass",
+      "reason": "Single upper canopy/banner cloth matching the central overhead hanging in the scene. Same red and blue pattern with gold borders and multicolored tassels, including side drapes. Complete object with no beams, columns, Buddha or other elements.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-04.ocr.txt",
+      "evidence_part": "assets-04"
+    },
+    "T04-29": {
+      "status": "pass",
+      "reason": "Single left vertical hanging banner matching the left front pillar banner in the scene. Same pattern, colors and tassels. Complete object with top finial and no architectural elements.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-04.ocr.txt",
+      "evidence_part": "assets-04"
+    },
+    "T04-30": {
+      "status": "pass",
+      "reason": "Single right vertical hanging banner matching the right front pillar banner in the scene. Distinct from the left banner. Complete object with top finial and no architectural elements.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-04.ocr.txt",
+      "evidence_part": "assets-04"
+    },
+    "T04-31": {
+      "status": "pass",
+      "reason": "Single rectangular patterned carpet matching the foreground floor carpet in the scene. Same central medallion design, colors and border pattern with striped edge. Complete object, no cushions, table legs or floor, and no text.",
+      "evidence_text": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/review-assets-04.ocr.txt",
+      "evidence_part": "assets-04"
+    },
+    "T04-34": {
+      "status": "pass",
+      "reason": "左前小供碗内白色颗粒供粮的独立一堆；当前源图/实际切图对照确认颗粒形状、颜色与可见堆形匹配，完整独立，不含碗、灯、果物或其他道具。仅称白色颗粒供粮，不把推测的具体粮食品种当作已确认事实。",
+      "evidence_part": "assets-04"
+    },
+    "T04-35": {
+      "status": "pass",
+      "reason": "右前小供碗内白色颗粒供粮的独立一堆；当前源图/实际切图对照确认颗粒形状、颜色与可见堆形匹配，完整独立，不含碗、灯、果物或其他道具。仅称白色颗粒供粮，不把推测的具体粮食品种当作已确认事实。",
+      "evidence_part": "assets-04"
+    }
+  },
+  "retired_candidates": [
+    {
+      "object_id": "T04-03",
+      "status": "retired_duplicate_integrated_part",
+      "covered_by": [
+        "T04-02"
+      ],
+      "reason": "当前源图与实际拆件对照明确确认：金色坐佛和莲座无可见分离缝或独立支座，T04-02已完整包含相同莲座。T04-03重复该组件，保留完整T04-02并归档重复候选。",
+      "original_candidate": {
+        "slot": 3,
+        "name": "佛像底座",
+        "category": "家具与底座",
+        "subcategory": "底座",
+        "ability": "可承托",
+        "texture": "1k",
+        "description": "源图金色坐佛下方的金色莲花底座，仅在可辨为独立承托件时提取。空座，无佛像、背板或供桌；不凭空创造可拆结构。",
+        "review_note": "依据源图盘点模型草稿细化；数量、材质及可拆关系待视觉复核。"
+      },
+      "retired_at": "2026-09-25T02:27:36.991437+00:00",
+      "source_sha256": "cbf476e0da7431d295e321b80027982463f2eab1d41a72c62533093ab6178bf6",
+      "retired_png_sha256": "7c3254c782ea6819d23f223c8152454e800d64a93790e94a5999d032583acef8",
+      "retained_png_sha256": "6ebc7bbfb629a693de500a72987bae9c4de8ac75b153750d259d1212e7141fcf",
+      "archived_png": "历史版本/候选退役/T04-03/7c3254c782ea6819/T04_03_佛像底座.png",
+      "evidence_metadata": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/base-retirement-evidence.json",
+      "evidence_text_sha256": "fc2c7c2b1553a5177be2c0969ebb759ae6b581cd8f863bcafd827aa7c1843316"
+    },
+    {
+      "object_id": "T04-32",
+      "status": "retired_duplicate_source_design",
+      "covered_by": [
+        "T04-10"
+      ],
+      "reason": "专项放大对照确认左橙盘与中苹果盘为同款莲瓣器身、无珠边矮托座；T04-32为重复款式，场景三次实例统一由源图匹配的T04-10复用。",
+      "original_candidate": {
+        "slot": 32,
+        "name": "中间苹果空供盘",
+        "category": "供器",
+        "subcategory": "果盘",
+        "ability": "可承托",
+        "texture": "1k",
+        "description": "源图中层中间盛苹果的金色供盘。仅在器形与左侧橙子盘不同需单独模型时提取；同款重复时返回全透明空图交复用检查。完整空盘。",
+        "review_note": "源图盘点草稿补充项；遮挡处与内腔合理重建，来源对应和数量待复核。"
+      },
+      "retired_at": "2026-09-25T02:33:56.876706+00:00",
+      "source_sha256": "cbf476e0da7431d295e321b80027982463f2eab1d41a72c62533093ab6178bf6",
+      "retired_png_sha256": "f73b373b09e7726a530ab6158bb25dc52d0ace311f8e56868e3c4eeef469eade",
+      "retained_png_sha256": "47266f658f2899a80ebe36de8148916aff81c75e8d11d8be22da103b93d5f203",
+      "archived_png": "历史版本/候选退役/T04-32/f73b373b09e7726a/T04_32_中间苹果空供盘.png",
+      "evidence_metadata": "output/imagegen/buddhahome-themes/extraction-reviews/T04/9794e745b17b4ada/clarification-dishes-banners/clarification.json",
+      "evidence_text_sha256": "a573d4857e7de78a7b68fdb5e9624cc79f40e8d22e469637165cade07c4c805b"
+    },
+    {
+      "object_id": "T04-33",
+      "status": "retired_mismatched_duplicate",
+      "covered_by": [
+        "T04-10"
+      ],
+      "reason": "专项放大对照确认右葡萄盘与左、中盘为同款，原图未见T04-33新增的珠边底座及较浅器身。该候选既重复且设计不符，归档后用已验证的T04-10覆盖右侧实例，不丢失源图物件。",
+      "original_candidate": {
+        "slot": 33,
+        "name": "右侧葡萄空供盘",
+        "category": "供器",
+        "subcategory": "果盘",
+        "ability": "可承托",
+        "texture": "1k",
+        "description": "源图中层右侧盛葡萄的金色供盘。仅在器形与橙子盘及苹果盘不同需单独模型时提取；同款重复时返回全透明空图交复用检查。完整空盘。",
+        "review_note": "源图盘点草稿补充项；遮挡处与内腔合理重建，来源对应和数量待复核。"
+      },
+      "retired_at": "2026-09-25T02:33:56.902649+00:00",
+      "source_sha256": "cbf476e0da7431d295e321b80027982463f2eab1d41a72c62533093ab6178bf6",
+      "retired_png_sha256": "f1c84d737dbf17abc42e5f69c0edf3215bd6490bac18e148c6529f7d1fb21799",
+      "retained_png_sha256": "47266f658f2899a80ebe36de8148916aff81c75e8d11d8be22da103b93d5f203",
+      "archived_png": "历史版本/候选退役/T04-33/f1c84d737dbf17ab/T04_33_右侧葡萄空供盘.png",
+      "evidence_metadata": "output/imagegen/buddhahome-themes/extraction-reviews/T04/9794e745b17b4ada/clarification-dishes-banners/clarification.json",
+      "evidence_text_sha256": "a573d4857e7de78a7b68fdb5e9624cc79f40e8d22e469637165cade07c4c805b"
+    }
+  ],
+  "evidence": [
+    {
+      "part": "coverage",
+      "kind": "whole_source_coverage",
+      "wanted_ids": [],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T04/57b4ceb8e9204574/review-coverage.ocr.txt",
+      "image_sha256": "ebc81abe36a81a12c449074851ae6579dadfa4e7e1ac9e625c32c8208db62cc5",
+      "text_sha256": "5c36165f30a6b025af49463f95709f088e4a6a3eb4901de072902797cdcb2798"
+    },
+    {
+      "part": "background",
+      "kind": "empty_background",
+      "wanted_ids": [],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T04/57b4ceb8e9204574/review-background.ocr.txt",
+      "image_sha256": "d6c2d7abb5107ef74ac49c532b7a77c9be6f9e0982a1557b7eba37303aa82f10",
+      "text_sha256": "3dccfaf20ae4bb351f7aef15153d190cf7fec8f3fd20d5846cdbf34a0a9c6747"
+    },
+    {
+      "part": "assets-01",
+      "kind": "individual_assets",
+      "wanted_ids": [
+        "T04-01",
+        "T04-02",
+        "T04-04",
+        "T04-05",
+        "T04-06",
+        "T04-07",
+        "T04-08",
+        "T04-09"
+      ],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T04/57b4ceb8e9204574/review-assets-01.ocr.txt",
+      "image_sha256": "a1c3da482513b1342101b9ca82026a40d83d7cafdf320f224937f1d6142fb3d6",
+      "text_sha256": "7fafd94650a96858dcd0f7f90f54f1c2aa7bca89ce6182056e69845e23bae74d"
+    },
+    {
+      "part": "assets-02",
+      "kind": "individual_assets",
+      "wanted_ids": [
+        "T04-10",
+        "T04-11",
+        "T04-12",
+        "T04-13",
+        "T04-15",
+        "T04-16",
+        "T04-17",
+        "T04-18"
+      ],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T04/57b4ceb8e9204574/review-assets-02.ocr.txt",
+      "image_sha256": "38b20914a2c1bdb9b14ae31438605819803c33e6400f2fd1da5a1a746f320f0f",
+      "text_sha256": "2dd39c6563215b3085ab865cacf8c528a6d020b552602f13fc95bad821a538d3"
+    },
+    {
+      "part": "assets-03",
+      "kind": "individual_assets",
+      "wanted_ids": [
+        "T04-19",
+        "T04-20",
+        "T04-21",
+        "T04-22",
+        "T04-23",
+        "T04-24",
+        "T04-25",
+        "T04-26"
+      ],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T04/57b4ceb8e9204574/review-assets-03.ocr.txt",
+      "image_sha256": "54f0a2119b82ba050df36e5ddc2ed8483245200e172078dfb3add0b237a10920",
+      "text_sha256": "c934ae2ac6c10f1ea998501fbb3db4475b82e02977fd68d1ddd66344852ab4bc"
+    },
+    {
+      "part": "assets-04",
+      "kind": "individual_assets",
+      "wanted_ids": [
+        "T04-27",
+        "T04-28",
+        "T04-29",
+        "T04-30",
+        "T04-31",
+        "T04-34",
+        "T04-35"
+      ],
+      "ocr_ids_missing": [],
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T04/57b4ceb8e9204574/review-assets-04.ocr.txt",
+      "image_sha256": "06189c905c8e899b1f074f9cb5fd9cbf94251ad920dd7852abc69e2544cd3658",
+      "text_sha256": "a13eb4e45ec0b518fab342fd38a0bfb5de38449183a703197a4abc749bcf1fe1"
+    }
+  ],
+  "supplemental_evidence": [
+    {
+      "metadata_path": "output/imagegen/buddhahome-themes/extraction-reviews/T04/9794e745b17b4ada/clarification-dishes-banners/clarification.json",
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T04/9794e745b17b4ada/clarification-dishes-banners/clarification.ocr.txt",
+      "text_sha256": "a573d4857e7de78a7b68fdb5e9624cc79f40e8d22e469637165cade07c4c805b"
+    },
+    {
+      "metadata_path": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/clarification-offerings-and-designs/clarification.json",
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T04/ec3dcf857a067a3b/clarification-offerings-and-designs/clarification.ocr.txt",
+      "text_sha256": "c04662a99bb97c48c8527fcb7153831534d6ecc617dcd991eb609fd3c57a6684"
+    }
+  ],
+  "coverage": {
+    "status": "pass",
+    "unresolved": [],
+    "source_mapping": [
+      {
+        "source_location": "中央阶梯式独立木供台",
+        "asset_ids": [
+          "T04-01"
+        ]
+      },
+      {
+        "source_location": "中央金色坐佛及一体莲座",
+        "asset_ids": [
+          "T04-02"
+        ]
+      },
+      {
+        "source_location": "佛像左侧银花瓶及彩色花束",
+        "asset_ids": [
+          "T04-04",
+          "T04-05"
+        ]
+      },
+      {
+        "source_location": "佛像右侧较高银花瓶及不同分枝花束",
+        "asset_ids": [
+          "T04-18",
+          "T04-19"
+        ]
+      },
+      {
+        "source_location": "后排左右高立灯及未点燃灯芯",
+        "asset_ids": [
+          "T04-06",
+          "T04-07"
+        ]
+      },
+      {
+        "source_location": "前排左右较矮中型灯盏及灯芯",
+        "asset_ids": [
+          "T04-20",
+          "T04-07"
+        ]
+      },
+      {
+        "source_location": "前方中央古铜炉身、盖及未点燃线香",
+        "asset_ids": [
+          "T04-08",
+          "T04-22",
+          "T04-09"
+        ]
+      },
+      {
+        "source_location": "左橙盘、中苹果盘、右葡萄盘共用款式及各自供果",
+        "asset_ids": [
+          "T04-10",
+          "T04-11",
+          "T04-23",
+          "T04-24"
+        ]
+      },
+      {
+        "source_location": "左前台阶小金供碗及白色颗粒供粮",
+        "asset_ids": [
+          "T04-21",
+          "T04-34"
+        ]
+      },
+      {
+        "source_location": "右前台阶小金供碗及白色颗粒供粮",
+        "asset_ids": [
+          "T04-21",
+          "T04-35"
+        ]
+      },
+      {
+        "source_location": "左前雕木茶案、银壶、金杯、杯碟及红封书",
+        "asset_ids": [
+          "T04-17",
+          "T04-12",
+          "T04-13",
+          "T04-25",
+          "T04-15"
+        ]
+      },
+      {
+        "source_location": "前景红蓝绣坐垫及彩色地毯",
+        "asset_ids": [
+          "T04-16",
+          "T04-31"
+        ]
+      },
+      {
+        "source_location": "供台前方垂幔及层台铺布",
+        "asset_ids": [
+          "T04-26",
+          "T04-27"
+        ]
+      },
+      {
+        "source_location": "上方可拆华盖布幔",
+        "asset_ids": [
+          "T04-28"
+        ]
+      },
+      {
+        "source_location": "左竖幡，层叠华盖顶与红蓝红面板",
+        "asset_ids": [
+          "T04-29"
+        ]
+      },
+      {
+        "source_location": "右竖幡，带端钮横杆顶与蓝红蓝红面板",
+        "asset_ids": [
+          "T04-30"
+        ]
+      }
+    ],
+    "report_corrections": [
+      "旧总览把高立灯误称为小佛塔，专项确认无独立佛塔设计，由06及灯芯07覆盖；中型灯为20。",
+      "一体莲座由02完整覆盖，03退役。",
+      "三处水果盘共用10；32重复、33有原图未见珠边，均归档。",
+      "左右花瓶与花束有实际造型和分枝差异，保留04/05与18/19。",
+      "放大对照确认竖幡顶部结构和面板次序不同，保留29/30；旧总览同款说法被纠正。",
+      "小供碗中的白色颗粒不能由空碗21覆盖，新增34/35待复核。",
+      "原覆盖漏列22炉盖、25杯碟、20中型灯、18/19右花瓶花束和部分铺布，对应已补齐。",
+      "当前57b4总览实际提供31个有效资产，非笼统01至35；03、14、32、33不属于有效集合。",
+      "当前总览右侧花瓶/花束误复用04/05；源图专项确认款式不同，应为18/19。",
+      "当前总览供粮容器误写20；20是中型空灯，供粮的空容器为21，内容为34/35。",
+      "当前总览口头声称所有ID已使用，但表中漏掉18、19、20、22、25；已据同源同资产哈希的专项对照补足右花瓶花束、中型灯、炉盖与茶碟。"
+    ],
+    "reason": "当前31个有效资产逐一对应源图。左右不同款花瓶/花束、两种灯架、炉盖、茶碟、不同款竖幡与两堆供粮均已覆盖；三处同款果盘复用10，一体佛像由02完整覆盖，重复03/32与错误33按证据退役。源图总览表的计数与错配已由专项及当前逐件图像对照纠正。"
+  },
+  "background": {
+    "status": "pass",
+    "unresolved": [],
+    "reason": "当前57b4源图/空背景实际配对检查确认固定木柱、雕刻墙板、台阶、栏杆、地面和窗外山景保留；所有雕像、供器、花束、布幔、坐垫与家具移除，未见残影、烟火或几何改动。",
+    "evidence_part": "background"
+  },
+  "pending_final_requirements": [],
+  "current_coverage_evidence": [
+    {
+      "part": "coverage",
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T04/57b4ceb8e9204574/review-coverage.ocr.txt",
+      "text_sha256": "5c36165f30a6b025af49463f95709f088e4a6a3eb4901de072902797cdcb2798",
+      "report_sha256": "ebc81abe36a81a12c449074851ae6579dadfa4e7e1ac9e625c32c8208db62cc5"
+    },
+    {
+      "part": "background",
+      "text_path": "output/imagegen/buddhahome-themes/extraction-reviews/T04/57b4ceb8e9204574/review-background.ocr.txt",
+      "text_sha256": "3dccfaf20ae4bb351f7aef15153d190cf7fec8f3fd20d5846cdbf34a0a9c6747",
+      "report_sha256": "d6c2d7abb5107ef74ac49c532b7a77c9be6f9e0982a1557b7eba37303aa82f10"
+    }
+  ],
+  "resolved_at": "2026-09-25T12:15:57.771917+00:00",
+  "limitations": [
+    "通过实际源图、当前31个透明资产及空背景的图像服务对照与本地文件检查验收；并非人工逐像素鉴定。",
+    "31项为有效独立设计/拆分组成，不等于源图所有重复实例的总数量。白色颗粒的精确食材种类不作无证据推断。",
+    "总览报告中的35项计数、右花束复用和供粮容器编号错误已按专项与当前逐件页纠正；不因总览宣称全部使用而忽略实际漏映射。"
+  ],
+  "historical_carry_forward_basis": {
+    "previous_fingerprint": "ec3dcf857a067a3b9c1626359f52b8eb38b389e5fbe3c4863c9d405ce56a2acd",
+    "reason": "29 retained previously checked cutouts and background are unchanged. Three redundant or mismatched candidates are archived and covered by retained assets. Two newly generated offering piles and the current full-review evidence remain pending."
+  }
+}

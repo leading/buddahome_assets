@@ -138,5 +138,7 @@
   "object_count": 31,
   "screenshot_sha256": "a5758644e9e493853defcde80c314e66e0ec1af1aee953d47b825ecfc4a87a2b",
   "status": "verified",
-  "screenshot": "overview.png"
+  "screenshot": "overview.png",
+  "fast_preview": "overview-fast.jpg",
+  "fast_preview_sha256": "08584ed926582f7a6ff527c03f1e47d912890d6fe794eeea5d6e2e7c48a929ce"
 }

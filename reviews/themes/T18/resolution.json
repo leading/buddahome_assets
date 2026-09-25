@@ -210,7 +210,8 @@
     },
     "T18-07": {
       "status": "pass",
-      "reason": "独立未燃金属灯内芯；遮挡内部为适配重建，无灯罩。"
+      "reason": "独立未燃金属灯内芯；遮挡内部为适配重建，无灯罩。",
+      "evidence_type": "functional_reconstruction"
     },
     "T18-08": {
       "status": "pass",

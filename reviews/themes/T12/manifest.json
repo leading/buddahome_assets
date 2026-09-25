@@ -101,7 +101,7 @@
   },
   "object_count": 22,
   "screenshot_sha256": "80eb5f1f13a1d3db741712203a7f7998f65f670c198ac3c63ef133a2566cf5d4",
-  "status": "pending_visual_review",
+  "status": "verified",
   "screenshot": "overview.png",
   "fast_preview": "overview-fast.jpg",
   "fast_preview_sha256": "96e5c4c5ea18d43a9e43456f102a1f457ece51895fac995d5824e5cdf7b3935e"

@@ -1,0 +1,455 @@
+{
+  "theme_id": "T17",
+  "status": "resolved",
+  "review_method": "direct_https_html_screenshot_visual_inspection",
+  "fingerprint": "378bd2a83bada4f26007475f7d170ee54f7b20cd5fbb4ad413b95b7fca93a3a6",
+  "snapshot": {
+    "theme_id": "T17",
+    "review_protocol": "paired-v2",
+    "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
+    "background_sha256": "e3fba34e073ba9a7d455ff8bdd8c5062459a2da1ee8564037680742816667183",
+    "plan_sha256": "913e122e02c9f2534adf1d1e029ce1cc27d86938c171dc85aae51c299c1f674b",
+    "objects": [
+      {
+        "object_id": "T17-01",
+        "sha256": "e1a62083355e639685ba017cc04d86aec8e4181d59879f318537ba57a7ccfabb"
+      },
+      {
+        "object_id": "T17-02",
+        "sha256": "201b510f9003342ede24497a0ba0e423308d73dfd307ff4da6b02f2494a9d555"
+      },
+      {
+        "object_id": "T17-04",
+        "sha256": "c1602210d70c4fc4f96472f445682c6a32a0db25ad8f42a202f767f5c6601b97"
+      },
+      {
+        "object_id": "T17-05",
+        "sha256": "b5a8d00f3cbc23b694e6e75a9d82d1f2f13dec5b7a556819bf2d8f952c13c359"
+      },
+      {
+        "object_id": "T17-06",
+        "sha256": "00f7b8cfaef20f4dcc1976af7783dee66ebf32142a66bc49dd11c00173c0d4f5"
+      },
+      {
+        "object_id": "T17-07",
+        "sha256": "1f477c4bfa4ab8abb635fcccf4a99276b8273d05202240891fed021fc1dddd26"
+      },
+      {
+        "object_id": "T17-08",
+        "sha256": "9c8be1116bc45d3d2d8d353489111e127e0ac0c2e1322f4f1b2f0f4eac742ee4"
+      },
+      {
+        "object_id": "T17-09",
+        "sha256": "8ee7ffe152175b52214b50406618521065542aa2b652290b7dfb2ca61d95985c"
+      },
+      {
+        "object_id": "T17-10",
+        "sha256": "9a4681ddf74cc4301b5fef87b11140f7f33f4629eccc5f1b4a2ff88dbbc37079"
+      },
+      {
+        "object_id": "T17-11",
+        "sha256": "09019a6980a1f7c9604da10ea48fe226163710dd5d9f66e9674a864dd7dcc241"
+      },
+      {
+        "object_id": "T17-12",
+        "sha256": "6d022de25c8f521af6eaf4fcf72a2e85b2fcef9b1cd121b52b2f41a54fc5ec12"
+      },
+      {
+        "object_id": "T17-13",
+        "sha256": "4e4cb1b181711c54784ef9dedf03d3b8644a8beadc112731e15d6b1ac9ffd25e"
+      },
+      {
+        "object_id": "T17-14",
+        "sha256": "5ab5228b030ed65ae1478aaecbba6227af8893bb56c6807b84de13271a05c4ed"
+      },
+      {
+        "object_id": "T17-15",
+        "sha256": "90cbd0dc052dd3e11ce78a88b42596687014ac04bfb274b86b0d906e25a13c0f"
+      },
+      {
+        "object_id": "T17-16",
+        "sha256": "1ce6dab84159204021044f7490280a0ea19c1968750d9cb26ad7512215c0597b"
+      },
+      {
+        "object_id": "T17-17",
+        "sha256": "b3117f3cae41a3c15a41f1f96675a4357d3723dbeb00891cd5e12dfbcb0367ae"
+      },
+      {
+        "object_id": "T17-18",
+        "sha256": "8b203cc2ba5f0f9f661106e0dbc74eed0d4b73e14cf9419e27ff31af03cdc9e3"
+      },
+      {
+        "object_id": "T17-19",
+        "sha256": "c657222600b15284533cd9f1e18ad3fff0e8c8f9be80c898aaaccc308737eee9"
+      },
+      {
+        "object_id": "T17-20",
+        "sha256": "0b6504a78615733ec94e6543982e57860a4f4b30f173c87488ae6921dd42bd2c"
+      },
+      {
+        "object_id": "T17-21",
+        "sha256": "9723d2d148fbf5c3e46f78c98f60be0221940ee4969753425161981b971445ed"
+      },
+      {
+        "object_id": "T17-22",
+        "sha256": "9da472325853bc7729befdae33ce6e8fb0242055a25d3b127762f674910997fd"
+      },
+      {
+        "object_id": "T17-23",
+        "sha256": "2f143aca8fb27230ae820ef4621529ac74299ba273cec425a33cece5ee2cec4a"
+      },
+      {
+        "object_id": "T17-24",
+        "sha256": "c52e87d4e337a05c330dbd9fd0221cdfd7f14cfc263b0dea8855911800be1090"
+      },
+      {
+        "object_id": "T17-25",
+        "sha256": "88dd3a95644ff18199741d3e84d0b78ab2d0c9b3c03907ce9e2fe5337f0febde"
+      },
+      {
+        "object_id": "T17-26",
+        "sha256": "05fcb36eb2fa8968f3de03f3f946b814323e025d9853995f028e45acf25505b0"
+      },
+      {
+        "object_id": "T17-27",
+        "sha256": "dfc6f63ebe4b57cf222ea68d1368a3f99b519805c0b02f709a17662694d16c63"
+      },
+      {
+        "object_id": "T17-28",
+        "sha256": "702f95590e4766f962705e912d3c3cb718b1687cac645f169f7344d237f97900"
+      }
+    ]
+  },
+  "coverage": {
+    "status": "pass",
+    "unresolved": [],
+    "source_mapping": [
+      {
+        "source_region": "白石供桌和坐佛",
+        "asset_ids": [
+          "T17-01",
+          "T17-02"
+        ]
+      },
+      {
+        "source_region": "左侧空花瓶与白花枝束",
+        "asset_ids": [
+          "T17-04",
+          "T17-05"
+        ]
+      },
+      {
+        "source_region": "桌上烛台与短蜡烛",
+        "asset_ids": [
+          "T17-06",
+          "T17-07"
+        ]
+      },
+      {
+        "source_region": "空石香炉、圆盖与线香",
+        "asset_ids": [
+          "T17-08",
+          "T17-09",
+          "T17-19"
+        ]
+      },
+      {
+        "source_region": "柠檬供碗与单个柠檬",
+        "asset_ids": [
+          "T17-10",
+          "T17-11"
+        ]
+      },
+      {
+        "source_region": "陶茶壶、空杯、木杯碟与木茶盘",
+        "asset_ids": [
+          "T17-12",
+          "T17-13",
+          "T17-14",
+          "T17-20"
+        ]
+      },
+      {
+        "source_region": "独立书册、桌上珊瑚与灰卵石",
+        "asset_ids": [
+          "T17-15",
+          "T17-17",
+          "T17-18"
+        ]
+      },
+      {
+        "source_region": "右侧大白盆与独立绿植",
+        "asset_ids": [
+          "T17-21",
+          "T17-22"
+        ]
+      },
+      {
+        "source_region": "壁龛蜡烛、独立石烛杯与白珊瑚",
+        "asset_ids": [
+          "T17-23",
+          "T17-27",
+          "T17-24"
+        ]
+      },
+      {
+        "source_region": "左侧薄纱帘",
+        "asset_ids": [
+          "T17-25"
+        ]
+      },
+      {
+        "source_region": "圆坐垫及天然织毯",
+        "asset_ids": [
+          "T17-16",
+          "T17-26"
+        ]
+      },
+      {
+        "source_region": "左下近景白花绿叶原位层",
+        "asset_ids": [
+          "T17-28"
+        ]
+      }
+    ]
+  },
+  "background": {
+    "status": "pass",
+    "unresolved": [],
+    "reason": "白石墙、拱门、壁龛、台阶地面、海岸远景与户外枝叶保留；供桌、坐佛、器物与书、室内盆栽、白纱帘、壁龛蜡烛及烛杯和珊瑚、地毯坐垫及左下近景花叶均移除。去帘后的遮挡区域采用相同光线补全。"
+  },
+  "objects": {
+    "T17-01": {
+      "status": "pass",
+      "reason": "供桌或主题主台：与源图「白石供桌和坐佛」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-02": {
+      "status": "pass",
+      "reason": "坐佛：与源图「白石供桌和坐佛」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-04": {
+      "status": "pass",
+      "reason": "空花瓶：与源图「左侧空花瓶与白花枝束」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-05": {
+      "status": "pass",
+      "reason": "花枝花束：与源图「左侧空花瓶与白花枝束」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-06": {
+      "status": "pass",
+      "reason": "空烛台或灯盏：与源图「桌上烛台与短蜡烛」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-07": {
+      "status": "pass",
+      "reason": "未点燃米白短蜡烛：与源图「桌上烛台与短蜡烛」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-08": {
+      "status": "pass",
+      "reason": "石香炉完整空碗，盖已另列19。"
+    },
+    "T17-09": {
+      "status": "pass",
+      "reason": "未点燃线香：与源图「空石香炉、圆盖与线香」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-19": {
+      "status": "pass",
+      "reason": "石香炉圆盘盖：与源图「空石香炉、圆盖与线香」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-10": {
+      "status": "pass",
+      "reason": "空供盘：与源图「柠檬供碗与单个柠檬」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-11": {
+      "status": "pass",
+      "reason": "柠檬：与源图「柠檬供碗与单个柠檬」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-12": {
+      "status": "pass",
+      "reason": "茶壶：与源图「陶茶壶、空杯、木杯碟与木茶盘」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-13": {
+      "status": "pass",
+      "reason": "空茶杯：与源图「陶茶壶、空杯、木杯碟与木茶盘」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-14": {
+      "status": "pass",
+      "reason": "茶托：与源图「陶茶壶、空杯、木杯碟与木茶盘」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-20": {
+      "status": "pass",
+      "reason": "独立木杯碟：与源图「陶茶壶、空杯、木杯碟与木茶盘」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-15": {
+      "status": "pass",
+      "reason": "经书：与源图「独立书册、桌上珊瑚与灰卵石」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-17": {
+      "status": "pass",
+      "reason": "桌上白色珊瑚饰：与源图「独立书册、桌上珊瑚与灰卵石」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-18": {
+      "status": "pass",
+      "reason": "桌上灰色卵石：与源图「独立书册、桌上珊瑚与灰卵石」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-21": {
+      "status": "pass",
+      "reason": "右侧大型空白陶盆：与源图「右侧大白盆与独立绿植」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-22": {
+      "status": "pass",
+      "reason": "绿植独立，已去掉白色花盆。"
+    },
+    "T17-23": {
+      "status": "pass",
+      "reason": "壁龛蜡烛与石杯分离，蜡底补齐。"
+    },
+    "T17-27": {
+      "status": "pass",
+      "reason": "壁龛厚石烛杯完整空置，无白柱蜡。"
+    },
+    "T17-24": {
+      "status": "pass",
+      "reason": "壁龛白色珊瑚饰：与源图「壁龛蜡烛、独立石烛杯与白珊瑚」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-25": {
+      "status": "pass",
+      "reason": "整条薄纱帘独立；空背景相应帘子已移除。"
+    },
+    "T17-16": {
+      "status": "pass",
+      "reason": "坐垫：与源图「圆坐垫及天然织毯」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-26": {
+      "status": "pass",
+      "reason": "天然编织地毯：与源图「圆坐垫及天然织毯」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T17-28": {
+      "status": "pass",
+      "reason": "左下花叶已拆为透明原位层，空背景相同区域已清除。"
+    }
+  },
+  "retired_candidates": [
+    {
+      "object_id": "T17-03",
+      "status": "retired_duplicate_or_unsubstantiated_component",
+      "covered_by": [
+        "T17-02"
+      ],
+      "covered_by_background": false,
+      "retained_asset_sha256": {
+        "T17-02": "201b510f9003342ede24497a0ba0e423308d73dfd307ff4da6b02f2494a9d555"
+      },
+      "reason": "源图白石坐佛及雕刻莲座连续一体；02完整保留莲座，03没有独立源图物件依据。",
+      "original_candidate": {
+        "slot": 3,
+        "name": "佛像底座",
+        "category": "家具与底座",
+        "subcategory": "底座",
+        "ability": "可承托",
+        "texture": "1k",
+        "description": "源图坐佛下可辨独立的雕石底座，完整空座，一体不可拆则空透明图交复核。",
+        "review_note": "依据源图盘点模型草稿细化；数量、材质及可拆关系待视觉复核。"
+      },
+      "retired_at": "2026-09-25T16:00:27.932014+00:00",
+      "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
+      "retired_png_sha256": "73d46d018754e81032750c19b340bc0237c1000df6fb97ba864ac054673996b2",
+      "archived_png": "历史版本/候选退役/T17-03/73d46d018754e810/T17_03_佛像底座.png",
+      "evidence_metadata": "exports/buddhahome-theme-assets/01_主题总库/T17_海岸白石禅室/拆后检查/直接退役证据/5d60371e62cb2c39/T17-03.json",
+      "evidence_text_sha256": "3e505f6df0d92d31b165560ec2fed9e4decc753c3b47fb8ae3f7e15fd5cd1f17",
+      "retained_png_sha256": "201b510f9003342ede24497a0ba0e423308d73dfd307ff4da6b02f2494a9d555"
+    }
+  ],
+  "supplemental_evidence": [],
+  "evidence": [
+    {
+      "kind": "whole_source_coverage",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T17_海岸白石禅室/拆后检查/直接HTML检查/378bd2a83bada4f2/direct-visual-review.md",
+      "text_sha256": "1dce1d227361ec42244cd0c2f5c09a555ae43d0abdb3b3f8051edaee77ea0fea",
+      "wanted_ids": []
+    },
+    {
+      "kind": "empty_background",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T17_海岸白石禅室/拆后检查/直接HTML检查/378bd2a83bada4f2/direct-visual-review.md",
+      "text_sha256": "1dce1d227361ec42244cd0c2f5c09a555ae43d0abdb3b3f8051edaee77ea0fea",
+      "wanted_ids": []
+    },
+    {
+      "kind": "individual_assets",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T17_海岸白石禅室/拆后检查/直接HTML检查/378bd2a83bada4f2/direct-visual-review.md",
+      "text_sha256": "1dce1d227361ec42244cd0c2f5c09a555ae43d0abdb3b3f8051edaee77ea0fea",
+      "wanted_ids": [
+        "T17-01",
+        "T17-02",
+        "T17-04",
+        "T17-05",
+        "T17-06",
+        "T17-07",
+        "T17-08",
+        "T17-09",
+        "T17-10",
+        "T17-11",
+        "T17-12",
+        "T17-13",
+        "T17-14",
+        "T17-15",
+        "T17-16",
+        "T17-17",
+        "T17-18",
+        "T17-19",
+        "T17-20",
+        "T17-21",
+        "T17-22",
+        "T17-23",
+        "T17-24",
+        "T17-25",
+        "T17-26",
+        "T17-27",
+        "T17-28"
+      ]
+    }
+  ],
+  "direct_visual_review": {
+    "manifest_path": "exports/buddhahome-theme-assets/01_主题总库/T17_海岸白石禅室/拆后检查/直接HTML检查/378bd2a83bada4f2/manifest.json",
+    "screenshot_sha256": "e87aa4c47ea2f64102010afa107cb51aa329978a1e7e6833ffb4f3d6531ada7d",
+    "repository_commit": "251978a932600c1964c978739dc614258339246d",
+    "viewed_https_url": "https://raw.githubusercontent.com/leading/buddahome_assets/251978a932600c1964c978739dc614258339246d/reviews/themes/T17/overview-fast.jpg",
+    "reviewed_ids": [
+      "T17-01",
+      "T17-02",
+      "T17-04",
+      "T17-05",
+      "T17-06",
+      "T17-07",
+      "T17-08",
+      "T17-09",
+      "T17-10",
+      "T17-11",
+      "T17-12",
+      "T17-13",
+      "T17-14",
+      "T17-15",
+      "T17-16",
+      "T17-17",
+      "T17-18",
+      "T17-19",
+      "T17-20",
+      "T17-21",
+      "T17-22",
+      "T17-23",
+      "T17-24",
+      "T17-25",
+      "T17-26",
+      "T17-27",
+      "T17-28"
+    ],
+    "source_inspected": true,
+    "background_inspected": true,
+    "inspected_at": "2026-09-25T20:38:24.303636+00:00",
+    "viewed_jpeg_sha256": "55290cb1ad7e1b19726755aa4c8c1d0ca8f4c1254baf72c3d2f822beb2d95158"
+  },
+  "limitations": [
+    "隐藏表面为适配补全；不宣称逐像素还原。",
+    ""
+  ],
+  "updated_at": "2026-09-25T20:38:24.305385+00:00"
+}

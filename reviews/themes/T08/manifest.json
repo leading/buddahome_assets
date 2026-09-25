@@ -1,13 +1,13 @@
 {
   "theme_id": "T08",
   "name": "斯里兰卡月白佛堂",
-  "fingerprint": "f9054ff655b5dd39abc1d9cf029efb7c1505d249cd8fabeed3ebb545fb624f8e",
+  "fingerprint": "e2df96dadce504c4ab98e2eb443b7d1dbe40cfbc9fea5a31b9353750d8c0bcdf",
   "source_snapshot": {
     "theme_id": "T08",
     "review_protocol": "paired-v2",
     "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
     "background_sha256": "7fb1a3dc84505d2d4480dfb5e103cb62559abd926dca5a6ddabd81e420d9a9c7",
-    "plan_sha256": "34c40ab5c28e7b261047b76dff32c73480d55615b311eac9b39d050a920fa8b7",
+    "plan_sha256": "0af192cdb4e19cf88bcd9ae1b550e6ec983961219874b6a95d36cfdf4c8ca0d9",
     "objects": [
       {
         "object_id": "T08-01",
@@ -134,15 +134,23 @@
         "sha256": "58674dcb39ff29733191ca9e851c8e29225a2a246fdad1f3f20a8383de8ee5ee"
       },
       {
+        "object_id": "T08-34",
+        "sha256": "105e2e0ce87db69ddae6ba97bc1fa66e8cf69d411ef0727b74251cee92c75d1e"
+      },
+      {
+        "object_id": "T08-35",
+        "sha256": "fc33e060e5d4f89aca00a15657fd44bf59a43371b0b4eff95a755f1026a77719"
+      },
+      {
         "object_id": "T08-36",
         "sha256": "39477bbfaea9c496a4960e656af4ac0899fa51aca93433e494aad65b2607519d"
       }
     ]
   },
-  "object_count": 32,
-  "screenshot_sha256": "905ddd3d3bebbdb981cdc7cfd464aff68b3831180f20c3aff0bcdda0140940af",
+  "object_count": 34,
+  "screenshot_sha256": "dc3d8be2abfde0ecc5f876cc75a76c9397dfaff92a4b1d8a26916a64659e8805",
   "status": "pending_visual_review",
   "screenshot": "overview.png",
   "fast_preview": "overview-fast.jpg",
-  "fast_preview_sha256": "64af5895859ada35fac0abdd014c01204616df49b54dd3c03f7e314cb62f7873"
+  "fast_preview_sha256": "faea67175e5c2e46c367002ab5f1c65a7380d53a5950e3bf83991536a54ddafd"
 }

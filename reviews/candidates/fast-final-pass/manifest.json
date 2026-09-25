@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T20:32:39.252903+00:00",
+  "updated_at": "2026-09-25T20:41:46.767765+00:00",
   "candidates": [
     {
       "id": "T14-19",
@@ -88,7 +88,7 @@
     {
       "id": "T13-27",
       "kind": "addition",
-      "sha256": "bc179f429653748ded8bdf132d53b4c72ec665f9976dda652279a24338f9298c",
+      "sha256": "2ed9a93b412acb721d2f9a0767e08cb0c71fce82fb8c88ac0b3a639f71162522",
       "source_sha256": "f8fe6541602bbc00a9350c7114468ddd3558b94ef1d42308fb8975b63c5dd9a0",
       "status": "generated_pending_review"
     },
@@ -97,7 +97,7 @@
       "kind": "addition",
       "sha256": "d3931dd6776004a68961a7a00cdd051299bb26e835940dd23d5bba81dc246bd8",
       "source_sha256": "f8fe6541602bbc00a9350c7114468ddd3558b94ef1d42308fb8975b63c5dd9a0",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T18-25",
@@ -111,21 +111,21 @@
       "kind": "addition",
       "sha256": "3ce5887ba55213ed9661e4aef2179e5d2372f96310df08fff323ea1dbe662147",
       "source_sha256": "a57e65ce8714c601d031d46b178651d6d2e2e3fd28d97ea8db6a725a5fd6a0cc",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T08-34",
       "kind": "addition",
       "sha256": "105e2e0ce87db69ddae6ba97bc1fa66e8cf69d411ef0727b74251cee92c75d1e",
       "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T08-35",
       "kind": "addition",
       "sha256": "fc33e060e5d4f89aca00a15657fd44bf59a43371b0b4eff95a755f1026a77719",
       "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T17-27",
@@ -231,6 +231,13 @@
       "sha256": "e3fba34e073ba9a7d455ff8bdd8c5062459a2da1ee8564037680742816667183",
       "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
       "status": "promoted_after_https_review"
+    },
+    {
+      "id": "T14-BG",
+      "kind": "background",
+      "sha256": "184db7e6fd4747b0d5f75ec366e520ff2fe5f1d49c764451829a3ae79624c252",
+      "source_sha256": "ffeac69e152110e84286aaaeeb2012b609ea294f81b9a6252c3b7c932d92c5df",
+      "status": "generated_pending_review"
     }
   ],
   "not_final_theme_acceptance": true

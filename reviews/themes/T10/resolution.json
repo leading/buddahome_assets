@@ -1,0 +1,691 @@
+{
+  "theme_id": "T10",
+  "status": "resolved",
+  "review_method": "direct_https_html_screenshot_visual_inspection",
+  "fingerprint": "1720b23326fc8b99cb8d24a546da346e1a4a7eb7d806b9bede4bb166cdd3eb42",
+  "snapshot": {
+    "theme_id": "T10",
+    "review_protocol": "paired-v2",
+    "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
+    "background_sha256": "cc2024e34cf7adc651d0669ff8729b67805453666e16100c71d9ee27bd15124e",
+    "plan_sha256": "1a2e3b90e5f43cd13c49c5e4d700db5bcda4e907b037efeb9ccd1ca0b36d7575",
+    "objects": [
+      {
+        "object_id": "T10-01",
+        "sha256": "a540dd29622c435177ea6b2f00aaa793e88be161d34800d3da8e5efa57fed39e"
+      },
+      {
+        "object_id": "T10-02",
+        "sha256": "b303f69f0736bcf38541de959d41b73749adf8bbb9a72f77d0047f2dacd2c120"
+      },
+      {
+        "object_id": "T10-04",
+        "sha256": "fb2bb24ff9132222e8c064d9e0ec7431cc4d44bf35f3ef282a06d3a00e51f32a"
+      },
+      {
+        "object_id": "T10-05",
+        "sha256": "fde862138e9813a2be1cf0d9058e97300f6f6e2031b5854f1b3f1fc80892e445"
+      },
+      {
+        "object_id": "T10-06",
+        "sha256": "f8bab2bbd845e07d0ff1f40028bfcc1cb106e118da7ca57569ea1252e8de212f"
+      },
+      {
+        "object_id": "T10-07",
+        "sha256": "abbabe57eceac015c5ae247858ffe692c07986bfdce5b8b335da91b3e3ada668"
+      },
+      {
+        "object_id": "T10-08",
+        "sha256": "0b4c0da37c0fa6ea8891a037de8e3c4cb2466fe0cf285e7cb61481f91e6e2da6"
+      },
+      {
+        "object_id": "T10-09",
+        "sha256": "41c5013c2d51d31f3e52ae5bdaa2e10e9e877ae7f3557e4c7f85e6294131255d"
+      },
+      {
+        "object_id": "T10-10",
+        "sha256": "8149c93e93db208169cade9c3df7fb657d10fccae9ce5cc71f6d56b0d9c9d4c1"
+      },
+      {
+        "object_id": "T10-11",
+        "sha256": "d405399dd98e772b05af20550e92a521f61a668d158a529b51009868f233da9a"
+      },
+      {
+        "object_id": "T10-12",
+        "sha256": "5797a5bff23d30641157aa8e68a6d84f16f259ca034017214cb6d59d0f805ae9"
+      },
+      {
+        "object_id": "T10-13",
+        "sha256": "4ff5e48fe236e1ae1ba39fbaa2f7f1c36016820c96c6716a1a2a90fa32fd7a9b"
+      },
+      {
+        "object_id": "T10-14",
+        "sha256": "c8ca546bda84b781af3343e3d026d5996a46c61daecbc5041ee1e233bb09da08"
+      },
+      {
+        "object_id": "T10-15",
+        "sha256": "e2b03d066cc569d858064bb8cc74650e5ef226c15bb2e94b6c134e882b49a89a"
+      },
+      {
+        "object_id": "T10-16",
+        "sha256": "406db7985d49aeeeb089195db8823ddfd99a03f1da6fa97ae0a66937004374ef"
+      },
+      {
+        "object_id": "T10-17",
+        "sha256": "12cd85174bce5ac974d7ddc35696acb1955c49d4e6f2d17d0af9ca5661e70bc0"
+      },
+      {
+        "object_id": "T10-18",
+        "sha256": "36ecd27cc81db46d9287cec67d0482d472218c05b638f08d7531c279ff2d834f"
+      },
+      {
+        "object_id": "T10-19",
+        "sha256": "c5f4f7a2d18f4b2b2fdf17c1e872870278fb6860675a48b72d5fef966b7b95ec"
+      },
+      {
+        "object_id": "T10-20",
+        "sha256": "a498714624852ae1ad821121029de972d6430559db15c7bb05f93248f91ffa51"
+      },
+      {
+        "object_id": "T10-21",
+        "sha256": "39096ee148b31f7abd07a0ef21cd1bb727784803ac080e9e8cbfd05c02526c74"
+      },
+      {
+        "object_id": "T10-22",
+        "sha256": "9ecb801321b2f571ae6c88cd956cba3699d72d2dac9f496c7090ca30d7ec4727"
+      },
+      {
+        "object_id": "T10-23",
+        "sha256": "99ac082aca22e8bb8ecca146aee74510f792c66fa85ff62d1839619e58bb66c4"
+      },
+      {
+        "object_id": "T10-24",
+        "sha256": "b18ad58da313838c3826baf75150c7c464dd1b8631998f4837633a475221bdd7"
+      },
+      {
+        "object_id": "T10-25",
+        "sha256": "ebaa56d8fd29afd9d5c11dbddd24efc11528337e13f9e3076db8d37747bd577c"
+      },
+      {
+        "object_id": "T10-26",
+        "sha256": "00946cf6c29fa5794bcca50bdc2ddcd2ab2426e90a5692e2b7028ea2aef7077b"
+      },
+      {
+        "object_id": "T10-27",
+        "sha256": "bb70289a9b81e5b1cf504dc34eb3cddf88686cdb0b88c93f870946d12ae7b68f"
+      },
+      {
+        "object_id": "T10-28",
+        "sha256": "178f500785ecb07cccea2647233e07509c5537748615445ded13e8cea75518c9"
+      },
+      {
+        "object_id": "T10-30",
+        "sha256": "989f73fa5fddd8f23dd500781f22558a1eaf8e24b72048bd44fef9ea9d712b3a"
+      },
+      {
+        "object_id": "T10-31",
+        "sha256": "649f8bcb69733e71eaa082d1ad0bc6167d89a0275f3f8fb7cce3291564562160"
+      },
+      {
+        "object_id": "T10-32",
+        "sha256": "017555a73c73e29fedc98e969d1b86eb7c52244ab6746ba38b26e4903bc0b8f4"
+      },
+      {
+        "object_id": "T10-33",
+        "sha256": "0415e2d8e7bde2a7b4c66bfaa5284bdcce42fdae0c0bcb0fca2b05eda772712e"
+      },
+      {
+        "object_id": "T10-34",
+        "sha256": "35d3fe99e77f2002cbab35d3700a76d03e926666c12730537cad6b387db44ece"
+      },
+      {
+        "object_id": "T10-38",
+        "sha256": "d15e1753b0a3722a4d664145d98595e500cf4f4f0049b7fea17bdfb77738f03b"
+      },
+      {
+        "object_id": "T10-39",
+        "sha256": "e1da514fbdab4d8ffb7557509603a4a5dbab2612347c8fdf5e0a4d3715c71698"
+      },
+      {
+        "object_id": "T10-40",
+        "sha256": "6540bbb0bd513989abc5182fb1a1fb93da1017bfdf9d27482b0d4cdf85f85848"
+      },
+      {
+        "object_id": "T10-41",
+        "sha256": "54f065922da0b988e70de429509390e512aba1e6b7def6f51591af5f1c11fddb"
+      },
+      {
+        "object_id": "T10-42",
+        "sha256": "391c19359d267668c943f3ae4b8529b5a100b9283b8ca4be6a850f190f14051c"
+      },
+      {
+        "object_id": "T10-43",
+        "sha256": "987cd4ccc42d344ea527d8d816cc1b4816288a19c1b39810cef4c931006ceea1"
+      },
+      {
+        "object_id": "T10-44",
+        "sha256": "97ed61c2a77e20085f0ddd81e67b76d4422f7f0bbc5232b4ed19c66f7650642f"
+      }
+    ]
+  },
+  "coverage": {
+    "status": "pass",
+    "unresolved": [],
+    "source_mapping": [
+      {
+        "source_region": "后供桌、坐佛与木阶形底座、前矮茶桌和深木圈椅",
+        "asset_ids": [
+          "T10-01",
+          "T10-02",
+          "T10-17",
+          "T10-43",
+          "T10-44"
+        ]
+      },
+      {
+        "source_region": "左侧青花瓶与白梅枝、右侧青花瓶与竹枝",
+        "asset_ids": [
+          "T10-04",
+          "T10-05",
+          "T10-18",
+          "T10-19"
+        ]
+      },
+      {
+        "source_region": "桌面铜烛台及未燃白柱蜡、左侧木框落地灯",
+        "asset_ids": [
+          "T10-06",
+          "T10-07",
+          "T10-28"
+        ]
+      },
+      {
+        "source_region": "敞口香炉、镂空盖和线香",
+        "asset_ids": [
+          "T10-08",
+          "T10-09",
+          "T10-22"
+        ]
+      },
+      {
+        "source_region": "果盘与红色供果",
+        "asset_ids": [
+          "T10-10",
+          "T10-11"
+        ]
+      },
+      {
+        "source_region": "茶壶、空茶杯、杯碟和木茶盘",
+        "asset_ids": [
+          "T10-12",
+          "T10-13",
+          "T10-14",
+          "T10-30"
+        ]
+      },
+      {
+        "source_region": "后桌书册、前桌书册、布包书卷、书写毛笔、书架书册",
+        "asset_ids": [
+          "T10-15",
+          "T10-31",
+          "T10-32",
+          "T10-33",
+          "T10-38"
+        ]
+      },
+      {
+        "source_region": "后桌供石及木托、书架独立供石",
+        "asset_ids": [
+          "T10-20",
+          "T10-21",
+          "T10-39"
+        ]
+      },
+      {
+        "source_region": "后桌金属器身与盖、书架青花罐身与盖",
+        "asset_ids": [
+          "T10-23",
+          "T10-24",
+          "T10-40",
+          "T10-41"
+        ]
+      },
+      {
+        "source_region": "盆景浅盆、独立树体及木花几",
+        "asset_ids": [
+          "T10-25",
+          "T10-26",
+          "T10-27"
+        ]
+      },
+      {
+        "source_region": "圆坐垫与天然地毯",
+        "asset_ids": [
+          "T10-16",
+          "T10-34"
+        ]
+      },
+      {
+        "source_region": "左下近景白花绿叶原位层",
+        "asset_ids": [
+          "T10-42"
+        ]
+      }
+    ]
+  },
+  "background": {
+    "status": "pass",
+    "unresolved": [],
+    "reason": "明式木格窗、后壁山水屏片、固定书架、墙与木地面保留；前后桌、佛像、底座、全部器物、盆景、花几、圈椅、落地灯、书架上独立书石罐、地毯坐垫及前景白花移除。误拆的固定山水屏片35至37已对应背景归档。"
+  },
+  "objects": {
+    "T10-01": {
+      "status": "pass",
+      "reason": "供桌或主题主台：与源图「后供桌、坐佛与木阶形底座、前矮茶桌和深木圈椅」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-02": {
+      "status": "pass",
+      "reason": "坐佛：与源图「后供桌、坐佛与木阶形底座、前矮茶桌和深木圈椅」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-17": {
+      "status": "pass",
+      "reason": "前方独立矮茶桌：与源图「后供桌、坐佛与木阶形底座、前矮茶桌和深木圈椅」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-43": {
+      "status": "pass",
+      "reason": "源图前景及桌边圈椅为同款可复用对象；画外椅腿与遮挡座面按实际可见圈背结构补全。"
+    },
+    "T10-44": {
+      "status": "pass",
+      "reason": "坐佛下浅阶形木座独立于雕像与高供桌，完整空置。"
+    },
+    "T10-04": {
+      "status": "pass",
+      "reason": "空花瓶：与源图「左侧青花瓶与白梅枝、右侧青花瓶与竹枝」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-05": {
+      "status": "pass",
+      "reason": "花枝花束：与源图「左侧青花瓶与白梅枝、右侧青花瓶与竹枝」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-18": {
+      "status": "pass",
+      "reason": "右侧青花空瓶：与源图「左侧青花瓶与白梅枝、右侧青花瓶与竹枝」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-19": {
+      "status": "pass",
+      "reason": "竹枝绿叶组合：与源图「左侧青花瓶与白梅枝、右侧青花瓶与竹枝」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-06": {
+      "status": "pass",
+      "reason": "空烛台或灯盏：与源图「桌面铜烛台及未燃白柱蜡、左侧木框落地灯」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-07": {
+      "status": "pass",
+      "reason": "已去除铜烛座，白柱蜡含完整蜡底和未燃烛芯。"
+    },
+    "T10-28": {
+      "status": "pass",
+      "reason": "木框空落地灯：与源图「桌面铜烛台及未燃白柱蜡、左侧木框落地灯」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-08": {
+      "status": "pass",
+      "reason": "空香炉：与源图「敞口香炉、镂空盖和线香」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-09": {
+      "status": "pass",
+      "reason": "未点燃线香：与源图「敞口香炉、镂空盖和线香」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-22": {
+      "status": "pass",
+      "reason": "镂空金属香炉盖：与源图「敞口香炉、镂空盖和线香」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-10": {
+      "status": "pass",
+      "reason": "空供盘：与源图「果盘与红色供果」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-11": {
+      "status": "pass",
+      "reason": "红色供果：与源图「果盘与红色供果」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-12": {
+      "status": "pass",
+      "reason": "茶壶：与源图「茶壶、空茶杯、杯碟和木茶盘」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-13": {
+      "status": "pass",
+      "reason": "空茶杯：与源图「茶壶、空茶杯、杯碟和木茶盘」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-14": {
+      "status": "pass",
+      "reason": "茶托：与源图「茶壶、空茶杯、杯碟和木茶盘」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-30": {
+      "status": "pass",
+      "reason": "深木独立杯碟：与源图「茶壶、空茶杯、杯碟和木茶盘」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-15": {
+      "status": "pass",
+      "reason": "经书：与源图「后桌书册、前桌书册、布包书卷、书写毛笔、书架书册」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-31": {
+      "status": "pass",
+      "reason": "前桌书册：与源图「后桌书册、前桌书册、布包书卷、书写毛笔、书架书册」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-32": {
+      "status": "pass",
+      "reason": "布包书卷：与源图「后桌书册、前桌书册、布包书卷、书写毛笔、书架书册」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-33": {
+      "status": "pass",
+      "reason": "书写毛笔：与源图「后桌书册、前桌书册、布包书卷、书写毛笔、书架书册」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-38": {
+      "status": "pass",
+      "reason": "书架书册：与源图「后桌书册、前桌书册、布包书卷、书写毛笔、书架书册」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-20": {
+      "status": "pass",
+      "reason": "后桌深色供石：与源图「后桌供石及木托、书架独立供石」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-21": {
+      "status": "pass",
+      "reason": "后桌供石木托：与源图「后桌供石及木托、书架独立供石」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-39": {
+      "status": "pass",
+      "reason": "书架供石：与源图「后桌供石及木托、书架独立供石」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-23": {
+      "status": "pass",
+      "reason": "独立铜器身已去掉整个盖钮与盖片，开口空置。"
+    },
+    "T10-24": {
+      "status": "pass",
+      "reason": "后桌金属器盖：与源图「后桌金属器身与盖、书架青花罐身与盖」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-40": {
+      "status": "pass",
+      "reason": "青花罐已去盖，完整开口空罐。"
+    },
+    "T10-41": {
+      "status": "pass",
+      "reason": "书架青花罐盖：与源图「后桌金属器身与盖、书架青花罐身与盖」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-25": {
+      "status": "pass",
+      "reason": "盆景空浅盆：与源图「盆景浅盆、独立树体及木花几」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-26": {
+      "status": "pass",
+      "reason": "盆景树体：与源图「盆景浅盆、独立树体及木花几」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-27": {
+      "status": "pass",
+      "reason": "左侧木花几：与源图「盆景浅盆、独立树体及木花几」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-16": {
+      "status": "pass",
+      "reason": "坐垫：与源图「圆坐垫与天然地毯」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-34": {
+      "status": "pass",
+      "reason": "天然编织地毯：与源图「圆坐垫与天然地毯」对应；透明边缘完整，无相邻物件或背景粘连。"
+    },
+    "T10-42": {
+      "status": "pass",
+      "reason": "左下近景白花原位层：与源图「左下近景白花绿叶原位层」对应；透明边缘完整，无相邻物件或背景粘连。"
+    }
+  },
+  "retired_candidates": [
+    {
+      "object_id": "T10-29",
+      "status": "retired_duplicate_or_unsubstantiated_component",
+      "covered_by": [
+        "T10-28"
+      ],
+      "covered_by_background": false,
+      "retained_asset_sha256": {
+        "T10-28": "178f500785ecb07cccea2647233e07509c5537748615445ded13e8cea75518c9"
+      },
+      "reason": "29候选含完整木框纸灯罩，重复28落地灯的可见灯身，不是独立燃料芯；原图没有可据以拆出的这种额外内部灯体。保留28整灯。",
+      "original_candidate": {
+        "slot": 29,
+        "name": "落地灯未点燃内芯",
+        "category": "灯烛",
+        "subcategory": "灯芯",
+        "ability": "可点燃",
+        "texture": "512",
+        "description": "匹配右侧落地灯的一枚简洁未点燃内芯；不可见结构为推断重建，无灯体或烟火。",
+        "review_note": "源图盘点草稿补充项；遮挡处与内腔合理重建，来源对应和数量待复核。"
+      },
+      "retired_at": "2026-09-25T16:00:33.187502+00:00",
+      "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
+      "retired_png_sha256": "f6179a14f29f29db8f02da81e890341924dce1d4707c511de4d73a02ef927847",
+      "archived_png": "历史版本/候选退役/T10-29/f6179a14f29f29db/T10_29_落地灯未点燃内芯.png",
+      "evidence_metadata": "exports/buddhahome-theme-assets/01_主题总库/T10_明式文人禅室/拆后检查/直接退役证据/658bb93d4205b654/T10-29.json",
+      "evidence_text_sha256": "66070692d3bee833ba04d97e0670fd9cb89e6456ed0424ad3aa3504c18b51cfb",
+      "retained_png_sha256": "178f500785ecb07cccea2647233e07509c5537748615445ded13e8cea75518c9"
+    },
+    {
+      "object_id": "T10-03",
+      "status": "retired_duplicate_or_unsubstantiated_component",
+      "covered_by": [
+        "T10-02"
+      ],
+      "covered_by_background": false,
+      "retained_asset_sha256": {
+        "T10-02": "b303f69f0736bcf38541de959d41b73749adf8bbb9a72f77d0047f2dacd2c120"
+      },
+      "reason": "源图乳白佛像自带完整乳白莲座，02已覆盖，03重复雕像自身承托部分，不作额外独立莲座。",
+      "original_candidate": {
+        "slot": 3,
+        "name": "佛像底座",
+        "category": "家具与底座",
+        "subcategory": "底座",
+        "ability": "可承托",
+        "texture": "1k",
+        "description": "源图佛像下独立乳白莲花座，完整空座，一体不可拆则空透明图待复核。",
+        "review_note": "依据源图盘点模型草稿细化；数量、材质及可拆关系待视觉复核。"
+      },
+      "retired_at": "2026-09-25T19:11:36.184650+00:00",
+      "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
+      "retired_png_sha256": "378c6ed2dbdeefd1f2c006dfb352ab19c4c82d4769557f4671c101d83ea403a6",
+      "archived_png": "历史版本/候选退役/T10-03/378c6ed2dbdeefd1/T10_03_佛像底座.png",
+      "evidence_metadata": "exports/buddhahome-theme-assets/01_主题总库/T10_明式文人禅室/拆后检查/直接退役证据/e053325a715c60c5/T10-03.json",
+      "evidence_text_sha256": "36d8c47b020f3dda5dba244e94147a55d8089a76aaab5325eab5ab7c079c9b9b",
+      "retained_png_sha256": "b303f69f0736bcf38541de959d41b73749adf8bbb9a72f77d0047f2dacd2c120"
+    },
+    {
+      "object_id": "T10-35",
+      "status": "retired_fixed_architecture",
+      "covered_by": [],
+      "covered_by_background": true,
+      "retained_asset_sha256": {},
+      "reason": "左山水画实际为通高木墙屏风内的固定绘饰面，原图与空背景均保留同一建筑屏格。35候选误改成窄幅悬挂画，退役独立物件分类；该来源完整归背景。",
+      "original_candidate": {
+        "slot": 35,
+        "name": "山水画左幅",
+        "category": "装饰摆件",
+        "subcategory": "挂画",
+        "ability": "静态物件",
+        "texture": "2k",
+        "description": "源图后墙三幅框装山水屏画的左幅，仅独立画框与画芯，无其余两幅或墙，不新增可读文字。",
+        "review_note": "源图盘点草稿补充项；遮挡处与内腔合理重建，来源对应和数量待复核。"
+      },
+      "retired_at": "2026-09-25T19:11:36.211352+00:00",
+      "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
+      "retired_png_sha256": "399389e4841d19bc22e92c2824b4d329884e63c2ae67f48ee3d5937e137bc8bc",
+      "archived_png": "历史版本/候选退役/T10-35/399389e4841d19bc/T10_35_山水画左幅.png",
+      "evidence_metadata": "exports/buddhahome-theme-assets/01_主题总库/T10_明式文人禅室/拆后检查/直接退役证据/e053325a715c60c5/T10-35.json",
+      "evidence_text_sha256": "6a544932ffdcf2871be35962b296c772baa46766e43ab2459c4c701918fab935",
+      "retained_background_sha256": "cc2024e34cf7adc651d0669ff8729b67805453666e16100c71d9ee27bd15124e"
+    },
+    {
+      "object_id": "T10-36",
+      "status": "retired_fixed_architecture",
+      "covered_by": [],
+      "covered_by_background": true,
+      "retained_asset_sha256": {},
+      "reason": "中央山水画为固定木墙屏格绘饰，空背景完整保留。36重造独立挂画缺少原图可拆挂件依据；按固定建筑饰面归背景，不重复叠画。",
+      "original_candidate": {
+        "slot": 36,
+        "name": "山水画中幅",
+        "category": "装饰摆件",
+        "subcategory": "挂画",
+        "ability": "静态物件",
+        "texture": "2k",
+        "description": "源图后墙三幅框装山水屏画的中幅，独立完整画框和画芯，无墙和左右画。",
+        "review_note": "源图盘点草稿补充项；遮挡处与内腔合理重建，来源对应和数量待复核。"
+      },
+      "retired_at": "2026-09-25T19:11:36.231437+00:00",
+      "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
+      "retired_png_sha256": "e64c1be80f4fe3829409073b1736425f08b93ca19f50a8e34fc27fccc8c48de7",
+      "archived_png": "历史版本/候选退役/T10-36/e64c1be80f4fe382/T10_36_山水画中幅.png",
+      "evidence_metadata": "exports/buddhahome-theme-assets/01_主题总库/T10_明式文人禅室/拆后检查/直接退役证据/e053325a715c60c5/T10-36.json",
+      "evidence_text_sha256": "6df79ffa92b63b13787857b7094afebc7ba0b5cbc673175a422b2cafa79e05f6",
+      "retained_background_sha256": "cc2024e34cf7adc651d0669ff8729b67805453666e16100c71d9ee27bd15124e"
+    },
+    {
+      "object_id": "T10-37",
+      "status": "retired_fixed_architecture",
+      "covered_by": [],
+      "covered_by_background": true,
+      "retained_asset_sha256": {},
+      "reason": "右山水画为固定木墙屏格绘饰，空背景完整保留。37独立挂画候选不对应额外可移动物件，归背景覆盖。",
+      "original_candidate": {
+        "slot": 37,
+        "name": "山水画右幅",
+        "category": "装饰摆件",
+        "subcategory": "挂画",
+        "ability": "静态物件",
+        "texture": "2k",
+        "description": "源图后墙三幅框装山水屏画的右幅，独立完整画框和画芯，无墙和其他画。",
+        "review_note": "源图盘点草稿补充项；遮挡处与内腔合理重建，来源对应和数量待复核。"
+      },
+      "retired_at": "2026-09-25T19:11:36.250122+00:00",
+      "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
+      "retired_png_sha256": "a21589eda4a334256a0c299b187d7e0ae568209c7a7fce4900fa1bfa4140e52d",
+      "archived_png": "历史版本/候选退役/T10-37/a21589eda4a33425/T10_37_山水画右幅.png",
+      "evidence_metadata": "exports/buddhahome-theme-assets/01_主题总库/T10_明式文人禅室/拆后检查/直接退役证据/e053325a715c60c5/T10-37.json",
+      "evidence_text_sha256": "7d139eb4646347b4c2c1367f91ee579079398937993ae55d3fe94774c53a8df2",
+      "retained_background_sha256": "cc2024e34cf7adc651d0669ff8729b67805453666e16100c71d9ee27bd15124e"
+    }
+  ],
+  "supplemental_evidence": [],
+  "evidence": [
+    {
+      "kind": "whole_source_coverage",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T10_明式文人禅室/拆后检查/直接HTML检查/1720b23326fc8b99/direct-visual-review.md",
+      "text_sha256": "4517d94771efc6f97e3319bcf642bdaf97a077cfa996a3bfcf24189fa013e024",
+      "wanted_ids": []
+    },
+    {
+      "kind": "empty_background",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T10_明式文人禅室/拆后检查/直接HTML检查/1720b23326fc8b99/direct-visual-review.md",
+      "text_sha256": "4517d94771efc6f97e3319bcf642bdaf97a077cfa996a3bfcf24189fa013e024",
+      "wanted_ids": []
+    },
+    {
+      "kind": "individual_assets",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T10_明式文人禅室/拆后检查/直接HTML检查/1720b23326fc8b99/direct-visual-review.md",
+      "text_sha256": "4517d94771efc6f97e3319bcf642bdaf97a077cfa996a3bfcf24189fa013e024",
+      "wanted_ids": [
+        "T10-01",
+        "T10-02",
+        "T10-04",
+        "T10-05",
+        "T10-06",
+        "T10-07",
+        "T10-08",
+        "T10-09",
+        "T10-10",
+        "T10-11",
+        "T10-12",
+        "T10-13",
+        "T10-14",
+        "T10-15",
+        "T10-16",
+        "T10-17",
+        "T10-18",
+        "T10-19",
+        "T10-20",
+        "T10-21",
+        "T10-22",
+        "T10-23",
+        "T10-24",
+        "T10-25",
+        "T10-26",
+        "T10-27",
+        "T10-28",
+        "T10-30",
+        "T10-31",
+        "T10-32",
+        "T10-33",
+        "T10-34",
+        "T10-38",
+        "T10-39",
+        "T10-40",
+        "T10-41",
+        "T10-42",
+        "T10-43",
+        "T10-44"
+      ]
+    }
+  ],
+  "direct_visual_review": {
+    "manifest_path": "exports/buddhahome-theme-assets/01_主题总库/T10_明式文人禅室/拆后检查/直接HTML检查/1720b23326fc8b99/manifest.json",
+    "screenshot_sha256": "9e7d705b0d3d4b8844c7b847fc5acef18a71233dff346e773d25220bda14bca6",
+    "repository_commit": "251978a932600c1964c978739dc614258339246d",
+    "viewed_https_url": "https://raw.githubusercontent.com/leading/buddahome_assets/251978a932600c1964c978739dc614258339246d/reviews/themes/T10/overview-fast.jpg",
+    "reviewed_ids": [
+      "T10-01",
+      "T10-02",
+      "T10-04",
+      "T10-05",
+      "T10-06",
+      "T10-07",
+      "T10-08",
+      "T10-09",
+      "T10-10",
+      "T10-11",
+      "T10-12",
+      "T10-13",
+      "T10-14",
+      "T10-15",
+      "T10-16",
+      "T10-17",
+      "T10-18",
+      "T10-19",
+      "T10-20",
+      "T10-21",
+      "T10-22",
+      "T10-23",
+      "T10-24",
+      "T10-25",
+      "T10-26",
+      "T10-27",
+      "T10-28",
+      "T10-30",
+      "T10-31",
+      "T10-32",
+      "T10-33",
+      "T10-34",
+      "T10-38",
+      "T10-39",
+      "T10-40",
+      "T10-41",
+      "T10-42",
+      "T10-43",
+      "T10-44"
+    ],
+    "source_inspected": true,
+    "background_inspected": true,
+    "inspected_at": "2026-09-25T20:38:17.723031+00:00",
+    "viewed_jpeg_sha256": "d09f5f976f2d1cd6968e3712e4ae98535240cef16c0802a8fd9b4e51f8341319"
+  },
+  "limitations": [
+    "隐藏表面为适配补全；不宣称逐像素还原。",
+    ""
+  ],
+  "updated_at": "2026-09-25T20:38:17.725423+00:00"
+}

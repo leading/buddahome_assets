@@ -1,13 +1,13 @@
 {
   "theme_id": "T17",
   "name": "海岸白石禅室",
-  "fingerprint": "5d60371e62cb2c39aa6fce9c9d6cc801e56e0758db5a5caf19d6ea5592c736e2",
+  "fingerprint": "4066e00717f6808f2e0ea4f88ee6b0dfca55684d8bb14c7bdcc20714bc201cbb",
   "snapshot": {
     "theme_id": "T17",
     "review_protocol": "paired-v2",
     "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
     "background_sha256": "c75b346a26bcdafdfc9704facc759a807fed259cd6d4fd93de44db6109a7445e",
-    "plan_sha256": "cbe74a65873c5bbd2939f47daeb003a5794156622130c0c2e8b938ff57381bf8",
+    "plan_sha256": "ca743f4eb231d2e4c6d5e8dfa3360192a20c71bd37dbcb1a726b91e63ead8da1",
     "objects": [
       {
         "object_id": "T17-01",
@@ -16,10 +16,6 @@
       {
         "object_id": "T17-02",
         "sha256": "201b510f9003342ede24497a0ba0e423308d73dfd307ff4da6b02f2494a9d555"
-      },
-      {
-        "object_id": "T17-03",
-        "sha256": "73d46d018754e81032750c19b340bc0237c1000df6fb97ba864ac054673996b2"
       },
       {
         "object_id": "T17-04",
@@ -133,14 +129,6 @@
       "classification": "standalone_object",
       "sha256": "201b510f9003342ede24497a0ba0e423308d73dfd307ff4da6b02f2494a9d555",
       "path": "objects/T17-02.png"
-    },
-    {
-      "object_id": "T17-03",
-      "name": "佛像底座",
-      "description": "源图坐佛下可辨独立的雕石底座，完整空座，一体不可拆则空透明图交复核。",
-      "classification": "standalone_object",
-      "sha256": "73d46d018754e81032750c19b340bc0237c1000df6fb97ba864ac054673996b2",
-      "path": "objects/T17-03.png"
     },
     {
       "object_id": "T17-04",
@@ -327,6 +315,6 @@
       "path": "objects/T17-26.png"
     }
   ],
-  "review": "../../reviews/themes/T17/overview.png",
+  "review": "../../reviews/themes/T17/overview.jpg",
   "status": "generated_review_in_progress"
 }

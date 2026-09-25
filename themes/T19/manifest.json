@@ -1,13 +1,13 @@
 {
   "theme_id": "T19",
   "name": "秋山枫影禅室",
-  "fingerprint": "8daf162cfedb6ed89c33e949caafce1cf2007557050c126ad4b62709f4839f7a",
+  "fingerprint": "a14c171a059c74139af84679dc38b31f4835301449f8caf2ea97a480ca193a97",
   "snapshot": {
     "theme_id": "T19",
     "review_protocol": "paired-v2",
     "source_sha256": "9d453d9b345f1ac68a3833a16c883f1dca7c9bc2dda62444e03563bd12877505",
     "background_sha256": "e20ae336abacfd1efd5cd7b88b8ffc21c0dfa6f786ff137708ec0d0b3639a54e",
-    "plan_sha256": "342b2b5ce0bf2e10061445e86aa77662443ea334e9e91fac9df6158bf22539ec",
+    "plan_sha256": "91cc480e735cdf3ba9fd412f89aa61c169987a1266c989c08c4a3e20b980bfd2",
     "objects": [
       {
         "object_id": "T19-01",
@@ -16,10 +16,6 @@
       {
         "object_id": "T19-02",
         "sha256": "4c15df91289cf9a28b2979d6f2a37f4ed6e01cb9ac29d3235b35e5158d81ac91"
-      },
-      {
-        "object_id": "T19-03",
-        "sha256": "205d2bd5212762aec62caecb8dbb7e1b992540c8daaa231eef26f3a46d6508a4"
       },
       {
         "object_id": "T19-04",
@@ -129,14 +125,6 @@
       "classification": "standalone_object",
       "sha256": "4c15df91289cf9a28b2979d6f2a37f4ed6e01cb9ac29d3235b35e5158d81ac91",
       "path": "objects/T19-02.png"
-    },
-    {
-      "object_id": "T19-03",
-      "name": "佛像底座",
-      "description": "源图灰石坐佛下的莲花石座，仅有明确独立接缝时拆出完整空座；若雕像与莲座同体不可硬造可拆座，应交复核。",
-      "classification": "standalone_object",
-      "sha256": "205d2bd5212762aec62caecb8dbb7e1b992540c8daaa231eef26f3a46d6508a4",
-      "path": "objects/T19-03.png"
     },
     {
       "object_id": "T19-04",
@@ -315,6 +303,6 @@
       "path": "objects/T19-27.png"
     }
   ],
-  "review": "../../reviews/themes/T19/overview.png",
+  "review": "../../reviews/themes/T19/overview.jpg",
   "status": "generated_review_in_progress"
 }

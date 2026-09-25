@@ -1,13 +1,13 @@
 {
   "theme_id": "T16",
   "name": "都市夜景黑金佛堂",
-  "fingerprint": "35b1a07c249b2df51fe5ef5464063cd612f71504a3faf753ccdc51d6b99305fb",
+  "fingerprint": "27d727da7009ecbacc06d15ca352f249057bbd249e41fbc0081d3412d4d75f1d",
   "source_snapshot": {
     "theme_id": "T16",
     "review_protocol": "paired-v2",
     "source_sha256": "8b28ed30c71df82cbbfe6027043b64e1183056b64c7a098f3297356c68c6ed46",
     "background_sha256": "449e151e9b4796181e31516c24e4b9c952720d33222573ca6a89c7246fa19450",
-    "plan_sha256": "dffc7c5c5afb89cac070f75b01596bddd4194d103eda24546beb23536e7d6058",
+    "plan_sha256": "3d2992c755621c6bbe0fc04cc8ad9d7bfa38f79b10a4209335044fbc8e2e64ea",
     "objects": [
       {
         "object_id": "T16-01",
@@ -32,10 +32,6 @@
       {
         "object_id": "T16-06",
         "sha256": "6dd8dc21e8026290ac61769311993f86de4dc1d7b104019d0a4215a72fc1fbd8"
-      },
-      {
-        "object_id": "T16-07",
-        "sha256": "6bcf71bc00bbb52e6ea0921f979395898fe70b709a852b5bb1c8192f884959cd"
       },
       {
         "object_id": "T16-08",
@@ -119,8 +115,8 @@
       }
     ]
   },
-  "object_count": 27,
-  "screenshot_sha256": "e01eb611c42b56c1f5c5126e38a359545c9b06db9bb1010e65c9042175bc7cf8",
+  "object_count": 26,
+  "screenshot_sha256": "0ba9ffb8ec18e194ca7d903aac617194b09ee15313646ba734f5af597ba9c57a",
   "status": "pending_visual_review",
   "screenshot": "overview.png"
 }

@@ -1,13 +1,13 @@
 {
   "theme_id": "T06",
   "name": "新罗韩屋禅堂",
-  "fingerprint": "6c662259011b079e265735d8848e8fc2ee1ca20975b3f7c240cbbe5e080c8b1a",
+  "fingerprint": "0e2c30989dd831afd4031c5c5cef5ab7622be8c45655bcdbeaece127637ddb83",
   "snapshot": {
     "theme_id": "T06",
     "review_protocol": "paired-v2",
     "source_sha256": "6c4e4c317d734ff2ebcac81f986c2dec05a3ed0ca6445e49082aacfb0c330933",
     "background_sha256": "b7530e73bf7153dc727853dc829252e2a1dc2366073f68b768b7ff0e7a036e6c",
-    "plan_sha256": "f37cd2d4e3385e5941dbbf8a9aca574a5397fd5b03f16178ab10a2ed7840e1a6",
+    "plan_sha256": "6a6efba1fd312108f9465c78b36b15373ec93fe9250e63385c5b87aaa259212c",
     "objects": [
       {
         "object_id": "T06-01",
@@ -16,10 +16,6 @@
       {
         "object_id": "T06-02",
         "sha256": "5c32c94097fb5db7fdc215f65092c13221591a9630f327d9028de050f1b18193"
-      },
-      {
-        "object_id": "T06-03",
-        "sha256": "fd7b6f8e0d6711197eec4353836b7e4f543507fb429579e989bc21a8bab6d25c"
       },
       {
         "object_id": "T06-04",
@@ -151,14 +147,6 @@
       "path": "objects/T06-02.png"
     },
     {
-      "object_id": "T06-03",
-      "name": "佛像底座",
-      "description": "源图白色坐佛下方的独立莲花底座，仅在确有可分结构时提取空座，否则返回全透明空图交复核。",
-      "classification": "standalone_object",
-      "sha256": "fd7b6f8e0d6711197eec4353836b7e4f543507fb429579e989bc21a8bab6d25c",
-      "path": "objects/T06-03.png"
-    },
-    {
       "object_id": "T06-04",
       "name": "空花瓶",
       "description": "源图后供柜左侧的青瓷花瓶，完整空瓶，无白梅枝、水或桌面。区别右侧松枝花瓶。",
@@ -186,7 +174,7 @@
       "object_id": "T06-07",
       "name": "未点燃灯芯",
       "description": "为源图黄铜白罩台灯适配的一枚简单未点燃燃料内芯，隐藏材质属于合理重建，不能将推测当成源图事实。无灯壳、烟火或光晕。",
-      "classification": "standalone_object",
+      "classification": "reconstructed_functional_insert",
       "sha256": "fc05ac2bd23ea7e3b58ba4ac5089bcd6350b05e9c5bf30d82024c80819e4c1e5",
       "path": "objects/T06-07.png"
     },
@@ -375,6 +363,6 @@
       "path": "objects/T06-30.png"
     }
   ],
-  "review": "../../reviews/themes/T06/overview.png",
+  "review": "../../reviews/themes/T06/overview.jpg",
   "status": "generated_review_in_progress"
 }

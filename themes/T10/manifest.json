@@ -1,13 +1,13 @@
 {
   "theme_id": "T10",
   "name": "明式文人禅室",
-  "fingerprint": "fe3d6a2d3941045ac5f73ed12ef647647732c672d20164cafc323d868269a2fe",
+  "fingerprint": "e5c947f1b6e55799aac97894f7a3316803d01f4cfd8b35c0ed0c16952f4ae0e1",
   "snapshot": {
     "theme_id": "T10",
     "review_protocol": "paired-v2",
     "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
     "background_sha256": "cc2024e34cf7adc651d0669ff8729b67805453666e16100c71d9ee27bd15124e",
-    "plan_sha256": "e9ca2f48066a99f2ea57f3f403efa95365243aab5259b710cf67b43bb3741a7a",
+    "plan_sha256": "e2159a40b3b5f45bbc7929f66724067f18d1df74046d3f2c5fdac7c0fe6991dc",
     "objects": [
       {
         "object_id": "T10-01",
@@ -122,10 +122,6 @@
         "sha256": "178f500785ecb07cccea2647233e07509c5537748615445ded13e8cea75518c9"
       },
       {
-        "object_id": "T10-29",
-        "sha256": "f6179a14f29f29db8f02da81e890341924dce1d4707c511de4d73a02ef927847"
-      },
-      {
         "object_id": "T10-30",
         "sha256": "989f73fa5fddd8f23dd500781f22558a1eaf8e24b72048bd44fef9ea9d712b3a"
       },
@@ -229,7 +225,7 @@
     {
       "object_id": "T10-07",
       "name": "未点燃白蜡烛",
-      "description": "源图后桌黄铜烛灯中一根完整白蜡烛，芯未点燃，无灯具烟火。",
+      "description": "源图后桌黄铜烛灯中一根完整白蜡烛，芯未点燃，无灯具烟火。 HTTPS复核纠错：现有PNG把整座黄铜烛台一起带出。只保留一根完整未点燃白蜡烛及烛芯；删除全部黄铜灯座、托碗、立柱及圆底座。06号已有独立烛台。",
       "classification": "standalone_object",
       "sha256": "80d08d675a524916a4fc71dbea6824a1ddf601114655d4e4699656ac9d388dce",
       "path": "objects/T10-07.png"
@@ -357,7 +353,7 @@
     {
       "object_id": "T10-23",
       "name": "后桌空金属盖器",
-      "description": "源图后桌右中黄铜古铜带盖容器，完整空器身，取盖并去除内容物，不猜用途。",
+      "description": "源图后桌右中黄铜古铜带盖容器，完整空器身，取盖并去除内容物，不猜用途。 HTTPS复核纠错：现有PNG仍是盖着盖的黄铜容器。只保留完整敞口的空容器身及其双耳、底足和本身纹饰，完整移除炉盖和盖钮；24号已有单独的盖，不在旁边摆盖。",
       "classification": "standalone_object",
       "sha256": "767e51cfef81926ccbc8be873fdc2ec1f3520df27f0c681d38efb8def5c1e8c7",
       "path": "objects/T10-23.png"
@@ -401,14 +397,6 @@
       "classification": "standalone_object",
       "sha256": "178f500785ecb07cccea2647233e07509c5537748615445ded13e8cea75518c9",
       "path": "objects/T10-28.png"
-    },
-    {
-      "object_id": "T10-29",
-      "name": "落地灯未点燃内芯",
-      "description": "匹配右侧落地灯的一枚简洁未点燃内芯；不可见结构为推断重建，无灯体或烟火。",
-      "classification": "standalone_object",
-      "sha256": "f6179a14f29f29db8f02da81e890341924dce1d4707c511de4d73a02ef927847",
-      "path": "objects/T10-29.png"
     },
     {
       "object_id": "T10-30",
@@ -493,7 +481,7 @@
     {
       "object_id": "T10-40",
       "name": "书架青花空罐",
-      "description": "源图右侧嵌墙书架上的青花瓷罐，完整空罐身，有独立盖则取下，不带书架、内容物或周围书。",
+      "description": "源图右侧嵌墙书架上的青花瓷罐，完整空罐身，有独立盖则取下，不带书架、内容物或周围书。 HTTPS复核纠错：现有青花罐PNG仍带盖。只保留完整敞口空罐身及蓝白纹饰；完整移除圆盖、盖钮，不在旁边摆盖。41号已有独立罐盖。",
       "classification": "standalone_object",
       "sha256": "6b08347ce2af6dba6649940d84ce4739baf7805a1786a523ee78ccbcafd1e50b",
       "path": "objects/T10-40.png"
@@ -507,6 +495,6 @@
       "path": "objects/T10-41.png"
     }
   ],
-  "review": "../../reviews/themes/T10/overview.png",
+  "review": "../../reviews/themes/T10/overview.jpg",
   "status": "generated_review_in_progress"
 }

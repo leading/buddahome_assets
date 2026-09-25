@@ -1,13 +1,13 @@
 {
   "theme_id": "T09",
   "name": "唐风朱砂金殿",
-  "fingerprint": "1be98462e4d8b7ad48a29bd9e45792c22e60d7373b3545670695e3a3250faaf1",
+  "fingerprint": "b5429be726e0fe55f4c440191e0570b2b84cacfb53a7d02bbe9780d3051dd24c",
   "snapshot": {
     "theme_id": "T09",
     "review_protocol": "paired-v2",
     "source_sha256": "10704c2edd9274bbfea90228c51601f27fe455f5d8e528637a83d3483c6100e7",
     "background_sha256": "a94aadc03cb1c7255cc2bf606abc8ad31f4e033c056dae33b34171c9266073d5",
-    "plan_sha256": "7ed070bef9720df184502abde167722bbd1e5ba3bd510a44fdc29d2616d20c52",
+    "plan_sha256": "a06b2059ab52a43ab88094c6cbb7067d2dec4dd9f3ff74d6b3e592f05c4f2f5d",
     "objects": [
       {
         "object_id": "T09-01",
@@ -16,10 +16,6 @@
       {
         "object_id": "T09-02",
         "sha256": "49fa19ac8e52cce6c9fd73f651b65ba57b9f137006733576e3997d9db40ca172"
-      },
-      {
-        "object_id": "T09-03",
-        "sha256": "d45189c78bdca91d05b34735fb877cdb526a34cd5d1d90ba35219c2723dd9813"
       },
       {
         "object_id": "T09-04",
@@ -86,10 +82,6 @@
         "sha256": "2777e0d3bf18a82af000f8b39eb99099ee7026b742f426f7424512069e497526"
       },
       {
-        "object_id": "T09-21",
-        "sha256": "b712fcd4910282c36ffb5ce723cfe62925b389843f2bfea04adf9edd63f99cac"
-      },
-      {
         "object_id": "T09-22",
         "sha256": "a05f3a261bbd9e1cc7625414036c4250bf8e7d996d911bc0eee382f6f2091eda"
       },
@@ -120,10 +112,6 @@
       {
         "object_id": "T09-29",
         "sha256": "1a8636365bc65618fcd0666ceb221ae184365c66e0b919b3b56f4067998729fa"
-      },
-      {
-        "object_id": "T09-30",
-        "sha256": "f89da959dbd97a48c4c94bf49f8749088c7994a84dfa577f5d7199a352a5e0bc"
       }
     ]
   },
@@ -145,14 +133,6 @@
       "classification": "standalone_object",
       "sha256": "49fa19ac8e52cce6c9fd73f651b65ba57b9f137006733576e3997d9db40ca172",
       "path": "objects/T09-02.png"
-    },
-    {
-      "object_id": "T09-03",
-      "name": "佛像底座",
-      "description": "源图金色坐佛下独立莲花座，完整空座；一体雕刻不强行拆分。",
-      "classification": "standalone_object",
-      "sha256": "d45189c78bdca91d05b34735fb877cdb526a34cd5d1d90ba35219c2723dd9813",
-      "path": "objects/T09-03.png"
     },
     {
       "object_id": "T09-04",
@@ -283,14 +263,6 @@
       "path": "objects/T09-20.png"
     },
     {
-      "object_id": "T09-21",
-      "name": "莲花灯未点燃内芯",
-      "description": "匹配源图白莲灯的一枚简单未点燃内芯，不可见部分注明合理重建，不含灯壳、火烟和光晕。",
-      "classification": "standalone_object",
-      "sha256": "b712fcd4910282c36ffb5ce723cfe62925b389843f2bfea04adf9edd63f99cac",
-      "path": "objects/T09-21.png"
-    },
-    {
       "object_id": "T09-22",
       "name": "右侧金色空花瓶",
       "description": "源图右金属花瓶，仅当不同于左瓶器形时提取；完全同款复用则空透明图。无花水。",
@@ -353,16 +325,8 @@
       "classification": "standalone_object",
       "sha256": "1a8636365bc65618fcd0666ceb221ae184365c66e0b919b3b56f4067998729fa",
       "path": "objects/T09-29.png"
-    },
-    {
-      "object_id": "T09-30",
-      "name": "悬灯未点燃内芯",
-      "description": "为源图黑金悬灯适配的未点燃内芯，仅提取可见结构或简洁重建，若与已有内芯完全同款可复用则空透明图复核；无灯壳烟火。",
-      "classification": "standalone_object",
-      "sha256": "f89da959dbd97a48c4c94bf49f8749088c7994a84dfa577f5d7199a352a5e0bc",
-      "path": "objects/T09-30.png"
     }
   ],
-  "review": "../../reviews/themes/T09/overview.png",
+  "review": "../../reviews/themes/T09/overview.jpg",
   "status": "generated_review_in_progress"
 }

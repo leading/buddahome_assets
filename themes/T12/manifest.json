@@ -1,13 +1,13 @@
 {
   "theme_id": "T12",
   "name": "竹林晨雾禅居",
-  "fingerprint": "cb38491962def271dfb36cce38943d8ceeaa101607fff123e37cff404d9ccd85",
+  "fingerprint": "6c52c2410a33c170333e1d835e0dc96a575af7aad9269d81719098ab7434a574",
   "snapshot": {
     "theme_id": "T12",
     "review_protocol": "paired-v2",
     "source_sha256": "948d10285302fb20b701bcf3852aaff595ca33d9cc3793c424b878e551f12f47",
     "background_sha256": "f3019789008212fd0e3296a7bdd2bf4ca10688352a751646a0560de836d410d4",
-    "plan_sha256": "d1226279d6e272c7a7a4c5c44faab9aedcd031618a8af1a2d404d17f75af1424",
+    "plan_sha256": "5fa168e4348cdc50c6e15f88450d8a57682d1e5e805ed7c19a6d4fb4058bfa5f",
     "objects": [
       {
         "object_id": "T12-01",
@@ -86,10 +86,6 @@
         "sha256": "f20fc261bbbc42312bdb9bc7eac6343319f72d32d6f8ee0f0d784e72c05173d4"
       },
       {
-        "object_id": "T12-21",
-        "sha256": "6235540e25fe272ea2f62095650c6abe3026b062e91021faa2517d08153f90bc"
-      },
-      {
         "object_id": "T12-22",
         "sha256": "5806e7b6544208f8aaa46b8b5693245a5ad9edbfcc1b39581d50fb7c19318962"
       },
@@ -158,7 +154,7 @@
       "object_id": "T12-07",
       "name": "未点燃蜡芯",
       "description": "为中层小石塔灯匹配的简洁未点燃内芯，不可见时仅作适配重建，无石灯或烟火。",
-      "classification": "standalone_object",
+      "classification": "reconstructed_functional_insert",
       "sha256": "3b062d2683b2b1d9a2f737d29b02d8673b2517f6c35fff2a6938450ce78b7564",
       "path": "objects/T12-07.png"
     },
@@ -259,17 +255,9 @@
       "path": "objects/T12-20.png"
     },
     {
-      "object_id": "T12-21",
-      "name": "园林石灯未点燃内芯",
-      "description": "匹配源图地面园林石灯的简洁未点燃内芯，隐蔽部分为推断；若与中层内芯完全同款可复用则空图。",
-      "classification": "standalone_object",
-      "sha256": "6235540e25fe272ea2f62095650c6abe3026b062e91021faa2517d08153f90bc",
-      "path": "objects/T12-21.png"
-    },
-    {
       "object_id": "T12-22",
       "name": "前左装饰石",
-      "description": "源图石供台基部前左独立灰色装饰石，仅提取可移动摆石，无植被、碎石床或地面；建筑一体石基则空图。",
+      "description": "源图石供台基部前左独立灰色装饰石，仅提取可移动摆石，无植被、碎石床或地面；建筑一体石基则空图。 HTTPS复核纠错：精确对象是原图中央粗石供台基部前左、蕨类前方的那块低矮圆润灰色自然石，表面灰白斑驳，形体横向不规则卵石。只提取这块石头，合理补全被少量叶片遮挡的边缘；无植物、苔藓地床或其他石头。绝对不是旁边的园林石灯：禁止屋顶、灯室、窗格、塔身、基座或建筑雕刻。",
       "classification": "standalone_object",
       "sha256": "5806e7b6544208f8aaa46b8b5693245a5ad9edbfcc1b39581d50fb7c19318962",
       "path": "objects/T12-22.png"
@@ -277,7 +265,7 @@
     {
       "object_id": "T12-23",
       "name": "前右装饰石",
-      "description": "源图石供台前右独立灰色装饰石，保持本块真实轮廓，不带植物或地面；与左石同款复用则空图。",
+      "description": "源图石供台前右独立灰色装饰石，保持本块真实轮廓，不带植物或地面；与左石同款复用则空图。 HTTPS复核纠错：精确对象是原图中央粗石供台基部前右、蕨类旁的低矮宽扁灰色自然石，表面灰白斑驳，真实轮廓与左石不同。只提取这块横向不规则圆石，合理补全少量遮挡边缘；无植物、碎石床或其他石头。绝对不是园林石灯：禁止屋顶、灯室、窗格、塔身、基座和建筑雕刻。",
       "classification": "standalone_object",
       "sha256": "3b8b353917f9c1175c48de21bf45bde1fbace0aa730302b3217ed0380f1f280f",
       "path": "objects/T12-23.png"
@@ -291,6 +279,6 @@
       "path": "objects/T12-24.png"
     }
   ],
-  "review": "../../reviews/themes/T12/overview.png",
+  "review": "../../reviews/themes/T12/overview.jpg",
   "status": "generated_review_in_progress"
 }

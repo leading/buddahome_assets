@@ -1,13 +1,13 @@
 {
   "theme_id": "T16",
   "name": "都市夜景黑金佛堂",
-  "fingerprint": "35b1a07c249b2df51fe5ef5464063cd612f71504a3faf753ccdc51d6b99305fb",
+  "fingerprint": "27d727da7009ecbacc06d15ca352f249057bbd249e41fbc0081d3412d4d75f1d",
   "snapshot": {
     "theme_id": "T16",
     "review_protocol": "paired-v2",
     "source_sha256": "8b28ed30c71df82cbbfe6027043b64e1183056b64c7a098f3297356c68c6ed46",
     "background_sha256": "449e151e9b4796181e31516c24e4b9c952720d33222573ca6a89c7246fa19450",
-    "plan_sha256": "dffc7c5c5afb89cac070f75b01596bddd4194d103eda24546beb23536e7d6058",
+    "plan_sha256": "3d2992c755621c6bbe0fc04cc8ad9d7bfa38f79b10a4209335044fbc8e2e64ea",
     "objects": [
       {
         "object_id": "T16-01",
@@ -32,10 +32,6 @@
       {
         "object_id": "T16-06",
         "sha256": "6dd8dc21e8026290ac61769311993f86de4dc1d7b104019d0a4215a72fc1fbd8"
-      },
-      {
-        "object_id": "T16-07",
-        "sha256": "6bcf71bc00bbb52e6ea0921f979395898fe70b709a852b5bb1c8192f884959cd"
       },
       {
         "object_id": "T16-08",
@@ -169,14 +165,6 @@
       "classification": "standalone_object",
       "sha256": "6dd8dc21e8026290ac61769311993f86de4dc1d7b104019d0a4215a72fc1fbd8",
       "path": "objects/T16-06.png"
-    },
-    {
-      "object_id": "T16-07",
-      "name": "未点燃灯内芯",
-      "description": "匹配源图圆柱格栅灯的简洁未点燃内芯；若确为电灯而非燃料灯，不把电气部件变成蜡烛或油芯，返回空透明图交复核。不可见结构属推断。",
-      "classification": "standalone_object",
-      "sha256": "6bcf71bc00bbb52e6ea0921f979395898fe70b709a852b5bb1c8192f884959cd",
-      "path": "objects/T16-07.png"
     },
     {
       "object_id": "T16-08",
@@ -339,6 +327,6 @@
       "path": "objects/T16-27.png"
     }
   ],
-  "review": "../../reviews/themes/T16/overview.png",
+  "review": "../../reviews/themes/T16/overview.jpg",
   "status": "generated_review_in_progress"
 }

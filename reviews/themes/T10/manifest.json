@@ -1,13 +1,13 @@
 {
   "theme_id": "T10",
   "name": "明式文人禅室",
-  "fingerprint": "fe3d6a2d3941045ac5f73ed12ef647647732c672d20164cafc323d868269a2fe",
+  "fingerprint": "e5c947f1b6e55799aac97894f7a3316803d01f4cfd8b35c0ed0c16952f4ae0e1",
   "source_snapshot": {
     "theme_id": "T10",
     "review_protocol": "paired-v2",
     "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
     "background_sha256": "cc2024e34cf7adc651d0669ff8729b67805453666e16100c71d9ee27bd15124e",
-    "plan_sha256": "e9ca2f48066a99f2ea57f3f403efa95365243aab5259b710cf67b43bb3741a7a",
+    "plan_sha256": "e2159a40b3b5f45bbc7929f66724067f18d1df74046d3f2c5fdac7c0fe6991dc",
     "objects": [
       {
         "object_id": "T10-01",
@@ -122,10 +122,6 @@
         "sha256": "178f500785ecb07cccea2647233e07509c5537748615445ded13e8cea75518c9"
       },
       {
-        "object_id": "T10-29",
-        "sha256": "f6179a14f29f29db8f02da81e890341924dce1d4707c511de4d73a02ef927847"
-      },
-      {
         "object_id": "T10-30",
         "sha256": "989f73fa5fddd8f23dd500781f22558a1eaf8e24b72048bd44fef9ea9d712b3a"
       },
@@ -175,8 +171,8 @@
       }
     ]
   },
-  "object_count": 41,
-  "screenshot_sha256": "caf653f10d70dc7ea033a39df1e47f0cd1c9a06210cd12d3d5299741c46b1527",
+  "object_count": 40,
+  "screenshot_sha256": "004b94ab42dfc713b0e6551d761ede8d304435c9804b5af69cb3d4d9789638c7",
   "status": "pending_visual_review",
   "screenshot": "overview.png"
 }

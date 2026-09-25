@@ -1,13 +1,13 @@
 {
   "theme_id": "T20",
   "name": "冬雪暖灯佛堂",
-  "fingerprint": "df2d1e5eb82af8fca148cfd489334f9b7a4e3f2ef6f1621ba6287e6308706ad8",
+  "fingerprint": "e6e317d9941eff328e78f76e0284b62cd826376b05cc78dede146c533e0650ef",
   "snapshot": {
     "theme_id": "T20",
     "review_protocol": "paired-v2",
     "source_sha256": "569ef6d0865c17e66928e83bf6d61ac802469d63aa9e2404c4522ecfbd1c6bc0",
     "background_sha256": "ed2212b5563f7afd663b9794a8485946f332a5464974a7d31ea40d82191143bb",
-    "plan_sha256": "5b33e9e4e44ab4a0623ae65cd5e787e57e8241a25fb23df7830bd4e129a80480",
+    "plan_sha256": "3e18baff0139c8c7b08ee3962480eff51913ad608e1b104387893cbcb5e8f338",
     "objects": [
       {
         "object_id": "T20-01",
@@ -16,10 +16,6 @@
       {
         "object_id": "T20-02",
         "sha256": "1eaa430e01fb50245ae474769efc5cac94d2f7a35248d1fb0a4709e9feb45894"
-      },
-      {
-        "object_id": "T20-03",
-        "sha256": "9f30285c5d42a7d49bb0a3535d8d2b8b0b908488cb2573fbeaaf61805e0dcb3c"
       },
       {
         "object_id": "T20-04",
@@ -165,14 +161,6 @@
       "classification": "standalone_object",
       "sha256": "1eaa430e01fb50245ae474769efc5cac94d2f7a35248d1fb0a4709e9feb45894",
       "path": "objects/T20-02.png"
-    },
-    {
-      "object_id": "T20-03",
-      "name": "佛像底座",
-      "description": "源图白石坐佛下的象牙白莲花座，只有独立可拆接缝明确时提取完整空座；若与佛身同体则交复核，不硬造另一底座。",
-      "classification": "standalone_object",
-      "sha256": "9f30285c5d42a7d49bb0a3535d8d2b8b0b908488cb2573fbeaaf61805e0dcb3c",
-      "path": "objects/T20-03.png"
     },
     {
       "object_id": "T20-04",
@@ -423,6 +411,6 @@
       "path": "objects/T20-35.png"
     }
   ],
-  "review": "../../reviews/themes/T20/overview.png",
+  "review": "../../reviews/themes/T20/overview.jpg",
   "status": "generated_review_in_progress"
 }

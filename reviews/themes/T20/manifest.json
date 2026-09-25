@@ -1,13 +1,13 @@
 {
   "theme_id": "T20",
   "name": "冬雪暖灯佛堂",
-  "fingerprint": "df2d1e5eb82af8fca148cfd489334f9b7a4e3f2ef6f1621ba6287e6308706ad8",
+  "fingerprint": "e6e317d9941eff328e78f76e0284b62cd826376b05cc78dede146c533e0650ef",
   "source_snapshot": {
     "theme_id": "T20",
     "review_protocol": "paired-v2",
     "source_sha256": "569ef6d0865c17e66928e83bf6d61ac802469d63aa9e2404c4522ecfbd1c6bc0",
     "background_sha256": "ed2212b5563f7afd663b9794a8485946f332a5464974a7d31ea40d82191143bb",
-    "plan_sha256": "5b33e9e4e44ab4a0623ae65cd5e787e57e8241a25fb23df7830bd4e129a80480",
+    "plan_sha256": "3e18baff0139c8c7b08ee3962480eff51913ad608e1b104387893cbcb5e8f338",
     "objects": [
       {
         "object_id": "T20-01",
@@ -16,10 +16,6 @@
       {
         "object_id": "T20-02",
         "sha256": "1eaa430e01fb50245ae474769efc5cac94d2f7a35248d1fb0a4709e9feb45894"
-      },
-      {
-        "object_id": "T20-03",
-        "sha256": "9f30285c5d42a7d49bb0a3535d8d2b8b0b908488cb2573fbeaaf61805e0dcb3c"
       },
       {
         "object_id": "T20-04",
@@ -147,8 +143,8 @@
       }
     ]
   },
-  "object_count": 34,
-  "screenshot_sha256": "4c017d1835f3f5d73d692d23beba52b9bda8554ad8d88fe0d5ab64966284f086",
+  "object_count": 33,
+  "screenshot_sha256": "dfc2ae4c96cd2f23b711da80b697cb87565052c96ba0b120f87a11a0b01b9c74",
   "status": "pending_visual_review",
   "screenshot": "overview.png"
 }

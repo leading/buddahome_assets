@@ -1,13 +1,13 @@
 {
   "theme_id": "T08",
   "name": "斯里兰卡月白佛堂",
-  "fingerprint": "ab8a43fb21a1881ce02c1c80a431062ed1db6aaeed77876d826bc1c5e6fb2ca5",
+  "fingerprint": "d98a8cedd137bd64545a5850849633c6a5f58ea23cc699ac5d5f0ded98da6d21",
   "snapshot": {
     "theme_id": "T08",
     "review_protocol": "paired-v2",
     "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
     "background_sha256": "7fb1a3dc84505d2d4480dfb5e103cb62559abd926dca5a6ddabd81e420d9a9c7",
-    "plan_sha256": "bfc4517426707ee03752a5a31e685afb3fb566df9cacf2d047d66788581bdf5a",
+    "plan_sha256": "78b12583ec970c4fae87bf4fa8226e35cb22deb5ac0bb223dbaddf4fe8eef2e8",
     "objects": [
       {
         "object_id": "T08-01",
@@ -194,7 +194,7 @@
       "object_id": "T08-07",
       "name": "未点燃蜡芯",
       "description": "与源图金黄铜灯笼匹配的一枚未点燃内芯；不可见结构为简单适配重建，无灯壳、火烟和光晕。",
-      "classification": "standalone_object",
+      "classification": "reconstructed_functional_insert",
       "sha256": "c81d23ab44cad139416810e2747e482193ad104b9307a7af1aa1a402813e9b87",
       "path": "objects/T08-07.png"
     },
@@ -281,7 +281,7 @@
     {
       "object_id": "T08-19",
       "name": "左后方绿叶白花饰",
-      "description": "源图佛像左后方绿叶白花组合，只在它确是可移动布置花材时完整提取，无建筑。若为窗外植被或固定环境植物则返回空透明图交背景保留检查，不造花盆。",
+      "description": "源图佛像左后方绿叶白花组合，只在它确是可移动布置花材时完整提取，无建筑。若为窗外植被或固定环境植物则返回空透明图交背景保留检查，不造花盆。 HTTPS复核纠错：现有图错误加了白色雕花高脚花盆。源图佛像左后方的绿叶与白花没有这只容器。保留白色鸡蛋花、绿叶及自身枝茎，彻底删除所有花盆、雕花基座、土团和底座；不可重新发明容器。",
       "classification": "standalone_object",
       "sha256": "9534697e4540d7440b6b495187decb12174481fccf86b4d9f80eb19d668a0f9f",
       "path": "objects/T08-19.png"
@@ -289,7 +289,7 @@
     {
       "object_id": "T08-20",
       "name": "右后方绿叶白花饰",
-      "description": "源图佛像右后方绿叶白花组合，只提取确为可移动且不同于左侧的花饰；外景植被、固定环境植物或同款复用项返回透明空图，不造容器。",
+      "description": "源图佛像右后方绿叶白花组合，只提取确为可移动且不同于左侧的花饰；外景植被、固定环境植物或同款复用项返回透明空图，不造容器。 HTTPS复核纠错：现有图错误加了白色雕花高脚花盆。源图佛像右后方的绿叶与白花没有这只容器。保留本侧白色鸡蛋花、绿叶及自身枝茎，彻底删除所有花盆、雕花基座、土团和底座；不可重新发明容器。",
       "classification": "standalone_object",
       "sha256": "d285e6cbc75703e40e7e83e9ee8c21d1ebd67e48093d59bbc940c3e5db1d176a",
       "path": "objects/T08-20.png"
@@ -399,6 +399,6 @@
       "path": "objects/T08-33.png"
     }
   ],
-  "review": "../../reviews/themes/T08/overview.png",
+  "review": "../../reviews/themes/T08/overview.jpg",
   "status": "generated_review_in_progress"
 }

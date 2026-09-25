@@ -1,13 +1,13 @@
 {
   "theme_id": "T13",
   "name": "热带莲池佛堂",
-  "fingerprint": "a3d56beb3de3c229c6904ef004e2746818204f766a60d630508776e928a66690",
+  "fingerprint": "cf336a5afedae767b16e1471aff67fd0f9ded48b49324b603c8235506ff4c11b",
   "snapshot": {
     "theme_id": "T13",
     "review_protocol": "paired-v2",
     "source_sha256": "f8fe6541602bbc00a9350c7114468ddd3558b94ef1d42308fb8975b63c5dd9a0",
     "background_sha256": "853de5bb98eeb9bcf123734a9c31e4897dd6182d043dde82fbf84c11f018d310",
-    "plan_sha256": "08e761ea21529eff17f9c46b1af60fea65908cc1a48947eac91d9950ce28ae00",
+    "plan_sha256": "a5c8505f87a5a461f198780c48a2a70734f46f23659a0eea46c4c5bb12a1a7b4",
     "objects": [
       {
         "object_id": "T13-01",
@@ -16,10 +16,6 @@
       {
         "object_id": "T13-02",
         "sha256": "0d8fa1861602bb2c96552bdf10b213042a4b3cc0e51ee5ec8b2153ed5d5903fb"
-      },
-      {
-        "object_id": "T13-03",
-        "sha256": "80703ad5dcc706580a4abd2bde4e4b0c040d3e1dadf7e9d5281f654b691493fa"
       },
       {
         "object_id": "T13-04",
@@ -72,10 +68,6 @@
       {
         "object_id": "T13-17",
         "sha256": "574ec0556dbedf7bb2d116122d08ce4d453483e16c58299717670c1fa0780cad"
-      },
-      {
-        "object_id": "T13-18",
-        "sha256": "eddceaebc01feae204255f1845864b8ba7a81ac89581328112c78add20973707"
       },
       {
         "object_id": "T13-19",
@@ -131,14 +123,6 @@
       "path": "objects/T13-02.png"
     },
     {
-      "object_id": "T13-03",
-      "name": "佛像底座",
-      "description": "源图金佛下独立金莲座，空置无佛，一体不可拆则空图复核。",
-      "classification": "standalone_object",
-      "sha256": "80703ad5dcc706580a4abd2bde4e4b0c040d3e1dadf7e9d5281f654b691493fa",
-      "path": "objects/T13-03.png"
-    },
-    {
       "object_id": "T13-04",
       "name": "空花瓶",
       "description": "源图后桌左侧金铜花瓶，完整空置，无白粉莲与绿叶。",
@@ -166,7 +150,7 @@
       "object_id": "T13-07",
       "name": "未点燃蜡芯",
       "description": "匹配后桌立式灯笼的一枚未点燃内芯，隐藏结构简单重建，无灯壳或光晕。",
-      "classification": "standalone_object",
+      "classification": "reconstructed_functional_insert",
       "sha256": "5207727cf89ed3b053a4930e8a809376f66692fe6d66f8f432f74851fd394735",
       "path": "objects/T13-07.png"
     },
@@ -243,14 +227,6 @@
       "path": "objects/T13-17.png"
     },
     {
-      "object_id": "T13-18",
-      "name": "悬灯未点燃内芯",
-      "description": "匹配源图悬灯的一枚简洁未点燃内芯，若同款可复用立灯内芯则返回空透明图；无灯体烟火。",
-      "classification": "standalone_object",
-      "sha256": "eddceaebc01feae204255f1845864b8ba7a81ac89581328112c78add20973707",
-      "path": "objects/T13-18.png"
-    },
-    {
       "object_id": "T13-19",
       "name": "右侧金铜空花瓶",
       "description": "源图后桌右金铜花瓶，只有器形区别左瓶时提取完整空瓶；同款可复用则空图。",
@@ -315,6 +291,6 @@
       "path": "objects/T13-26.png"
     }
   ],
-  "review": "../../reviews/themes/T13/overview.png",
+  "review": "../../reviews/themes/T13/overview.jpg",
   "status": "generated_review_in_progress"
 }

@@ -1,13 +1,13 @@
 {
   "theme_id": "T07",
   "name": "尼泊尔纽瓦铜艺佛堂",
-  "fingerprint": "7640b9e0c992dfe642b1daa92f474a073d63e5fa9130f039883a0840dade8db6",
+  "fingerprint": "05388d9bfccbcff066cc2ea7819dc4dd914517c3253198fbd60e3fdd7a5991e9",
   "snapshot": {
     "theme_id": "T07",
     "review_protocol": "paired-v2",
     "source_sha256": "a57e65ce8714c601d031d46b178651d6d2e2e3fd28d97ea8db6a725a5fd6a0cc",
     "background_sha256": "2dca63b446130fd1c5dbc3d18c3e9d6943855a665bd8c4a6425a35b8517d1d20",
-    "plan_sha256": "37badbf561a51b61e206373282cf371fa4f1c1ca2c757c4f2840f570f838fc3d",
+    "plan_sha256": "3bdef267dbe7cda36fd1219849dd9734fc826d1528d28a554435c947254925f2",
     "objects": [
       {
         "object_id": "T07-01",
@@ -214,7 +214,7 @@
       "object_id": "T07-07",
       "name": "未点燃油灯芯",
       "description": "为源图高身油灯匹配的一根简洁未点燃灯芯，隐藏部分属于合理重建。无油、灯体、火焰、余烬或烟。",
-      "classification": "standalone_object",
+      "classification": "reconstructed_functional_insert",
       "sha256": "616f9a023ed92bdccdc95fc2071c5be1324cee768bffe9e6d0c1672c7aadd571",
       "path": "objects/T07-07.png"
     },
@@ -413,7 +413,7 @@
     {
       "object_id": "T07-34",
       "name": "右侧开花绿植",
-      "description": "源图下方右盆中的完整开花绿植，保留本侧可见枝形，不带盆或院外树木。完全同款可复用左植物时返回空透明图复核。",
+      "description": "源图下方右盆中的完整开花绿植，保留本侧可见枝形，不带盆或院外树木。完全同款可复用左植物时返回空透明图复核。 HTTPS复核纠错：现有花材图底部仍带完整铜花盆。只保留原右侧开花绿植的花朵、枝干和叶片；彻底删除铜盆、盆口、泥土外壳及底碟。33号已有独立空盆。保留枝形花型，不把移除的盆摆到旁边。",
       "classification": "standalone_object",
       "sha256": "613fa54408c4b219535d7ad866e68d1e873b4fef0c54de2b2192cc4fb731e69a",
       "path": "objects/T07-34.png"
@@ -459,6 +459,6 @@
       "path": "objects/T07-39.png"
     }
   ],
-  "review": "../../reviews/themes/T07/overview.png",
+  "review": "../../reviews/themes/T07/overview.jpg",
   "status": "generated_review_in_progress"
 }

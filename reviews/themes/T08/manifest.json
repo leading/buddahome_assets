@@ -1,13 +1,13 @@
 {
   "theme_id": "T08",
   "name": "斯里兰卡月白佛堂",
-  "fingerprint": "ab8a43fb21a1881ce02c1c80a431062ed1db6aaeed77876d826bc1c5e6fb2ca5",
+  "fingerprint": "d98a8cedd137bd64545a5850849633c6a5f58ea23cc699ac5d5f0ded98da6d21",
   "source_snapshot": {
     "theme_id": "T08",
     "review_protocol": "paired-v2",
     "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
     "background_sha256": "7fb1a3dc84505d2d4480dfb5e103cb62559abd926dca5a6ddabd81e420d9a9c7",
-    "plan_sha256": "bfc4517426707ee03752a5a31e685afb3fb566df9cacf2d047d66788581bdf5a",
+    "plan_sha256": "78b12583ec970c4fae87bf4fa8226e35cb22deb5ac0bb223dbaddf4fe8eef2e8",
     "objects": [
       {
         "object_id": "T08-01",
@@ -140,7 +140,7 @@
     ]
   },
   "object_count": 32,
-  "screenshot_sha256": "b151a39a081fc6e7124a64a1c421705b681313d6843bfb98a8a15e89f0faa631",
+  "screenshot_sha256": "d97c293972aa98d702dac35377b02dc0981da4437e3ef86677b096d1684984a4",
   "status": "pending_visual_review",
   "screenshot": "overview.png"
 }

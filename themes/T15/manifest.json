@@ -1,21 +1,17 @@
 {
   "theme_id": "T15",
   "name": "清水混凝土极简佛堂",
-  "fingerprint": "51da0203e940f4bd402b9edd4e0fb674039f086d873fe5905eed902009d58654",
+  "fingerprint": "b7e57a347feb1f61e48d19c2c6831fb515a0c69d67a120dfd19f971370658cac",
   "snapshot": {
     "theme_id": "T15",
     "review_protocol": "paired-v2",
     "source_sha256": "852be4bf6fa128a597cd1442e7372eef3f45a171de970332723ba562b5bda521",
     "background_sha256": "bec19e2997cd47de72868b83ac95fe0f9c1b860bd5bceaf19ef52c3947a6cd86",
-    "plan_sha256": "734d939ca31b9422d45da417783f4d5b965b3d2576889bff91e9024ed8bea3fd",
+    "plan_sha256": "26f9d5f26008ea13894254ec34411d7845e6b7e370b9ed95cb3faac1c0b7f380",
     "objects": [
       {
         "object_id": "T15-02",
         "sha256": "637e22e5c1a8c33c2809c5d6f9e094d4e8cadb5e126248376f219a370e1085a1"
-      },
-      {
-        "object_id": "T15-03",
-        "sha256": "d063fe1f3175e9a24c180a794ab6792b486fdaea7bce0eab20c70c1aab24effb"
       },
       {
         "object_id": "T15-04",
@@ -73,14 +69,6 @@
       "classification": "standalone_object",
       "sha256": "637e22e5c1a8c33c2809c5d6f9e094d4e8cadb5e126248376f219a370e1085a1",
       "path": "objects/T15-02.png"
-    },
-    {
-      "object_id": "T15-03",
-      "name": "佛像底座",
-      "description": "仅提取源图佛像本体下可辨为独立可移动的深灰底座；如果所见底座就是墙龛固定石平台，则返回全透明空图，保留建筑平台在背景。",
-      "classification": "standalone_object",
-      "sha256": "d063fe1f3175e9a24c180a794ab6792b486fdaea7bce0eab20c70c1aab24effb",
-      "path": "objects/T15-03.png"
     },
     {
       "object_id": "T15-04",
@@ -171,6 +159,6 @@
       "path": "objects/T15-14.png"
     }
   ],
-  "review": "../../reviews/themes/T15/overview.png",
+  "review": "../../reviews/themes/T15/overview.jpg",
   "status": "generated_review_in_progress"
 }

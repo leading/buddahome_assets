@@ -6,3 +6,5 @@ iphone-gl-before-floating-editor.png: physical iPhone 11 Expo GL render, capture
 simulator-editor-expanded.png: complete React Native editor UI on iPhone 17 Pro simulator. Uses the isolated WebView comparison renderer on port 8083 for layout checks; the physical iPhone app keeps Expo GL. Shows the preserved existing draft, not a reset theme. Captured 2026-09-25.
 
 Additional complete simulator UI states: collapsed, moved to the upper-right safe area and expanded, scene-view mode. Native React handlers / PanResponder events were invoked by the inspector. These captures verify layout, not real-finger performance. Existing draft preserved; no model transforms were edited.
+
+Final captures include the measured toolbar-height overlap fix. The scene-view screenshot applies a synthetic 60 pt horizontal pointer drag through the canvas gesture adapter; orbit-reset restores the published camera. Scene transforms remained byte-for-byte unchanged in the runtime check. These are simulator UI checks, not physical iPhone finger or GPU-performance results.

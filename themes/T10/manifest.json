@@ -1,13 +1,13 @@
 {
   "theme_id": "T10",
   "name": "明式文人禅室",
-  "fingerprint": "98478a55f95ca7d92666d09ed3b3a68b38c58a6549ec1d2a920bf50edea591ec",
+  "fingerprint": "68af7f5879049a99e0984facbad5978fec20782f9d101f86e2c80e0dd247b6bb",
   "snapshot": {
     "theme_id": "T10",
     "review_protocol": "paired-v2",
     "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
     "background_sha256": "cc2024e34cf7adc651d0669ff8729b67805453666e16100c71d9ee27bd15124e",
-    "plan_sha256": "44db5a2a586a891b43873315280df0946eb8565ff2d1d107c0a2b04d5f1662d9",
+    "plan_sha256": "fc9b7cc9793ed5fb0ecd75cbdd22c1449be2190ebebedd3f7e4193b677b729b1",
     "objects": [
       {
         "object_id": "T10-01",
@@ -152,6 +152,10 @@
       {
         "object_id": "T10-41",
         "sha256": "54f065922da0b988e70de429509390e512aba1e6b7def6f51591af5f1c11fddb"
+      },
+      {
+        "object_id": "T10-42",
+        "sha256": "391c19359d267668c943f3ae4b8529b5a100b9283b8ca4be6a850f190f14051c"
       }
     ]
   },
@@ -445,6 +449,14 @@
       "classification": "standalone_object",
       "sha256": "54f065922da0b988e70de429509390e512aba1e6b7def6f51591af5f1c11fddb",
       "path": "objects/T10-41.png"
+    },
+    {
+      "object_id": "T10-42",
+      "name": "左下近景白花原位层",
+      "description": "Extract ONLY the soft-focus white blossoms and green leaves entering from the LOWER LEFT foreground in front of the wooden furniture. Exclude the altar vase bouquet, chair, tables, books, floor and all wood rails. Preserve exact source placement, size, natural blur and boundary clipping.",
+      "classification": "source_position_layer",
+      "sha256": "391c19359d267668c943f3ae4b8529b5a100b9283b8ca4be6a850f190f14051c",
+      "path": "objects/T10-42.png"
     }
   ],
   "review": "../../reviews/themes/T10/overview.jpg",

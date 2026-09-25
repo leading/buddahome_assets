@@ -1,13 +1,13 @@
 {
   "theme_id": "T17",
   "name": "海岸白石禅室",
-  "fingerprint": "4066e00717f6808f2e0ea4f88ee6b0dfca55684d8bb14c7bdcc20714bc201cbb",
+  "fingerprint": "ef1bac46d34e28fc477d65cc30710436b18c280639d94a137e899bc454dc9a66",
   "source_snapshot": {
     "theme_id": "T17",
     "review_protocol": "paired-v2",
     "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
-    "background_sha256": "c75b346a26bcdafdfc9704facc759a807fed259cd6d4fd93de44db6109a7445e",
-    "plan_sha256": "ca743f4eb231d2e4c6d5e8dfa3360192a20c71bd37dbcb1a726b91e63ead8da1",
+    "background_sha256": "25325eb4be696652a10cf90eb3ed890247e451f31eb1ef00521a943dddbcbde7",
+    "plan_sha256": "5cdd1a3f85e07ae6f3fc7e38c54dff28ac3f52267e06aee0d71cda3a8e1e704c",
     "objects": [
       {
         "object_id": "T17-01",
@@ -95,7 +95,7 @@
       },
       {
         "object_id": "T17-23",
-        "sha256": "0ebd442e41b5b8b081bc562c0c072b5203d93fbe92c89d759edeed67aea9fa64"
+        "sha256": "2f143aca8fb27230ae820ef4621529ac74299ba273cec425a33cece5ee2cec4a"
       },
       {
         "object_id": "T17-24",
@@ -108,13 +108,17 @@
       {
         "object_id": "T17-26",
         "sha256": "05fcb36eb2fa8968f3de03f3f946b814323e025d9853995f028e45acf25505b0"
+      },
+      {
+        "object_id": "T17-27",
+        "sha256": "dfc6f63ebe4b57cf222ea68d1368a3f99b519805c0b02f709a17662694d16c63"
       }
     ]
   },
-  "object_count": 25,
-  "screenshot_sha256": "6c3504f08df4f204a0af7ad411532ebd6f990c825ef3d183628bcccf6d9a52b7",
+  "object_count": 26,
+  "screenshot_sha256": "936590d2397685b28a74db96559161b5890df9f5495fceb307fcd179dedc21fb",
   "status": "pending_visual_review",
   "screenshot": "overview.png",
   "fast_preview": "overview-fast.jpg",
-  "fast_preview_sha256": "31ad59a3adc10e847826a540190d9b0dc2f26162424db3846cadc615c7a940f0"
+  "fast_preview_sha256": "07bb40607879d0c02a9197383f3e9233bf1b66f2bceef751eb4e52c899b9fdc9"
 }

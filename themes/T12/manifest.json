@@ -1,13 +1,13 @@
 {
   "theme_id": "T12",
   "name": "竹林晨雾禅居",
-  "fingerprint": "ce78443cc42aba5db45143881dbb8f897bf7be69c5b60d95469e781be78d78b1",
+  "fingerprint": "cbcdaa54b7d71af19f8ba181aff2117eae857496d8ccf06b3cbebe1d592cdc7c",
   "snapshot": {
     "theme_id": "T12",
     "review_protocol": "paired-v2",
     "source_sha256": "948d10285302fb20b701bcf3852aaff595ca33d9cc3793c424b878e551f12f47",
     "background_sha256": "f3019789008212fd0e3296a7bdd2bf4ca10688352a751646a0560de836d410d4",
-    "plan_sha256": "5621513c7a01441cb8e81117d67c70f7d095398e7d0ddd6a6f379a1504973c0e",
+    "plan_sha256": "8bca3ca14dd0e2645d86edda1b1b78d5a74210a66f855bd962fb70f59b172d45",
     "objects": [
       {
         "object_id": "T12-01",
@@ -92,6 +92,10 @@
       {
         "object_id": "T12-24",
         "sha256": "ccdebf4da85a21b57dc61baa01d07ff112ef63ae5c6a8a04448d0c19eab28387"
+      },
+      {
+        "object_id": "T12-25",
+        "sha256": "03aceb325fcded9a5ff876dec5d1a06214e910275437079942ff0aa105e8f958"
       }
     ]
   },
@@ -265,6 +269,14 @@
       "classification": "standalone_object",
       "sha256": "ccdebf4da85a21b57dc61baa01d07ff112ef63ae5c6a8a04448d0c19eab28387",
       "path": "objects/T12-24.png"
+    },
+    {
+      "object_id": "T12-25",
+      "name": "石台基部蕨类草叶原位层",
+      "description": "Extract ONLY the ferns, small green ground-cover leaves and associated fine plant stems around the base of the central rough-stone altar, in the lower center of the source. Exclude the altar, Buddha, two large low rounded gray stones, garden lanterns, gravel floor and all separate pots. Preserve the visible foliage positions and source framing.",
+      "classification": "source_position_layer",
+      "sha256": "03aceb325fcded9a5ff876dec5d1a06214e910275437079942ff0aa105e8f958",
+      "path": "objects/T12-25.png"
     }
   ],
   "review": "../../reviews/themes/T12/overview.jpg",

@@ -1,13 +1,13 @@
 {
   "theme_id": "T14",
   "name": "北欧原木静修室",
-  "fingerprint": "4fde60d8ebf0545773804385cc0bc1019a4b51a45a3911550cb1429d7d690954",
+  "fingerprint": "c2312832b6cde706b91f4ea000b5a266718b06e64aeab44d38d26254521c7bc8",
   "source_snapshot": {
     "theme_id": "T14",
     "review_protocol": "paired-v2",
     "source_sha256": "ffeac69e152110e84286aaaeeb2012b609ea294f81b9a6252c3b7c932d92c5df",
     "background_sha256": "dd336147aca47c476831fc68c9d2e9aaab206ccda2f789602882d53a554c76d3",
-    "plan_sha256": "c83905ea94e034415b353f4637e43fb1d2fc9e2e7c1ce8cc3a408cf27ad9f958",
+    "plan_sha256": "96e58529eb87bb7303ee2d59f150f5c09ada786ced2aa77dd542e2c62cbb0f3e",
     "objects": [
       {
         "object_id": "T14-01",
@@ -79,7 +79,7 @@
       },
       {
         "object_id": "T14-19",
-        "sha256": "be627bbfbc899e9df9b9459b264312b6e3865f7419025923d3c081c28b7c0560"
+        "sha256": "56a2416957774075b853414633bf37b133646293be2638349240c490e9d56668"
       },
       {
         "object_id": "T14-20",
@@ -116,9 +116,9 @@
     ]
   },
   "object_count": 26,
-  "screenshot_sha256": "e18bb7c97fd041a506daf786d2307cce101e3dd73b13d0de161f7a8f018b16ec",
+  "screenshot_sha256": "735669048635dd26df87fa45a04365174441ab3c9b5dccdd2f5d6756e18c67f6",
   "status": "pending_visual_review",
   "screenshot": "overview.png",
   "fast_preview": "overview-fast.jpg",
-  "fast_preview_sha256": "64ec92755ab335b20af13a29ef37a2e56d3e17d001ffbb55e256970530c4f96b"
+  "fast_preview_sha256": "7718663b1980bcaff94642b64fe7738df0b75a04f2c8c83d8304f1b790c878c8"
 }

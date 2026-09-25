@@ -1,13 +1,13 @@
 {
   "theme_id": "T14",
   "name": "北欧原木静修室",
-  "fingerprint": "4fde60d8ebf0545773804385cc0bc1019a4b51a45a3911550cb1429d7d690954",
+  "fingerprint": "c2312832b6cde706b91f4ea000b5a266718b06e64aeab44d38d26254521c7bc8",
   "snapshot": {
     "theme_id": "T14",
     "review_protocol": "paired-v2",
     "source_sha256": "ffeac69e152110e84286aaaeeb2012b609ea294f81b9a6252c3b7c932d92c5df",
     "background_sha256": "dd336147aca47c476831fc68c9d2e9aaab206ccda2f789602882d53a554c76d3",
-    "plan_sha256": "c83905ea94e034415b353f4637e43fb1d2fc9e2e7c1ce8cc3a408cf27ad9f958",
+    "plan_sha256": "96e58529eb87bb7303ee2d59f150f5c09ada786ced2aa77dd542e2c62cbb0f3e",
     "objects": [
       {
         "object_id": "T14-01",
@@ -79,7 +79,7 @@
       },
       {
         "object_id": "T14-19",
-        "sha256": "be627bbfbc899e9df9b9459b264312b6e3865f7419025923d3c081c28b7c0560"
+        "sha256": "56a2416957774075b853414633bf37b133646293be2638349240c490e9d56668"
       },
       {
         "object_id": "T14-20",
@@ -257,9 +257,9 @@
     {
       "object_id": "T14-19",
       "name": "右侧未点燃白蜡烛",
-      "description": "源图供桌右侧碟上的白柱蜡烛，仅在尺寸设计区别左侧蜡烛时提取；同款复用则空透明图。无碟烟火。",
+      "description": "Keep only the single complete unlit ivory wax pillar candle and wick. Remove the entire brass bowl/holder and every metal rim or fragment. Restore the simple wax bottom where hidden by the bowl. Preserve wax shape, color and proportions. The existing separate holder is T14-20.",
       "classification": "standalone_object",
-      "sha256": "be627bbfbc899e9df9b9459b264312b6e3865f7419025923d3c081c28b7c0560",
+      "sha256": "56a2416957774075b853414633bf37b133646293be2638349240c490e9d56668",
       "path": "objects/T14-19.png"
     },
     {
@@ -327,6 +327,6 @@
       "path": "objects/T14-27.png"
     }
   ],
-  "review": "../../reviews/themes/T14/overview.png",
+  "review": "../../reviews/themes/T14/overview.jpg",
   "status": "generated_review_in_progress"
 }

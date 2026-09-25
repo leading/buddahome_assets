@@ -1,13 +1,13 @@
 {
   "theme_id": "T18",
   "name": "新艺术琉璃花房佛堂",
-  "fingerprint": "6e9a199074cc4b07dbfe683b34f023686933831cb95340ff4d16a5375b72f1d2",
+  "fingerprint": "c43180532efce3eea1b5a072f5247a84bdfd6b80edf91c31f8db3855692e9196",
   "snapshot": {
     "theme_id": "T18",
     "review_protocol": "paired-v2",
     "source_sha256": "e6e91cf8977c1ef383b80139508c10ac2e9a5c8f379f2b866492af541a971c50",
     "background_sha256": "d8aec39e71bc0a2a62a763913862084f3cd4404368fabc3d50c1c7618f70ab27",
-    "plan_sha256": "63ad6d51e15fd70aaffeeb36002427dfd7ab2d46ce7ce438c5d1133b8163be41",
+    "plan_sha256": "49a59e499f9ca0c7d8b2db74684cfcf3fb8a833d6e000687b84cb158b27ef88d",
     "objects": [
       {
         "object_id": "T18-01",
@@ -96,6 +96,10 @@
       {
         "object_id": "T18-24",
         "sha256": "e32dee16eb8987444b5dd50b012a68849a777081abde3851a1dac07b0a370456"
+      },
+      {
+        "object_id": "T18-25",
+        "sha256": "8b29988fdb84ee047b839b74d87e6c2d818029dad8fb625b448a085abf0045ec"
       }
     ]
   },
@@ -277,8 +281,16 @@
       "classification": "standalone_object",
       "sha256": "e32dee16eb8987444b5dd50b012a68849a777081abde3851a1dac07b0a370456",
       "path": "objects/T18-24.png"
+    },
+    {
+      "object_id": "T18-25",
+      "name": "左下近景白花绿叶原位层",
+      "description": "Extract ONLY the large soft-focus white flowers, green leaves and visible stems entering from the LOWER LEFT foreground. Exclude the altar vase bouquet, the white offering flower in the green bowl, all vessels, furniture, floor and water. Preserve the exact source positions, sizes, natural blur and clipping.",
+      "classification": "source_position_layer",
+      "sha256": "8b29988fdb84ee047b839b74d87e6c2d818029dad8fb625b448a085abf0045ec",
+      "path": "objects/T18-25.png"
     }
   ],
-  "review": "../../reviews/themes/T18/overview.png",
+  "review": "../../reviews/themes/T18/overview.jpg",
   "status": "generated_review_in_progress"
 }

@@ -1,13 +1,13 @@
 {
   "theme_id": "T10",
   "name": "明式文人禅室",
-  "fingerprint": "98478a55f95ca7d92666d09ed3b3a68b38c58a6549ec1d2a920bf50edea591ec",
+  "fingerprint": "68af7f5879049a99e0984facbad5978fec20782f9d101f86e2c80e0dd247b6bb",
   "source_snapshot": {
     "theme_id": "T10",
     "review_protocol": "paired-v2",
     "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
     "background_sha256": "cc2024e34cf7adc651d0669ff8729b67805453666e16100c71d9ee27bd15124e",
-    "plan_sha256": "44db5a2a586a891b43873315280df0946eb8565ff2d1d107c0a2b04d5f1662d9",
+    "plan_sha256": "fc9b7cc9793ed5fb0ecd75cbdd22c1449be2190ebebedd3f7e4193b677b729b1",
     "objects": [
       {
         "object_id": "T10-01",
@@ -152,13 +152,17 @@
       {
         "object_id": "T10-41",
         "sha256": "54f065922da0b988e70de429509390e512aba1e6b7def6f51591af5f1c11fddb"
+      },
+      {
+        "object_id": "T10-42",
+        "sha256": "391c19359d267668c943f3ae4b8529b5a100b9283b8ca4be6a850f190f14051c"
       }
     ]
   },
-  "object_count": 36,
-  "screenshot_sha256": "c885031cc8f0519ba7e4da87b48700b623768e040dd594e56cd712755180d35b",
+  "object_count": 37,
+  "screenshot_sha256": "e5a06def821d794a65a4fdee7405cf6deddb581c221e7b3f082e5f0aa487fca9",
   "status": "pending_visual_review",
   "screenshot": "overview.png",
   "fast_preview": "overview-fast.jpg",
-  "fast_preview_sha256": "c1357a97669e613adac49f1f216317caa290026070e1540df0cf797d8aa845e9"
+  "fast_preview_sha256": "a45cf75db99d40d26015058a93d3d40290addca9ace2509647ee29b21b236d6e"
 }

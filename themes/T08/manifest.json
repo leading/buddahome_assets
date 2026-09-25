@@ -1,13 +1,13 @@
 {
   "theme_id": "T08",
   "name": "斯里兰卡月白佛堂",
-  "fingerprint": "971eb516c0a3599aa902775b228f2b708fe1588dfa8cd5493c54b999908b827a",
+  "fingerprint": "49e738f93e6aa8660e49f9c3b4caa2f5bc1a4e9f1504e4c09021b86152cb4b7a",
   "snapshot": {
     "theme_id": "T08",
     "review_protocol": "paired-v2",
     "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
     "background_sha256": "7fb1a3dc84505d2d4480dfb5e103cb62559abd926dca5a6ddabd81e420d9a9c7",
-    "plan_sha256": "9859239fb859adb311a88737630eb1f5abf3246881fdb880b351a4449344cf30",
+    "plan_sha256": "82f52242249ed8e26f82046dba0f633b4e1004ab37adce66c765bbe535677d55",
     "objects": [
       {
         "object_id": "T08-01",
@@ -123,11 +123,11 @@
       },
       {
         "object_id": "T08-31",
-        "sha256": "9f2d3dfc23e61c62049a038f8ea66bbfe47082bc587366852f8dfb982b965910"
+        "sha256": "c7c1070c6c5d41a2539c2636d53028e41fbe274da3b0ec65eac843210ecfb296"
       },
       {
         "object_id": "T08-32",
-        "sha256": "a7a7baff813240e7ce7c77dc55990a99e35ccc16f6ba075a15f6660d05cd6d1e"
+        "sha256": "4987bdffeac8e23481f0a7a6fd587ddea6142acb3802dad6e3e6e001d81731ad"
       },
       {
         "object_id": "T08-33",
@@ -365,17 +365,17 @@
     {
       "object_id": "T08-31",
       "name": "左前空石水钵",
-      "description": "源图左前地面盛漂浮白花的石钵，完整空置，去掉水、花和水面反光，保持源图内外轮廓。",
+      "description": "Extract the actual low broad gray rough-stone water basin at the FRONT LEFT of the source scene. Preserve its source silhouette and weathered stone texture. Empty the basin completely; no water, floating flowers, foliage, floor or other objects. Do not invent a tall white carved urn, pedestal or ornate floral relief. The exterior has small mottled gray/beige pebble-mosaic texture and a simple smooth gray inner rim. Preserve that source surface; no large ornate carved floral relief.",
       "classification": "standalone_object",
-      "sha256": "9f2d3dfc23e61c62049a038f8ea66bbfe47082bc587366852f8dfb982b965910",
+      "sha256": "c7c1070c6c5d41a2539c2636d53028e41fbe274da3b0ec65eac843210ecfb296",
       "path": "objects/T08-31.png"
     },
     {
       "object_id": "T08-32",
       "name": "右前空石水钵",
-      "description": "源图右前石水钵，只有器形区别左钵时提取完整空钵；完全同款可复用则返回透明空图。无水花。",
+      "description": "Extract the actual low broad gray rough-stone water basin at the FRONT RIGHT of the source scene. Preserve this basin own source silhouette and stone texture, reconstructing the clipped portion naturally. Empty completely. No water, floating flowers, foliage or floor. Do not invent a tall white carved urn or ornate floral pedestal. The exterior has small mottled gray/beige pebble-mosaic texture and a simple smooth gray inner rim. Preserve that source surface; no large ornate carved floral relief.",
       "classification": "standalone_object",
-      "sha256": "a7a7baff813240e7ce7c77dc55990a99e35ccc16f6ba075a15f6660d05cd6d1e",
+      "sha256": "4987bdffeac8e23481f0a7a6fd587ddea6142acb3802dad6e3e6e001d81731ad",
       "path": "objects/T08-32.png"
     },
     {

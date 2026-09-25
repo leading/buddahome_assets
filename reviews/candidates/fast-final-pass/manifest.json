@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T20:41:46.767765+00:00",
+  "updated_at": "2026-09-25T20:45:41.985244+00:00",
   "candidates": [
     {
       "id": "T14-19",
@@ -90,7 +90,7 @@
       "kind": "addition",
       "sha256": "2ed9a93b412acb721d2f9a0767e08cb0c71fce82fb8c88ac0b3a639f71162522",
       "source_sha256": "f8fe6541602bbc00a9350c7114468ddd3558b94ef1d42308fb8975b63c5dd9a0",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T13-28",
@@ -237,7 +237,7 @@
       "kind": "background",
       "sha256": "184db7e6fd4747b0d5f75ec366e520ff2fe5f1d49c764451829a3ae79624c252",
       "source_sha256": "ffeac69e152110e84286aaaeeb2012b609ea294f81b9a6252c3b7c932d92c5df",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     }
   ],
   "not_final_theme_acceptance": true

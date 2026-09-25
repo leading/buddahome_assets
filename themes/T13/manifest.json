@@ -1,13 +1,13 @@
 {
   "theme_id": "T13",
   "name": "热带莲池佛堂",
-  "fingerprint": "cf336a5afedae767b16e1471aff67fd0f9ded48b49324b603c8235506ff4c11b",
+  "fingerprint": "9c4ce8049ddb72cf13845d9c2a5805cdccb00fb677d9ed9ebc1ed2a10759d671",
   "snapshot": {
     "theme_id": "T13",
     "review_protocol": "paired-v2",
     "source_sha256": "f8fe6541602bbc00a9350c7114468ddd3558b94ef1d42308fb8975b63c5dd9a0",
     "background_sha256": "853de5bb98eeb9bcf123734a9c31e4897dd6182d043dde82fbf84c11f018d310",
-    "plan_sha256": "a5c8505f87a5a461f198780c48a2a70734f46f23659a0eea46c4c5bb12a1a7b4",
+    "plan_sha256": "0697271fa56cb53a178d42b1f753d6a6f0527a8a3e8fc4bfc7492d492c3df8b4",
     "objects": [
       {
         "object_id": "T13-01",
@@ -100,6 +100,14 @@
       {
         "object_id": "T13-26",
         "sha256": "13031692b96e22c6d29bc53da712d76cadb3557447d8c720f28ef1e5a541fdf1"
+      },
+      {
+        "object_id": "T13-27",
+        "sha256": "2ed9a93b412acb721d2f9a0767e08cb0c71fce82fb8c88ac0b3a639f71162522"
+      },
+      {
+        "object_id": "T13-28",
+        "sha256": "d3931dd6776004a68961a7a00cdd051299bb26e835940dd23d5bba81dc246bd8"
       }
     ]
   },
@@ -289,6 +297,22 @@
       "classification": "standalone_object",
       "sha256": "13031692b96e22c6d29bc53da712d76cadb3557447d8c720f28ef1e5a541fdf1",
       "path": "objects/T13-26.png"
+    },
+    {
+      "object_id": "T13-27",
+      "name": "左下前景莲花莲叶原位层",
+      "description": "This is the existing LEFT-CORNER transparent overlay. REMOVE the SMALL EXTRA PINK FLOWER to the RIGHT of the large main flower, at the bottom boundary. Retain exactly ONE pink lotus flower: the larger main flower near the LEFT edge. Retain the existing green leaves, replacing only the removed extra flower with naturally matching green leaves. Preserve the existing full portrait canvas, main flower size and lower-left position, natural softness and edge clipping. Do not move, enlarge, crop, duplicate or recolor the retained main flower. All non-target pixels remain real transparent alpha.",
+      "classification": "source_position_layer",
+      "sha256": "2ed9a93b412acb721d2f9a0767e08cb0c71fce82fb8c88ac0b3a639f71162522",
+      "path": "objects/T13-27.png"
+    },
+    {
+      "object_id": "T13-28",
+      "name": "右下前景莲花莲叶原位层",
+      "description": "This is the existing RIGHT-CORNER transparent foreground overlay. Remove the extra SMALL pink lotus flower at the LOWER MIDDLE-LEFT. Keep ONLY ONE pink lotus flower: the larger flower at the FAR LOWER RIGHT. Keep its green lotus leaves and source pink colors. Restore any tiny leaf gaps hidden behind the removed extra flower. Do not add a second flower or any buds. Keep the existing canvas, location, size, blur and edge clipping of the retained right-hand flower unchanged.",
+      "classification": "source_position_layer",
+      "sha256": "d3931dd6776004a68961a7a00cdd051299bb26e835940dd23d5bba81dc246bd8",
+      "path": "objects/T13-28.png"
     }
   ],
   "review": "../../reviews/themes/T13/overview.jpg",

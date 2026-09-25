@@ -1,13 +1,13 @@
 {
   "theme_id": "T13",
   "name": "热带莲池佛堂",
-  "fingerprint": "cf336a5afedae767b16e1471aff67fd0f9ded48b49324b603c8235506ff4c11b",
+  "fingerprint": "9c4ce8049ddb72cf13845d9c2a5805cdccb00fb677d9ed9ebc1ed2a10759d671",
   "source_snapshot": {
     "theme_id": "T13",
     "review_protocol": "paired-v2",
     "source_sha256": "f8fe6541602bbc00a9350c7114468ddd3558b94ef1d42308fb8975b63c5dd9a0",
     "background_sha256": "853de5bb98eeb9bcf123734a9c31e4897dd6182d043dde82fbf84c11f018d310",
-    "plan_sha256": "a5c8505f87a5a461f198780c48a2a70734f46f23659a0eea46c4c5bb12a1a7b4",
+    "plan_sha256": "0697271fa56cb53a178d42b1f753d6a6f0527a8a3e8fc4bfc7492d492c3df8b4",
     "objects": [
       {
         "object_id": "T13-01",
@@ -100,13 +100,21 @@
       {
         "object_id": "T13-26",
         "sha256": "13031692b96e22c6d29bc53da712d76cadb3557447d8c720f28ef1e5a541fdf1"
+      },
+      {
+        "object_id": "T13-27",
+        "sha256": "2ed9a93b412acb721d2f9a0767e08cb0c71fce82fb8c88ac0b3a639f71162522"
+      },
+      {
+        "object_id": "T13-28",
+        "sha256": "d3931dd6776004a68961a7a00cdd051299bb26e835940dd23d5bba81dc246bd8"
       }
     ]
   },
-  "object_count": 23,
-  "screenshot_sha256": "50d0a4587153797e9ca5c5182e157d5a375e528d5779697a101526e20f970ae3",
+  "object_count": 25,
+  "screenshot_sha256": "f6feef9d75bbe479b7ecd912f4c79ad80affc37b9685915e2e5bd42dfb635cac",
   "status": "pending_visual_review",
   "screenshot": "overview.png",
   "fast_preview": "overview-fast.jpg",
-  "fast_preview_sha256": "c8b1cc3a2778629e31c7e8d849c9ae77f935da88401ff8db1d82b6a79da4e60d"
+  "fast_preview_sha256": "9df9aacf0f1ed406a5653f7dc670a6cb7d6b8229c39d8b92c6eb188a90410317"
 }

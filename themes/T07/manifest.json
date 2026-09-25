@@ -1,13 +1,13 @@
 {
   "theme_id": "T07",
   "name": "尼泊尔纽瓦铜艺佛堂",
-  "fingerprint": "42d39b0f74ef141a3eec531624cb5586485252bab3355a514d207c0b3e036e23",
+  "fingerprint": "961e79a11b855504886b0a89796bf1d9c1ba9329dfd86c337091e8ca58460290",
   "snapshot": {
     "theme_id": "T07",
     "review_protocol": "paired-v2",
     "source_sha256": "a57e65ce8714c601d031d46b178651d6d2e2e3fd28d97ea8db6a725a5fd6a0cc",
     "background_sha256": "2dca63b446130fd1c5dbc3d18c3e9d6943855a665bd8c4a6425a35b8517d1d20",
-    "plan_sha256": "72542f5909825f9c0dc21bd56578b9252cc51f9021e8169c239274473307376a",
+    "plan_sha256": "24877be2631030e82e4ed5cb5e51309eb716a98260cb4abef44e2558a8002104",
     "objects": [
       {
         "object_id": "T07-01",
@@ -152,6 +152,10 @@
       {
         "object_id": "T07-39",
         "sha256": "a3d4d598c8f169c603beae08326af64bc3a8120643e878392502a2d22afc200e"
+      },
+      {
+        "object_id": "T07-40",
+        "sha256": "3ce5887ba55213ed9661e4aef2179e5d2372f96310df08fff323ea1dbe662147"
       }
     ]
   },
@@ -445,6 +449,14 @@
       "classification": "standalone_object",
       "sha256": "a3d4d598c8f169c603beae08326af64bc3a8120643e878392502a2d22afc200e",
       "path": "objects/T07-39.png"
+    },
+    {
+      "object_id": "T07-40",
+      "name": "左前水钵水面原位层",
+      "description": "Extract ONLY the visible liquid surface inside the broad shallow water bowl in the LOWER LEFT foreground. Preserve its exact elliptical shape, reflections and source position. Exclude the stone/metal bowl, rim, floating white/orange flowers, leaves, floor and all solid objects. Keep only the water surface; do not expand into a rectangular scene patch.",
+      "classification": "source_position_layer",
+      "sha256": "3ce5887ba55213ed9661e4aef2179e5d2372f96310df08fff323ea1dbe662147",
+      "path": "objects/T07-40.png"
     }
   ],
   "review": "../../reviews/themes/T07/overview.jpg",

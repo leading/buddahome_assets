@@ -1,13 +1,13 @@
 {
   "theme_id": "T08",
   "name": "斯里兰卡月白佛堂",
-  "fingerprint": "f9054ff655b5dd39abc1d9cf029efb7c1505d249cd8fabeed3ebb545fb624f8e",
+  "fingerprint": "e2df96dadce504c4ab98e2eb443b7d1dbe40cfbc9fea5a31b9353750d8c0bcdf",
   "snapshot": {
     "theme_id": "T08",
     "review_protocol": "paired-v2",
     "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
     "background_sha256": "7fb1a3dc84505d2d4480dfb5e103cb62559abd926dca5a6ddabd81e420d9a9c7",
-    "plan_sha256": "34c40ab5c28e7b261047b76dff32c73480d55615b311eac9b39d050a920fa8b7",
+    "plan_sha256": "0af192cdb4e19cf88bcd9ae1b550e6ec983961219874b6a95d36cfdf4c8ca0d9",
     "objects": [
       {
         "object_id": "T08-01",
@@ -132,6 +132,14 @@
       {
         "object_id": "T08-33",
         "sha256": "58674dcb39ff29733191ca9e851c8e29225a2a246fdad1f3f20a8383de8ee5ee"
+      },
+      {
+        "object_id": "T08-34",
+        "sha256": "105e2e0ce87db69ddae6ba97bc1fa66e8cf69d411ef0727b74251cee92c75d1e"
+      },
+      {
+        "object_id": "T08-35",
+        "sha256": "fc33e060e5d4f89aca00a15657fd44bf59a43371b0b4eff95a755f1026a77719"
       },
       {
         "object_id": "T08-36",
@@ -389,6 +397,22 @@
       "classification": "standalone_object",
       "sha256": "58674dcb39ff29733191ca9e851c8e29225a2a246fdad1f3f20a8383de8ee5ee",
       "path": "objects/T08-33.png"
+    },
+    {
+      "object_id": "T08-34",
+      "name": "左前石水钵水面原位层",
+      "description": "Extract ONLY the visible liquid surface inside the FRONT LEFT gray stone basin. Preserve exact elliptical shape and reflections at the original position. Exclude basin, rim, floating white flowers, all plants and floor. Only the liquid surface on transparency, no rectangular scene patch.",
+      "classification": "source_position_layer",
+      "sha256": "105e2e0ce87db69ddae6ba97bc1fa66e8cf69d411ef0727b74251cee92c75d1e",
+      "path": "objects/T08-34.png"
+    },
+    {
+      "object_id": "T08-35",
+      "name": "右前石水钵水面原位层",
+      "description": "Extract ONLY the visible liquid surface inside the FRONT RIGHT gray stone basin. Preserve exact elliptical shape, original clipping and reflections at the original position. Exclude basin, rim, floating white flowers, all plants and floor. Only the liquid surface on transparency, no rectangular scene patch.",
+      "classification": "source_position_layer",
+      "sha256": "fc33e060e5d4f89aca00a15657fd44bf59a43371b0b4eff95a755f1026a77719",
+      "path": "objects/T08-35.png"
     },
     {
       "object_id": "T08-36",

@@ -1,12 +1,12 @@
 {
   "theme_id": "T14",
   "name": "北欧原木静修室",
-  "fingerprint": "9d8c9b6deb9f37b850711ae60048e06ab489a2bb39cedbaf292e813d7507e1a4",
+  "fingerprint": "060fcbb87a5cbec39863a018a717dc0cb153c01c4c43c24644546e91c0320001",
   "snapshot": {
     "theme_id": "T14",
     "review_protocol": "paired-v2",
     "source_sha256": "ffeac69e152110e84286aaaeeb2012b609ea294f81b9a6252c3b7c932d92c5df",
-    "background_sha256": "dd336147aca47c476831fc68c9d2e9aaab206ccda2f789602882d53a554c76d3",
+    "background_sha256": "184db7e6fd4747b0d5f75ec366e520ff2fe5f1d49c764451829a3ae79624c252",
     "plan_sha256": "af9a542853e782edad0036947522945e9729270f4cb39a2f59cb2945f139af7b",
     "objects": [
       {

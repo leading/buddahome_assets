@@ -1,0 +1,154 @@
+{
+  "theme_id": "T20",
+  "name": "冬雪暖灯佛堂",
+  "fingerprint": "24acc99864339252b0bdb9ba41b3d82f185fb1ec24f17497c34fa6460ccffcf5",
+  "source_snapshot": {
+    "theme_id": "T20",
+    "review_protocol": "paired-v2",
+    "source_sha256": "569ef6d0865c17e66928e83bf6d61ac802469d63aa9e2404c4522ecfbd1c6bc0",
+    "background_sha256": "ed2212b5563f7afd663b9794a8485946f332a5464974a7d31ea40d82191143bb",
+    "plan_sha256": "c36c2566c14942e81861dbfc422916a96ea5ab218dd32c819df8e609b19adf34",
+    "objects": [
+      {
+        "object_id": "T20-01",
+        "sha256": "7de7b485a69bd8de37cf160021e674b3ef50fa2de31fc46fcd51269c1b226a49"
+      },
+      {
+        "object_id": "T20-02",
+        "sha256": "1eaa430e01fb50245ae474769efc5cac94d2f7a35248d1fb0a4709e9feb45894"
+      },
+      {
+        "object_id": "T20-03",
+        "sha256": "9f30285c5d42a7d49bb0a3535d8d2b8b0b908488cb2573fbeaaf61805e0dcb3c"
+      },
+      {
+        "object_id": "T20-04",
+        "sha256": "9b2dd7c4fed5141386eb7c1d6ec4d0044ae185f336c1388e5d4263d02590addb"
+      },
+      {
+        "object_id": "T20-05",
+        "sha256": "4e3cc1e1116b87a50ddd5ca8444c6533de9c38794cb092b6c26898ac3d05c3dc"
+      },
+      {
+        "object_id": "T20-06",
+        "sha256": "5fdc688bd4f74bbc8da4fbc6d6b2b02b82278d99ab502ea1be7f7e80e2c163f9"
+      },
+      {
+        "object_id": "T20-07",
+        "sha256": "5565100195b03f10ea31afb2389e900ffd6468a1e6dd69b91875edb05bcbd0e6"
+      },
+      {
+        "object_id": "T20-08",
+        "sha256": "4a0cfabda445c20cf25f44f671c4a79a3569337eb5026b8a2dcd6796f906ea12"
+      },
+      {
+        "object_id": "T20-09",
+        "sha256": "eb8273316199ade6af6018aaccf8c99fa13a7f44409c74edbccd6d22dee9b89f"
+      },
+      {
+        "object_id": "T20-10",
+        "sha256": "9f226a7d54248ac675ab00950402cd5e7abe19f20427aef67dd1cacc178edf57"
+      },
+      {
+        "object_id": "T20-11",
+        "sha256": "900b77191dd8582de63ac01f26902322c481ab74db2aae4d660412e8bcd14345"
+      },
+      {
+        "object_id": "T20-12",
+        "sha256": "a48706a733023dd0810a4170cb11728347a9db35babe61fb9fd4f2a68c53360a"
+      },
+      {
+        "object_id": "T20-13",
+        "sha256": "e6b41269614416fdf9fdb0720e66780af9fccdfd99b7573370ef6ef561e3fc25"
+      },
+      {
+        "object_id": "T20-14",
+        "sha256": "7249f74d9aba0d29e72e10e2e3ccf2dd1744cae4d24fd2eeb4479659b7ad19a5"
+      },
+      {
+        "object_id": "T20-16",
+        "sha256": "7e9828eed7381e00cdd6f14908aa48058e32bc44f999305e62c6c15cdf0f4077"
+      },
+      {
+        "object_id": "T20-17",
+        "sha256": "9158e27ccbaf1747db93934f740e1be91a53111de6fd5dfd24b1b6e75b2f44d9"
+      },
+      {
+        "object_id": "T20-18",
+        "sha256": "0bf443077dd27d3dde8e6e90bb3ca5cafebf98bd4a8c465e596d3b0f607a4c3b"
+      },
+      {
+        "object_id": "T20-19",
+        "sha256": "b2f7f0c4c357339193f6f0213218e627049c4bbcddca09be33ccbc0189645015"
+      },
+      {
+        "object_id": "T20-20",
+        "sha256": "ea1c482581d4e4550522c0bd93066cfe51c31434f459bc7e6139cadd48864fd8"
+      },
+      {
+        "object_id": "T20-21",
+        "sha256": "63dab81c1e4dd7fc43011f1a5e7910aa8eb2a9bdf1224e8df84e1d953404b998"
+      },
+      {
+        "object_id": "T20-22",
+        "sha256": "736e8876e41446475158febb91370918ef7dcd3a7874d93d57a92987759e17c6"
+      },
+      {
+        "object_id": "T20-23",
+        "sha256": "90533e6a62b105b02c60ae3e66cb05bccdeefe10c147d723e7be027201a9dc19"
+      },
+      {
+        "object_id": "T20-24",
+        "sha256": "cf4e120e1597005dc9955f6232fd90a51521e31bc3cc332bcc5604f79545b69f"
+      },
+      {
+        "object_id": "T20-25",
+        "sha256": "302d4bb3ce7c3908b28e6b595b5a773470b53954c0a23caf9e300e183a27c872"
+      },
+      {
+        "object_id": "T20-26",
+        "sha256": "b40f1b0365db6b4e05ea9fc82622429c790e262447b4115b1da66f2136dfef7f"
+      },
+      {
+        "object_id": "T20-27",
+        "sha256": "64014252a837050a9d5a337ec350ed3d68c59665cc8ef7ac9d6dae35a9497dd2"
+      },
+      {
+        "object_id": "T20-28",
+        "sha256": "234bad759b690915c24ec0ab06d1287156764f837d44a52fdb3300d3b6bfb877"
+      },
+      {
+        "object_id": "T20-29",
+        "sha256": "7a8ab67d34abe1eecbaff6e0b995bbb1c1915c3d62c5b3e2a4a739579322c17b"
+      },
+      {
+        "object_id": "T20-30",
+        "sha256": "cdbd375b4c903a22c0334c7ef4c59fb4a812f08899133e8baa990725c1f56030"
+      },
+      {
+        "object_id": "T20-31",
+        "sha256": "8ab56a2b7370614bcc7aac08e027ecb9f087fbd8b431161c90d3ffe658bba3e6"
+      },
+      {
+        "object_id": "T20-32",
+        "sha256": "e8a9975b72ca17b4858361a5ebedd146a364b5f5616ad4ec62e5e096e19d4104"
+      },
+      {
+        "object_id": "T20-33",
+        "sha256": "9da42b0cafe984f1dd60a430cfdfe6619d6d90672457c06366e0f1af757af3ff"
+      },
+      {
+        "object_id": "T20-34",
+        "sha256": "8827b1ad4489707ef709b6ff9d8f37aae381d2238a64690f670964646b8136b7"
+      },
+      {
+        "object_id": "T20-35",
+        "sha256": "ca7adefec57e9ca389484b2f6bc35424ce3e38a83d82b16ed8029b00d0059cb8"
+      }
+    ]
+  },
+  "object_count": 34,
+  "screenshot_sha256": "75e0586d0c4c0bc0bc5a9e24fe09b30eac1b63321b60436b42d18edd000a29fb",
+  "status": "pending_visual_review",
+  "screenshot": "overview.png"
+}

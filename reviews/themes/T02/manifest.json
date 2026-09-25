@@ -1,0 +1,142 @@
+{
+  "theme_id": "T02",
+  "name": "宋式水墨禅堂",
+  "fingerprint": "b6f17f7cb81e570cf35bdd4149f5b1f63b8d69483c1b1757333ae2bd60bc7ba2",
+  "source_snapshot": {
+    "theme_id": "T02",
+    "review_protocol": "paired-v2",
+    "source_sha256": "40b3d3b5492ae7635c84980c5b59b3e8a48ae21db6633e4358baaa42d74705a3",
+    "background_sha256": "6096295ed84fe2377dc8c3116a10ddae2fea2e9ec63465d6a977a6f6bb3c36b2",
+    "plan_sha256": "5da49e0ea497f0883ad7b25b4b90e7b132f66033c8b19e9de841d4b3f6a7f934",
+    "objects": [
+      {
+        "object_id": "T02-01",
+        "sha256": "542b0f67d5871289782c675c229f307381a2104ee1c038d3d87c3ec2456a2976"
+      },
+      {
+        "object_id": "T02-02",
+        "sha256": "9a756a8c328093bac51005222c021fb67f33006a5d63feaa532eef0c5ed75d4f"
+      },
+      {
+        "object_id": "T02-04",
+        "sha256": "81b28571774f63d93e0f12f80d23c88748cdba195419b4db7da693df92ea5da0"
+      },
+      {
+        "object_id": "T02-05",
+        "sha256": "a67c2bbe73dd193ffa45d3903d8e45727e861b60372d8ee6b5534926eb191842"
+      },
+      {
+        "object_id": "T02-06",
+        "sha256": "918ce61eab1a224c529cb8e690048a7430afb774ed76874347d80c8fae2c1bd6"
+      },
+      {
+        "object_id": "T02-07",
+        "sha256": "2c49cfcb8d2dcdf103f922d78de72cd6ac2a158accef9246a9f07c75087c763d"
+      },
+      {
+        "object_id": "T02-08",
+        "sha256": "6f91054edae93ea0c49ff92719a4a2340a0164a66d45725f61300e33e0dc5eeb"
+      },
+      {
+        "object_id": "T02-09",
+        "sha256": "2675d353fe517f822c73bb5285301844b22e393db7f8a206d1f47ea96625be17"
+      },
+      {
+        "object_id": "T02-10",
+        "sha256": "7374b5762a9f677a79792b19a63cd8ebc7cd45c6b5542292070c8e993fbc2e24"
+      },
+      {
+        "object_id": "T02-11",
+        "sha256": "9315033f9431a6f0a7639464a9818d469536b11137057dc9bc7163b944412f1c"
+      },
+      {
+        "object_id": "T02-12",
+        "sha256": "317050d167ca2c6051704ed6820f12c2e047d4ecd5274ee080420f2ed1701af2"
+      },
+      {
+        "object_id": "T02-13",
+        "sha256": "a9ca1ce3ccd8b7f07f08cb11cc5db67e183d76972f6a4c341e2b22dd0957225c"
+      },
+      {
+        "object_id": "T02-14",
+        "sha256": "9372c3444db1f2a118f76111f9b8a8b295035ca210b28bde37c0516b8c2c7d50"
+      },
+      {
+        "object_id": "T02-15",
+        "sha256": "01be87ac4328b002e5c94245178c79289cd452e0e990aef565622c7e017549a3"
+      },
+      {
+        "object_id": "T02-16",
+        "sha256": "ff1a9e5296232904fbadee50b8e87723b932491112807e203348c6fa0dee405b"
+      },
+      {
+        "object_id": "T02-17",
+        "sha256": "c844c387d18b50e6f18424523d5dd38627bbc0e2f0a05e7e810b3211a5ee7bd2"
+      },
+      {
+        "object_id": "T02-18",
+        "sha256": "d0891971ee2d31f8a46585b1ab19741a46c63c8c9ab14821b9be023c7d0b2bbb"
+      },
+      {
+        "object_id": "T02-19",
+        "sha256": "a34bbef139bb23d92e8910115585c12f77302faf6c54e3806d53fb2111124552"
+      },
+      {
+        "object_id": "T02-20",
+        "sha256": "86c2e3f34d179b984994e8cd9efbcd9752441406ca678e0ecea5830bd882bb0f"
+      },
+      {
+        "object_id": "T02-21",
+        "sha256": "a1d5554dfa5db03eb5b7792c902ee74144ab217f5617e8f66b60e1b9e48bbc65"
+      },
+      {
+        "object_id": "T02-22",
+        "sha256": "f5a1c29aaef5177f577d25a1c1384f9ce338d08964f8036f0f3b69e2edbf1064"
+      },
+      {
+        "object_id": "T02-23",
+        "sha256": "cbfc489586fb06660d64404ccd5344f21324f783336c180a589aaec22071430b"
+      },
+      {
+        "object_id": "T02-24",
+        "sha256": "0ad9febce2e43ea421bbfef9d5af1e02bbede16a2577002f76b9b9c80a8b0d2c"
+      },
+      {
+        "object_id": "T02-25",
+        "sha256": "a142dd8e09db428d2a96ad5412b1c43f6e1b3134ede54bead00e4fb7b2f743bc"
+      },
+      {
+        "object_id": "T02-26",
+        "sha256": "a33ff9691dec0f6249b9b5fa762d2426ae514af0246f901dc5c4e277615920c5"
+      },
+      {
+        "object_id": "T02-27",
+        "sha256": "07a5dcd0eec2b8c592f3d8e53d480ccb0d491b151cf149720868a794ee7b3ffd"
+      },
+      {
+        "object_id": "T02-28",
+        "sha256": "34d93fe88a1c8d44a8c75478b925be4001729c6e1adf56b605b6bf6300a14b0a"
+      },
+      {
+        "object_id": "T02-29",
+        "sha256": "5cff4526832236f24286dd9cb50bb336303fa0c1fa93dafb43dc2e5056241dff"
+      },
+      {
+        "object_id": "T02-30",
+        "sha256": "46c5484f3817352a773458578ace7d3c59ae339416689dfa51b3b12a4e2d33d4"
+      },
+      {
+        "object_id": "T02-31",
+        "sha256": "cfb24b63f4a95ba9697e81c942a9ea6810fd61ad6c3b9e333b342ab5117df01c"
+      },
+      {
+        "object_id": "T02-32",
+        "sha256": "3fa02c63d9dbba218bda6c6d6248380be2d99fb3931ba4c2aaf20c3ad7386302"
+      }
+    ]
+  },
+  "object_count": 31,
+  "screenshot_sha256": "a5758644e9e493853defcde80c314e66e0ec1af1aee953d47b825ecfc4a87a2b",
+  "status": "verified",
+  "screenshot": "overview.png"
+}

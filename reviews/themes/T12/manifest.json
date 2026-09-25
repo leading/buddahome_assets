@@ -1,0 +1,110 @@
+{
+  "theme_id": "T12",
+  "name": "竹林晨雾禅居",
+  "fingerprint": "cb38491962def271dfb36cce38943d8ceeaa101607fff123e37cff404d9ccd85",
+  "source_snapshot": {
+    "theme_id": "T12",
+    "review_protocol": "paired-v2",
+    "source_sha256": "948d10285302fb20b701bcf3852aaff595ca33d9cc3793c424b878e551f12f47",
+    "background_sha256": "f3019789008212fd0e3296a7bdd2bf4ca10688352a751646a0560de836d410d4",
+    "plan_sha256": "d1226279d6e272c7a7a4c5c44faab9aedcd031618a8af1a2d404d17f75af1424",
+    "objects": [
+      {
+        "object_id": "T12-01",
+        "sha256": "3ad8d6fe153ed9e92b1425ba7cffd90a863f43031505e07227c787602eb82be6"
+      },
+      {
+        "object_id": "T12-02",
+        "sha256": "ad3e5167ae9d8074da11313c17422a676e3be03a1ed62d993e12f636b4306add"
+      },
+      {
+        "object_id": "T12-03",
+        "sha256": "0bb36348c3054e0ac860a368b3cf479b89e52968a1d85fb403e189dfbdb487be"
+      },
+      {
+        "object_id": "T12-04",
+        "sha256": "46c87d28394a66728df6ca8ed0699afedcaf5de16acd0894ad4aef8de2c70e24"
+      },
+      {
+        "object_id": "T12-05",
+        "sha256": "91015cdb3619843f60fc8d5ed6b758ee67fe41a2e9605d5126d6e8bd55c503e5"
+      },
+      {
+        "object_id": "T12-06",
+        "sha256": "88ee8c710e46c01f859be51fa4d5a33dd47af0695290c5b71e060962f5d63cc6"
+      },
+      {
+        "object_id": "T12-07",
+        "sha256": "3b062d2683b2b1d9a2f737d29b02d8673b2517f6c35fff2a6938450ce78b7564"
+      },
+      {
+        "object_id": "T12-08",
+        "sha256": "9c4aabad7c99d25e3347aa6e3c6fce34b3d05ded81a38a95d45f128b6617db66"
+      },
+      {
+        "object_id": "T12-09",
+        "sha256": "6cbd8bd075cb51a5a6f0c1a07524a021db2c5c60f27ecf45731065e1e298e221"
+      },
+      {
+        "object_id": "T12-10",
+        "sha256": "a03567bf8c27755ade0ea352da6ad03ae0ff2cd4e1c13aec8a19a2a4d89677cb"
+      },
+      {
+        "object_id": "T12-11",
+        "sha256": "a09d6ea7ab680e23cd3bc1fa56a35f258c5bb134e9b0ccfa63de216f97dd9ff0"
+      },
+      {
+        "object_id": "T12-12",
+        "sha256": "b1d2030e3875663b30b2102b8d40eef8d7c76f8d68c324db58f25b00f53d89d8"
+      },
+      {
+        "object_id": "T12-13",
+        "sha256": "6eb6d025247b7f7038e678e83add2d5620b9c70481bdfafb5e1d04570ee1adc3"
+      },
+      {
+        "object_id": "T12-14",
+        "sha256": "27bd51fb391983acd0750425de3c6ad464519fcd4eee1cad3968652c5af50621"
+      },
+      {
+        "object_id": "T12-16",
+        "sha256": "88c027d115fc9414391c86b49350f21fd378eaaef4b665bb899ff122d78abb44"
+      },
+      {
+        "object_id": "T12-17",
+        "sha256": "6c6954f1498541274320057a0ef1f3fed46e2f458683f88ea20488cfcc6e7e06"
+      },
+      {
+        "object_id": "T12-18",
+        "sha256": "293d0ba796fc948d52838445dcc0859a1280cc4286441d69101e629df904c889"
+      },
+      {
+        "object_id": "T12-19",
+        "sha256": "756baf7d115b1905d66adbad49fa28b9fbb6e0651a7bee4a1eda69ec46d71283"
+      },
+      {
+        "object_id": "T12-20",
+        "sha256": "f20fc261bbbc42312bdb9bc7eac6343319f72d32d6f8ee0f0d784e72c05173d4"
+      },
+      {
+        "object_id": "T12-21",
+        "sha256": "6235540e25fe272ea2f62095650c6abe3026b062e91021faa2517d08153f90bc"
+      },
+      {
+        "object_id": "T12-22",
+        "sha256": "5806e7b6544208f8aaa46b8b5693245a5ad9edbfcc1b39581d50fb7c19318962"
+      },
+      {
+        "object_id": "T12-23",
+        "sha256": "3b8b353917f9c1175c48de21bf45bde1fbace0aa730302b3217ed0380f1f280f"
+      },
+      {
+        "object_id": "T12-24",
+        "sha256": "ccdebf4da85a21b57dc61baa01d07ff112ef63ae5c6a8a04448d0c19eab28387"
+      }
+    ]
+  },
+  "object_count": 23,
+  "screenshot_sha256": "1fcf0d9b29bc1b1dead169ce94690c4d5d07b18510adc4676c4046adace5043d",
+  "status": "pending_visual_review",
+  "screenshot": "overview.png"
+}

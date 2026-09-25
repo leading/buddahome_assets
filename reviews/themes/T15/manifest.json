@@ -1,0 +1,70 @@
+{
+  "theme_id": "T15",
+  "name": "清水混凝土极简佛堂",
+  "fingerprint": "51da0203e940f4bd402b9edd4e0fb674039f086d873fe5905eed902009d58654",
+  "source_snapshot": {
+    "theme_id": "T15",
+    "review_protocol": "paired-v2",
+    "source_sha256": "852be4bf6fa128a597cd1442e7372eef3f45a171de970332723ba562b5bda521",
+    "background_sha256": "bec19e2997cd47de72868b83ac95fe0f9c1b860bd5bceaf19ef52c3947a6cd86",
+    "plan_sha256": "734d939ca31b9422d45da417783f4d5b965b3d2576889bff91e9024ed8bea3fd",
+    "objects": [
+      {
+        "object_id": "T15-02",
+        "sha256": "637e22e5c1a8c33c2809c5d6f9e094d4e8cadb5e126248376f219a370e1085a1"
+      },
+      {
+        "object_id": "T15-03",
+        "sha256": "d063fe1f3175e9a24c180a794ab6792b486fdaea7bce0eab20c70c1aab24effb"
+      },
+      {
+        "object_id": "T15-04",
+        "sha256": "10291045d91c2b9fdc432e4b585ad23fae1d69758dc85311aad79ec42e820752"
+      },
+      {
+        "object_id": "T15-05",
+        "sha256": "5b31f9dd2790015311f4529e0fea6f91e39515a32af4c497ee7e5fb5dd2bc931"
+      },
+      {
+        "object_id": "T15-06",
+        "sha256": "39a2e8f277c1fdeb27a74e66a6762c6b9b81fd5b1325be29712169a71f4225e5"
+      },
+      {
+        "object_id": "T15-07",
+        "sha256": "b28f28de0f43c782de73d0d8a054584a14a07306bc11d917c8d878b16ff79d5e"
+      },
+      {
+        "object_id": "T15-08",
+        "sha256": "3ba9d81c297048be93e185da08a803e5bcab0e60a780dc609cd50ae979caa616"
+      },
+      {
+        "object_id": "T15-09",
+        "sha256": "86d12f2422303545e40c76ccc524b9423d98836e4d7e6ad34a32c63f60c4c08c"
+      },
+      {
+        "object_id": "T15-10",
+        "sha256": "4551cd0f675286cbff13ec3acd768d624b5adbfa279529ca6697f77492ea1bfc"
+      },
+      {
+        "object_id": "T15-11",
+        "sha256": "0d94a46920290072a1620721362e1d544e938449a6b78bd7a9607bd043c4795d"
+      },
+      {
+        "object_id": "T15-12",
+        "sha256": "c82272fe3f6617e87951105900f45a0992b9cf49c5f153c35062792606f25029"
+      },
+      {
+        "object_id": "T15-13",
+        "sha256": "d1d3490312199863e94521f040836f98825659dc40e0741f247e497392f8e590"
+      },
+      {
+        "object_id": "T15-14",
+        "sha256": "0ed32dc555696201b339ba19c1adf76cab581c19231a760f37d84798e1005c03"
+      }
+    ]
+  },
+  "object_count": 13,
+  "screenshot_sha256": "ec3bc124975cee83aabf6cdaf249532a10560b3da332e54c6ddd5c20dc3b3ad1",
+  "status": "pending_visual_review",
+  "screenshot": "overview.png"
+}

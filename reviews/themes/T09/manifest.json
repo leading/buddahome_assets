@@ -1,0 +1,134 @@
+{
+  "theme_id": "T09",
+  "name": "唐风朱砂金殿",
+  "fingerprint": "b11d99dc0ad07669785f50d9d467d79a40392e3e22bfda49542b0ee4bae51027",
+  "source_snapshot": {
+    "theme_id": "T09",
+    "review_protocol": "paired-v2",
+    "source_sha256": "10704c2edd9274bbfea90228c51601f27fe455f5d8e528637a83d3483c6100e7",
+    "background_sha256": "a94aadc03cb1c7255cc2bf606abc8ad31f4e033c056dae33b34171c9266073d5",
+    "plan_sha256": "4390bf0f36db5e0709b562f07a9c13874cbc3ffb0e0920074f9626b9f15fe003",
+    "objects": [
+      {
+        "object_id": "T09-01",
+        "sha256": "cb912a35b8153200fc45d919f5b82d4d55c21891e7226e36497e0ab7d61564a7"
+      },
+      {
+        "object_id": "T09-02",
+        "sha256": "49fa19ac8e52cce6c9fd73f651b65ba57b9f137006733576e3997d9db40ca172"
+      },
+      {
+        "object_id": "T09-03",
+        "sha256": "d45189c78bdca91d05b34735fb877cdb526a34cd5d1d90ba35219c2723dd9813"
+      },
+      {
+        "object_id": "T09-04",
+        "sha256": "a1163a071ae574ffea0d835cca662efe04a662d61b39ff21f3fcbb8d0231ce32"
+      },
+      {
+        "object_id": "T09-05",
+        "sha256": "b562951f6666dc0ae10b1f2f3dfdedd3baa5c7c6cf224889706e1edd21878eb0"
+      },
+      {
+        "object_id": "T09-06",
+        "sha256": "f7f36c61fef0958a4a0e2a6234fca81c7b4de2de68140ec5d68913460328a6a1"
+      },
+      {
+        "object_id": "T09-07",
+        "sha256": "42d7b55e87af38ce773ec321f474af153541870c924b77bac4cd422b3e1802cc"
+      },
+      {
+        "object_id": "T09-08",
+        "sha256": "e1ac7d32198e0ebafe7a8236d89408d892827a09c3832f2b75e417f0094b62a0"
+      },
+      {
+        "object_id": "T09-09",
+        "sha256": "492e4669baf411fabf6a2197b1bdf11d388e176f761252d5d4d21ac7f8c1b603"
+      },
+      {
+        "object_id": "T09-10",
+        "sha256": "0415324db7f4614bd005f1cf27f11272332be4182cd697fdc5d93031519dc7c2"
+      },
+      {
+        "object_id": "T09-11",
+        "sha256": "78b9892849f66a44b072f060e736cc5b60c920a16e02f2d4d3b3217167e10758"
+      },
+      {
+        "object_id": "T09-12",
+        "sha256": "8eac9da66d20a72f0c18140740c42701841e118644409138fada75b7eaf99801"
+      },
+      {
+        "object_id": "T09-13",
+        "sha256": "b36d601b6fe43c2469254b22a1c8e4d7f55ad3a037700f9eefdef4e2eabc3802"
+      },
+      {
+        "object_id": "T09-14",
+        "sha256": "eb999ddadff57c222fa13ba1c6c609087facff12b0777080c17dd94f05b369bf"
+      },
+      {
+        "object_id": "T09-16",
+        "sha256": "502d0ce2c4a5bdef5ef7311dd4ec75204a63c3190d0eb2ef4bb13dc2ec47f498"
+      },
+      {
+        "object_id": "T09-17",
+        "sha256": "0bd2af81ac790e2f1615cfe928b01b506aa6d262d1b111349b0ae24adf643d19"
+      },
+      {
+        "object_id": "T09-18",
+        "sha256": "c9740807608d89db91d70f268da67ce438ce3648c3303dc9f765717ece42520b"
+      },
+      {
+        "object_id": "T09-19",
+        "sha256": "6579c46be938d6688bad7fb8154393482f3e67fb972818a39d3644d2c9976bbf"
+      },
+      {
+        "object_id": "T09-20",
+        "sha256": "2777e0d3bf18a82af000f8b39eb99099ee7026b742f426f7424512069e497526"
+      },
+      {
+        "object_id": "T09-21",
+        "sha256": "b712fcd4910282c36ffb5ce723cfe62925b389843f2bfea04adf9edd63f99cac"
+      },
+      {
+        "object_id": "T09-22",
+        "sha256": "a05f3a261bbd9e1cc7625414036c4250bf8e7d996d911bc0eee382f6f2091eda"
+      },
+      {
+        "object_id": "T09-23",
+        "sha256": "e225c6abeccbd507306b6204cebb7dd019099dd3c8a9333842054c297bedf788"
+      },
+      {
+        "object_id": "T09-24",
+        "sha256": "7abc896b312d9b31bec8f99ff7ee408d0219712455f893a744d457b63db6c9bc"
+      },
+      {
+        "object_id": "T09-25",
+        "sha256": "4b35649a6ec6f4d1ec84d81ec5330e94b991bfc22e728b4cbd6123ecacd16002"
+      },
+      {
+        "object_id": "T09-26",
+        "sha256": "cf19c5259c7969ece63321c2b8725da3cef4f462c6707b039fda175dcecf313a"
+      },
+      {
+        "object_id": "T09-27",
+        "sha256": "d1a75401667569380ff95c562fb77829ea6710986d2a8b89ff8e6d7d6886e080"
+      },
+      {
+        "object_id": "T09-28",
+        "sha256": "0fb09acf2528253b82df2d9f8174f342335b5edd93e55b0b43db20aecbd4eb84"
+      },
+      {
+        "object_id": "T09-29",
+        "sha256": "1a8636365bc65618fcd0666ceb221ae184365c66e0b919b3b56f4067998729fa"
+      },
+      {
+        "object_id": "T09-30",
+        "sha256": "f89da959dbd97a48c4c94bf49f8749088c7994a84dfa577f5d7199a352a5e0bc"
+      }
+    ]
+  },
+  "object_count": 29,
+  "screenshot_sha256": "26219654f98d9072d07fd861d91e527f7d687d31c8d4a4a822584a08ca4dc340",
+  "status": "pending_visual_review",
+  "screenshot": "overview.png"
+}

@@ -1,0 +1,122 @@
+{
+  "theme_id": "T17",
+  "name": "海岸白石禅室",
+  "fingerprint": "eb93bc219b04a610fc3216efc44790d6c713dd545efa32add1219875929f20fd",
+  "source_snapshot": {
+    "theme_id": "T17",
+    "review_protocol": "paired-v2",
+    "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
+    "background_sha256": "c75b346a26bcdafdfc9704facc759a807fed259cd6d4fd93de44db6109a7445e",
+    "plan_sha256": "937b7621ae6ec4a4d871305a7a55965901f3e5a18d6d30e03a9ffc3d9785fdd2",
+    "objects": [
+      {
+        "object_id": "T17-01",
+        "sha256": "e1a62083355e639685ba017cc04d86aec8e4181d59879f318537ba57a7ccfabb"
+      },
+      {
+        "object_id": "T17-02",
+        "sha256": "201b510f9003342ede24497a0ba0e423308d73dfd307ff4da6b02f2494a9d555"
+      },
+      {
+        "object_id": "T17-03",
+        "sha256": "73d46d018754e81032750c19b340bc0237c1000df6fb97ba864ac054673996b2"
+      },
+      {
+        "object_id": "T17-04",
+        "sha256": "c1602210d70c4fc4f96472f445682c6a32a0db25ad8f42a202f767f5c6601b97"
+      },
+      {
+        "object_id": "T17-05",
+        "sha256": "b5a8d00f3cbc23b694e6e75a9d82d1f2f13dec5b7a556819bf2d8f952c13c359"
+      },
+      {
+        "object_id": "T17-06",
+        "sha256": "00f7b8cfaef20f4dcc1976af7783dee66ebf32142a66bc49dd11c00173c0d4f5"
+      },
+      {
+        "object_id": "T17-07",
+        "sha256": "1f477c4bfa4ab8abb635fcccf4a99276b8273d05202240891fed021fc1dddd26"
+      },
+      {
+        "object_id": "T17-08",
+        "sha256": "41a6f0df1c578b40a84322e3eac5f6c7f2f2f9d768e4c33b5367eafc2bbcd0a6"
+      },
+      {
+        "object_id": "T17-09",
+        "sha256": "8ee7ffe152175b52214b50406618521065542aa2b652290b7dfb2ca61d95985c"
+      },
+      {
+        "object_id": "T17-10",
+        "sha256": "9a4681ddf74cc4301b5fef87b11140f7f33f4629eccc5f1b4a2ff88dbbc37079"
+      },
+      {
+        "object_id": "T17-11",
+        "sha256": "09019a6980a1f7c9604da10ea48fe226163710dd5d9f66e9674a864dd7dcc241"
+      },
+      {
+        "object_id": "T17-12",
+        "sha256": "6d022de25c8f521af6eaf4fcf72a2e85b2fcef9b1cd121b52b2f41a54fc5ec12"
+      },
+      {
+        "object_id": "T17-13",
+        "sha256": "4e4cb1b181711c54784ef9dedf03d3b8644a8beadc112731e15d6b1ac9ffd25e"
+      },
+      {
+        "object_id": "T17-14",
+        "sha256": "5ab5228b030ed65ae1478aaecbba6227af8893bb56c6807b84de13271a05c4ed"
+      },
+      {
+        "object_id": "T17-15",
+        "sha256": "90cbd0dc052dd3e11ce78a88b42596687014ac04bfb274b86b0d906e25a13c0f"
+      },
+      {
+        "object_id": "T17-16",
+        "sha256": "1ce6dab84159204021044f7490280a0ea19c1968750d9cb26ad7512215c0597b"
+      },
+      {
+        "object_id": "T17-17",
+        "sha256": "b3117f3cae41a3c15a41f1f96675a4357d3723dbeb00891cd5e12dfbcb0367ae"
+      },
+      {
+        "object_id": "T17-18",
+        "sha256": "8b203cc2ba5f0f9f661106e0dbc74eed0d4b73e14cf9419e27ff31af03cdc9e3"
+      },
+      {
+        "object_id": "T17-19",
+        "sha256": "c657222600b15284533cd9f1e18ad3fff0e8c8f9be80c898aaaccc308737eee9"
+      },
+      {
+        "object_id": "T17-20",
+        "sha256": "0b6504a78615733ec94e6543982e57860a4f4b30f173c87488ae6921dd42bd2c"
+      },
+      {
+        "object_id": "T17-21",
+        "sha256": "9723d2d148fbf5c3e46f78c98f60be0221940ee4969753425161981b971445ed"
+      },
+      {
+        "object_id": "T17-22",
+        "sha256": "d0f902c14a7b882321a7b72e2a972c38526c1c743bcca61db1e47bbccb1a1b75"
+      },
+      {
+        "object_id": "T17-23",
+        "sha256": "0ebd442e41b5b8b081bc562c0c072b5203d93fbe92c89d759edeed67aea9fa64"
+      },
+      {
+        "object_id": "T17-24",
+        "sha256": "c52e87d4e337a05c330dbd9fd0221cdfd7f14cfc263b0dea8855911800be1090"
+      },
+      {
+        "object_id": "T17-25",
+        "sha256": "88dd3a95644ff18199741d3e84d0b78ab2d0c9b3c03907ce9e2fe5337f0febde"
+      },
+      {
+        "object_id": "T17-26",
+        "sha256": "05fcb36eb2fa8968f3de03f3f946b814323e025d9853995f028e45acf25505b0"
+      }
+    ]
+  },
+  "object_count": 26,
+  "screenshot_sha256": "ced8388495a6b7413709dabf7d831f07cddbb57cc905f12ae2459c9186612fcb",
+  "status": "pending_visual_review",
+  "screenshot": "overview.png"
+}

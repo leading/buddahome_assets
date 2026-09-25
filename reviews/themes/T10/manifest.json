@@ -1,0 +1,182 @@
+{
+  "theme_id": "T10",
+  "name": "明式文人禅室",
+  "fingerprint": "fe3d6a2d3941045ac5f73ed12ef647647732c672d20164cafc323d868269a2fe",
+  "source_snapshot": {
+    "theme_id": "T10",
+    "review_protocol": "paired-v2",
+    "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
+    "background_sha256": "cc2024e34cf7adc651d0669ff8729b67805453666e16100c71d9ee27bd15124e",
+    "plan_sha256": "e9ca2f48066a99f2ea57f3f403efa95365243aab5259b710cf67b43bb3741a7a",
+    "objects": [
+      {
+        "object_id": "T10-01",
+        "sha256": "a540dd29622c435177ea6b2f00aaa793e88be161d34800d3da8e5efa57fed39e"
+      },
+      {
+        "object_id": "T10-02",
+        "sha256": "b303f69f0736bcf38541de959d41b73749adf8bbb9a72f77d0047f2dacd2c120"
+      },
+      {
+        "object_id": "T10-03",
+        "sha256": "378c6ed2dbdeefd1f2c006dfb352ab19c4c82d4769557f4671c101d83ea403a6"
+      },
+      {
+        "object_id": "T10-04",
+        "sha256": "fb2bb24ff9132222e8c064d9e0ec7431cc4d44bf35f3ef282a06d3a00e51f32a"
+      },
+      {
+        "object_id": "T10-05",
+        "sha256": "fde862138e9813a2be1cf0d9058e97300f6f6e2031b5854f1b3f1fc80892e445"
+      },
+      {
+        "object_id": "T10-06",
+        "sha256": "f8bab2bbd845e07d0ff1f40028bfcc1cb106e118da7ca57569ea1252e8de212f"
+      },
+      {
+        "object_id": "T10-07",
+        "sha256": "80d08d675a524916a4fc71dbea6824a1ddf601114655d4e4699656ac9d388dce"
+      },
+      {
+        "object_id": "T10-08",
+        "sha256": "0b4c0da37c0fa6ea8891a037de8e3c4cb2466fe0cf285e7cb61481f91e6e2da6"
+      },
+      {
+        "object_id": "T10-09",
+        "sha256": "41c5013c2d51d31f3e52ae5bdaa2e10e9e877ae7f3557e4c7f85e6294131255d"
+      },
+      {
+        "object_id": "T10-10",
+        "sha256": "8149c93e93db208169cade9c3df7fb657d10fccae9ce5cc71f6d56b0d9c9d4c1"
+      },
+      {
+        "object_id": "T10-11",
+        "sha256": "d405399dd98e772b05af20550e92a521f61a668d158a529b51009868f233da9a"
+      },
+      {
+        "object_id": "T10-12",
+        "sha256": "5797a5bff23d30641157aa8e68a6d84f16f259ca034017214cb6d59d0f805ae9"
+      },
+      {
+        "object_id": "T10-13",
+        "sha256": "4ff5e48fe236e1ae1ba39fbaa2f7f1c36016820c96c6716a1a2a90fa32fd7a9b"
+      },
+      {
+        "object_id": "T10-14",
+        "sha256": "c8ca546bda84b781af3343e3d026d5996a46c61daecbc5041ee1e233bb09da08"
+      },
+      {
+        "object_id": "T10-15",
+        "sha256": "e2b03d066cc569d858064bb8cc74650e5ef226c15bb2e94b6c134e882b49a89a"
+      },
+      {
+        "object_id": "T10-16",
+        "sha256": "406db7985d49aeeeb089195db8823ddfd99a03f1da6fa97ae0a66937004374ef"
+      },
+      {
+        "object_id": "T10-17",
+        "sha256": "12cd85174bce5ac974d7ddc35696acb1955c49d4e6f2d17d0af9ca5661e70bc0"
+      },
+      {
+        "object_id": "T10-18",
+        "sha256": "36ecd27cc81db46d9287cec67d0482d472218c05b638f08d7531c279ff2d834f"
+      },
+      {
+        "object_id": "T10-19",
+        "sha256": "c5f4f7a2d18f4b2b2fdf17c1e872870278fb6860675a48b72d5fef966b7b95ec"
+      },
+      {
+        "object_id": "T10-20",
+        "sha256": "a498714624852ae1ad821121029de972d6430559db15c7bb05f93248f91ffa51"
+      },
+      {
+        "object_id": "T10-21",
+        "sha256": "39096ee148b31f7abd07a0ef21cd1bb727784803ac080e9e8cbfd05c02526c74"
+      },
+      {
+        "object_id": "T10-22",
+        "sha256": "9ecb801321b2f571ae6c88cd956cba3699d72d2dac9f496c7090ca30d7ec4727"
+      },
+      {
+        "object_id": "T10-23",
+        "sha256": "767e51cfef81926ccbc8be873fdc2ec1f3520df27f0c681d38efb8def5c1e8c7"
+      },
+      {
+        "object_id": "T10-24",
+        "sha256": "b18ad58da313838c3826baf75150c7c464dd1b8631998f4837633a475221bdd7"
+      },
+      {
+        "object_id": "T10-25",
+        "sha256": "ebaa56d8fd29afd9d5c11dbddd24efc11528337e13f9e3076db8d37747bd577c"
+      },
+      {
+        "object_id": "T10-26",
+        "sha256": "00946cf6c29fa5794bcca50bdc2ddcd2ab2426e90a5692e2b7028ea2aef7077b"
+      },
+      {
+        "object_id": "T10-27",
+        "sha256": "bb70289a9b81e5b1cf504dc34eb3cddf88686cdb0b88c93f870946d12ae7b68f"
+      },
+      {
+        "object_id": "T10-28",
+        "sha256": "178f500785ecb07cccea2647233e07509c5537748615445ded13e8cea75518c9"
+      },
+      {
+        "object_id": "T10-29",
+        "sha256": "f6179a14f29f29db8f02da81e890341924dce1d4707c511de4d73a02ef927847"
+      },
+      {
+        "object_id": "T10-30",
+        "sha256": "989f73fa5fddd8f23dd500781f22558a1eaf8e24b72048bd44fef9ea9d712b3a"
+      },
+      {
+        "object_id": "T10-31",
+        "sha256": "649f8bcb69733e71eaa082d1ad0bc6167d89a0275f3f8fb7cce3291564562160"
+      },
+      {
+        "object_id": "T10-32",
+        "sha256": "017555a73c73e29fedc98e969d1b86eb7c52244ab6746ba38b26e4903bc0b8f4"
+      },
+      {
+        "object_id": "T10-33",
+        "sha256": "0415e2d8e7bde2a7b4c66bfaa5284bdcce42fdae0c0bcb0fca2b05eda772712e"
+      },
+      {
+        "object_id": "T10-34",
+        "sha256": "35d3fe99e77f2002cbab35d3700a76d03e926666c12730537cad6b387db44ece"
+      },
+      {
+        "object_id": "T10-35",
+        "sha256": "399389e4841d19bc22e92c2824b4d329884e63c2ae67f48ee3d5937e137bc8bc"
+      },
+      {
+        "object_id": "T10-36",
+        "sha256": "e64c1be80f4fe3829409073b1736425f08b93ca19f50a8e34fc27fccc8c48de7"
+      },
+      {
+        "object_id": "T10-37",
+        "sha256": "a21589eda4a334256a0c299b187d7e0ae568209c7a7fce4900fa1bfa4140e52d"
+      },
+      {
+        "object_id": "T10-38",
+        "sha256": "d15e1753b0a3722a4d664145d98595e500cf4f4f0049b7fea17bdfb77738f03b"
+      },
+      {
+        "object_id": "T10-39",
+        "sha256": "e1da514fbdab4d8ffb7557509603a4a5dbab2612347c8fdf5e0a4d3715c71698"
+      },
+      {
+        "object_id": "T10-40",
+        "sha256": "6b08347ce2af6dba6649940d84ce4739baf7805a1786a523ee78ccbcafd1e50b"
+      },
+      {
+        "object_id": "T10-41",
+        "sha256": "54f065922da0b988e70de429509390e512aba1e6b7def6f51591af5f1c11fddb"
+      }
+    ]
+  },
+  "object_count": 41,
+  "screenshot_sha256": "caf653f10d70dc7ea033a39df1e47f0cd1c9a06210cd12d3d5299741c46b1527",
+  "status": "pending_visual_review",
+  "screenshot": "overview.png"
+}

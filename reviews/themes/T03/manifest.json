@@ -1,0 +1,102 @@
+{
+  "theme_id": "T03",
+  "name": "日式侘寂禅室",
+  "fingerprint": "0c0b6b89b4cf4b652a006ebab34fa6104c53e08b13fe76fe8abcf254ebe6b8e3",
+  "source_snapshot": {
+    "theme_id": "T03",
+    "review_protocol": "paired-v2",
+    "source_sha256": "3b29672b93fcd998fb7bec2c1c308c1747c3d68c4bb243be88c4e422b28445e4",
+    "background_sha256": "d065d5114948b033471d46ddaafaf1a693151cd1bf23b80a76383e4e977ac6e8",
+    "plan_sha256": "5f734d819c9f5e8f0494e31e36f6a5a3f2bc6dbd240bdadc170e8d4e0613cfbe",
+    "objects": [
+      {
+        "object_id": "T03-01",
+        "sha256": "eb7930c6938da1c29d1944d6783f79fd940b499c24078c9545bd7080412faa3a"
+      },
+      {
+        "object_id": "T03-02",
+        "sha256": "eb0073ba4a05352fcb57711505dca56adb254730790d45fa160a4c2b8a9b0b1c"
+      },
+      {
+        "object_id": "T03-04",
+        "sha256": "20f384859a7a839356d2dd42adf173d87f923e311ae271ab70a3d7822d32f3e8"
+      },
+      {
+        "object_id": "T03-05",
+        "sha256": "eb728f55e741615cbf578ebfa3172e52df7d766711764643a238d764d9a41bb8"
+      },
+      {
+        "object_id": "T03-06",
+        "sha256": "b9bb4aee942c131c61399102ca56e2114aa8ec78c807ecd239f6fc907dcf311f"
+      },
+      {
+        "object_id": "T03-07",
+        "sha256": "3b09267e31437c938873ee671550f12dedc0c2cf8fbfade1dcd11c1ab5c6d2df"
+      },
+      {
+        "object_id": "T03-08",
+        "sha256": "43bd86891876ac0bdc62479734d1b01ca660cbaaea5860731f86d989dbc7adad"
+      },
+      {
+        "object_id": "T03-09",
+        "sha256": "66074164bfe92ae230aea88ed7c62d369d9e1486f79e111cd14161807ddfca2c"
+      },
+      {
+        "object_id": "T03-12",
+        "sha256": "2d5ec6a1012602433ed40cb45572189179ec1ed51c44db7beaff648f66f16ee9"
+      },
+      {
+        "object_id": "T03-13",
+        "sha256": "67f5351fc1490d202703fa1d18de0f13665703193dc595f2ba29553d3db2268b"
+      },
+      {
+        "object_id": "T03-14",
+        "sha256": "bbc484b4cebc771cc122f2e29ccd53de89aaeed2e54eefa55c5b8aa6899f66ee"
+      },
+      {
+        "object_id": "T03-16",
+        "sha256": "67239d5fa370085b73904b5d7cd1f4653e5f33d7b0276fb0b1bd92c453a28865"
+      },
+      {
+        "object_id": "T03-17",
+        "sha256": "754b5d0baf3b77427ef86a069614cc612d936bdc4b5d0d11c0b2ee7a16c5cb3f"
+      },
+      {
+        "object_id": "T03-18",
+        "sha256": "23b82774802e1bbf0540d3731695ed25ade9d00ebfa61db4d84dd7560969a1be"
+      },
+      {
+        "object_id": "T03-19",
+        "sha256": "c8a88e80ca476a3fb4d1a6b4bb997c0c335a1d62f372d7a0ef18988ed267b4d5"
+      },
+      {
+        "object_id": "T03-20",
+        "sha256": "5c449ef39741a0d1168e731ea1b24307c29bde95ba3d9143282d6fad7fb81185"
+      },
+      {
+        "object_id": "T03-21",
+        "sha256": "0a5abeac56ce2764d7ba6ae96bcd4e03c72a270a167600ddd777ca1f19a14e14"
+      },
+      {
+        "object_id": "T03-22",
+        "sha256": "255b11976059c04b4146e8cdceab2fa859de9b90ae136301b212730942e387b7"
+      },
+      {
+        "object_id": "T03-23",
+        "sha256": "f79d879a54f7c1fa17369ef93161b17769074e9015667f39bf6b4c1b8383062d"
+      },
+      {
+        "object_id": "T03-24",
+        "sha256": "1befa4b935badd9361125d7211c7adf1f7a0f311a219d3956e6637fb723e2819"
+      },
+      {
+        "object_id": "T03-25",
+        "sha256": "1e341cb3770b7b3edf6b2cd8d1838fc46dc7420f51b056f9522870d16b616425"
+      }
+    ]
+  },
+  "object_count": 21,
+  "screenshot_sha256": "19702ae9819b726d5c61b5dc77afc2ede5d4979cafa412b344cba2370ac73461",
+  "status": "verified",
+  "screenshot": "overview.png"
+}

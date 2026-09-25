@@ -1,0 +1,118 @@
+{
+  "theme_id": "T19",
+  "name": "秋山枫影禅室",
+  "fingerprint": "f9676d6ad4c9a84844a30f30636eaaad3aeac01dd72ea8cccd0a35f540e6cfe5",
+  "source_snapshot": {
+    "theme_id": "T19",
+    "review_protocol": "paired-v2",
+    "source_sha256": "9d453d9b345f1ac68a3833a16c883f1dca7c9bc2dda62444e03563bd12877505",
+    "background_sha256": "e20ae336abacfd1efd5cd7b88b8ffc21c0dfa6f786ff137708ec0d0b3639a54e",
+    "plan_sha256": "255b233a96e199d3e29754605d36513941165a177dd7019168880864b106669e",
+    "objects": [
+      {
+        "object_id": "T19-01",
+        "sha256": "1833505d3e3a6e2b8377d3296869a1cedcb861acf41f4f2b6d37840534f59226"
+      },
+      {
+        "object_id": "T19-02",
+        "sha256": "4c15df91289cf9a28b2979d6f2a37f4ed6e01cb9ac29d3235b35e5158d81ac91"
+      },
+      {
+        "object_id": "T19-03",
+        "sha256": "205d2bd5212762aec62caecb8dbb7e1b992540c8daaa231eef26f3a46d6508a4"
+      },
+      {
+        "object_id": "T19-04",
+        "sha256": "6d27ca4f068f727976feff4199a79a1e84f3ab2802b4637cc0666ef33f1a5e4b"
+      },
+      {
+        "object_id": "T19-05",
+        "sha256": "4c3d8bdab53814343ae6d29d3507e45b4702bf05863321a084b043fda90026c6"
+      },
+      {
+        "object_id": "T19-06",
+        "sha256": "db48ca1672d1279d14ab4ca279f86a49726880679774a609a4526eace528099c"
+      },
+      {
+        "object_id": "T19-07",
+        "sha256": "70a0d78bc3603148f68ea988d6375e657d30dd6e5ca471b55ca1541c5b75cd88"
+      },
+      {
+        "object_id": "T19-08",
+        "sha256": "aad93b91bff0bade651edf64e56220378197bb99ae553ce916bd7bd33e0ae72d"
+      },
+      {
+        "object_id": "T19-10",
+        "sha256": "300961073df1314aceeb6db8337efb2973034773b4f2063d99f14ba2dcaa8a53"
+      },
+      {
+        "object_id": "T19-11",
+        "sha256": "c69b28baed7bc0285d44b77f23477a586c4cd2300143cbfbede2b025b92b1bdc"
+      },
+      {
+        "object_id": "T19-12",
+        "sha256": "178dd228ee5fda1a03c5fc257080e619eeca531e5ae9fd12227d47bc83ef571f"
+      },
+      {
+        "object_id": "T19-13",
+        "sha256": "e785b875517273ec2bd2b81328dde2f7adc329700897245adb8c27e4d13f4d1e"
+      },
+      {
+        "object_id": "T19-14",
+        "sha256": "e1b217bb94853a46db46d66b423342fc1638f579237a5eebe90bc9648a07f1f2"
+      },
+      {
+        "object_id": "T19-16",
+        "sha256": "e702a3ad7ff122048daf71c0bbc3e5aee5434f025c20e7b0178c9ad90533b4e2"
+      },
+      {
+        "object_id": "T19-17",
+        "sha256": "8d4e03a7a1424b31e34136af51eb887ac7bc86094b5d627997c904fbdef858c3"
+      },
+      {
+        "object_id": "T19-18",
+        "sha256": "cbbe615dad8eff866603bd6da9f8be496e1cf93b39c716057a7dfc21313f9856"
+      },
+      {
+        "object_id": "T19-19",
+        "sha256": "4c3505b01f459a91e519d3fdd0c83353aad52540f20ab1114dce59d8d6e73e55"
+      },
+      {
+        "object_id": "T19-20",
+        "sha256": "8358b9747a79ad39b17abecf17a648b061c4dc2c75ec2ab402c0baa694c66d3c"
+      },
+      {
+        "object_id": "T19-21",
+        "sha256": "7efe1aaeb3d7cf31ccc7f294bfd7821624866aca61583c6641f12e43be5f9d5c"
+      },
+      {
+        "object_id": "T19-22",
+        "sha256": "c9e5ed578502232cbea4857154d38de6d53b4a57ea294644ed75d0733d839c11"
+      },
+      {
+        "object_id": "T19-23",
+        "sha256": "9024d62526bf60c23af071259e976c8603170d51a4b7fa60bd5cdcb58b325850"
+      },
+      {
+        "object_id": "T19-24",
+        "sha256": "85ecafee2719c410f0f01b2c4752fec1b0eb35c7de09cd9c399753c3ad9c57cf"
+      },
+      {
+        "object_id": "T19-25",
+        "sha256": "b71b5f74de82d9b75a76237c2636c8d6525572abd785e50a15893e44f8b511df"
+      },
+      {
+        "object_id": "T19-26",
+        "sha256": "8302a544c4aa958656d7f1cb106c5ce9585568d1c79a4f47932684162401267d"
+      },
+      {
+        "object_id": "T19-27",
+        "sha256": "d2db05e45afd3c841c6baea5a0002bf3ff7c2077968066ce001024d9ee4787bf"
+      }
+    ]
+  },
+  "object_count": 25,
+  "screenshot_sha256": "325453b52833028e01f6da68f9983368d3122317391d8a4d544363587c383fff",
+  "status": "pending_visual_review",
+  "screenshot": "overview.png"
+}

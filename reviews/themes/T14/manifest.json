@@ -1,0 +1,122 @@
+{
+  "theme_id": "T14",
+  "name": "北欧原木静修室",
+  "fingerprint": "8c2e0af351616c2abd87d1a4f66927e047b9d9e6219a6bfe44675c1fc2c140d8",
+  "source_snapshot": {
+    "theme_id": "T14",
+    "review_protocol": "paired-v2",
+    "source_sha256": "ffeac69e152110e84286aaaeeb2012b609ea294f81b9a6252c3b7c932d92c5df",
+    "background_sha256": "dd336147aca47c476831fc68c9d2e9aaab206ccda2f789602882d53a554c76d3",
+    "plan_sha256": "6281fe2c384cf5caf61cd5967311034168e60dfeabb7d86d1599a4fa4fb78a96",
+    "objects": [
+      {
+        "object_id": "T14-01",
+        "sha256": "aed4c5fa3ca39e06027378e4925e6130f0cc8b743f44db0afc96f8d2dfb271ac"
+      },
+      {
+        "object_id": "T14-02",
+        "sha256": "3dff4266fac7301684cf3ffe9c019ad0d6acc582349b23c5e6190fe43250acdc"
+      },
+      {
+        "object_id": "T14-03",
+        "sha256": "a632401c5b6bf4dbf68594cd605d50e378019509eb0840964e998b0a97f57a6a"
+      },
+      {
+        "object_id": "T14-04",
+        "sha256": "54c39743074afb85a13a781779941429213b7b3e5fbf2cf022c10a78651fe27f"
+      },
+      {
+        "object_id": "T14-05",
+        "sha256": "6d2d03b85a8067ed1a6a8ab3638acc99e3be9dc704a78ee77656c4d47119d32d"
+      },
+      {
+        "object_id": "T14-06",
+        "sha256": "1c020122cbd6e0417d0b3ba3da2a1e9ac792e51a7b1b7821ddcc072af2a4acb1"
+      },
+      {
+        "object_id": "T14-07",
+        "sha256": "63bbef73975b12658ef95578d205e99d50c99b10041a53a5db38ac1370aa9f5f"
+      },
+      {
+        "object_id": "T14-08",
+        "sha256": "1753baa4b2fcd96621f00640bb5cb7d2eae42a97eaa87414f8e1c59b0179d0c0"
+      },
+      {
+        "object_id": "T14-09",
+        "sha256": "0c894c8faee3d66d1d8d06545e3558273ea92937c441d7cb541d04bf66054ece"
+      },
+      {
+        "object_id": "T14-10",
+        "sha256": "e76cc58aee9581926263e66ae8cebac8634295b99d8ae56b2e1604d47235d1a5"
+      },
+      {
+        "object_id": "T14-11",
+        "sha256": "ed52e1fe98771756ed5beb0efb4085842b28338a945c3c602802eaa08a0d3d98"
+      },
+      {
+        "object_id": "T14-12",
+        "sha256": "f8700bd4e74d575ae7b72f755b6f2fc143739b0d8a4fa19174dad7dd4579a009"
+      },
+      {
+        "object_id": "T14-13",
+        "sha256": "5fa587cbfeee91c0909fd49b219e3e69ee57af6872480a7959335cdefd210dd6"
+      },
+      {
+        "object_id": "T14-14",
+        "sha256": "3433d354613a2f9af5ba804b33513bf131a5ec423a354e85c54ff74b428f39a0"
+      },
+      {
+        "object_id": "T14-16",
+        "sha256": "a804e0d6e6b7b9ab83633f7baa8b8994f5a25544cca8d34c357d204f36e89ffc"
+      },
+      {
+        "object_id": "T14-17",
+        "sha256": "d59be92ebe707cb3add9c16905d88c7068ba40409688be0aecd47cf0c9b7d938"
+      },
+      {
+        "object_id": "T14-18",
+        "sha256": "6d127c8dae9cb76000a9ba1b412b70b41228ae3eb9b852048d4c580702775b7a"
+      },
+      {
+        "object_id": "T14-19",
+        "sha256": "be627bbfbc899e9df9b9459b264312b6e3865f7419025923d3c081c28b7c0560"
+      },
+      {
+        "object_id": "T14-20",
+        "sha256": "a825857be8547538f5cfabec49c3ad325a35f8995a65a8650280d2b64bab5017"
+      },
+      {
+        "object_id": "T14-21",
+        "sha256": "d8f208635da3fc1ab4250177aaf82049033c962e2aba762252c397a495d9d8c4"
+      },
+      {
+        "object_id": "T14-22",
+        "sha256": "37f5711fa6c7bf9e04deb3e09033c7370665481743ac2363e6eb75ec3a859287"
+      },
+      {
+        "object_id": "T14-23",
+        "sha256": "8a0bb7f21ce0e59e1ebbd41d0ce1b66efb82c50d7b92db7ef0a406e676be910f"
+      },
+      {
+        "object_id": "T14-24",
+        "sha256": "d4b14ddf598f16a8bedea03f3ac9c91c5b8fdee8bbd4407f04a3b5307907791b"
+      },
+      {
+        "object_id": "T14-25",
+        "sha256": "39674009c9c163ec6acb1c0eea6c8c71551799067c65dc04f3ae9f4c71a13248"
+      },
+      {
+        "object_id": "T14-26",
+        "sha256": "0b0c20f525eab979a3e42e4aa75df61ae47bec5d7827ab91896b8d4017c87323"
+      },
+      {
+        "object_id": "T14-27",
+        "sha256": "b8353913afd77378e2ff023c250a2112c03a1c97400cd12221d294bf6c06072f"
+      }
+    ]
+  },
+  "object_count": 26,
+  "screenshot_sha256": "7329bd5de99940fdc27ae56629d359deea07fc03328c2351946c42a8cb4da111",
+  "status": "pending_visual_review",
+  "screenshot": "overview.png"
+}

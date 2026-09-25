@@ -1,0 +1,142 @@
+{
+  "theme_id": "T04",
+  "name": "喜马拉雅鎏金佛堂",
+  "fingerprint": "57b4ceb8e9204574f65748490e46ca6ab0925c88f271c2c69b3e0b51602340bc",
+  "source_snapshot": {
+    "theme_id": "T04",
+    "review_protocol": "paired-v2",
+    "source_sha256": "cbf476e0da7431d295e321b80027982463f2eab1d41a72c62533093ab6178bf6",
+    "background_sha256": "8a03f612b6af7f0dfa159611a68d950300040904811b8996270ca5569ec258b7",
+    "plan_sha256": "8cf7bffcdc888f0efb4937f4b4e46dfcf1810a989c612ece4af920ed56499188",
+    "objects": [
+      {
+        "object_id": "T04-01",
+        "sha256": "42c65d7265a7622fda78aeec6d905e0720b1db580a6987cc9413eb130da121a8"
+      },
+      {
+        "object_id": "T04-02",
+        "sha256": "6ebc7bbfb629a693de500a72987bae9c4de8ac75b153750d259d1212e7141fcf"
+      },
+      {
+        "object_id": "T04-04",
+        "sha256": "07c9658009a6f96b66493d65262523bbbadfc231f1ee14bc110883c67f306a1b"
+      },
+      {
+        "object_id": "T04-05",
+        "sha256": "d9e33cafde9132208781ece2c406b8ce3236878ad9c88e4b3d87548e068421bf"
+      },
+      {
+        "object_id": "T04-06",
+        "sha256": "1778c72554902e898354156501ac3845d5317671ddfcecee5217e46750ac0cca"
+      },
+      {
+        "object_id": "T04-07",
+        "sha256": "8dd441ebdca633e48040c6eda6589b83289ea50d00ad437471ee84945fbcd6ec"
+      },
+      {
+        "object_id": "T04-08",
+        "sha256": "724789dab285720083df12533f9526105f57f2dd63792f93dea618cf4fe46fe7"
+      },
+      {
+        "object_id": "T04-09",
+        "sha256": "9cea12a10052b14a99b8004a0d419e2f0466ff9f4801a268b086726192420902"
+      },
+      {
+        "object_id": "T04-10",
+        "sha256": "47266f658f2899a80ebe36de8148916aff81c75e8d11d8be22da103b93d5f203"
+      },
+      {
+        "object_id": "T04-11",
+        "sha256": "44581424925c450735d9ffa71d3966ee20e27305855d194093ff046dbf744e49"
+      },
+      {
+        "object_id": "T04-12",
+        "sha256": "6d85d3e68bd0f7fc37050ec499013e14c39816fe589859c69f7164b72e2aa439"
+      },
+      {
+        "object_id": "T04-13",
+        "sha256": "1096ac6849ea26c5a112bf50e9f3439f574917c45347ed668692a0e9ad51e0ee"
+      },
+      {
+        "object_id": "T04-15",
+        "sha256": "77f42d82566187c0b84f3045f2316d15ad644a1fcebfef4cae852b7675c06a32"
+      },
+      {
+        "object_id": "T04-16",
+        "sha256": "41a392e507fad3c57c05fd116f586f81a94f5973769e3755d276e012ce329999"
+      },
+      {
+        "object_id": "T04-17",
+        "sha256": "e163f2b03dd9be8995cd0abcad2ada9e280f6a203e3658170c55b017a37fc702"
+      },
+      {
+        "object_id": "T04-18",
+        "sha256": "cb455595b8acd3613b315e6b0ee6a628c1a2cd46dc0056565bae114ec223ad84"
+      },
+      {
+        "object_id": "T04-19",
+        "sha256": "5c1c7f6b6d280e687f11e9dab504618455551c8a11a31eaa277debc948df3077"
+      },
+      {
+        "object_id": "T04-20",
+        "sha256": "dd6ccce48bddcb474df2c265435d700d7f7b19cfccd24bca15ea9f2334e58a58"
+      },
+      {
+        "object_id": "T04-21",
+        "sha256": "4daed79db418bd03856a88a5cf1171e66d80e20595a36104c22a04cad795553b"
+      },
+      {
+        "object_id": "T04-22",
+        "sha256": "6de30d8d8729ce60b6651f966f943f37402bb007e2d810276ca45f6bf33fd4ab"
+      },
+      {
+        "object_id": "T04-23",
+        "sha256": "feff120de4c26b8f11a2699e838a17bdb081dde7541302d90da1781aaafdf370"
+      },
+      {
+        "object_id": "T04-24",
+        "sha256": "56022032f564d9d62cd29cfcf813e1777cfa72b31ac1f1ad4468bf04272c4c78"
+      },
+      {
+        "object_id": "T04-25",
+        "sha256": "780422f6db9dbbd69dcb517ef742ab934376e2b4eafa6392344a795625b49f3d"
+      },
+      {
+        "object_id": "T04-26",
+        "sha256": "30dec2546067768e15f647f9f69cedb40ee9bcc3961c56e6235e9750608976c1"
+      },
+      {
+        "object_id": "T04-27",
+        "sha256": "3480f2ec83411874e13d5cdc6331e08d82c1db4a22a535a93f934f3f5831107f"
+      },
+      {
+        "object_id": "T04-28",
+        "sha256": "2a5cd8b922b6c72caf5d6996cab9e596c6165aaa157e5a7e8717ff8effbecfc6"
+      },
+      {
+        "object_id": "T04-29",
+        "sha256": "07d8bd804c13c76aa2c5ffcf86dbc5527628d0454174c32fcecbbaf7f8493694"
+      },
+      {
+        "object_id": "T04-30",
+        "sha256": "529572a701065d6eeb6dec8126a52ab147355136e7c1c49e71da63fe558b8862"
+      },
+      {
+        "object_id": "T04-31",
+        "sha256": "7a13bf2466a6ff591f28741605548f9593178cacc3953a72ff202a64348c3617"
+      },
+      {
+        "object_id": "T04-34",
+        "sha256": "6cbc525fe25e1f6e40a105017ea4fd0a57e5ce31cdfdad06ec82ddbbead3b73a"
+      },
+      {
+        "object_id": "T04-35",
+        "sha256": "afa53c790e9570aac667a28590eaac55bb962976527950364efb8269f1412a85"
+      }
+    ]
+  },
+  "object_count": 31,
+  "screenshot_sha256": "0060d8031f3f6f9a6b3ff4397927a2f9335cfef8e14e7692456bb55fe54a3c4d",
+  "status": "verified",
+  "screenshot": "overview.png"
+}

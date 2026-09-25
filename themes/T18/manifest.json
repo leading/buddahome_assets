@@ -1,13 +1,13 @@
 {
   "theme_id": "T18",
   "name": "新艺术琉璃花房佛堂",
-  "fingerprint": "cefb623b02c3697df15dcd5874fd0e926e573ba836032cf5be35779159ca8ea1",
+  "fingerprint": "6e9a199074cc4b07dbfe683b34f023686933831cb95340ff4d16a5375b72f1d2",
   "snapshot": {
     "theme_id": "T18",
     "review_protocol": "paired-v2",
     "source_sha256": "e6e91cf8977c1ef383b80139508c10ac2e9a5c8f379f2b866492af541a971c50",
     "background_sha256": "d8aec39e71bc0a2a62a763913862084f3cd4404368fabc3d50c1c7618f70ab27",
-    "plan_sha256": "203c04011995d56fdc5084c28203735f7697c2148394e8719d27ab3c8feed715",
+    "plan_sha256": "63ad6d51e15fd70aaffeeb36002427dfd7ab2d46ce7ce438c5d1133b8163be41",
     "objects": [
       {
         "object_id": "T18-01",
@@ -91,7 +91,7 @@
       },
       {
         "object_id": "T18-23",
-        "sha256": "5fec6f8de454cf61d815d9cae4fab56b70c16dfe823e62995fbfd1bfe2a2e4a8"
+        "sha256": "e9c68bd5a93d83acc9cf30adc43d6132b5de89fdff21d16c174c7262a207852b"
       },
       {
         "object_id": "T18-24",
@@ -265,9 +265,9 @@
     {
       "object_id": "T18-23",
       "name": "碗中白色供花簇",
-      "description": "源图香炉左绿碗中的完整白色小花簇，无碗或其他花瓶花束，保留原安排。",
+      "description": "源图香炉左绿碗中的完整白色小花簇，无碗或其他花瓶花束，保留原安排。 精确纠错约束：现有白色供花簇PNG还带着绿色碗。只保留碗内白色小花簇的花、花蕾和自身少量叶茎，彻底移除绿色碗和桌面。22号已有独立空碗。",
       "classification": "standalone_object",
-      "sha256": "5fec6f8de454cf61d815d9cae4fab56b70c16dfe823e62995fbfd1bfe2a2e4a8",
+      "sha256": "e9c68bd5a93d83acc9cf30adc43d6132b5de89fdff21d16c174c7262a207852b",
       "path": "objects/T18-23.png"
     },
     {

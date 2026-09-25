@@ -1,13 +1,13 @@
 {
   "theme_id": "T21",
   "name": "星空琉璃光境",
-  "fingerprint": "f81115342d62635d1d19a9835d09cc8a79dbd43f91e3d75aae2b4b0ebe518dbf",
+  "fingerprint": "d232e9c48f1f0adbc129a43153737130801e6762ef2d7d3b578025f1f0c0532d",
   "snapshot": {
     "theme_id": "T21",
     "review_protocol": "paired-v2",
     "source_sha256": "98ba76ca32b8d34913e10912d044b1b2d6aec75e1bded8a3fc8938fd76536dcd",
     "background_sha256": "9c4eea0ea6277bcb43a82a9f07a3dd656de795cd4f65fead3e80ca572d92c093",
-    "plan_sha256": "bf3430c9800244d71208a5c6f64d0aeac42d67d37f6c34b36f58ba3622422e7b",
+    "plan_sha256": "c9132ef638974620c33df0a1b6ddb458050b391eeddb49eb2c73a2bbe5a592e6",
     "objects": [
       {
         "object_id": "T21-01",
@@ -99,7 +99,7 @@
       },
       {
         "object_id": "T21-24",
-        "sha256": "4a0832ecc3cb5cdcda74ce4782328702d29f1a356608f458435734c7b915d62f"
+        "sha256": "413cf694abc39119e230f097ecd34453100bda1b1144d1e23675663cb656a1e3"
       },
       {
         "object_id": "T21-25",
@@ -293,9 +293,9 @@
     {
       "object_id": "T21-24",
       "name": "蓝釉独立杯碟",
-      "description": "源图茶盘上蓝茶杯下的一只蓝釉独立杯碟，完整空置，两只同款可复用，无茶杯或大茶盘。",
+      "description": "源图茶盘上蓝茶杯下的一只蓝釉独立杯碟，完整空置，两只同款可复用，无茶杯或大茶盘。 精确纠错约束：现有独立杯碟PNG错误地仍带着蓝茶杯。只保留单个完整空蓝釉杯碟；彻底移除杯体、杯把、茶壶及托盘。13/25号是独立茶杯。",
       "classification": "standalone_object",
-      "sha256": "4a0832ecc3cb5cdcda74ce4782328702d29f1a356608f458435734c7b915d62f",
+      "sha256": "413cf694abc39119e230f097ecd34453100bda1b1144d1e23675663cb656a1e3",
       "path": "objects/T21-24.png"
     },
     {

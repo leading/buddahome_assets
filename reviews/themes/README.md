@@ -7,7 +7,7 @@
 | T02 宋式水墨禅堂 | 31 | [HTTPS 原图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T02/overview.png) | verified |
 | T03 日式侘寂禅室 | 21 | [HTTPS 原图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T03/overview.png) | verified |
 | T04 喜马拉雅鎏金佛堂 | 31 | [HTTPS 原图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T04/overview.png) | verified |
-| T05 兰纳柚木佛堂 | 29 | [HTTPS 原图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T05/overview.png) | pending_visual_review |
+| T05 兰纳柚木佛堂 | 30 | [HTTPS 原图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T05/overview.png) | pending_visual_review |
 | T06 新罗韩屋禅堂 | 30 | [HTTPS 原图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T06/overview.png) | pending_visual_review |
 | T07 尼泊尔纽瓦铜艺佛堂 | 37 | [HTTPS 原图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T07/overview.png) | pending_visual_review |
 | T08 斯里兰卡月白佛堂 | 32 | [HTTPS 原图](https://raw.githubusercontent.com/leading/buddahome_assets/main/reviews/themes/T08/overview.png) | pending_visual_review |

@@ -1,13 +1,13 @@
 {
   "theme_id": "T17",
   "name": "海岸白石禅室",
-  "fingerprint": "eb93bc219b04a610fc3216efc44790d6c713dd545efa32add1219875929f20fd",
+  "fingerprint": "5d60371e62cb2c39aa6fce9c9d6cc801e56e0758db5a5caf19d6ea5592c736e2",
   "snapshot": {
     "theme_id": "T17",
     "review_protocol": "paired-v2",
     "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
     "background_sha256": "c75b346a26bcdafdfc9704facc759a807fed259cd6d4fd93de44db6109a7445e",
-    "plan_sha256": "937b7621ae6ec4a4d871305a7a55965901f3e5a18d6d30e03a9ffc3d9785fdd2",
+    "plan_sha256": "cbe74a65873c5bbd2939f47daeb003a5794156622130c0c2e8b938ff57381bf8",
     "objects": [
       {
         "object_id": "T17-01",
@@ -39,7 +39,7 @@
       },
       {
         "object_id": "T17-08",
-        "sha256": "41a6f0df1c578b40a84322e3eac5f6c7f2f2f9d768e4c33b5367eafc2bbcd0a6"
+        "sha256": "9c8be1116bc45d3d2d8d353489111e127e0ac0c2e1322f4f1b2f0f4eac742ee4"
       },
       {
         "object_id": "T17-09",
@@ -95,7 +95,7 @@
       },
       {
         "object_id": "T17-22",
-        "sha256": "d0f902c14a7b882321a7b72e2a972c38526c1c743bcca61db1e47bbccb1a1b75"
+        "sha256": "9da472325853bc7729befdae33ce6e8fb0242055a25d3b127762f674910997fd"
       },
       {
         "object_id": "T17-23",
@@ -177,9 +177,9 @@
     {
       "object_id": "T17-08",
       "name": "空香炉",
-      "description": "源图短蜡烛右侧石香炉，完整空炉身，取下小圆盘盖，去香与灰。",
+      "description": "源图短蜡烛右侧石香炉，完整空炉身，取下小圆盘盖，去香与灰。 精确纠错约束：现有PNG带着小圆盘盖。只保留完整敞口空石香炉身；去盖、香和灰，独立盖已有19号。",
       "classification": "standalone_object",
-      "sha256": "41a6f0df1c578b40a84322e3eac5f6c7f2f2f9d768e4c33b5367eafc2bbcd0a6",
+      "sha256": "9c8be1116bc45d3d2d8d353489111e127e0ac0c2e1322f4f1b2f0f4eac742ee4",
       "path": "objects/T17-08.png"
     },
     {
@@ -289,9 +289,9 @@
     {
       "object_id": "T17-22",
       "name": "右侧完整绿植",
-      "description": "源图右侧大型白盆中的完整绿色植物，保留树干枝叶和可插根部，无盆或壁龛。",
+      "description": "源图右侧大型白盆中的完整绿色植物，保留树干枝叶和可插根部，无盆或壁龛。 精确纠错约束：现有完整绿植PNG还带着白色陶盆。仅保留完整树干枝叶及可插入根部；删除白盆和土团外壳，21号已经是独立空盆。",
       "classification": "standalone_object",
-      "sha256": "d0f902c14a7b882321a7b72e2a972c38526c1c743bcca61db1e47bbccb1a1b75",
+      "sha256": "9da472325853bc7729befdae33ce6e8fb0242055a25d3b127762f674910997fd",
       "path": "objects/T17-22.png"
     },
     {

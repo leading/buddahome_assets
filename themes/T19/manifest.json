@@ -1,13 +1,13 @@
 {
   "theme_id": "T19",
   "name": "秋山枫影禅室",
-  "fingerprint": "f9676d6ad4c9a84844a30f30636eaaad3aeac01dd72ea8cccd0a35f540e6cfe5",
+  "fingerprint": "8daf162cfedb6ed89c33e949caafce1cf2007557050c126ad4b62709f4839f7a",
   "snapshot": {
     "theme_id": "T19",
     "review_protocol": "paired-v2",
     "source_sha256": "9d453d9b345f1ac68a3833a16c883f1dca7c9bc2dda62444e03563bd12877505",
     "background_sha256": "e20ae336abacfd1efd5cd7b88b8ffc21c0dfa6f786ff137708ec0d0b3639a54e",
-    "plan_sha256": "255b233a96e199d3e29754605d36513941165a177dd7019168880864b106669e",
+    "plan_sha256": "342b2b5ce0bf2e10061445e86aa77662443ea334e9e91fac9df6158bf22539ec",
     "objects": [
       {
         "object_id": "T19-01",
@@ -39,7 +39,7 @@
       },
       {
         "object_id": "T19-08",
-        "sha256": "aad93b91bff0bade651edf64e56220378197bb99ae553ce916bd7bd33e0ae72d"
+        "sha256": "33a9cfa610ccc655cf0e8c6c6cd3307912dffd50ad7b8d833d40c0bc79cf8e8e"
       },
       {
         "object_id": "T19-10",
@@ -55,7 +55,7 @@
       },
       {
         "object_id": "T19-13",
-        "sha256": "e785b875517273ec2bd2b81328dde2f7adc329700897245adb8c27e4d13f4d1e"
+        "sha256": "c507f3f35e63c3c8d55143ddd43cb995f0dacd7ced533e2165150b9d0bd58aaf"
       },
       {
         "object_id": "T19-14",
@@ -173,9 +173,9 @@
     {
       "object_id": "T19-08",
       "name": "深色空有盖器身",
-      "description": "源图茶壶右方的深色陶瓷有盖小器，单独完整空器身，移除独立盖；功能未确认，不强改为香炉，不添加源图未见线香。",
+      "description": "源图茶壶右方的深色陶瓷有盖小器，单独完整空器身，移除独立盖；功能未确认，不强改为香炉，不添加源图未见线香。 精确纠错约束：现有深色陶器PNG仍带独立盖。只保留完整敞口空器身，删除盖与盖钮；盖已作为20号单独提供，不改变器型或将它重造为香炉。",
       "classification": "standalone_object",
-      "sha256": "aad93b91bff0bade651edf64e56220378197bb99ae553ce916bd7bd33e0ae72d",
+      "sha256": "33a9cfa610ccc655cf0e8c6c6cd3307912dffd50ad7b8d833d40c0bc79cf8e8e",
       "path": "objects/T19-08.png"
     },
     {
@@ -205,9 +205,9 @@
     {
       "object_id": "T19-13",
       "name": "空茶杯",
-      "description": "源图茶盘上茶壶左方的深色陶杯，完整单只空杯，与其下独立杯碟分离，无水。",
+      "description": "源图茶盘上茶壶左方的深色陶杯，完整单只空杯，与其下独立杯碟分离，无水。 精确纠错约束：现有茶杯PNG把杯碟一起带出。仅保留一个完整空杯，彻底去掉下方杯碟和其他器皿；独立杯碟已有19号。",
       "classification": "standalone_object",
-      "sha256": "e785b875517273ec2bd2b81328dde2f7adc329700897245adb8c27e4d13f4d1e",
+      "sha256": "c507f3f35e63c3c8d55143ddd43cb995f0dacd7ced533e2165150b9d0bd58aaf",
       "path": "objects/T19-13.png"
     },
     {

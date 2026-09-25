@@ -1,7 +1,7 @@
 {
   "theme_id": "T05",
   "name": "兰纳柚木佛堂",
-  "fingerprint": "a1679535a5bbbeff1932d4a9f04b653bf464d3e24ee26904dcd08ce061c0c7c1",
+  "fingerprint": "be4b5fd95a5dcf606be9df2cf73c863ee9b83ffd435c1910425dcfacdabf89e5",
   "snapshot": {
     "theme_id": "T05",
     "review_protocol": "paired-v2",
@@ -127,7 +127,7 @@
       },
       {
         "object_id": "T05-32",
-        "sha256": "5e2e38deb218f74aa8476a4a44cb20b099555108b0b18a9c74b098d621ddb70d"
+        "sha256": "ba877f57b788575778a3536699793b59b66385bd2293125691ba5b8658fae494"
       }
     ]
   },
@@ -371,7 +371,7 @@
       "name": "左下近景白花绿叶图层",
       "description": "仅提取原主题左下边缘实际可见的近景白花及大绿叶簇。保留原画布坐标、边缘裁切、近景虚化、枝叶间真实透明孔隙和原有白色花瓣布局。不要提取供桌上花瓶的白色花束，不带桌脚、地席、地板或背景。不要发明盆、根系或整株树，不要把这层居中成产品图。",
       "classification": "environment_overlay",
-      "sha256": "5e2e38deb218f74aa8476a4a44cb20b099555108b0b18a9c74b098d621ddb70d",
+      "sha256": "ba877f57b788575778a3536699793b59b66385bd2293125691ba5b8658fae494",
       "path": "objects/T05-32.png"
     }
   ],

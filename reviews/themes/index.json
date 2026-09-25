@@ -388,7 +388,7 @@
   {
     "theme_id": "T05",
     "name": "兰纳柚木佛堂",
-    "fingerprint": "a1679535a5bbbeff1932d4a9f04b653bf464d3e24ee26904dcd08ce061c0c7c1",
+    "fingerprint": "be4b5fd95a5dcf606be9df2cf73c863ee9b83ffd435c1910425dcfacdabf89e5",
     "source_snapshot": {
       "theme_id": "T05",
       "review_protocol": "paired-v2",
@@ -514,12 +514,12 @@
         },
         {
           "object_id": "T05-32",
-          "sha256": "5e2e38deb218f74aa8476a4a44cb20b099555108b0b18a9c74b098d621ddb70d"
+          "sha256": "ba877f57b788575778a3536699793b59b66385bd2293125691ba5b8658fae494"
         }
       ]
     },
     "object_count": 30,
-    "screenshot_sha256": "a2b25366d22309c4c82d6eaef99e711eb4263f7d5634f004d44d0cd41575dcc0",
+    "screenshot_sha256": "bf0457d8c4bb31b3baafecab19454f03e6a30e1210ea2bfe6d8d592f1a0fe5d0",
     "status": "pending_visual_review",
     "screenshot": "overview.png"
   },

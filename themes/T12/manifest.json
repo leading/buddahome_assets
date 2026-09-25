@@ -1,13 +1,13 @@
 {
   "theme_id": "T12",
   "name": "竹林晨雾禅居",
-  "fingerprint": "cbcdaa54b7d71af19f8ba181aff2117eae857496d8ccf06b3cbebe1d592cdc7c",
+  "fingerprint": "ff4319ed5a41af301e92bb190848dde5b408fca0de5a25a14c75a477ac58625a",
   "snapshot": {
     "theme_id": "T12",
     "review_protocol": "paired-v2",
     "source_sha256": "948d10285302fb20b701bcf3852aaff595ca33d9cc3793c424b878e551f12f47",
     "background_sha256": "f3019789008212fd0e3296a7bdd2bf4ca10688352a751646a0560de836d410d4",
-    "plan_sha256": "8bca3ca14dd0e2645d86edda1b1b78d5a74210a66f855bd962fb70f59b172d45",
+    "plan_sha256": "ec261e60004742d6d9fb05e8a21eae0b5514e93c2d6a16009709ab1677ef77cd",
     "objects": [
       {
         "object_id": "T12-01",
@@ -83,11 +83,11 @@
       },
       {
         "object_id": "T12-22",
-        "sha256": "5806e7b6544208f8aaa46b8b5693245a5ad9edbfcc1b39581d50fb7c19318962"
+        "sha256": "955862c2cdafe842cece1c4bc3c84448c1f03cd5c1a75dd9ee2a53dd0592f4b9"
       },
       {
         "object_id": "T12-23",
-        "sha256": "3b8b353917f9c1175c48de21bf45bde1fbace0aa730302b3217ed0380f1f280f"
+        "sha256": "69039e6c46e35497110a9628fbcf3491337a67a22759ad28b45a854674abfe32"
       },
       {
         "object_id": "T12-24",
@@ -249,17 +249,17 @@
     {
       "object_id": "T12-22",
       "name": "前左装饰石",
-      "description": "源图石供台基部前左独立灰色装饰石，仅提取可移动摆石，无植被、碎石床或地面；建筑一体石基则空图。 HTTPS复核纠错：精确对象是原图中央粗石供台基部前左、蕨类前方的那块低矮圆润灰色自然石，表面灰白斑驳，形体横向不规则卵石。只提取这块石头，合理补全被少量叶片遮挡的边缘；无植物、苔藓地床或其他石头。绝对不是旁边的园林石灯：禁止屋顶、灯室、窗格、塔身、基座或建筑雕刻。",
+      "description": "Extract ONLY the low rounded natural gray rock on the FRONT LEFT at the base of the central rough-stone altar, beside the ferns. It is a short horizontally irregular smooth boulder, NOT a garden lantern. No roof, tower, windows, carved pedestal, plants, gravel bed or other rocks.",
       "classification": "standalone_object",
-      "sha256": "5806e7b6544208f8aaa46b8b5693245a5ad9edbfcc1b39581d50fb7c19318962",
+      "sha256": "955862c2cdafe842cece1c4bc3c84448c1f03cd5c1a75dd9ee2a53dd0592f4b9",
       "path": "objects/T12-22.png"
     },
     {
       "object_id": "T12-23",
       "name": "前右装饰石",
-      "description": "源图石供台前右独立灰色装饰石，保持本块真实轮廓，不带植物或地面；与左石同款复用则空图。 HTTPS复核纠错：精确对象是原图中央粗石供台基部前右、蕨类旁的低矮宽扁灰色自然石，表面灰白斑驳，真实轮廓与左石不同。只提取这块横向不规则圆石，合理补全少量遮挡边缘；无植物、碎石床或其他石头。绝对不是园林石灯：禁止屋顶、灯室、窗格、塔身、基座和建筑雕刻。",
+      "description": "Extract ONLY the low broad natural gray rock on the FRONT RIGHT at the base of the central rough-stone altar, beside the ferns. Preserve this rock different source shape. It is a low irregular boulder, NOT a garden lantern. No roof, tower, windows, carved pedestal, plants or other rocks.",
       "classification": "standalone_object",
-      "sha256": "3b8b353917f9c1175c48de21bf45bde1fbace0aa730302b3217ed0380f1f280f",
+      "sha256": "69039e6c46e35497110a9628fbcf3491337a67a22759ad28b45a854674abfe32",
       "path": "objects/T12-23.png"
     },
     {

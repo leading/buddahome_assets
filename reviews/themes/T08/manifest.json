@@ -1,13 +1,13 @@
 {
   "theme_id": "T08",
   "name": "斯里兰卡月白佛堂",
-  "fingerprint": "49e738f93e6aa8660e49f9c3b4caa2f5bc1a4e9f1504e4c09021b86152cb4b7a",
+  "fingerprint": "f9054ff655b5dd39abc1d9cf029efb7c1505d249cd8fabeed3ebb545fb624f8e",
   "source_snapshot": {
     "theme_id": "T08",
     "review_protocol": "paired-v2",
     "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
     "background_sha256": "7fb1a3dc84505d2d4480dfb5e103cb62559abd926dca5a6ddabd81e420d9a9c7",
-    "plan_sha256": "82f52242249ed8e26f82046dba0f633b4e1004ab37adce66c765bbe535677d55",
+    "plan_sha256": "34c40ab5c28e7b261047b76dff32c73480d55615b311eac9b39d050a920fa8b7",
     "objects": [
       {
         "object_id": "T08-01",
@@ -75,11 +75,11 @@
       },
       {
         "object_id": "T08-19",
-        "sha256": "9534697e4540d7440b6b495187decb12174481fccf86b4d9f80eb19d668a0f9f"
+        "sha256": "6554353f1cc25cd6ab7acc386ad6fdcddfa0a5dd9ba23686ea420c9877497c80"
       },
       {
         "object_id": "T08-20",
-        "sha256": "d285e6cbc75703e40e7e83e9ee8c21d1ebd67e48093d59bbc940c3e5db1d176a"
+        "sha256": "87ea99344d1aa050ec041c52f829912a2a5e0900aa5181185160efb8e1858087"
       },
       {
         "object_id": "T08-21",
@@ -132,13 +132,17 @@
       {
         "object_id": "T08-33",
         "sha256": "58674dcb39ff29733191ca9e851c8e29225a2a246fdad1f3f20a8383de8ee5ee"
+      },
+      {
+        "object_id": "T08-36",
+        "sha256": "39477bbfaea9c496a4960e656af4ac0899fa51aca93433e494aad65b2607519d"
       }
     ]
   },
-  "object_count": 31,
-  "screenshot_sha256": "4a7f94519e92bc1b0b8fd43087d3ce75cdc54b7e2cee577a5b6345d76342b35e",
+  "object_count": 32,
+  "screenshot_sha256": "905ddd3d3bebbdb981cdc7cfd464aff68b3831180f20c3aff0bcdda0140940af",
   "status": "pending_visual_review",
   "screenshot": "overview.png",
   "fast_preview": "overview-fast.jpg",
-  "fast_preview_sha256": "c87f00abb4150aaa1c85c8de68904e9810e8c3768b4f735311b93bd9afa402d4"
+  "fast_preview_sha256": "64af5895859ada35fac0abdd014c01204616df49b54dd3c03f7e314cb62f7873"
 }

@@ -1,13 +1,13 @@
 {
   "theme_id": "T14",
   "name": "北欧原木静修室",
-  "fingerprint": "c2312832b6cde706b91f4ea000b5a266718b06e64aeab44d38d26254521c7bc8",
+  "fingerprint": "9d8c9b6deb9f37b850711ae60048e06ab489a2bb39cedbaf292e813d7507e1a4",
   "snapshot": {
     "theme_id": "T14",
     "review_protocol": "paired-v2",
     "source_sha256": "ffeac69e152110e84286aaaeeb2012b609ea294f81b9a6252c3b7c932d92c5df",
     "background_sha256": "dd336147aca47c476831fc68c9d2e9aaab206ccda2f789602882d53a554c76d3",
-    "plan_sha256": "96e58529eb87bb7303ee2d59f150f5c09ada786ced2aa77dd542e2c62cbb0f3e",
+    "plan_sha256": "af9a542853e782edad0036947522945e9729270f4cb39a2f59cb2945f139af7b",
     "objects": [
       {
         "object_id": "T14-01",
@@ -112,6 +112,10 @@
       {
         "object_id": "T14-27",
         "sha256": "b8353913afd77378e2ff023c250a2112c03a1c97400cd12221d294bf6c06072f"
+      },
+      {
+        "object_id": "T14-28",
+        "sha256": "5a4e9b066f6cda25cadd459f215c9c1fc86df9f8ed4eb323ccef2bd47ab2e5fb"
       }
     ]
   },
@@ -325,6 +329,14 @@
       "classification": "standalone_object",
       "sha256": "b8353913afd77378e2ff023c250a2112c03a1c97400cd12221d294bf6c06072f",
       "path": "objects/T14-27.png"
+    },
+    {
+      "object_id": "T14-28",
+      "name": "左下近景白花绿叶原位层",
+      "description": "Extract only the soft-focus white blossoms, green leaves and associated slender stems entering the LOWER LEFT foreground of this original source scene. Keep their original full portrait canvas position, natural blur, edge clipping and source size. Do not enlarge or center the cluster. Exclude all floor, furniture, vessels and other plants. Reconstruct no whole plant, pot or roots.",
+      "classification": "source_position_layer",
+      "sha256": "5a4e9b066f6cda25cadd459f215c9c1fc86df9f8ed4eb323ccef2bd47ab2e5fb",
+      "path": "objects/T14-28.png"
     }
   ],
   "review": "../../reviews/themes/T14/overview.jpg",

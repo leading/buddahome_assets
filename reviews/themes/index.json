@@ -666,7 +666,7 @@
     },
     "object_count": 30,
     "screenshot_sha256": "d3ab6c4a7b21980c2e731a75152a746eabef4086b8dc97d79758622c892750fc",
-    "status": "pending_visual_review",
+    "status": "verified",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
     "fast_preview_sha256": "d64ffb42be1a9942eecce5f485d20d7ec4f25d79e71da94b18a49229e12e99a4"
@@ -674,13 +674,13 @@
   {
     "theme_id": "T07",
     "name": "尼泊尔纽瓦铜艺佛堂",
-    "fingerprint": "3f7179b368797284c12ba8a6e85dff6d04d01d48dadd9084fbde326204398816",
+    "fingerprint": "42d39b0f74ef141a3eec531624cb5586485252bab3355a514d207c0b3e036e23",
     "source_snapshot": {
       "theme_id": "T07",
       "review_protocol": "paired-v2",
       "source_sha256": "a57e65ce8714c601d031d46b178651d6d2e2e3fd28d97ea8db6a725a5fd6a0cc",
       "background_sha256": "2dca63b446130fd1c5dbc3d18c3e9d6943855a665bd8c4a6425a35b8517d1d20",
-      "plan_sha256": "b633233503b817fb0a2f554060b108d2a6c06d393ebce67d0927021248bb4efc",
+      "plan_sha256": "72542f5909825f9c0dc21bd56578b9252cc51f9021e8169c239274473307376a",
       "objects": [
         {
           "object_id": "T07-01",
@@ -804,7 +804,7 @@
         },
         {
           "object_id": "T07-34",
-          "sha256": "613fa54408c4b219535d7ad866e68d1e873b4fef0c54de2b2192cc4fb731e69a"
+          "sha256": "fe8363fac221466e5093d55c90cf3d0d48c5bf61e9fa6d786d07a65a68c68e3d"
         },
         {
           "object_id": "T07-35",
@@ -829,22 +829,22 @@
       ]
     },
     "object_count": 36,
-    "screenshot_sha256": "e3a2a356a4c231e14e73324fe68c2bae4a6fe58388ba1ede28f93c58bae18fc5",
+    "screenshot_sha256": "0a2bd38a6ab3d60978e12c0f9fb5dff12c9458384f3857d6e3a388fc35f29cd3",
     "status": "pending_visual_review",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
-    "fast_preview_sha256": "65e7adc113a03f316d3dcd1f35774376b9eb62d4e2f2e6ec4e53a1edeb75ed57"
+    "fast_preview_sha256": "b240859ebc419ba3e6efe3bbfd357929350d487c598f2df62361eab3485a7085"
   },
   {
     "theme_id": "T08",
     "name": "斯里兰卡月白佛堂",
-    "fingerprint": "49e738f93e6aa8660e49f9c3b4caa2f5bc1a4e9f1504e4c09021b86152cb4b7a",
+    "fingerprint": "f9054ff655b5dd39abc1d9cf029efb7c1505d249cd8fabeed3ebb545fb624f8e",
     "source_snapshot": {
       "theme_id": "T08",
       "review_protocol": "paired-v2",
       "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
       "background_sha256": "7fb1a3dc84505d2d4480dfb5e103cb62559abd926dca5a6ddabd81e420d9a9c7",
-      "plan_sha256": "82f52242249ed8e26f82046dba0f633b4e1004ab37adce66c765bbe535677d55",
+      "plan_sha256": "34c40ab5c28e7b261047b76dff32c73480d55615b311eac9b39d050a920fa8b7",
       "objects": [
         {
           "object_id": "T08-01",
@@ -912,11 +912,11 @@
         },
         {
           "object_id": "T08-19",
-          "sha256": "9534697e4540d7440b6b495187decb12174481fccf86b4d9f80eb19d668a0f9f"
+          "sha256": "6554353f1cc25cd6ab7acc386ad6fdcddfa0a5dd9ba23686ea420c9877497c80"
         },
         {
           "object_id": "T08-20",
-          "sha256": "d285e6cbc75703e40e7e83e9ee8c21d1ebd67e48093d59bbc940c3e5db1d176a"
+          "sha256": "87ea99344d1aa050ec041c52f829912a2a5e0900aa5181185160efb8e1858087"
         },
         {
           "object_id": "T08-21",
@@ -969,15 +969,19 @@
         {
           "object_id": "T08-33",
           "sha256": "58674dcb39ff29733191ca9e851c8e29225a2a246fdad1f3f20a8383de8ee5ee"
+        },
+        {
+          "object_id": "T08-36",
+          "sha256": "39477bbfaea9c496a4960e656af4ac0899fa51aca93433e494aad65b2607519d"
         }
       ]
     },
-    "object_count": 31,
-    "screenshot_sha256": "4a7f94519e92bc1b0b8fd43087d3ce75cdc54b7e2cee577a5b6345d76342b35e",
+    "object_count": 32,
+    "screenshot_sha256": "905ddd3d3bebbdb981cdc7cfd464aff68b3831180f20c3aff0bcdda0140940af",
     "status": "pending_visual_review",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
-    "fast_preview_sha256": "c87f00abb4150aaa1c85c8de68904e9810e8c3768b4f735311b93bd9afa402d4"
+    "fast_preview_sha256": "64af5895859ada35fac0abdd014c01204616df49b54dd3c03f7e314cb62f7873"
   },
   {
     "theme_id": "T09",
@@ -1106,7 +1110,7 @@
     },
     "object_count": 28,
     "screenshot_sha256": "dac3b9dd058919435a5c8587ae8e010f2c0f4e725c2c2ac7fe329c47674d461d",
-    "status": "pending_visual_review",
+    "status": "verified",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
     "fast_preview_sha256": "24964e4fb2c0698a31b1cab9a53c0af8743486d386511ab6d1bd09b2f0107eb1"
@@ -1114,13 +1118,13 @@
   {
     "theme_id": "T10",
     "name": "明式文人禅室",
-    "fingerprint": "68af7f5879049a99e0984facbad5978fec20782f9d101f86e2c80e0dd247b6bb",
+    "fingerprint": "1720b23326fc8b99cb8d24a546da346e1a4a7eb7d806b9bede4bb166cdd3eb42",
     "source_snapshot": {
       "theme_id": "T10",
       "review_protocol": "paired-v2",
       "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
       "background_sha256": "cc2024e34cf7adc651d0669ff8729b67805453666e16100c71d9ee27bd15124e",
-      "plan_sha256": "fc9b7cc9793ed5fb0ecd75cbdd22c1449be2190ebebedd3f7e4193b677b729b1",
+      "plan_sha256": "1a2e3b90e5f43cd13c49c5e4d700db5bcda4e907b037efeb9ccd1ca0b36d7575",
       "objects": [
         {
           "object_id": "T10-01",
@@ -1208,7 +1212,7 @@
         },
         {
           "object_id": "T10-23",
-          "sha256": "767e51cfef81926ccbc8be873fdc2ec1f3520df27f0c681d38efb8def5c1e8c7"
+          "sha256": "99ac082aca22e8bb8ecca146aee74510f792c66fa85ff62d1839619e58bb66c4"
         },
         {
           "object_id": "T10-24",
@@ -1260,7 +1264,7 @@
         },
         {
           "object_id": "T10-40",
-          "sha256": "6b08347ce2af6dba6649940d84ce4739baf7805a1786a523ee78ccbcafd1e50b"
+          "sha256": "6540bbb0bd513989abc5182fb1a1fb93da1017bfdf9d27482b0d4cdf85f85848"
         },
         {
           "object_id": "T10-41",
@@ -1269,15 +1273,23 @@
         {
           "object_id": "T10-42",
           "sha256": "391c19359d267668c943f3ae4b8529b5a100b9283b8ca4be6a850f190f14051c"
+        },
+        {
+          "object_id": "T10-43",
+          "sha256": "987cd4ccc42d344ea527d8d816cc1b4816288a19c1b39810cef4c931006ceea1"
+        },
+        {
+          "object_id": "T10-44",
+          "sha256": "97ed61c2a77e20085f0ddd81e67b76d4422f7f0bbc5232b4ed19c66f7650642f"
         }
       ]
     },
-    "object_count": 37,
-    "screenshot_sha256": "e5a06def821d794a65a4fdee7405cf6deddb581c221e7b3f082e5f0aa487fca9",
+    "object_count": 39,
+    "screenshot_sha256": "9e7d705b0d3d4b8844c7b847fc5acef18a71233dff346e773d25220bda14bca6",
     "status": "pending_visual_review",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
-    "fast_preview_sha256": "a45cf75db99d40d26015058a93d3d40290addca9ace2509647ee29b21b236d6e"
+    "fast_preview_sha256": "d09f5f976f2d1cd6968e3712e4ae98535240cef16c0802a8fd9b4e51f8341319"
   },
   {
     "theme_id": "T11",
@@ -1394,7 +1406,7 @@
     },
     "object_count": 25,
     "screenshot_sha256": "f8c4bc7c10e8493b4902afa6ea588f47597400f3846d3fc4aae9826e72a18c43",
-    "status": "pending_visual_review",
+    "status": "verified",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
     "fast_preview_sha256": "ea9ac1267933b1bc04a9bbb2ceb3cd4b6cf68a2fea4866feb4d113258cb9a3fa"
@@ -1402,13 +1414,13 @@
   {
     "theme_id": "T12",
     "name": "竹林晨雾禅居",
-    "fingerprint": "cbcdaa54b7d71af19f8ba181aff2117eae857496d8ccf06b3cbebe1d592cdc7c",
+    "fingerprint": "ff4319ed5a41af301e92bb190848dde5b408fca0de5a25a14c75a477ac58625a",
     "source_snapshot": {
       "theme_id": "T12",
       "review_protocol": "paired-v2",
       "source_sha256": "948d10285302fb20b701bcf3852aaff595ca33d9cc3793c424b878e551f12f47",
       "background_sha256": "f3019789008212fd0e3296a7bdd2bf4ca10688352a751646a0560de836d410d4",
-      "plan_sha256": "8bca3ca14dd0e2645d86edda1b1b78d5a74210a66f855bd962fb70f59b172d45",
+      "plan_sha256": "ec261e60004742d6d9fb05e8a21eae0b5514e93c2d6a16009709ab1677ef77cd",
       "objects": [
         {
           "object_id": "T12-01",
@@ -1484,11 +1496,11 @@
         },
         {
           "object_id": "T12-22",
-          "sha256": "5806e7b6544208f8aaa46b8b5693245a5ad9edbfcc1b39581d50fb7c19318962"
+          "sha256": "955862c2cdafe842cece1c4bc3c84448c1f03cd5c1a75dd9ee2a53dd0592f4b9"
         },
         {
           "object_id": "T12-23",
-          "sha256": "3b8b353917f9c1175c48de21bf45bde1fbace0aa730302b3217ed0380f1f280f"
+          "sha256": "69039e6c46e35497110a9628fbcf3491337a67a22759ad28b45a854674abfe32"
         },
         {
           "object_id": "T12-24",
@@ -1501,11 +1513,11 @@
       ]
     },
     "object_count": 22,
-    "screenshot_sha256": "5db2753d571928106a084d9bcfff3ae543ea04445618296131dfa8f133f35297",
+    "screenshot_sha256": "80eb5f1f13a1d3db741712203a7f7998f65f670c198ac3c63ef133a2566cf5d4",
     "status": "pending_visual_review",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
-    "fast_preview_sha256": "14de94941f51120aa3d0710533660f3a01ef90f5273996ae8d1f642c88dec681"
+    "fast_preview_sha256": "96e5c4c5ea18d43a9e43456f102a1f457ece51895fac995d5824e5cdf7b3935e"
   },
   {
     "theme_id": "T13",
@@ -1622,13 +1634,13 @@
   {
     "theme_id": "T14",
     "name": "北欧原木静修室",
-    "fingerprint": "c2312832b6cde706b91f4ea000b5a266718b06e64aeab44d38d26254521c7bc8",
+    "fingerprint": "9d8c9b6deb9f37b850711ae60048e06ab489a2bb39cedbaf292e813d7507e1a4",
     "source_snapshot": {
       "theme_id": "T14",
       "review_protocol": "paired-v2",
       "source_sha256": "ffeac69e152110e84286aaaeeb2012b609ea294f81b9a6252c3b7c932d92c5df",
       "background_sha256": "dd336147aca47c476831fc68c9d2e9aaab206ccda2f789602882d53a554c76d3",
-      "plan_sha256": "96e58529eb87bb7303ee2d59f150f5c09ada786ced2aa77dd542e2c62cbb0f3e",
+      "plan_sha256": "af9a542853e782edad0036947522945e9729270f4cb39a2f59cb2945f139af7b",
       "objects": [
         {
           "object_id": "T14-01",
@@ -1733,15 +1745,19 @@
         {
           "object_id": "T14-27",
           "sha256": "b8353913afd77378e2ff023c250a2112c03a1c97400cd12221d294bf6c06072f"
+        },
+        {
+          "object_id": "T14-28",
+          "sha256": "5a4e9b066f6cda25cadd459f215c9c1fc86df9f8ed4eb323ccef2bd47ab2e5fb"
         }
       ]
     },
-    "object_count": 26,
-    "screenshot_sha256": "735669048635dd26df87fa45a04365174441ab3c9b5dccdd2f5d6756e18c67f6",
+    "object_count": 27,
+    "screenshot_sha256": "9f974dcc240376fe84bd06887acc9f2e7b0a5ad761d0ca52a76e6a3d25a39902",
     "status": "pending_visual_review",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
-    "fast_preview_sha256": "7718663b1980bcaff94642b64fe7738df0b75a04f2c8c83d8304f1b790c878c8"
+    "fast_preview_sha256": "f80d7005ba99b2d42c62c28c9702368ee73ccfda0e9aa84eabb8cdaa81c52079"
   },
   {
     "theme_id": "T15",
@@ -1934,13 +1950,13 @@
   {
     "theme_id": "T17",
     "name": "海岸白石禅室",
-    "fingerprint": "ef1bac46d34e28fc477d65cc30710436b18c280639d94a137e899bc454dc9a66",
+    "fingerprint": "378bd2a83bada4f26007475f7d170ee54f7b20cd5fbb4ad413b95b7fca93a3a6",
     "source_snapshot": {
       "theme_id": "T17",
       "review_protocol": "paired-v2",
       "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
-      "background_sha256": "25325eb4be696652a10cf90eb3ed890247e451f31eb1ef00521a943dddbcbde7",
-      "plan_sha256": "5cdd1a3f85e07ae6f3fc7e38c54dff28ac3f52267e06aee0d71cda3a8e1e704c",
+      "background_sha256": "e3fba34e073ba9a7d455ff8bdd8c5062459a2da1ee8564037680742816667183",
+      "plan_sha256": "913e122e02c9f2534adf1d1e029ce1cc27d86938c171dc85aae51c299c1f674b",
       "objects": [
         {
           "object_id": "T17-01",
@@ -2045,15 +2061,19 @@
         {
           "object_id": "T17-27",
           "sha256": "dfc6f63ebe4b57cf222ea68d1368a3f99b519805c0b02f709a17662694d16c63"
+        },
+        {
+          "object_id": "T17-28",
+          "sha256": "702f95590e4766f962705e912d3c3cb718b1687cac645f169f7344d237f97900"
         }
       ]
     },
-    "object_count": 26,
-    "screenshot_sha256": "936590d2397685b28a74db96559161b5890df9f5495fceb307fcd179dedc21fb",
+    "object_count": 27,
+    "screenshot_sha256": "e87aa4c47ea2f64102010afa107cb51aa329978a1e7e6833ffb4f3d6531ada7d",
     "status": "pending_visual_review",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
-    "fast_preview_sha256": "07bb40607879d0c02a9197383f3e9233bf1b66f2bceef751eb4e52c899b9fdc9"
+    "fast_preview_sha256": "55290cb1ad7e1b19726755aa4c8c1d0ca8f4c1254baf72c3d2f822beb2d95158"
   },
   {
     "theme_id": "T18",

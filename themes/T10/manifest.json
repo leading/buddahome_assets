@@ -1,13 +1,13 @@
 {
   "theme_id": "T10",
   "name": "明式文人禅室",
-  "fingerprint": "68af7f5879049a99e0984facbad5978fec20782f9d101f86e2c80e0dd247b6bb",
+  "fingerprint": "1720b23326fc8b99cb8d24a546da346e1a4a7eb7d806b9bede4bb166cdd3eb42",
   "snapshot": {
     "theme_id": "T10",
     "review_protocol": "paired-v2",
     "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
     "background_sha256": "cc2024e34cf7adc651d0669ff8729b67805453666e16100c71d9ee27bd15124e",
-    "plan_sha256": "fc9b7cc9793ed5fb0ecd75cbdd22c1449be2190ebebedd3f7e4193b677b729b1",
+    "plan_sha256": "1a2e3b90e5f43cd13c49c5e4d700db5bcda4e907b037efeb9ccd1ca0b36d7575",
     "objects": [
       {
         "object_id": "T10-01",
@@ -95,7 +95,7 @@
       },
       {
         "object_id": "T10-23",
-        "sha256": "767e51cfef81926ccbc8be873fdc2ec1f3520df27f0c681d38efb8def5c1e8c7"
+        "sha256": "99ac082aca22e8bb8ecca146aee74510f792c66fa85ff62d1839619e58bb66c4"
       },
       {
         "object_id": "T10-24",
@@ -147,7 +147,7 @@
       },
       {
         "object_id": "T10-40",
-        "sha256": "6b08347ce2af6dba6649940d84ce4739baf7805a1786a523ee78ccbcafd1e50b"
+        "sha256": "6540bbb0bd513989abc5182fb1a1fb93da1017bfdf9d27482b0d4cdf85f85848"
       },
       {
         "object_id": "T10-41",
@@ -156,6 +156,14 @@
       {
         "object_id": "T10-42",
         "sha256": "391c19359d267668c943f3ae4b8529b5a100b9283b8ca4be6a850f190f14051c"
+      },
+      {
+        "object_id": "T10-43",
+        "sha256": "987cd4ccc42d344ea527d8d816cc1b4816288a19c1b39810cef4c931006ceea1"
+      },
+      {
+        "object_id": "T10-44",
+        "sha256": "97ed61c2a77e20085f0ddd81e67b76d4422f7f0bbc5232b4ed19c66f7650642f"
       }
     ]
   },
@@ -333,9 +341,9 @@
     {
       "object_id": "T10-23",
       "name": "后桌空金属盖器",
-      "description": "源图后桌右中黄铜古铜带盖容器，完整空器身，取盖并去除内容物，不猜用途。 HTTPS复核纠错：现有PNG仍是盖着盖的黄铜容器。只保留完整敞口的空容器身及其双耳、底足和本身纹饰，完整移除炉盖和盖钮；24号已有单独的盖，不在旁边摆盖。",
+      "description": "Remove the entire lid and finial from this brass vessel. Preserve the complete matching brass vessel BODY, handles, feet and decoration. Deliver one empty OPEN vessel, no lid anywhere in the image.",
       "classification": "standalone_object",
-      "sha256": "767e51cfef81926ccbc8be873fdc2ec1f3520df27f0c681d38efb8def5c1e8c7",
+      "sha256": "99ac082aca22e8bb8ecca146aee74510f792c66fa85ff62d1839619e58bb66c4",
       "path": "objects/T10-23.png"
     },
     {
@@ -437,9 +445,9 @@
     {
       "object_id": "T10-40",
       "name": "书架青花空罐",
-      "description": "源图右侧嵌墙书架上的青花瓷罐，完整空罐身，有独立盖则取下，不带书架、内容物或周围书。 HTTPS复核纠错：现有青花罐PNG仍带盖。只保留完整敞口空罐身及蓝白纹饰；完整移除圆盖、盖钮，不在旁边摆盖。41号已有独立罐盖。",
+      "description": "Remove the entire lid and finial from the blue-and-white porcelain jar. Preserve the original jar body silhouette and painted decoration. Deliver one complete empty OPEN jar, with visible mouth and inner rim, no lid anywhere.",
       "classification": "standalone_object",
-      "sha256": "6b08347ce2af6dba6649940d84ce4739baf7805a1786a523ee78ccbcafd1e50b",
+      "sha256": "6540bbb0bd513989abc5182fb1a1fb93da1017bfdf9d27482b0d4cdf85f85848",
       "path": "objects/T10-40.png"
     },
     {
@@ -457,6 +465,22 @@
       "classification": "source_position_layer",
       "sha256": "391c19359d267668c943f3ae4b8529b5a100b9283b8ca4be6a850f190f14051c",
       "path": "objects/T10-42.png"
+    },
+    {
+      "object_id": "T10-43",
+      "name": "前景深木圈椅",
+      "description": "Extract ONE complete traditional dark-brown wooden armchair matching the curved wooden chair rails visible at the LEFT side of the low tea table and in the LOWER LEFT foreground. Keep the source wood color and curved back/arm design. Reconstruct the obscured seat and legs conservatively in the same wood; no invented upholstery or decorative motifs. Exclude table, flowers, cloth bundles and floor. The same chair asset may represent matching repeated chairs.",
+      "classification": "standalone_object",
+      "sha256": "987cd4ccc42d344ea527d8d816cc1b4816288a19c1b39810cef4c931006ceea1",
+      "path": "objects/T10-43.png"
+    },
+    {
+      "object_id": "T10-44",
+      "name": "佛像下深木阶形座",
+      "description": "Extract ONLY the separate shallow dark-brown rectangular stepped wooden plinth directly under the ivory Buddha lotus sculpture on the rear altar. Preserve the source visible stacked rim/step profile. Empty top, no statue, lotus, main altar table or other objects. Do not confuse the white integral lotus base with this wooden support.",
+      "classification": "standalone_object",
+      "sha256": "97ed61c2a77e20085f0ddd81e67b76d4422f7f0bbc5232b4ed19c66f7650642f",
+      "path": "objects/T10-44.png"
     }
   ],
   "review": "../../reviews/themes/T10/overview.jpg",

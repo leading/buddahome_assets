@@ -1,13 +1,13 @@
 {
   "theme_id": "T08",
   "name": "斯里兰卡月白佛堂",
-  "fingerprint": "49e738f93e6aa8660e49f9c3b4caa2f5bc1a4e9f1504e4c09021b86152cb4b7a",
+  "fingerprint": "f9054ff655b5dd39abc1d9cf029efb7c1505d249cd8fabeed3ebb545fb624f8e",
   "snapshot": {
     "theme_id": "T08",
     "review_protocol": "paired-v2",
     "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
     "background_sha256": "7fb1a3dc84505d2d4480dfb5e103cb62559abd926dca5a6ddabd81e420d9a9c7",
-    "plan_sha256": "82f52242249ed8e26f82046dba0f633b4e1004ab37adce66c765bbe535677d55",
+    "plan_sha256": "34c40ab5c28e7b261047b76dff32c73480d55615b311eac9b39d050a920fa8b7",
     "objects": [
       {
         "object_id": "T08-01",
@@ -75,11 +75,11 @@
       },
       {
         "object_id": "T08-19",
-        "sha256": "9534697e4540d7440b6b495187decb12174481fccf86b4d9f80eb19d668a0f9f"
+        "sha256": "6554353f1cc25cd6ab7acc386ad6fdcddfa0a5dd9ba23686ea420c9877497c80"
       },
       {
         "object_id": "T08-20",
-        "sha256": "d285e6cbc75703e40e7e83e9ee8c21d1ebd67e48093d59bbc940c3e5db1d176a"
+        "sha256": "87ea99344d1aa050ec041c52f829912a2a5e0900aa5181185160efb8e1858087"
       },
       {
         "object_id": "T08-21",
@@ -132,6 +132,10 @@
       {
         "object_id": "T08-33",
         "sha256": "58674dcb39ff29733191ca9e851c8e29225a2a246fdad1f3f20a8383de8ee5ee"
+      },
+      {
+        "object_id": "T08-36",
+        "sha256": "39477bbfaea9c496a4960e656af4ac0899fa51aca93433e494aad65b2607519d"
       }
     ]
   },
@@ -269,17 +273,17 @@
     {
       "object_id": "T08-19",
       "name": "左后方绿叶白花饰",
-      "description": "源图佛像左后方绿叶白花组合，只在它确是可移动布置花材时完整提取，无建筑。若为窗外植被或固定环境植物则返回空透明图交背景保留检查，不造花盆。 HTTPS复核纠错：现有图错误加了白色雕花高脚花盆。源图佛像左后方的绿叶与白花没有这只容器。保留白色鸡蛋花、绿叶及自身枝茎，彻底删除所有花盆、雕花基座、土团和底座；不可重新发明容器。",
+      "description": "Extract the actual white plumeria flowers and green leafy branches behind the LEFT side of the Buddha. No pot or vessel is visible there. Remove every invented white carved urn, pedestal, pot, soil and saucer. Deliver only the flower/leaf branch group. Preserve the actual broad tropical banana-like green leaves behind the Buddha and associated white plumeria blossoms. Follow the source scene only; the old potted-bush design is not authoritative.",
       "classification": "standalone_object",
-      "sha256": "9534697e4540d7440b6b495187decb12174481fccf86b4d9f80eb19d668a0f9f",
+      "sha256": "6554353f1cc25cd6ab7acc386ad6fdcddfa0a5dd9ba23686ea420c9877497c80",
       "path": "objects/T08-19.png"
     },
     {
       "object_id": "T08-20",
       "name": "右后方绿叶白花饰",
-      "description": "源图佛像右后方绿叶白花组合，只提取确为可移动且不同于左侧的花饰；外景植被、固定环境植物或同款复用项返回透明空图，不造容器。 HTTPS复核纠错：现有图错误加了白色雕花高脚花盆。源图佛像右后方的绿叶与白花没有这只容器。保留本侧白色鸡蛋花、绿叶及自身枝茎，彻底删除所有花盆、雕花基座、土团和底座；不可重新发明容器。",
+      "description": "Extract the actual white plumeria flowers and green leafy branches behind the RIGHT side of the Buddha. Remove every invented white carved urn, pedestal, pot, soil and saucer. Only the actual leafy flower branch group. Preserve the actual broad tropical banana-like green leaves behind the Buddha and associated white plumeria blossoms. Follow the source scene only; the old potted-bush design is not authoritative.",
       "classification": "standalone_object",
-      "sha256": "d285e6cbc75703e40e7e83e9ee8c21d1ebd67e48093d59bbc940c3e5db1d176a",
+      "sha256": "87ea99344d1aa050ec041c52f829912a2a5e0900aa5181185160efb8e1858087",
       "path": "objects/T08-20.png"
     },
     {
@@ -385,6 +389,14 @@
       "classification": "standalone_object",
       "sha256": "58674dcb39ff29733191ca9e851c8e29225a2a246fdad1f3f20a8383de8ee5ee",
       "path": "objects/T08-33.png"
+    },
+    {
+      "object_id": "T08-36",
+      "name": "左下前景绿叶白花原位层",
+      "description": "Extract ONLY the large soft-focus green leaves and attached white flowers entering the extreme LOWER LEFT foreground, in front of the left water basin. Exclude the basin, water, floating flowers inside the water, steps and all other plants. Preserve the original source scale, position, blur and edge clipping.",
+      "classification": "source_position_layer",
+      "sha256": "39477bbfaea9c496a4960e656af4ac0899fa51aca93433e494aad65b2607519d",
+      "path": "objects/T08-36.png"
     }
   ],
   "review": "../../reviews/themes/T08/overview.jpg",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T20:22:04.036954+00:00",
+  "updated_at": "2026-09-25T20:32:39.252903+00:00",
   "candidates": [
     {
       "id": "T14-19",
@@ -88,14 +88,14 @@
     {
       "id": "T13-27",
       "kind": "addition",
-      "sha256": "7ed018c4e1b3d1fcc20eddb60b6193f0a4f15e37bf56c0852bd53fcd0602e314",
+      "sha256": "bc179f429653748ded8bdf132d53b4c72ec665f9976dda652279a24338f9298c",
       "source_sha256": "f8fe6541602bbc00a9350c7114468ddd3558b94ef1d42308fb8975b63c5dd9a0",
       "status": "generated_pending_review"
     },
     {
       "id": "T13-28",
       "kind": "addition",
-      "sha256": "1591d1cce45e35b8c130789c336c2d010316089790bb0d2b4e7f5cf6178a3ec0",
+      "sha256": "d3931dd6776004a68961a7a00cdd051299bb26e835940dd23d5bba81dc246bd8",
       "source_sha256": "f8fe6541602bbc00a9350c7114468ddd3558b94ef1d42308fb8975b63c5dd9a0",
       "status": "generated_pending_review"
     },
@@ -109,21 +109,21 @@
     {
       "id": "T07-40",
       "kind": "addition",
-      "sha256": "f7d9e3c968e31b68fe6dae360990db5f5daa82237745aac0f3acaaa6d6df92e9",
+      "sha256": "3ce5887ba55213ed9661e4aef2179e5d2372f96310df08fff323ea1dbe662147",
       "source_sha256": "a57e65ce8714c601d031d46b178651d6d2e2e3fd28d97ea8db6a725a5fd6a0cc",
       "status": "generated_pending_review"
     },
     {
       "id": "T08-34",
       "kind": "addition",
-      "sha256": "781b95fc75a55003ae914b76d7bc9a26c5963d456f98b6281f0a20a062298f04",
+      "sha256": "105e2e0ce87db69ddae6ba97bc1fa66e8cf69d411ef0727b74251cee92c75d1e",
       "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
       "status": "generated_pending_review"
     },
     {
       "id": "T08-35",
       "kind": "addition",
-      "sha256": "ec4000d18d95ed3d1218676117c6b3aa6dedca01dadec6067e4fbdd32ccf3015",
+      "sha256": "fc33e060e5d4f89aca00a15657fd44bf59a43371b0b4eff95a755f1026a77719",
       "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
       "status": "generated_pending_review"
     },
@@ -146,91 +146,91 @@
       "kind": "replacement",
       "sha256": "fe8363fac221466e5093d55c90cf3d0d48c5bf61e9fa6d786d07a65a68c68e3d",
       "source_sha256": "a57e65ce8714c601d031d46b178651d6d2e2e3fd28d97ea8db6a725a5fd6a0cc",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T08-19",
       "kind": "replacement",
       "sha256": "6554353f1cc25cd6ab7acc386ad6fdcddfa0a5dd9ba23686ea420c9877497c80",
       "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T08-20",
       "kind": "replacement",
       "sha256": "87ea99344d1aa050ec041c52f829912a2a5e0900aa5181185160efb8e1858087",
       "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T10-23",
       "kind": "replacement",
       "sha256": "99ac082aca22e8bb8ecca146aee74510f792c66fa85ff62d1839619e58bb66c4",
       "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T10-40",
       "kind": "replacement",
       "sha256": "6540bbb0bd513989abc5182fb1a1fb93da1017bfdf9d27482b0d4cdf85f85848",
       "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T12-22",
       "kind": "replacement",
       "sha256": "955862c2cdafe842cece1c4bc3c84448c1f03cd5c1a75dd9ee2a53dd0592f4b9",
       "source_sha256": "948d10285302fb20b701bcf3852aaff595ca33d9cc3793c424b878e551f12f47",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T12-23",
       "kind": "replacement",
       "sha256": "69039e6c46e35497110a9628fbcf3491337a67a22759ad28b45a854674abfe32",
       "source_sha256": "948d10285302fb20b701bcf3852aaff595ca33d9cc3793c424b878e551f12f47",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T08-36",
       "kind": "addition",
       "sha256": "39477bbfaea9c496a4960e656af4ac0899fa51aca93433e494aad65b2607519d",
       "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T10-43",
       "kind": "addition",
       "sha256": "987cd4ccc42d344ea527d8d816cc1b4816288a19c1b39810cef4c931006ceea1",
       "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T10-44",
       "kind": "addition",
       "sha256": "97ed61c2a77e20085f0ddd81e67b76d4422f7f0bbc5232b4ed19c66f7650642f",
       "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T14-28",
       "kind": "addition",
       "sha256": "5a4e9b066f6cda25cadd459f215c9c1fc86df9f8ed4eb323ccef2bd47ab2e5fb",
       "source_sha256": "ffeac69e152110e84286aaaeeb2012b609ea294f81b9a6252c3b7c932d92c5df",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T17-28",
       "kind": "addition",
       "sha256": "702f95590e4766f962705e912d3c3cb718b1687cac645f169f7344d237f97900",
       "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     },
     {
       "id": "T17-BG2",
       "kind": "background",
       "sha256": "e3fba34e073ba9a7d455ff8bdd8c5062459a2da1ee8564037680742816667183",
       "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
-      "status": "generated_pending_review"
+      "status": "promoted_after_https_review"
     }
   ],
   "not_final_theme_acceptance": true

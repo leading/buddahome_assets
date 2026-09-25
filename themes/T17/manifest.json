@@ -1,13 +1,13 @@
 {
   "theme_id": "T17",
   "name": "海岸白石禅室",
-  "fingerprint": "ef1bac46d34e28fc477d65cc30710436b18c280639d94a137e899bc454dc9a66",
+  "fingerprint": "378bd2a83bada4f26007475f7d170ee54f7b20cd5fbb4ad413b95b7fca93a3a6",
   "snapshot": {
     "theme_id": "T17",
     "review_protocol": "paired-v2",
     "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
-    "background_sha256": "25325eb4be696652a10cf90eb3ed890247e451f31eb1ef00521a943dddbcbde7",
-    "plan_sha256": "5cdd1a3f85e07ae6f3fc7e38c54dff28ac3f52267e06aee0d71cda3a8e1e704c",
+    "background_sha256": "e3fba34e073ba9a7d455ff8bdd8c5062459a2da1ee8564037680742816667183",
+    "plan_sha256": "913e122e02c9f2534adf1d1e029ce1cc27d86938c171dc85aae51c299c1f674b",
     "objects": [
       {
         "object_id": "T17-01",
@@ -112,6 +112,10 @@
       {
         "object_id": "T17-27",
         "sha256": "dfc6f63ebe4b57cf222ea68d1368a3f99b519805c0b02f709a17662694d16c63"
+      },
+      {
+        "object_id": "T17-28",
+        "sha256": "702f95590e4766f962705e912d3c3cb718b1687cac645f169f7344d237f97900"
       }
     ]
   },
@@ -325,6 +329,14 @@
       "classification": "standalone_object",
       "sha256": "dfc6f63ebe4b57cf222ea68d1368a3f99b519805c0b02f709a17662694d16c63",
       "path": "objects/T17-27.png"
+    },
+    {
+      "object_id": "T17-28",
+      "name": "左下近景白花绿叶原位层",
+      "description": "Extract only the soft-focus white blossoms, green leaves and associated slender stems entering the LOWER LEFT foreground of this original source scene. Keep their original full portrait canvas position, natural blur, edge clipping and source size. Do not enlarge or center the cluster. Exclude all floor, furniture, vessels and other plants. Reconstruct no whole plant, pot or roots.",
+      "classification": "source_position_layer",
+      "sha256": "702f95590e4766f962705e912d3c3cb718b1687cac645f169f7344d237f97900",
+      "path": "objects/T17-28.png"
     }
   ],
   "review": "../../reviews/themes/T17/overview.jpg",

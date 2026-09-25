@@ -1,13 +1,13 @@
 {
   "theme_id": "T07",
   "name": "尼泊尔纽瓦铜艺佛堂",
-  "fingerprint": "3f7179b368797284c12ba8a6e85dff6d04d01d48dadd9084fbde326204398816",
+  "fingerprint": "42d39b0f74ef141a3eec531624cb5586485252bab3355a514d207c0b3e036e23",
   "source_snapshot": {
     "theme_id": "T07",
     "review_protocol": "paired-v2",
     "source_sha256": "a57e65ce8714c601d031d46b178651d6d2e2e3fd28d97ea8db6a725a5fd6a0cc",
     "background_sha256": "2dca63b446130fd1c5dbc3d18c3e9d6943855a665bd8c4a6425a35b8517d1d20",
-    "plan_sha256": "b633233503b817fb0a2f554060b108d2a6c06d393ebce67d0927021248bb4efc",
+    "plan_sha256": "72542f5909825f9c0dc21bd56578b9252cc51f9021e8169c239274473307376a",
     "objects": [
       {
         "object_id": "T07-01",
@@ -131,7 +131,7 @@
       },
       {
         "object_id": "T07-34",
-        "sha256": "613fa54408c4b219535d7ad866e68d1e873b4fef0c54de2b2192cc4fb731e69a"
+        "sha256": "fe8363fac221466e5093d55c90cf3d0d48c5bf61e9fa6d786d07a65a68c68e3d"
       },
       {
         "object_id": "T07-35",
@@ -156,9 +156,9 @@
     ]
   },
   "object_count": 36,
-  "screenshot_sha256": "e3a2a356a4c231e14e73324fe68c2bae4a6fe58388ba1ede28f93c58bae18fc5",
+  "screenshot_sha256": "0a2bd38a6ab3d60978e12c0f9fb5dff12c9458384f3857d6e3a388fc35f29cd3",
   "status": "pending_visual_review",
   "screenshot": "overview.png",
   "fast_preview": "overview-fast.jpg",
-  "fast_preview_sha256": "65e7adc113a03f316d3dcd1f35774376b9eb62d4e2f2e6ec4e53a1edeb75ed57"
+  "fast_preview_sha256": "b240859ebc419ba3e6efe3bbfd357929350d487c598f2df62361eab3485a7085"
 }

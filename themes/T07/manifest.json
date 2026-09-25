@@ -1,13 +1,13 @@
 {
   "theme_id": "T07",
   "name": "尼泊尔纽瓦铜艺佛堂",
-  "fingerprint": "3f7179b368797284c12ba8a6e85dff6d04d01d48dadd9084fbde326204398816",
+  "fingerprint": "42d39b0f74ef141a3eec531624cb5586485252bab3355a514d207c0b3e036e23",
   "snapshot": {
     "theme_id": "T07",
     "review_protocol": "paired-v2",
     "source_sha256": "a57e65ce8714c601d031d46b178651d6d2e2e3fd28d97ea8db6a725a5fd6a0cc",
     "background_sha256": "2dca63b446130fd1c5dbc3d18c3e9d6943855a665bd8c4a6425a35b8517d1d20",
-    "plan_sha256": "b633233503b817fb0a2f554060b108d2a6c06d393ebce67d0927021248bb4efc",
+    "plan_sha256": "72542f5909825f9c0dc21bd56578b9252cc51f9021e8169c239274473307376a",
     "objects": [
       {
         "object_id": "T07-01",
@@ -131,7 +131,7 @@
       },
       {
         "object_id": "T07-34",
-        "sha256": "613fa54408c4b219535d7ad866e68d1e873b4fef0c54de2b2192cc4fb731e69a"
+        "sha256": "fe8363fac221466e5093d55c90cf3d0d48c5bf61e9fa6d786d07a65a68c68e3d"
       },
       {
         "object_id": "T07-35",
@@ -401,9 +401,9 @@
     {
       "object_id": "T07-34",
       "name": "右侧开花绿植",
-      "description": "源图下方右盆中的完整开花绿植，保留本侧可见枝形，不带盆或院外树木。完全同款可复用左植物时返回空透明图复核。 HTTPS复核纠错：现有花材图底部仍带完整铜花盆。只保留原右侧开花绿植的花朵、枝干和叶片；彻底删除铜盆、盆口、泥土外壳及底碟。33号已有独立空盆。保留枝形花型，不把移除的盆摆到旁边。",
+      "description": "Keep only the actual flowering shrub: flowers, leaves, branches and insertion stems. Completely remove the copper flowerpot, rim, soil shell and saucer. Preserve all real visible foliage and flower colors.",
       "classification": "standalone_object",
-      "sha256": "613fa54408c4b219535d7ad866e68d1e873b4fef0c54de2b2192cc4fb731e69a",
+      "sha256": "fe8363fac221466e5093d55c90cf3d0d48c5bf61e9fa6d786d07a65a68c68e3d",
       "path": "objects/T07-34.png"
     },
     {

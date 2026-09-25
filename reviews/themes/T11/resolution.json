@@ -1,0 +1,462 @@
+{
+  "theme_id": "T11",
+  "status": "resolved",
+  "review_method": "direct_https_html_screenshot_visual_inspection",
+  "fingerprint": "3a3c2b1116ffba42dc9f39323342847780d0b26cdee9dc15bf637145fd3af560",
+  "snapshot": {
+    "theme_id": "T11",
+    "review_protocol": "paired-v2",
+    "source_sha256": "f685283f987bf713f1d13ba060017f5aa786f77a76cdf770c6bb2351e84500a3",
+    "background_sha256": "edc8309672e317c164ed87c024182bcac5b4064da2ec66441627a7d522608b8c",
+    "plan_sha256": "d9806bfb6d6e9f01ca66781fa4e347347a85186ed030cd20f880affd173c1fbb",
+    "objects": [
+      {
+        "object_id": "T11-01",
+        "sha256": "227d3d320f726d0ae74711c8eac4fd6abc9bf43abbdea3e056cb35b274d8523d"
+      },
+      {
+        "object_id": "T11-02",
+        "sha256": "ab2ab95373b6db0c56f603e6f613beece8c2be6f0a12fcd01958e29b7a5fc565"
+      },
+      {
+        "object_id": "T11-04",
+        "sha256": "7d1ca45feafd2c0e32a0a17cd942daec20d992b06708a6b2846a74af1a0546b5"
+      },
+      {
+        "object_id": "T11-05",
+        "sha256": "96425d0b1f80600c1a42a5b1ce42336f999853d6f3d13bde400d48c6065f3b70"
+      },
+      {
+        "object_id": "T11-06",
+        "sha256": "75eaa3c5227a5f3fef17efe101101fb14e04b1fae5a3a1992e55571d6aaca957"
+      },
+      {
+        "object_id": "T11-07",
+        "sha256": "e8a60f789b989817fc668630a650145c2134fc54295600ff2e1ef69e53e56a3a"
+      },
+      {
+        "object_id": "T11-08",
+        "sha256": "639c5e0c8da463a92624366e0a009d6483ffc5ab575b3a783bde8e0ff22ef359"
+      },
+      {
+        "object_id": "T11-09",
+        "sha256": "108f74989b14933c7ef39e07b5cbbd6bf88f25c3dd1f2f6ae42620a0270fca85"
+      },
+      {
+        "object_id": "T11-10",
+        "sha256": "e442984c6e4d04dd016a31d22795ae33ec1ed5382011a4554e3d9bbb851569a2"
+      },
+      {
+        "object_id": "T11-11",
+        "sha256": "305e9a0be35b936e2b6556dfe627648d5773350fe457b2cba16b099a6e065ca2"
+      },
+      {
+        "object_id": "T11-12",
+        "sha256": "cef69b6f46832be2d07d3de62b7a9d25509b42c03ee8d2390a2abab5ae092f28"
+      },
+      {
+        "object_id": "T11-13",
+        "sha256": "82409b0d5732215a9411640183b5179387e93e3f375ad312e0657c1b691cab1c"
+      },
+      {
+        "object_id": "T11-14",
+        "sha256": "31b14724ea0facbe5b0a7e92211e7ada7a9b73124ff20526d364a0da6edb1a06"
+      },
+      {
+        "object_id": "T11-16",
+        "sha256": "ba6fd508bae911e47c368c372d6393554b89f27b68d959820d706fa250d3fc7b"
+      },
+      {
+        "object_id": "T11-17",
+        "sha256": "f5041080f626ad2bb451ea2efaa6082560be799adaac3b2cd523fe9d99e8541e"
+      },
+      {
+        "object_id": "T11-18",
+        "sha256": "5f877acb3d5ccdaf63f9368af5d2c568c54df62419935e7ae11ccdc5cb846021"
+      },
+      {
+        "object_id": "T11-19",
+        "sha256": "6d20fcdd8e10d5c61de7a7f91ed1f4ae1b301e7a929d248f234a07e5abff2875"
+      },
+      {
+        "object_id": "T11-20",
+        "sha256": "642c157922e18ff78178a738818164ea52ac498f749ff297f1fc0242ec8ef1f3"
+      },
+      {
+        "object_id": "T11-21",
+        "sha256": "22c6b582cfa4076954e83361ed69b0632c9cebeb70b7d6c7245e188ac4e5c510"
+      },
+      {
+        "object_id": "T11-23",
+        "sha256": "f16774c6bf0b4d342d2e20b50446191b31ebbd1a22a545a5b5097cea7d5caddc"
+      },
+      {
+        "object_id": "T11-24",
+        "sha256": "b62c41dfc59f7f42c94d03e2662a3f92daf9c3d681bb7e3caa818c904f287406"
+      },
+      {
+        "object_id": "T11-25",
+        "sha256": "14c527324fd2778d62f6c91904723a73d88c079fcb0b9314c5b2fee8da8800af"
+      },
+      {
+        "object_id": "T11-26",
+        "sha256": "72d0c518473fc73a35a6128028fab3178efbd5b3095aab87b325c30b91212601"
+      },
+      {
+        "object_id": "T11-27",
+        "sha256": "e0875c94cddfc45ac526f76404160f0ec37cb608e59161674d26bcd48cdd295d"
+      },
+      {
+        "object_id": "T11-28",
+        "sha256": "9efcaeb0d716c3adee5b5c80a34e2d366c29109baef9381c072b8e1afe6ea678"
+      }
+    ]
+  },
+  "coverage": {
+    "status": "pass",
+    "unresolved": [],
+    "source_mapping": [
+      {
+        "source_region": "后供桌、坐佛与前方雕木供案",
+        "asset_ids": [
+          "T11-01",
+          "T11-02",
+          "T11-17"
+        ]
+      },
+      {
+        "source_region": "左侧空瓶与梅枝花束",
+        "asset_ids": [
+          "T11-04",
+          "T11-05"
+        ]
+      },
+      {
+        "source_region": "成对小灯台与可复用白柱蜡",
+        "asset_ids": [
+          "T11-06",
+          "T11-07"
+        ]
+      },
+      {
+        "source_region": "香炉敞口器身、独立盖和线香",
+        "asset_ids": [
+          "T11-08",
+          "T11-09",
+          "T11-18"
+        ]
+      },
+      {
+        "source_region": "橙子果碗、果实及独立托盘",
+        "asset_ids": [
+          "T11-10",
+          "T11-11",
+          "T11-27"
+        ]
+      },
+      {
+        "source_region": "青瓷茶壶、空杯和茶盘",
+        "asset_ids": [
+          "T11-12",
+          "T11-13",
+          "T11-14"
+        ]
+      },
+      {
+        "source_region": "独立带叶供花",
+        "asset_ids": [
+          "T11-19"
+        ]
+      },
+      {
+        "source_region": "坐垫与编织地席",
+        "asset_ids": [
+          "T11-16",
+          "T11-20"
+        ]
+      },
+      {
+        "source_region": "深木落地灯",
+        "asset_ids": [
+          "T11-21"
+        ]
+      },
+      {
+        "source_region": "右侧花盆、绿植与雕木花几",
+        "asset_ids": [
+          "T11-23",
+          "T11-24",
+          "T11-25"
+        ]
+      },
+      {
+        "source_region": "水墨山水挂轴",
+        "asset_ids": [
+          "T11-26"
+        ]
+      },
+      {
+        "source_region": "左下近景白花绿叶层",
+        "asset_ids": [
+          "T11-28"
+        ]
+      }
+    ]
+  },
+  "background": {
+    "status": "pass",
+    "unresolved": [],
+    "reason": "木窗、窗外江南院景、墙地及固定建筑保留；坐佛、前后供案、桌面器物、落地灯、右侧室内盆栽与花几、山水挂轴、坐垫地席及近景花叶均已移除。"
+  },
+  "objects": {
+    "T11-01": {
+      "status": "pass",
+      "reason": "供桌或主题主台：已与源图「后供桌、坐佛与前方雕木供案」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-02": {
+      "status": "pass",
+      "reason": "坐佛：已与源图「后供桌、坐佛与前方雕木供案」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-17": {
+      "status": "pass",
+      "reason": "前方独立雕木供案：已与源图「后供桌、坐佛与前方雕木供案」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-04": {
+      "status": "pass",
+      "reason": "空花瓶：已与源图「左侧空瓶与梅枝花束」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-05": {
+      "status": "pass",
+      "reason": "花枝花束：已与源图「左侧空瓶与梅枝花束」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-06": {
+      "status": "pass",
+      "reason": "空烛台或灯盏：已与源图「成对小灯台与可复用白柱蜡」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-07": {
+      "status": "pass",
+      "reason": "未点燃白蜡烛：已与源图「成对小灯台与可复用白柱蜡」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-08": {
+      "status": "pass",
+      "reason": "空香炉：已与源图「香炉敞口器身、独立盖和线香」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-09": {
+      "status": "pass",
+      "reason": "未点燃线香：已与源图「香炉敞口器身、独立盖和线香」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-18": {
+      "status": "pass",
+      "reason": "旁置金属香炉盖：已与源图「香炉敞口器身、独立盖和线香」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-10": {
+      "status": "pass",
+      "reason": "空供盘：已与源图「橙子果碗、果实及独立托盘」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-11": {
+      "status": "pass",
+      "reason": "橙子：已与源图「橙子果碗、果实及独立托盘」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-27": {
+      "status": "pass",
+      "reason": "左侧果碗独立托盘：已与源图「橙子果碗、果实及独立托盘」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-12": {
+      "status": "pass",
+      "reason": "茶壶：已与源图「青瓷茶壶、空杯和茶盘」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-13": {
+      "status": "pass",
+      "reason": "空茶杯：已与源图「青瓷茶壶、空杯和茶盘」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-14": {
+      "status": "pass",
+      "reason": "茶托：已与源图「青瓷茶壶、空杯和茶盘」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-19": {
+      "status": "pass",
+      "reason": "白色带叶供花：已与源图「独立带叶供花」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-16": {
+      "status": "pass",
+      "reason": "坐垫：已与源图「坐垫与编织地席」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-20": {
+      "status": "pass",
+      "reason": "天然编织地席：已与源图「坐垫与编织地席」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-21": {
+      "status": "pass",
+      "reason": "深木落地灯完整独立，错误整灯式重复内芯22已归档。"
+    },
+    "T11-23": {
+      "status": "pass",
+      "reason": "右侧深色空花盆：已与源图「右侧花盆、绿植与雕木花几」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-24": {
+      "status": "pass",
+      "reason": "完整绿植无盆或台几粘连。"
+    },
+    "T11-25": {
+      "status": "pass",
+      "reason": "右侧雕木花几：已与源图「右侧花盆、绿植与雕木花几」对应；独立透明物件，无相邻家具或背景粘连，容器为空。"
+    },
+    "T11-26": {
+      "status": "pass",
+      "reason": "山水挂轴独立含悬挂部分，无墙面；背景中已移除。"
+    },
+    "T11-28": {
+      "status": "pass",
+      "reason": "新增左下花叶层经尺度校正，无木家具底板粘连。"
+    }
+  },
+  "retired_candidates": [
+    {
+      "object_id": "T11-03",
+      "status": "retired_duplicate_or_unsubstantiated_component",
+      "covered_by": [
+        "T11-02"
+      ],
+      "covered_by_background": false,
+      "retained_asset_sha256": {
+        "T11-02": "ab2ab95373b6db0c56f603e6f613beece8c2be6f0a12fcd01958e29b7a5fc565"
+      },
+      "reason": "源图灰白坐佛莲座为同材质连续雕像，02已含完整莲座；03是同一雕座的重复候选。",
+      "original_candidate": {
+        "slot": 3,
+        "name": "佛像底座",
+        "category": "家具与底座",
+        "subcategory": "底座",
+        "ability": "可承托",
+        "texture": "1k",
+        "description": "源图白色佛像下独立雕花莲座，空座；若一体不可拆则返回空透明图。",
+        "review_note": "依据源图盘点模型草稿细化；数量、材质及可拆关系待视觉复核。"
+      },
+      "retired_at": "2026-09-25T16:00:24.292564+00:00",
+      "source_sha256": "f685283f987bf713f1d13ba060017f5aa786f77a76cdf770c6bb2351e84500a3",
+      "retired_png_sha256": "b770ee3725074ca7dbfa330624e37741078700e45c5e3474e47bf6297d2393b7",
+      "archived_png": "历史版本/候选退役/T11-03/b770ee3725074ca7/T11_03_佛像底座.png",
+      "evidence_metadata": "exports/buddhahome-theme-assets/01_主题总库/T11_江南雨窗佛堂/拆后检查/直接退役证据/8dc9628808831425/T11-03.json",
+      "evidence_text_sha256": "252dfdec4a42776a022ac0a921a59b4d8d05342ca4ba13076d72b6c9214fe400",
+      "retained_png_sha256": "ab2ab95373b6db0c56f603e6f613beece8c2be6f0a12fcd01958e29b7a5fc565"
+    },
+    {
+      "object_id": "T11-22",
+      "status": "retired_duplicate_or_unsubstantiated_component",
+      "covered_by": [
+        "T11-21"
+      ],
+      "covered_by_background": false,
+      "retained_asset_sha256": {
+        "T11-21": "22c6b582cfa4076954e83361ed69b0632c9cebeb70b7d6c7245e188ac4e5c510"
+      },
+      "reason": "22候选是一整只带顶盖、框格和底座的金属灯笼，不能作为源图21木框落地灯的内芯。原图内部不可见，且21已覆盖实际灯体；退役错误整灯式内芯，不发明第二只灯。",
+      "original_candidate": {
+        "slot": 22,
+        "name": "落地灯未点燃内芯",
+        "category": "灯烛",
+        "subcategory": "灯芯",
+        "ability": "可点燃",
+        "texture": "512",
+        "description": "匹配右后落地灯的一枚简洁未点燃内芯，不可见部分为推断重建，无灯壳烟火。",
+        "review_note": "源图盘点草稿补充项；遮挡处与内腔合理重建，来源对应和数量待复核。"
+      },
+      "retired_at": "2026-09-25T19:11:37.219485+00:00",
+      "source_sha256": "f685283f987bf713f1d13ba060017f5aa786f77a76cdf770c6bb2351e84500a3",
+      "retired_png_sha256": "b9ab1995b10e818c43a5055c38ca738f587cc27f37dd124fa52e202f738b4e49",
+      "archived_png": "历史版本/候选退役/T11-22/b9ab1995b10e818c/T11_22_落地灯未点燃内芯.png",
+      "evidence_metadata": "exports/buddhahome-theme-assets/01_主题总库/T11_江南雨窗佛堂/拆后检查/直接退役证据/cdb8d3d94a6984e3/T11-22.json",
+      "evidence_text_sha256": "136b5a1d726e61cc7201dbc4ff6257b20debf4cdc0b580ab19917085795f7db0",
+      "retained_png_sha256": "22c6b582cfa4076954e83361ed69b0632c9cebeb70b7d6c7245e188ac4e5c510"
+    }
+  ],
+  "supplemental_evidence": [],
+  "evidence": [
+    {
+      "kind": "whole_source_coverage",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T11_江南雨窗佛堂/拆后检查/直接HTML检查/3a3c2b1116ffba42/direct-visual-review.md",
+      "text_sha256": "c47c8c3eb0a7d05995184de4c1383e29253c8f9d2ebb6e272491bbe925d0bfdc",
+      "wanted_ids": []
+    },
+    {
+      "kind": "empty_background",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T11_江南雨窗佛堂/拆后检查/直接HTML检查/3a3c2b1116ffba42/direct-visual-review.md",
+      "text_sha256": "c47c8c3eb0a7d05995184de4c1383e29253c8f9d2ebb6e272491bbe925d0bfdc",
+      "wanted_ids": []
+    },
+    {
+      "kind": "individual_assets",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T11_江南雨窗佛堂/拆后检查/直接HTML检查/3a3c2b1116ffba42/direct-visual-review.md",
+      "text_sha256": "c47c8c3eb0a7d05995184de4c1383e29253c8f9d2ebb6e272491bbe925d0bfdc",
+      "wanted_ids": [
+        "T11-01",
+        "T11-02",
+        "T11-04",
+        "T11-05",
+        "T11-06",
+        "T11-07",
+        "T11-08",
+        "T11-09",
+        "T11-10",
+        "T11-11",
+        "T11-12",
+        "T11-13",
+        "T11-14",
+        "T11-16",
+        "T11-17",
+        "T11-18",
+        "T11-19",
+        "T11-20",
+        "T11-21",
+        "T11-23",
+        "T11-24",
+        "T11-25",
+        "T11-26",
+        "T11-27",
+        "T11-28"
+      ]
+    }
+  ],
+  "direct_visual_review": {
+    "manifest_path": "exports/buddhahome-theme-assets/01_主题总库/T11_江南雨窗佛堂/拆后检查/直接HTML检查/3a3c2b1116ffba42/manifest.json",
+    "screenshot_sha256": "f8c4bc7c10e8493b4902afa6ea588f47597400f3846d3fc4aae9826e72a18c43",
+    "repository_commit": "5c89ae9fb3fe1d8c18cd4b8d2405b81ced0be46b",
+    "viewed_https_url": "https://raw.githubusercontent.com/leading/buddahome_assets/5c89ae9fb3fe1d8c18cd4b8d2405b81ced0be46b/reviews/themes/T11/overview-fast.jpg",
+    "reviewed_ids": [
+      "T11-01",
+      "T11-02",
+      "T11-04",
+      "T11-05",
+      "T11-06",
+      "T11-07",
+      "T11-08",
+      "T11-09",
+      "T11-10",
+      "T11-11",
+      "T11-12",
+      "T11-13",
+      "T11-14",
+      "T11-16",
+      "T11-17",
+      "T11-18",
+      "T11-19",
+      "T11-20",
+      "T11-21",
+      "T11-23",
+      "T11-24",
+      "T11-25",
+      "T11-26",
+      "T11-27",
+      "T11-28"
+    ],
+    "source_inspected": true,
+    "background_inspected": true,
+    "inspected_at": "2026-09-25T20:28:12.291868+00:00",
+    "viewed_jpeg_sha256": "ea9ac1267933b1bc04a9bbb2ceb3cd4b6cf68a2fea4866feb4d113258cb9a3fa"
+  },
+  "limitations": [
+    "隐藏表面为适配补全；不宣称逐像素还原。",
+    ""
+  ],
+  "updated_at": "2026-09-25T20:28:12.292952+00:00"
+}

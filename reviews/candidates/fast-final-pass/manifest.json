@@ -1,0 +1,146 @@
+{
+  "updated_at": "2026-09-25T19:45:06.952967+00:00",
+  "candidates": [
+    {
+      "id": "T14-19",
+      "kind": "replacement",
+      "sha256": "56a2416957774075b853414633bf37b133646293be2638349240c490e9d56668",
+      "source_sha256": "ffeac69e152110e84286aaaeeb2012b609ea294f81b9a6252c3b7c932d92c5df",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T16-25",
+      "kind": "replacement",
+      "sha256": "9536ba1327c182427e9f629ebf174e4b2defe7938bb897b43fd203e184bdea30",
+      "source_sha256": "8b28ed30c71df82cbbfe6027043b64e1183056b64c7a098f3297356c68c6ed46",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T16-02",
+      "kind": "replacement",
+      "sha256": "c3557a9e42569780cc7c338c971f0b272eb896b124432af883f6e953d59fc3b8",
+      "source_sha256": "8b28ed30c71df82cbbfe6027043b64e1183056b64c7a098f3297356c68c6ed46",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T17-23",
+      "kind": "replacement",
+      "sha256": "2f143aca8fb27230ae820ef4621529ac74299ba273cec425a33cece5ee2cec4a",
+      "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T08-31",
+      "kind": "replacement",
+      "sha256": "c7c1070c6c5d41a2539c2636d53028e41fbe274da3b0ec65eac843210ecfb296",
+      "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T08-32",
+      "kind": "replacement",
+      "sha256": "4987bdffeac8e23481f0a7a6fd587ddea6142acb3802dad6e3e6e001d81731ad",
+      "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T06-31",
+      "kind": "addition",
+      "sha256": "402004ac8e1f8460afdd7bbb291fa348b8bd5654a0689ed1c0536960d991887e",
+      "source_sha256": "6c4e4c317d734ff2ebcac81f986c2dec05a3ed0ca6445e49082aacfb0c330933",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T09-31",
+      "kind": "addition",
+      "sha256": "862d4ffaaf40ad4fff7ca18c0f1404dfc8567b8570d7827dd52f147369319c89",
+      "source_sha256": "10704c2edd9274bbfea90228c51601f27fe455f5d8e528637a83d3483c6100e7",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T09-32",
+      "kind": "addition",
+      "sha256": "165979263fea7f764d474072a0dfca1eba812c14baa49a56da7ef2269bd79cd1",
+      "source_sha256": "10704c2edd9274bbfea90228c51601f27fe455f5d8e528637a83d3483c6100e7",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T10-42",
+      "kind": "addition",
+      "sha256": "391c19359d267668c943f3ae4b8529b5a100b9283b8ca4be6a850f190f14051c",
+      "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T11-28",
+      "kind": "addition",
+      "sha256": "fdb7e375980ab58f54e5043760f8aacf1c216e54f23700bff5b2e11cb1184763",
+      "source_sha256": "f685283f987bf713f1d13ba060017f5aa786f77a76cdf770c6bb2351e84500a3",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T12-25",
+      "kind": "addition",
+      "sha256": "03aceb325fcded9a5ff876dec5d1a06214e910275437079942ff0aa105e8f958",
+      "source_sha256": "948d10285302fb20b701bcf3852aaff595ca33d9cc3793c424b878e551f12f47",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T13-27",
+      "kind": "addition",
+      "sha256": "6ac73c3ab8f14e8f35626b07222128e12b8c4fa2d1cbaa9e85550e9aeccbcb3c",
+      "source_sha256": "f8fe6541602bbc00a9350c7114468ddd3558b94ef1d42308fb8975b63c5dd9a0",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T13-28",
+      "kind": "addition",
+      "sha256": "d027d827e418b03b406dbae09710809f0bc25a2eb57e1ffc95eb584136942483",
+      "source_sha256": "f8fe6541602bbc00a9350c7114468ddd3558b94ef1d42308fb8975b63c5dd9a0",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T18-25",
+      "kind": "addition",
+      "sha256": "8b29988fdb84ee047b839b74d87e6c2d818029dad8fb625b448a085abf0045ec",
+      "source_sha256": "e6e91cf8977c1ef383b80139508c10ac2e9a5c8f379f2b866492af541a971c50",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T07-40",
+      "kind": "addition",
+      "sha256": "f7d9e3c968e31b68fe6dae360990db5f5daa82237745aac0f3acaaa6d6df92e9",
+      "source_sha256": "a57e65ce8714c601d031d46b178651d6d2e2e3fd28d97ea8db6a725a5fd6a0cc",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T08-34",
+      "kind": "addition",
+      "sha256": "781b95fc75a55003ae914b76d7bc9a26c5963d456f98b6281f0a20a062298f04",
+      "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T08-35",
+      "kind": "addition",
+      "sha256": "ec4000d18d95ed3d1218676117c6b3aa6dedca01dadec6067e4fbdd32ccf3015",
+      "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T17-27",
+      "kind": "addition",
+      "sha256": "dfc6f63ebe4b57cf222ea68d1368a3f99b519805c0b02f709a17662694d16c63",
+      "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
+      "status": "generated_pending_review"
+    },
+    {
+      "id": "T17-BG",
+      "kind": "background",
+      "sha256": "25325eb4be696652a10cf90eb3ed890247e451f31eb1ef00521a943dddbcbde7",
+      "source_sha256": "11dfdee6c5dba7e535acb1249c172f0613e2cd9d46e26a8b07982027b1eafb46",
+      "status": "generated_pending_review"
+    }
+  ],
+  "not_final_theme_acceptance": true
+}

@@ -1,13 +1,13 @@
 {
   "theme_id": "T08",
   "name": "斯里兰卡月白佛堂",
-  "fingerprint": "d98a8cedd137bd64545a5850849633c6a5f58ea23cc699ac5d5f0ded98da6d21",
+  "fingerprint": "971eb516c0a3599aa902775b228f2b708fe1588dfa8cd5493c54b999908b827a",
   "snapshot": {
     "theme_id": "T08",
     "review_protocol": "paired-v2",
     "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
     "background_sha256": "7fb1a3dc84505d2d4480dfb5e103cb62559abd926dca5a6ddabd81e420d9a9c7",
-    "plan_sha256": "78b12583ec970c4fae87bf4fa8226e35cb22deb5ac0bb223dbaddf4fe8eef2e8",
+    "plan_sha256": "9859239fb859adb311a88737630eb1f5abf3246881fdb880b351a4449344cf30",
     "objects": [
       {
         "object_id": "T08-01",
@@ -16,10 +16,6 @@
       {
         "object_id": "T08-02",
         "sha256": "0b1b216f62a540edf5844f3dd346765ba9868e403870493e337f415a4842527c"
-      },
-      {
-        "object_id": "T08-03",
-        "sha256": "e987add6fa160b39010d287e0dc6cbb3c974c4f5f6ba5276b6d60844404a552a"
       },
       {
         "object_id": "T08-04",
@@ -157,14 +153,6 @@
       "classification": "standalone_object",
       "sha256": "0b1b216f62a540edf5844f3dd346765ba9868e403870493e337f415a4842527c",
       "path": "objects/T08-02.png"
-    },
-    {
-      "object_id": "T08-03",
-      "name": "佛像底座",
-      "description": "源图坐佛下象牙白莲花座，仅在确实独立可分时提取空座，若为雕像一体则返回透明空图复核。",
-      "classification": "standalone_object",
-      "sha256": "e987add6fa160b39010d287e0dc6cbb3c974c4f5f6ba5276b6d60844404a552a",
-      "path": "objects/T08-03.png"
     },
     {
       "object_id": "T08-04",

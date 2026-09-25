@@ -1,13 +1,13 @@
 {
   "theme_id": "T12",
   "name": "竹林晨雾禅居",
-  "fingerprint": "6c52c2410a33c170333e1d835e0dc96a575af7aad9269d81719098ab7434a574",
+  "fingerprint": "ce78443cc42aba5db45143881dbb8f897bf7be69c5b60d95469e781be78d78b1",
   "source_snapshot": {
     "theme_id": "T12",
     "review_protocol": "paired-v2",
     "source_sha256": "948d10285302fb20b701bcf3852aaff595ca33d9cc3793c424b878e551f12f47",
     "background_sha256": "f3019789008212fd0e3296a7bdd2bf4ca10688352a751646a0560de836d410d4",
-    "plan_sha256": "5fa168e4348cdc50c6e15f88450d8a57682d1e5e805ed7c19a6d4fb4058bfa5f",
+    "plan_sha256": "5621513c7a01441cb8e81117d67c70f7d095398e7d0ddd6a6f379a1504973c0e",
     "objects": [
       {
         "object_id": "T12-01",
@@ -16,10 +16,6 @@
       {
         "object_id": "T12-02",
         "sha256": "ad3e5167ae9d8074da11313c17422a676e3be03a1ed62d993e12f636b4306add"
-      },
-      {
-        "object_id": "T12-03",
-        "sha256": "0bb36348c3054e0ac860a368b3cf479b89e52968a1d85fb403e189dfbdb487be"
       },
       {
         "object_id": "T12-04",
@@ -99,10 +95,10 @@
       }
     ]
   },
-  "object_count": 22,
-  "screenshot_sha256": "9321f05e6d65df5f81e0daae315a94c23c0218b857cf1552bbb00811d2d284b5",
+  "object_count": 21,
+  "screenshot_sha256": "8affde4fded0d3b1d748149aaac015311a64b57ce87aa09139a230b4004f3e18",
   "status": "pending_visual_review",
   "screenshot": "overview.png",
   "fast_preview": "overview-fast.jpg",
-  "fast_preview_sha256": "768b7a188641771404c56895f36d9255dc4d212fb3427811221f1be72f6fc841"
+  "fast_preview_sha256": "fc690a6c5042625301a96026b17a6f1e0fd44c5c51e706562bad8c47eac90e5a"
 }

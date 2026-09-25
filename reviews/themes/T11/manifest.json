@@ -1,13 +1,13 @@
 {
   "theme_id": "T11",
   "name": "江南雨窗佛堂",
-  "fingerprint": "cdb8d3d94a6984e31913b9079be9767dc1e7c0117c786bf0e36b740a3e0b32ae",
+  "fingerprint": "d1b9e96cf7c7c5e54d4aeb9ace262eab38808bbd16389ecf78d4f6cee669590f",
   "source_snapshot": {
     "theme_id": "T11",
     "review_protocol": "paired-v2",
     "source_sha256": "f685283f987bf713f1d13ba060017f5aa786f77a76cdf770c6bb2351e84500a3",
     "background_sha256": "edc8309672e317c164ed87c024182bcac5b4064da2ec66441627a7d522608b8c",
-    "plan_sha256": "48ceb37fef9dd1ecec082278840c4d83f305483ab535850f5047274023d51568",
+    "plan_sha256": "707b0f959375460801814090df738d105abf35d4f736bced6bb3a813af74da13",
     "objects": [
       {
         "object_id": "T11-01",
@@ -86,10 +86,6 @@
         "sha256": "22c6b582cfa4076954e83361ed69b0632c9cebeb70b7d6c7245e188ac4e5c510"
       },
       {
-        "object_id": "T11-22",
-        "sha256": "b9ab1995b10e818c43a5055c38ca738f587cc27f37dd124fa52e202f738b4e49"
-      },
-      {
         "object_id": "T11-23",
         "sha256": "f16774c6bf0b4d342d2e20b50446191b31ebbd1a22a545a5b5097cea7d5caddc"
       },
@@ -111,10 +107,10 @@
       }
     ]
   },
-  "object_count": 25,
-  "screenshot_sha256": "c430626acbd0c842fcd9d79c0962a894a008582c3cfbd0ec6d724eb0cda43126",
+  "object_count": 24,
+  "screenshot_sha256": "f35684ec434d6a44817209aab19f4256e5e833ccad09bce93795bcff1a4f48d5",
   "status": "pending_visual_review",
   "screenshot": "overview.png",
   "fast_preview": "overview-fast.jpg",
-  "fast_preview_sha256": "d6ac95f90c1682695f26f4b5bd9aa57fece3004e569c9046f60a3f64d80d25f0"
+  "fast_preview_sha256": "dfab48352c123aadee230eb169a4be44d928e01ffba8d95703ffb01ca42e756a"
 }

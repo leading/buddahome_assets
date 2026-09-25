@@ -1,13 +1,13 @@
 {
   "theme_id": "T07",
   "name": "尼泊尔纽瓦铜艺佛堂",
-  "fingerprint": "05388d9bfccbcff066cc2ea7819dc4dd914517c3253198fbd60e3fdd7a5991e9",
+  "fingerprint": "3f7179b368797284c12ba8a6e85dff6d04d01d48dadd9084fbde326204398816",
   "snapshot": {
     "theme_id": "T07",
     "review_protocol": "paired-v2",
     "source_sha256": "a57e65ce8714c601d031d46b178651d6d2e2e3fd28d97ea8db6a725a5fd6a0cc",
     "background_sha256": "2dca63b446130fd1c5dbc3d18c3e9d6943855a665bd8c4a6425a35b8517d1d20",
-    "plan_sha256": "3bdef267dbe7cda36fd1219849dd9734fc826d1528d28a554435c947254925f2",
+    "plan_sha256": "b633233503b817fb0a2f554060b108d2a6c06d393ebce67d0927021248bb4efc",
     "objects": [
       {
         "object_id": "T07-01",
@@ -16,10 +16,6 @@
       {
         "object_id": "T07-02",
         "sha256": "8cd52c6b92afb6f0bfb745c1590f7c08db22b5dfdff0719e90ffea7428654c7a"
-      },
-      {
-        "object_id": "T07-03",
-        "sha256": "34ced72616c343e856857ce5709f2f12f15f53017b6869212b2847d834035342"
       },
       {
         "object_id": "T07-04",
@@ -177,14 +173,6 @@
       "classification": "standalone_object",
       "sha256": "8cd52c6b92afb6f0bfb745c1590f7c08db22b5dfdff0719e90ffea7428654c7a",
       "path": "objects/T07-02.png"
-    },
-    {
-      "object_id": "T07-03",
-      "name": "佛像底座",
-      "description": "源图金铜坐佛下方可辨为独立件的莲花座，完整空座；若为一体雕像不可分则返回空透明图复核。",
-      "classification": "standalone_object",
-      "sha256": "34ced72616c343e856857ce5709f2f12f15f53017b6869212b2847d834035342",
-      "path": "objects/T07-03.png"
     },
     {
       "object_id": "T07-04",

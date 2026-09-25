@@ -1,13 +1,13 @@
 {
   "theme_id": "T10",
   "name": "明式文人禅室",
-  "fingerprint": "e5c947f1b6e55799aac97894f7a3316803d01f4cfd8b35c0ed0c16952f4ae0e1",
+  "fingerprint": "98478a55f95ca7d92666d09ed3b3a68b38c58a6549ec1d2a920bf50edea591ec",
   "snapshot": {
     "theme_id": "T10",
     "review_protocol": "paired-v2",
     "source_sha256": "7d45c27dc74f65cee0fb08542cc260518f7892aadfbc3e540fe32ee954c7a21e",
     "background_sha256": "cc2024e34cf7adc651d0669ff8729b67805453666e16100c71d9ee27bd15124e",
-    "plan_sha256": "e2159a40b3b5f45bbc7929f66724067f18d1df74046d3f2c5fdac7c0fe6991dc",
+    "plan_sha256": "44db5a2a586a891b43873315280df0946eb8565ff2d1d107c0a2b04d5f1662d9",
     "objects": [
       {
         "object_id": "T10-01",
@@ -16,10 +16,6 @@
       {
         "object_id": "T10-02",
         "sha256": "b303f69f0736bcf38541de959d41b73749adf8bbb9a72f77d0047f2dacd2c120"
-      },
-      {
-        "object_id": "T10-03",
-        "sha256": "378c6ed2dbdeefd1f2c006dfb352ab19c4c82d4769557f4671c101d83ea403a6"
       },
       {
         "object_id": "T10-04",
@@ -35,7 +31,7 @@
       },
       {
         "object_id": "T10-07",
-        "sha256": "80d08d675a524916a4fc71dbea6824a1ddf601114655d4e4699656ac9d388dce"
+        "sha256": "abbabe57eceac015c5ae247858ffe692c07986bfdce5b8b335da91b3e3ada668"
       },
       {
         "object_id": "T10-08",
@@ -142,18 +138,6 @@
         "sha256": "35d3fe99e77f2002cbab35d3700a76d03e926666c12730537cad6b387db44ece"
       },
       {
-        "object_id": "T10-35",
-        "sha256": "399389e4841d19bc22e92c2824b4d329884e63c2ae67f48ee3d5937e137bc8bc"
-      },
-      {
-        "object_id": "T10-36",
-        "sha256": "e64c1be80f4fe3829409073b1736425f08b93ca19f50a8e34fc27fccc8c48de7"
-      },
-      {
-        "object_id": "T10-37",
-        "sha256": "a21589eda4a334256a0c299b187d7e0ae568209c7a7fce4900fa1bfa4140e52d"
-      },
-      {
         "object_id": "T10-38",
         "sha256": "d15e1753b0a3722a4d664145d98595e500cf4f4f0049b7fea17bdfb77738f03b"
       },
@@ -191,14 +175,6 @@
       "path": "objects/T10-02.png"
     },
     {
-      "object_id": "T10-03",
-      "name": "佛像底座",
-      "description": "源图佛像下独立乳白莲花座，完整空座，一体不可拆则空透明图待复核。",
-      "classification": "standalone_object",
-      "sha256": "378c6ed2dbdeefd1f2c006dfb352ab19c4c82d4769557f4671c101d83ea403a6",
-      "path": "objects/T10-03.png"
-    },
-    {
       "object_id": "T10-04",
       "name": "空花瓶",
       "description": "源图后供桌左侧青花瓷瓶，完整空瓶，去掉白花绿叶和水。",
@@ -227,7 +203,7 @@
       "name": "未点燃白蜡烛",
       "description": "源图后桌黄铜烛灯中一根完整白蜡烛，芯未点燃，无灯具烟火。 HTTPS复核纠错：现有PNG把整座黄铜烛台一起带出。只保留一根完整未点燃白蜡烛及烛芯；删除全部黄铜灯座、托碗、立柱及圆底座。06号已有独立烛台。",
       "classification": "standalone_object",
-      "sha256": "80d08d675a524916a4fc71dbea6824a1ddf601114655d4e4699656ac9d388dce",
+      "sha256": "abbabe57eceac015c5ae247858ffe692c07986bfdce5b8b335da91b3e3ada668",
       "path": "objects/T10-07.png"
     },
     {
@@ -437,30 +413,6 @@
       "classification": "standalone_object",
       "sha256": "35d3fe99e77f2002cbab35d3700a76d03e926666c12730537cad6b387db44ece",
       "path": "objects/T10-34.png"
-    },
-    {
-      "object_id": "T10-35",
-      "name": "山水画左幅",
-      "description": "源图后墙三幅框装山水屏画的左幅，仅独立画框与画芯，无其余两幅或墙，不新增可读文字。",
-      "classification": "standalone_object",
-      "sha256": "399389e4841d19bc22e92c2824b4d329884e63c2ae67f48ee3d5937e137bc8bc",
-      "path": "objects/T10-35.png"
-    },
-    {
-      "object_id": "T10-36",
-      "name": "山水画中幅",
-      "description": "源图后墙三幅框装山水屏画的中幅，独立完整画框和画芯，无墙和左右画。",
-      "classification": "standalone_object",
-      "sha256": "e64c1be80f4fe3829409073b1736425f08b93ca19f50a8e34fc27fccc8c48de7",
-      "path": "objects/T10-36.png"
-    },
-    {
-      "object_id": "T10-37",
-      "name": "山水画右幅",
-      "description": "源图后墙三幅框装山水屏画的右幅，独立完整画框和画芯，无墙和其他画。",
-      "classification": "standalone_object",
-      "sha256": "a21589eda4a334256a0c299b187d7e0ae568209c7a7fce4900fa1bfa4140e52d",
-      "path": "objects/T10-37.png"
     },
     {
       "object_id": "T10-38",

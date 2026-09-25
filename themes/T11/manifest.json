@@ -1,13 +1,13 @@
 {
   "theme_id": "T11",
   "name": "江南雨窗佛堂",
-  "fingerprint": "cdb8d3d94a6984e31913b9079be9767dc1e7c0117c786bf0e36b740a3e0b32ae",
+  "fingerprint": "d1b9e96cf7c7c5e54d4aeb9ace262eab38808bbd16389ecf78d4f6cee669590f",
   "snapshot": {
     "theme_id": "T11",
     "review_protocol": "paired-v2",
     "source_sha256": "f685283f987bf713f1d13ba060017f5aa786f77a76cdf770c6bb2351e84500a3",
     "background_sha256": "edc8309672e317c164ed87c024182bcac5b4064da2ec66441627a7d522608b8c",
-    "plan_sha256": "48ceb37fef9dd1ecec082278840c4d83f305483ab535850f5047274023d51568",
+    "plan_sha256": "707b0f959375460801814090df738d105abf35d4f736bced6bb3a813af74da13",
     "objects": [
       {
         "object_id": "T11-01",
@@ -84,10 +84,6 @@
       {
         "object_id": "T11-21",
         "sha256": "22c6b582cfa4076954e83361ed69b0632c9cebeb70b7d6c7245e188ac4e5c510"
-      },
-      {
-        "object_id": "T11-22",
-        "sha256": "b9ab1995b10e818c43a5055c38ca738f587cc27f37dd124fa52e202f738b4e49"
       },
       {
         "object_id": "T11-23",
@@ -265,14 +261,6 @@
       "classification": "standalone_object",
       "sha256": "22c6b582cfa4076954e83361ed69b0632c9cebeb70b7d6c7245e188ac4e5c510",
       "path": "objects/T11-21.png"
-    },
-    {
-      "object_id": "T11-22",
-      "name": "落地灯未点燃内芯",
-      "description": "匹配右后落地灯的一枚简洁未点燃内芯，不可见部分为推断重建，无灯壳烟火。",
-      "classification": "standalone_object",
-      "sha256": "b9ab1995b10e818c43a5055c38ca738f587cc27f37dd124fa52e202f738b4e49",
-      "path": "objects/T11-22.png"
     },
     {
       "object_id": "T11-23",

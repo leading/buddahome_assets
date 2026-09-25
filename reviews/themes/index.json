@@ -834,7 +834,7 @@
     },
     "object_count": 37,
     "screenshot_sha256": "b26c196508e155c8ed287e6a163f5ccfaf133688846cacf1bff2c0257e6b0c70",
-    "status": "pending_visual_review",
+    "status": "verified",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
     "fast_preview_sha256": "2e717df904a5f797d67b1503f5793a7b2a54f5134371d7164a1818a42f5f53f1"
@@ -990,7 +990,7 @@
     },
     "object_count": 34,
     "screenshot_sha256": "dc3d8be2abfde0ecc5f876cc75a76c9397dfaff92a4b1d8a26916a64659e8805",
-    "status": "pending_visual_review",
+    "status": "verified",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
     "fast_preview_sha256": "faea67175e5c2e46c367002ab5f1c65a7380d53a5950e3bf83991536a54ddafd"
@@ -1646,7 +1646,7 @@
     },
     "object_count": 25,
     "screenshot_sha256": "f6feef9d75bbe479b7ecd912f4c79ad80affc37b9685915e2e5bd42dfb635cac",
-    "status": "pending_visual_review",
+    "status": "verified",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
     "fast_preview_sha256": "9df9aacf0f1ed406a5653f7dc670a6cb7d6b8229c39d8b92c6eb188a90410317"
@@ -1774,7 +1774,7 @@
     },
     "object_count": 27,
     "screenshot_sha256": "a711ee590236bbf59a8a055be78d4eb4714961f4dd6e65df6c68b9eeeb61d6eb",
-    "status": "pending_visual_review",
+    "status": "verified",
     "screenshot": "overview.png",
     "fast_preview": "overview-fast.jpg",
     "fast_preview_sha256": "93151d12fd689d01125c689b2ba40c780e0e02a41f9dfbf1097f69935c8aac37"

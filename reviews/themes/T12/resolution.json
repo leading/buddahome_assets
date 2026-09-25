@@ -206,7 +206,8 @@
     },
     "T12-07": {
       "status": "pass",
-      "reason": "未燃蜡芯独立；石灯遮挡部分为适配补全，不宣称源图可见完整内部。"
+      "reason": "未燃蜡芯独立；石灯遮挡部分为适配补全，不宣称源图可见完整内部。",
+      "evidence_type": "functional_reconstruction"
     },
     "T12-20": {
       "status": "pass",

@@ -258,7 +258,8 @@
     },
     "T06-07": {
       "status": "pass",
-      "reason": "单独未燃灯芯为源图灯盏遮挡内部的适配补全，无外部灯壳；不声称内部细节原图可见。"
+      "reason": "单独未燃灯芯为源图灯盏遮挡内部的适配补全，无外部灯壳；不声称内部细节原图可见。",
+      "evidence_type": "functional_reconstruction"
     },
     "T06-08": {
       "status": "pass",

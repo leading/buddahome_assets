@@ -1,0 +1,129 @@
+{
+  "updated_at": "2026-09-25T21:06:40.434699+00:00",
+  "scope": "T02–T21, all 20 themes",
+  "active_transparent_object_pngs": 549,
+  "background_pngs": 20,
+  "verified_theme_count": 20,
+  "pending_themes": [],
+  "full_goal_status": "complete",
+  "chat_base64_images": false,
+  "asset_publication_commit": "05d05d9b8492b03fd3de3d3bd0511c102820846a",
+  "asset_repository": "https://github.com/leading/buddahome_assets",
+  "requirements": {
+    "all_20_themes_generated": true,
+    "each_current_object_has_real_alpha": true,
+    "all_20_backgrounds_present": true,
+    "all_20_source_coverage_and_omission_reviews_pass": true,
+    "current_export_and_library_and_public_hashes_match": true,
+    "images_published_to_requested_repository": true,
+    "actual_https_visual_reviews_recorded": true,
+    "no_chat_base64_payloads": true
+  },
+  "limitations": [
+    "Repeated identical objects are reusable assets, not duplicate PNG files.",
+    "Hidden surfaces and functional inserts are disclosed source-matched reconstructions, not pixel-identical recoveries.",
+    "Foreground layers use the original source canvas; normalize background dimensions before compositing."
+  ],
+  "themes": [
+    {
+      "id": "T02",
+      "objects": 31,
+      "verified": true
+    },
+    {
+      "id": "T03",
+      "objects": 21,
+      "verified": true
+    },
+    {
+      "id": "T04",
+      "objects": 31,
+      "verified": true
+    },
+    {
+      "id": "T05",
+      "objects": 30,
+      "verified": true
+    },
+    {
+      "id": "T06",
+      "objects": 30,
+      "verified": true
+    },
+    {
+      "id": "T07",
+      "objects": 37,
+      "verified": true
+    },
+    {
+      "id": "T08",
+      "objects": 34,
+      "verified": true
+    },
+    {
+      "id": "T09",
+      "objects": 28,
+      "verified": true
+    },
+    {
+      "id": "T10",
+      "objects": 39,
+      "verified": true
+    },
+    {
+      "id": "T11",
+      "objects": 25,
+      "verified": true
+    },
+    {
+      "id": "T12",
+      "objects": 22,
+      "verified": true
+    },
+    {
+      "id": "T13",
+      "objects": 25,
+      "verified": true
+    },
+    {
+      "id": "T14",
+      "objects": 27,
+      "verified": true
+    },
+    {
+      "id": "T15",
+      "objects": 12,
+      "verified": true
+    },
+    {
+      "id": "T16",
+      "objects": 25,
+      "verified": true
+    },
+    {
+      "id": "T17",
+      "objects": 27,
+      "verified": true
+    },
+    {
+      "id": "T18",
+      "objects": 23,
+      "verified": true
+    },
+    {
+      "id": "T19",
+      "objects": 24,
+      "verified": true
+    },
+    {
+      "id": "T20",
+      "objects": 33,
+      "verified": true
+    },
+    {
+      "id": "T21",
+      "objects": 25,
+      "verified": true
+    }
+  ]
+}

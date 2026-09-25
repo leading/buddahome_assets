@@ -1,0 +1,538 @@
+{
+  "theme_id": "T08",
+  "status": "resolved",
+  "review_method": "direct_https_html_screenshot_visual_inspection",
+  "fingerprint": "e2df96dadce504c4ab98e2eb443b7d1dbe40cfbc9fea5a31b9353750d8c0bcdf",
+  "snapshot": {
+    "theme_id": "T08",
+    "review_protocol": "paired-v2",
+    "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
+    "background_sha256": "7fb1a3dc84505d2d4480dfb5e103cb62559abd926dca5a6ddabd81e420d9a9c7",
+    "plan_sha256": "0af192cdb4e19cf88bcd9ae1b550e6ec983961219874b6a95d36cfdf4c8ca0d9",
+    "objects": [
+      {
+        "object_id": "T08-01",
+        "sha256": "5937668b9d7884e4de9ddc651f3fb806084bba128fb1935d259ba0f9ae1c4342"
+      },
+      {
+        "object_id": "T08-02",
+        "sha256": "0b1b216f62a540edf5844f3dd346765ba9868e403870493e337f415a4842527c"
+      },
+      {
+        "object_id": "T08-04",
+        "sha256": "6f376998f8ae81b480de2b5d8ae517888d246d693a5b8425a2b82e66b9d6b805"
+      },
+      {
+        "object_id": "T08-05",
+        "sha256": "d63ee3965470a28c5963a3317e341f64d0f5038d5f5117d7f1b3a3a536e59db5"
+      },
+      {
+        "object_id": "T08-06",
+        "sha256": "d29b6ea0a204d8b12924081d938c4d252ff90f67e3b53c4e0b930a3e76eab32f"
+      },
+      {
+        "object_id": "T08-07",
+        "sha256": "c81d23ab44cad139416810e2747e482193ad104b9307a7af1aa1a402813e9b87"
+      },
+      {
+        "object_id": "T08-08",
+        "sha256": "fc7f193f2f598848d26eb95bee2137f7365013a159de17fff4d22096148cd8ac"
+      },
+      {
+        "object_id": "T08-09",
+        "sha256": "094eee2f43a9cfbaca06b6c3d613d931c9ce903130183ba5cd02cd3154cfb3a6"
+      },
+      {
+        "object_id": "T08-10",
+        "sha256": "3b531a90fa3f073b1bbe0ce7a93d0b87d31a14f546d1132da01da8b0f27c205e"
+      },
+      {
+        "object_id": "T08-11",
+        "sha256": "43966c5103dc6a78eee3511dfb9af20175e7e9131a54b08316fad1845530c141"
+      },
+      {
+        "object_id": "T08-12",
+        "sha256": "3f40e4f6b45f2fa7225045f88d331ab8fe85ccab939060e7967785db21e40455"
+      },
+      {
+        "object_id": "T08-13",
+        "sha256": "8549dea5c77b4016dae16a7d069cf160f39181c6d1ad5640ec9224e6fb9908a7"
+      },
+      {
+        "object_id": "T08-14",
+        "sha256": "b22e8ab96a5e9f9448dec1f677574bfffb1f586a48e2696a55dcefac4b3b9f89"
+      },
+      {
+        "object_id": "T08-16",
+        "sha256": "3292a10ab769e56475b956a9e7b018bd444dee277a49f1ef3283f73a1d76779c"
+      },
+      {
+        "object_id": "T08-17",
+        "sha256": "a4673cd4ec7025c6dba5c8c8ee1d7fa84c161f296790c13eec73b44fa57d467b"
+      },
+      {
+        "object_id": "T08-18",
+        "sha256": "392531707cace9f6aa0f97998605b34313dc74ddb1626ce97c2217ed7f229898"
+      },
+      {
+        "object_id": "T08-19",
+        "sha256": "6554353f1cc25cd6ab7acc386ad6fdcddfa0a5dd9ba23686ea420c9877497c80"
+      },
+      {
+        "object_id": "T08-20",
+        "sha256": "87ea99344d1aa050ec041c52f829912a2a5e0900aa5181185160efb8e1858087"
+      },
+      {
+        "object_id": "T08-21",
+        "sha256": "d43190f8d310b9a332ab241f60b817505b8fea32f433f6e9be159397052c2428"
+      },
+      {
+        "object_id": "T08-22",
+        "sha256": "ead88d7fced3841212422d75ef3b661c726cf1afb5e1d3a0999b40e9bf323b99"
+      },
+      {
+        "object_id": "T08-23",
+        "sha256": "268f16f85baede83701c73088fa0ddabdcd2fd1f60285ac36b265e68ee9aa1a0"
+      },
+      {
+        "object_id": "T08-24",
+        "sha256": "259b5f86c5600d257e34f94c3c1f4ae705f458dcbab8d3e67887d360c203f8a9"
+      },
+      {
+        "object_id": "T08-25",
+        "sha256": "0675400b96d04ae7ab6fe01f84aa08e37008805ff68f8ad417687cef56a08d8e"
+      },
+      {
+        "object_id": "T08-26",
+        "sha256": "0dfe5a026761896f20eb939c7b3acf949879758077b5e6860d9381cb6bd44592"
+      },
+      {
+        "object_id": "T08-27",
+        "sha256": "cea7c500c6a8cb37baf1f5c3e3f97fe89e9d2a4f149075c6ae2f9e58aad5c31f"
+      },
+      {
+        "object_id": "T08-28",
+        "sha256": "1b02eb79abd6cb1117c74f76d4452d6f813163de3d2998e13ef6e8fc8cc823cd"
+      },
+      {
+        "object_id": "T08-29",
+        "sha256": "61d1d62953798ee0187671e64aa2d7f7397f6d5a178f7ede944745cab42015d9"
+      },
+      {
+        "object_id": "T08-30",
+        "sha256": "597481d8b67a8a2c1a7f5e7fe4d3b30b3384e5e0289a438b0cca1673068916a5"
+      },
+      {
+        "object_id": "T08-31",
+        "sha256": "c7c1070c6c5d41a2539c2636d53028e41fbe274da3b0ec65eac843210ecfb296"
+      },
+      {
+        "object_id": "T08-32",
+        "sha256": "4987bdffeac8e23481f0a7a6fd587ddea6142acb3802dad6e3e6e001d81731ad"
+      },
+      {
+        "object_id": "T08-33",
+        "sha256": "58674dcb39ff29733191ca9e851c8e29225a2a246fdad1f3f20a8383de8ee5ee"
+      },
+      {
+        "object_id": "T08-34",
+        "sha256": "105e2e0ce87db69ddae6ba97bc1fa66e8cf69d411ef0727b74251cee92c75d1e"
+      },
+      {
+        "object_id": "T08-35",
+        "sha256": "fc33e060e5d4f89aca00a15657fd44bf59a43371b0b4eff95a755f1026a77719"
+      },
+      {
+        "object_id": "T08-36",
+        "sha256": "39477bbfaea9c496a4960e656af4ac0899fa51aca93433e494aad65b2607519d"
+      }
+    ]
+  },
+  "coverage": {
+    "status": "pass",
+    "unresolved": [],
+    "source_mapping": [
+      {
+        "source_region": "主供台与完整金佛",
+        "asset_ids": [
+          "T08-01",
+          "T08-02"
+        ]
+      },
+      {
+        "source_region": "左右雕花白瓶与白花绿叶束",
+        "asset_ids": [
+          "T08-04",
+          "T08-05",
+          "T08-17",
+          "T08-18"
+        ]
+      },
+      {
+        "source_region": "铜金灯台与未燃适配内芯",
+        "asset_ids": [
+          "T08-06",
+          "T08-07"
+        ]
+      },
+      {
+        "source_region": "香炉、金属承香片与线香",
+        "asset_ids": [
+          "T08-08",
+          "T08-21",
+          "T08-09"
+        ]
+      },
+      {
+        "source_region": "果盘、香蕉与绿色柑橘果",
+        "asset_ids": [
+          "T08-10",
+          "T08-11",
+          "T08-22"
+        ]
+      },
+      {
+        "source_region": "白瓷金纹茶壶、空杯和茶盘",
+        "asset_ids": [
+          "T08-12",
+          "T08-13",
+          "T08-14"
+        ]
+      },
+      {
+        "source_region": "左右后方大绿叶白花饰",
+        "asset_ids": [
+          "T08-19",
+          "T08-20"
+        ]
+      },
+      {
+        "source_region": "单朵白鸡蛋花、白供碗与小供花簇",
+        "asset_ids": [
+          "T08-23",
+          "T08-26",
+          "T08-27"
+        ]
+      },
+      {
+        "source_region": "右侧金属空盖器与独立盖",
+        "asset_ids": [
+          "T08-24",
+          "T08-25"
+        ]
+      },
+      {
+        "source_region": "金莲纹桌布及垂落花叶串",
+        "asset_ids": [
+          "T08-28",
+          "T08-29"
+        ]
+      },
+      {
+        "source_region": "白色圆坐垫与棕编织地席",
+        "asset_ids": [
+          "T08-16",
+          "T08-30"
+        ]
+      },
+      {
+        "source_region": "左右空石水钵、对应水面与白色漂花",
+        "asset_ids": [
+          "T08-31",
+          "T08-32",
+          "T08-34",
+          "T08-35",
+          "T08-33"
+        ]
+      },
+      {
+        "source_region": "左下近景绿叶白花原位层",
+        "asset_ids": [
+          "T08-36"
+        ]
+      }
+    ]
+  },
+  "background": {
+    "status": "pass",
+    "unresolved": [],
+    "reason": "白石圆形墙饰、固定白石墙柱、台阶与浅色地面保留；供台、金佛、器物、花饰、桌布花串、坐垫地席、两只前景水钵和左下花叶移除。前景两水钵均拆为空器、水面与可复用漂花。"
+  },
+  "objects": {
+    "T08-01": {
+      "status": "pass",
+      "reason": "供桌或主题主台：已与源图「主供台与完整金佛」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-02": {
+      "status": "pass",
+      "reason": "坐佛：已与源图「主供台与完整金佛」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-04": {
+      "status": "pass",
+      "reason": "空花瓶：已与源图「左右雕花白瓶与白花绿叶束」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-05": {
+      "status": "pass",
+      "reason": "花枝花束：已与源图「左右雕花白瓶与白花绿叶束」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-17": {
+      "status": "pass",
+      "reason": "右侧雕花空白瓶：已与源图「左右雕花白瓶与白花绿叶束」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-18": {
+      "status": "pass",
+      "reason": "右侧白花绿叶束：已与源图「左右雕花白瓶与白花绿叶束」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-06": {
+      "status": "pass",
+      "reason": "空烛台或灯盏：已与源图「铜金灯台与未燃适配内芯」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-07": {
+      "status": "pass",
+      "reason": "独立未燃灯内芯为遮挡部分适配补全，不声称可见源图能确定完整内部和燃料材质。",
+      "evidence_type": "functional_reconstruction"
+    },
+    "T08-08": {
+      "status": "pass",
+      "reason": "空香炉：已与源图「香炉、金属承香片与线香」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-21": {
+      "status": "pass",
+      "reason": "金属承香顶片：已与源图「香炉、金属承香片与线香」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-09": {
+      "status": "pass",
+      "reason": "未点燃线香：已与源图「香炉、金属承香片与线香」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-10": {
+      "status": "pass",
+      "reason": "空供盘：已与源图「果盘、香蕉与绿色柑橘果」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-11": {
+      "status": "pass",
+      "reason": "香蕉：已与源图「果盘、香蕉与绿色柑橘果」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-22": {
+      "status": "pass",
+      "reason": "绿色柑橘果：已与源图「果盘、香蕉与绿色柑橘果」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-12": {
+      "status": "pass",
+      "reason": "茶壶：已与源图「白瓷金纹茶壶、空杯和茶盘」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-13": {
+      "status": "pass",
+      "reason": "空茶杯：已与源图「白瓷金纹茶壶、空杯和茶盘」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-14": {
+      "status": "pass",
+      "reason": "茶托：已与源图「白瓷金纹茶壶、空杯和茶盘」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-19": {
+      "status": "pass",
+      "reason": "左后宽阔叶片与白花独立，虚构白盆已移除。"
+    },
+    "T08-20": {
+      "status": "pass",
+      "reason": "右后宽阔叶片与白花独立，无额外盆器。"
+    },
+    "T08-23": {
+      "status": "pass",
+      "reason": "白色鸡蛋花：已与源图「单朵白鸡蛋花、白供碗与小供花簇」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-26": {
+      "status": "pass",
+      "reason": "小型白色空供碗：已与源图「单朵白鸡蛋花、白供碗与小供花簇」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-27": {
+      "status": "pass",
+      "reason": "白色小供花簇：已与源图「单朵白鸡蛋花、白供碗与小供花簇」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-24": {
+      "status": "pass",
+      "reason": "右侧金属空盖饰器：已与源图「右侧金属空盖器与独立盖」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-25": {
+      "status": "pass",
+      "reason": "金属饰器盖：已与源图「右侧金属空盖器与独立盖」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-28": {
+      "status": "pass",
+      "reason": "金莲纹流苏桌布：已与源图「金莲纹桌布及垂落花叶串」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-29": {
+      "status": "pass",
+      "reason": "垂落白花绿叶串：已与源图「金莲纹桌布及垂落花叶串」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-16": {
+      "status": "pass",
+      "reason": "坐垫：已与源图「白色圆坐垫与棕编织地席」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-30": {
+      "status": "pass",
+      "reason": "棕色编织地席：已与源图「白色圆坐垫与棕编织地席」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-31": {
+      "status": "pass",
+      "reason": "左浅水钵为灰米卵石镶嵌表面，完整空置，无白色雕花瓮误形。"
+    },
+    "T08-32": {
+      "status": "pass",
+      "reason": "右浅水钵保持本侧器形与镶嵌纹理，空置。"
+    },
+    "T08-34": {
+      "status": "pass",
+      "reason": "左钵水面按原位内沿对齐；叠放时置于前景叶片和浮花下方。"
+    },
+    "T08-35": {
+      "status": "pass",
+      "reason": "右钵水面按源图位置、尺度与边界裁切对齐。"
+    },
+    "T08-33": {
+      "status": "pass",
+      "reason": "漂浮白色花朵：已与源图「左右空石水钵、对应水面与白色漂花」对应；独立透明物件，无相邻器物或地面粘连。"
+    },
+    "T08-36": {
+      "status": "pass",
+      "reason": "左下绿叶白花透明前景层，无石钵及地面残留。"
+    }
+  },
+  "retired_candidates": [
+    {
+      "object_id": "T08-03",
+      "status": "retired_duplicate_or_unsubstantiated_component",
+      "covered_by": [
+        "T08-02"
+      ],
+      "covered_by_background": false,
+      "retained_asset_sha256": {
+        "T08-02": "0b1b216f62a540edf5844f3dd346765ba9868e403870493e337f415a4842527c"
+      },
+      "reason": "象牙白佛像与多层白色莲座在源图连续一体，02已包括完整莲座。03为空莲座重复候选，原图无额外独立白莲座物件。",
+      "original_candidate": {
+        "slot": 3,
+        "name": "佛像底座",
+        "category": "家具与底座",
+        "subcategory": "底座",
+        "ability": "可承托",
+        "texture": "1k",
+        "description": "源图坐佛下象牙白莲花座，仅在确实独立可分时提取空座，若为雕像一体则返回透明空图复核。",
+        "review_note": "依据源图盘点模型草稿细化；数量、材质及可拆关系待视觉复核。"
+      },
+      "retired_at": "2026-09-25T19:11:34.436896+00:00",
+      "source_sha256": "0794e71947b059e7fd3434b4433db32f2c450c1239527c5e8392dcbce30bd88d",
+      "retired_png_sha256": "e987add6fa160b39010d287e0dc6cbb3c974c4f5f6ba5276b6d60844404a552a",
+      "archived_png": "历史版本/候选退役/T08-03/e987add6fa160b39/T08_03_佛像底座.png",
+      "evidence_metadata": "exports/buddhahome-theme-assets/01_主题总库/T08_斯里兰卡月白佛堂/拆后检查/直接退役证据/d98a8cedd137bd64/T08-03.json",
+      "evidence_text_sha256": "af53812b6f17452af726d267b87266577d8c3b9692ba29292589883a17bf913a",
+      "retained_png_sha256": "0b1b216f62a540edf5844f3dd346765ba9868e403870493e337f415a4842527c"
+    }
+  ],
+  "supplemental_evidence": [],
+  "evidence": [
+    {
+      "kind": "whole_source_coverage",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T08_斯里兰卡月白佛堂/拆后检查/直接HTML检查/e2df96dadce504c4/direct-visual-review.md",
+      "text_sha256": "336c915ecaaf34557da6d3ac898f7aca1e54093cfb711f364de3696fe491b60a",
+      "wanted_ids": []
+    },
+    {
+      "kind": "empty_background",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T08_斯里兰卡月白佛堂/拆后检查/直接HTML检查/e2df96dadce504c4/direct-visual-review.md",
+      "text_sha256": "336c915ecaaf34557da6d3ac898f7aca1e54093cfb711f364de3696fe491b60a",
+      "wanted_ids": []
+    },
+    {
+      "kind": "individual_assets",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T08_斯里兰卡月白佛堂/拆后检查/直接HTML检查/e2df96dadce504c4/direct-visual-review.md",
+      "text_sha256": "336c915ecaaf34557da6d3ac898f7aca1e54093cfb711f364de3696fe491b60a",
+      "wanted_ids": [
+        "T08-01",
+        "T08-02",
+        "T08-04",
+        "T08-05",
+        "T08-06",
+        "T08-07",
+        "T08-08",
+        "T08-09",
+        "T08-10",
+        "T08-11",
+        "T08-12",
+        "T08-13",
+        "T08-14",
+        "T08-16",
+        "T08-17",
+        "T08-18",
+        "T08-19",
+        "T08-20",
+        "T08-21",
+        "T08-22",
+        "T08-23",
+        "T08-24",
+        "T08-25",
+        "T08-26",
+        "T08-27",
+        "T08-28",
+        "T08-29",
+        "T08-30",
+        "T08-31",
+        "T08-32",
+        "T08-33",
+        "T08-34",
+        "T08-35",
+        "T08-36"
+      ]
+    }
+  ],
+  "direct_visual_review": {
+    "manifest_path": "exports/buddhahome-theme-assets/01_主题总库/T08_斯里兰卡月白佛堂/拆后检查/直接HTML检查/e2df96dadce504c4/manifest.json",
+    "screenshot_sha256": "dc3d8be2abfde0ecc5f876cc75a76c9397dfaff92a4b1d8a26916a64659e8805",
+    "repository_commit": "50e250f3962bb72a7cf9e4aaf457199722b1004a",
+    "viewed_https_url": "https://raw.githubusercontent.com/leading/buddahome_assets/50e250f3962bb72a7cf9e4aaf457199722b1004a/reviews/themes/T08/overview-fast.jpg",
+    "reviewed_ids": [
+      "T08-01",
+      "T08-02",
+      "T08-04",
+      "T08-05",
+      "T08-06",
+      "T08-07",
+      "T08-08",
+      "T08-09",
+      "T08-10",
+      "T08-11",
+      "T08-12",
+      "T08-13",
+      "T08-14",
+      "T08-16",
+      "T08-17",
+      "T08-18",
+      "T08-19",
+      "T08-20",
+      "T08-21",
+      "T08-22",
+      "T08-23",
+      "T08-24",
+      "T08-25",
+      "T08-26",
+      "T08-27",
+      "T08-28",
+      "T08-29",
+      "T08-30",
+      "T08-31",
+      "T08-32",
+      "T08-33",
+      "T08-34",
+      "T08-35",
+      "T08-36"
+    ],
+    "source_inspected": true,
+    "background_inspected": true,
+    "inspected_at": "2026-09-25T20:46:10.130236+00:00",
+    "viewed_jpeg_sha256": "faea67175e5c2e46c367002ab5f1c65a7380d53a5950e3bf83991536a54ddafd"
+  },
+  "limitations": [
+    "隐藏表面为适配补全；不宣称逐像素还原。",
+    ""
+  ],
+  "updated_at": "2026-09-25T20:46:10.131540+00:00"
+}

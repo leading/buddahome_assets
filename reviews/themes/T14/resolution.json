@@ -1,0 +1,420 @@
+{
+  "theme_id": "T14",
+  "status": "resolved",
+  "review_method": "direct_https_html_screenshot_visual_inspection",
+  "fingerprint": "060fcbb87a5cbec39863a018a717dc0cb153c01c4c43c24644546e91c0320001",
+  "snapshot": {
+    "theme_id": "T14",
+    "review_protocol": "paired-v2",
+    "source_sha256": "ffeac69e152110e84286aaaeeb2012b609ea294f81b9a6252c3b7c932d92c5df",
+    "background_sha256": "184db7e6fd4747b0d5f75ec366e520ff2fe5f1d49c764451829a3ae79624c252",
+    "plan_sha256": "af9a542853e782edad0036947522945e9729270f4cb39a2f59cb2945f139af7b",
+    "objects": [
+      {
+        "object_id": "T14-01",
+        "sha256": "aed4c5fa3ca39e06027378e4925e6130f0cc8b743f44db0afc96f8d2dfb271ac"
+      },
+      {
+        "object_id": "T14-02",
+        "sha256": "3dff4266fac7301684cf3ffe9c019ad0d6acc582349b23c5e6190fe43250acdc"
+      },
+      {
+        "object_id": "T14-03",
+        "sha256": "a632401c5b6bf4dbf68594cd605d50e378019509eb0840964e998b0a97f57a6a"
+      },
+      {
+        "object_id": "T14-04",
+        "sha256": "54c39743074afb85a13a781779941429213b7b3e5fbf2cf022c10a78651fe27f"
+      },
+      {
+        "object_id": "T14-05",
+        "sha256": "6d2d03b85a8067ed1a6a8ab3638acc99e3be9dc704a78ee77656c4d47119d32d"
+      },
+      {
+        "object_id": "T14-06",
+        "sha256": "1c020122cbd6e0417d0b3ba3da2a1e9ac792e51a7b1b7821ddcc072af2a4acb1"
+      },
+      {
+        "object_id": "T14-07",
+        "sha256": "63bbef73975b12658ef95578d205e99d50c99b10041a53a5db38ac1370aa9f5f"
+      },
+      {
+        "object_id": "T14-08",
+        "sha256": "db89ee710e5269f89ef974ce424c46abce0539f5e6f16f6c9cb19f539325e674"
+      },
+      {
+        "object_id": "T14-09",
+        "sha256": "37f693c9bd76cf10b36e76a9cee16df8defa9d23c033ca67e56ac2ecf66fc1e5"
+      },
+      {
+        "object_id": "T14-10",
+        "sha256": "e76cc58aee9581926263e66ae8cebac8634295b99d8ae56b2e1604d47235d1a5"
+      },
+      {
+        "object_id": "T14-11",
+        "sha256": "ed52e1fe98771756ed5beb0efb4085842b28338a945c3c602802eaa08a0d3d98"
+      },
+      {
+        "object_id": "T14-12",
+        "sha256": "f8700bd4e74d575ae7b72f755b6f2fc143739b0d8a4fa19174dad7dd4579a009"
+      },
+      {
+        "object_id": "T14-13",
+        "sha256": "5fa587cbfeee91c0909fd49b219e3e69ee57af6872480a7959335cdefd210dd6"
+      },
+      {
+        "object_id": "T14-14",
+        "sha256": "3433d354613a2f9af5ba804b33513bf131a5ec423a354e85c54ff74b428f39a0"
+      },
+      {
+        "object_id": "T14-16",
+        "sha256": "a804e0d6e6b7b9ab83633f7baa8b8994f5a25544cca8d34c357d204f36e89ffc"
+      },
+      {
+        "object_id": "T14-17",
+        "sha256": "d59be92ebe707cb3add9c16905d88c7068ba40409688be0aecd47cf0c9b7d938"
+      },
+      {
+        "object_id": "T14-18",
+        "sha256": "6d127c8dae9cb76000a9ba1b412b70b41228ae3eb9b852048d4c580702775b7a"
+      },
+      {
+        "object_id": "T14-19",
+        "sha256": "56a2416957774075b853414633bf37b133646293be2638349240c490e9d56668"
+      },
+      {
+        "object_id": "T14-20",
+        "sha256": "a825857be8547538f5cfabec49c3ad325a35f8995a65a8650280d2b64bab5017"
+      },
+      {
+        "object_id": "T14-21",
+        "sha256": "d8f208635da3fc1ab4250177aaf82049033c962e2aba762252c397a495d9d8c4"
+      },
+      {
+        "object_id": "T14-22",
+        "sha256": "37f5711fa6c7bf9e04deb3e09033c7370665481743ac2363e6eb75ec3a859287"
+      },
+      {
+        "object_id": "T14-23",
+        "sha256": "8a0bb7f21ce0e59e1ebbd41d0ce1b66efb82c50d7b92db7ef0a406e676be910f"
+      },
+      {
+        "object_id": "T14-24",
+        "sha256": "d4b14ddf598f16a8bedea03f3ac9c91c5b8fdee8bbd4407f04a3b5307907791b"
+      },
+      {
+        "object_id": "T14-25",
+        "sha256": "39674009c9c163ec6acb1c0eea6c8c71551799067c65dc04f3ae9f4c71a13248"
+      },
+      {
+        "object_id": "T14-26",
+        "sha256": "0b0c20f525eab979a3e42e4aa75df61ae47bec5d7827ab91896b8d4017c87323"
+      },
+      {
+        "object_id": "T14-27",
+        "sha256": "b8353913afd77378e2ff023c250a2112c03a1c97400cd12221d294bf6c06072f"
+      },
+      {
+        "object_id": "T14-28",
+        "sha256": "5a4e9b066f6cda25cadd459f215c9c1fc86df9f8ed4eb323ccef2bd47ab2e5fb"
+      }
+    ]
+  },
+  "coverage": {
+    "status": "pass",
+    "unresolved": [],
+    "source_mapping": [
+      {
+        "source_region": "米色石供桌、白石坐佛与独立浅石底座",
+        "asset_ids": [
+          "T14-01",
+          "T14-02",
+          "T14-03"
+        ]
+      },
+      {
+        "source_region": "桌面空陶瓶与花枝束",
+        "asset_ids": [
+          "T14-04",
+          "T14-05"
+        ]
+      },
+      {
+        "source_region": "左铜烛杯与白柱蜡、右铜烛碟与独立白蜡",
+        "asset_ids": [
+          "T14-06",
+          "T14-07",
+          "T14-20",
+          "T14-19"
+        ]
+      },
+      {
+        "source_region": "陶香炉、独立盖和线香",
+        "asset_ids": [
+          "T14-08",
+          "T14-17",
+          "T14-09"
+        ]
+      },
+      {
+        "source_region": "木果盘与青苹果",
+        "asset_ids": [
+          "T14-10",
+          "T14-11"
+        ]
+      },
+      {
+        "source_region": "米色提梁陶壶、两款空茶杯、木杯碟及茶盘",
+        "asset_ids": [
+          "T14-12",
+          "T14-13",
+          "T14-27",
+          "T14-18",
+          "T14-14"
+        ]
+      },
+      {
+        "source_region": "米色浮雕壁饰",
+        "asset_ids": [
+          "T14-21"
+        ]
+      },
+      {
+        "source_region": "左后大型陶盆与独立树体",
+        "asset_ids": [
+          "T14-22",
+          "T14-23"
+        ]
+      },
+      {
+        "source_region": "右前落地陶瓶与花枝组",
+        "asset_ids": [
+          "T14-24",
+          "T14-25"
+        ]
+      },
+      {
+        "source_region": "编织坐垫与天然纤维地毯",
+        "asset_ids": [
+          "T14-16",
+          "T14-26"
+        ]
+      },
+      {
+        "source_region": "左下近景白花绿叶原位层",
+        "asset_ids": [
+          "T14-28"
+        ]
+      }
+    ]
+  },
+  "background": {
+    "status": "pass",
+    "unresolved": [],
+    "reason": "天井、上方室外树景、白墙、右木格栅、台阶地面和自然光影保留；石供桌、佛像底座、可拆浮雕壁饰、左边盆栽、右侧落地花瓶花枝、全部桌面器物、坐垫织毯及近景枝叶已移除。最后残留的左树和盆已清除。"
+  },
+  "objects": {
+    "T14-01": {
+      "status": "pass",
+      "reason": "供桌或主题主台：已与源图「米色石供桌、白石坐佛与独立浅石底座」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-02": {
+      "status": "pass",
+      "reason": "坐佛：已与源图「米色石供桌、白石坐佛与独立浅石底座」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-03": {
+      "status": "pass",
+      "reason": "源图局部放大确认坐佛下浅色矩形承托板；独立空石底座，没有额外叠加莲座。"
+    },
+    "T14-04": {
+      "status": "pass",
+      "reason": "空花瓶：已与源图「桌面空陶瓶与花枝束」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-05": {
+      "status": "pass",
+      "reason": "花枝花束：已与源图「桌面空陶瓶与花枝束」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-06": {
+      "status": "pass",
+      "reason": "空烛台或灯盏：已与源图「左铜烛杯与白柱蜡、右铜烛碟与独立白蜡」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-07": {
+      "status": "pass",
+      "reason": "未点燃白柱蜡烛：已与源图「左铜烛杯与白柱蜡、右铜烛碟与独立白蜡」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-20": {
+      "status": "pass",
+      "reason": "右侧独立烛碟：已与源图「左铜烛杯与白柱蜡、右铜烛碟与独立白蜡」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-19": {
+      "status": "pass",
+      "reason": "右侧白柱蜡已去除铜烛碗，蜡底补全。"
+    },
+    "T14-08": {
+      "status": "pass",
+      "reason": "空香炉：已与源图「陶香炉、独立盖和线香」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-17": {
+      "status": "pass",
+      "reason": "米陶独立香炉盖：已与源图「陶香炉、独立盖和线香」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-09": {
+      "status": "pass",
+      "reason": "未点燃线香：已与源图「陶香炉、独立盖和线香」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-10": {
+      "status": "pass",
+      "reason": "空供盘：已与源图「木果盘与青苹果」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-11": {
+      "status": "pass",
+      "reason": "青苹果：已与源图「木果盘与青苹果」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-12": {
+      "status": "pass",
+      "reason": "茶壶：已与源图「米色提梁陶壶、两款空茶杯、木杯碟及茶盘」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-13": {
+      "status": "pass",
+      "reason": "空茶杯：已与源图「米色提梁陶壶、两款空茶杯、木杯碟及茶盘」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-27": {
+      "status": "pass",
+      "reason": "右侧斑点米陶空杯：已与源图「米色提梁陶壶、两款空茶杯、木杯碟及茶盘」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-18": {
+      "status": "pass",
+      "reason": "木质独立杯碟：已与源图「米色提梁陶壶、两款空茶杯、木杯碟及茶盘」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-14": {
+      "status": "pass",
+      "reason": "茶托：已与源图「米色提梁陶壶、两款空茶杯、木杯碟及茶盘」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-21": {
+      "status": "pass",
+      "reason": "浮雕长板独立；空背景已去除对应壁饰。"
+    },
+    "T14-22": {
+      "status": "pass",
+      "reason": "左后大陶盆空置；对应盆器已从背景移除。"
+    },
+    "T14-23": {
+      "status": "pass",
+      "reason": "完整独立树体无陶盆；空背景左缘已无该盆栽残留。"
+    },
+    "T14-24": {
+      "status": "pass",
+      "reason": "右前落地空花瓶：已与源图「右前落地陶瓶与花枝组」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-25": {
+      "status": "pass",
+      "reason": "右前落地花枝组：已与源图「右前落地陶瓶与花枝组」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-16": {
+      "status": "pass",
+      "reason": "坐垫：已与源图「编织坐垫与天然纤维地毯」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-26": {
+      "status": "pass",
+      "reason": "天然纤维地毯：已与源图「编织坐垫与天然纤维地毯」对应；独立透明物件，无不应保留的相邻物件或背景。"
+    },
+    "T14-28": {
+      "status": "pass",
+      "reason": "左下近景花叶透明层与原图尺度位置对应，无地毯和家具。"
+    }
+  },
+  "retired_candidates": [],
+  "supplemental_evidence": [],
+  "evidence": [
+    {
+      "kind": "whole_source_coverage",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T14_北欧原木静修室/拆后检查/直接HTML检查/060fcbb87a5cbec3/direct-visual-review.md",
+      "text_sha256": "9cf92001cdcdb8cc05579a55441be1c2e7c05483fcb78515a89af092dc5647a2",
+      "wanted_ids": []
+    },
+    {
+      "kind": "empty_background",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T14_北欧原木静修室/拆后检查/直接HTML检查/060fcbb87a5cbec3/direct-visual-review.md",
+      "text_sha256": "9cf92001cdcdb8cc05579a55441be1c2e7c05483fcb78515a89af092dc5647a2",
+      "wanted_ids": []
+    },
+    {
+      "kind": "individual_assets",
+      "text_path": "exports/buddhahome-theme-assets/01_主题总库/T14_北欧原木静修室/拆后检查/直接HTML检查/060fcbb87a5cbec3/direct-visual-review.md",
+      "text_sha256": "9cf92001cdcdb8cc05579a55441be1c2e7c05483fcb78515a89af092dc5647a2",
+      "wanted_ids": [
+        "T14-01",
+        "T14-02",
+        "T14-03",
+        "T14-04",
+        "T14-05",
+        "T14-06",
+        "T14-07",
+        "T14-08",
+        "T14-09",
+        "T14-10",
+        "T14-11",
+        "T14-12",
+        "T14-13",
+        "T14-14",
+        "T14-16",
+        "T14-17",
+        "T14-18",
+        "T14-19",
+        "T14-20",
+        "T14-21",
+        "T14-22",
+        "T14-23",
+        "T14-24",
+        "T14-25",
+        "T14-26",
+        "T14-27",
+        "T14-28"
+      ]
+    }
+  ],
+  "direct_visual_review": {
+    "manifest_path": "exports/buddhahome-theme-assets/01_主题总库/T14_北欧原木静修室/拆后检查/直接HTML检查/060fcbb87a5cbec3/manifest.json",
+    "screenshot_sha256": "a711ee590236bbf59a8a055be78d4eb4714961f4dd6e65df6c68b9eeeb61d6eb",
+    "repository_commit": "05d05d9b8492b03fd3de3d3bd0511c102820846a",
+    "viewed_https_url": "https://raw.githubusercontent.com/leading/buddahome_assets/05d05d9b8492b03fd3de3d3bd0511c102820846a/reviews/themes/T14/overview-fast.jpg",
+    "reviewed_ids": [
+      "T14-01",
+      "T14-02",
+      "T14-03",
+      "T14-04",
+      "T14-05",
+      "T14-06",
+      "T14-07",
+      "T14-08",
+      "T14-09",
+      "T14-10",
+      "T14-11",
+      "T14-12",
+      "T14-13",
+      "T14-14",
+      "T14-16",
+      "T14-17",
+      "T14-18",
+      "T14-19",
+      "T14-20",
+      "T14-21",
+      "T14-22",
+      "T14-23",
+      "T14-24",
+      "T14-25",
+      "T14-26",
+      "T14-27",
+      "T14-28"
+    ],
+    "source_inspected": true,
+    "background_inspected": true,
+    "inspected_at": "2026-09-25T20:51:46.873069+00:00",
+    "viewed_jpeg_sha256": "93151d12fd689d01125c689b2ba40c780e0e02a41f9dfbf1097f69935c8aac37"
+  },
+  "limitations": [
+    "隐藏表面为适配补全；不宣称逐像素还原。",
+    ""
+  ],
+  "updated_at": "2026-09-25T20:51:46.874180+00:00"
+}

@@ -1,0 +1,489 @@
+{
+  "commit": "05d05d9b8492b03fd3de3d3bd0511c102820846a",
+  "https_checks": 80,
+  "matching_manifest_files": 20,
+  "failed": [],
+  "checks": [
+    {
+      "path": "themes/T02/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T02/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T02/objects/T02-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T02/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T03/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T03/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T03/objects/T03-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T03/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T04/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T04/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T04/objects/T04-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T04/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T05/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T05/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T05/objects/T05-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T05/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T06/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T06/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T06/objects/T06-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T06/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T07/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T07/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T07/objects/T07-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T07/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T08/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T08/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T08/objects/T08-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T08/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T09/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T09/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T09/objects/T09-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T09/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T10/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T10/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T10/objects/T10-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T10/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T11/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T11/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T11/objects/T11-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T11/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T12/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T12/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T12/objects/T12-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T12/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T13/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T13/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T13/objects/T13-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T13/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T14/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T14/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T14/objects/T14-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T14/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T15/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T15/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T15/objects/T15-02.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T15/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T16/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T16/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T16/objects/T16-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T16/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T17/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T17/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T17/objects/T17-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T17/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T18/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T18/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T18/objects/T18-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T18/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T19/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T19/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T19/objects/T19-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T19/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T20/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T20/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T20/objects/T20-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T20/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T21/manifest.json",
+      "method": "GET",
+      "status": 200,
+      "manifest_hash_matches": true
+    },
+    {
+      "path": "themes/T21/background.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "themes/T21/objects/T21-01.png",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    },
+    {
+      "path": "reviews/themes/T21/overview-fast.jpg",
+      "method": "HEAD",
+      "status": 200,
+      "manifest_hash_matches": null
+    }
+  ],
+  "scope": "All 20 manifest bytes checked; 60 representative image HEAD requests. Full PNG-set consistency is checked through the pushed Git commit and local hashes."
+}

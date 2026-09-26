@@ -1,0 +1,217 @@
+{
+  "checked_at": "2026-09-26T07:12:12.530862+00:00",
+  "status": "all_20_preview_files_ready_for_user_review",
+  "count": 20,
+  "ids": [
+    "T22",
+    "T23",
+    "T24",
+    "T25",
+    "T26",
+    "T27",
+    "T28",
+    "T29",
+    "T30",
+    "T31",
+    "T32",
+    "T33",
+    "T34",
+    "T35",
+    "T36",
+    "T37",
+    "T38",
+    "T39",
+    "T40",
+    "T41"
+  ],
+  "checks": [
+    {
+      "id": "T22",
+      "filename": "T22.png",
+      "sha256": "7a1920d6f9d71f782ec2878fdae3777d7ab898ef6b5429a03c67f375745e9cac",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T23",
+      "filename": "T23.png",
+      "sha256": "280c40de08fa571c7a3ef98d8056956107cd20874f6da5fb827f0af58b7f427e",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T24",
+      "filename": "T24.png",
+      "sha256": "536653b34c231e66e4ea62cca1f09c70b277e9033c202229f1740735bca2ded4",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T25",
+      "filename": "T25.png",
+      "sha256": "0a19eb3d8aa32746bd90c64a869be51d890a9e72ee962392bf692597d06c803d",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T26",
+      "filename": "T26.png",
+      "sha256": "0b0e4a4a9a17f706474f6b9b8095b7d047e85bb4b2f42f6409588fb66b36ea81",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T27",
+      "filename": "T27.png",
+      "sha256": "076f4f96bbe1ec551aa0d3d8c5018c7e588e06725e1f993a3c9d2f23b6be1b23",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T28",
+      "filename": "T28.png",
+      "sha256": "7908090e35b37f3c9d925365234d93ffad9e393f7990cbf40162e0674e4ea0da",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T29",
+      "filename": "T29.png",
+      "sha256": "8b098bdcc5d4f9ee9672103e6c5e4bcd1c0c9667b5789f2c18da53b6bc244c68",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T30",
+      "filename": "T30.png",
+      "sha256": "26e1669c3a6e7a4cca3c8c3c25ea4a127b66e138381338aba2aec5a41fa5d8fc",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T31",
+      "filename": "T31.png",
+      "sha256": "88221717012b13fc8cd27c0ff5b90b17bc2411b3b15c4e21fa238833eabddb20",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T32",
+      "filename": "T32.png",
+      "sha256": "dc0948d8246c41a4528f770ef2d700899f3c31b05db704f43de1e00704b8e253",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T33",
+      "filename": "T33.png",
+      "sha256": "407f3a87ef566a8209070b92da9c1d8b812ac77e40f078e180cee2c3ee2a6c2c",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T34",
+      "filename": "T34.png",
+      "sha256": "6f45a0e954497ce306c62f5ab346d29f1719b3fb8ac00ea9e7b4c6c7e5e72e81",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T35",
+      "filename": "T35.png",
+      "sha256": "d06fc6cafb7ff66099d5189ece22fd3df9620ed2714e7540631c964c121bc214",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T36",
+      "filename": "T36.png",
+      "sha256": "c1a273e60a5e31a6fe30a9ed19600e6f85927a0468b36899803e7ade60620e0f",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T37",
+      "filename": "T37.png",
+      "sha256": "7f38a7cf4db206e04d7d3aa380d46892ededead35af209315a30977e5d76b966",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T38",
+      "filename": "T38.png",
+      "sha256": "83e5fde62609840196d858d5d17b64d1a4df53466075d298e888704c65b0adee",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T39",
+      "filename": "T39.png",
+      "sha256": "e7499a37eab9d44ec947611f8cc8c603caca9afd9873974d126ac6905109a854",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T40",
+      "filename": "T40.png",
+      "sha256": "214cfd2e41d068a6ae94e87c78d8bf3dd9d3885a148df5409729270766948879",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    },
+    {
+      "id": "T41",
+      "filename": "T41.png",
+      "sha256": "a7166084aa8f705bdad9d42d9b67943ed807b61963b89f5c8e264939469d0321",
+      "width": 948,
+      "height": 1659,
+      "local_public_match": true,
+      "not_identical_to_previous_sources": true
+    }
+  ],
+  "all_20_decodable": true,
+  "all_unique_files": true,
+  "all_match_public_copy": true,
+  "old_theme_images_used_as_generation_inputs": false,
+  "objects_split": false,
+  "user_design_approval": "pending",
+  "inspection_scope": "File integrity, dimensions, source independence and gallery completeness. These are theme concepts awaiting the user visual selection, not approved production assets.",
+  "no_chat_base64": true
+}

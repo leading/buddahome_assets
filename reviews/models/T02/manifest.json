@@ -1,6 +1,6 @@
 {
   "theme": "T02",
-  "updatedAt": "2026-09-26T08:04:59.187002+00:00",
+  "updatedAt": "2026-09-26T08:30:21.038959+00:00",
   "scope": "Source image and actual imported GLB renders; publishing does not establish acceptance.",
   "items": [
     {
@@ -27,7 +27,12 @@
           "reviewSha256": "022ede0ab8e3e6a5317cc4503eff14b279d22bca9de636dc2342e108bc0b2546"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "preparedReview": {
+        "path": "T02-01/f99e41c752c6/prepared/b653e504fa4c",
+        "modelSha256": "b653e504fa4c3e76c9aa7f434cba342e70804173de070450761e4d4256e886de",
+        "previewSha256": "d025db946a3c90d448ad1c5f2cb011d84cfab8b20d3106dd10822963a9107412"
+      }
     },
     {
       "id": "T02-02",
@@ -79,7 +84,12 @@
           "reviewSha256": "abfc6f898284924ce675b8ac79f1efb8b840903951d48a5c648462dd0c285bb9"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "preparedReview": {
+        "path": "T02-04/0a7ad65ac843/prepared/01d908fc9cd3",
+        "modelSha256": "01d908fc9cd307aa5d318270cb187e505c5121abd3e62ee5b02962c4aa5a662a",
+        "previewSha256": "2507304a12da3492143a0a1a8721b8e29159b10bb030b9dac26bc9173a264e87"
+      }
     },
     {
       "id": "T02-05",
@@ -105,7 +115,12 @@
           "reviewSha256": "64931546d7c6c0916f226a80f5b89b346ee7fdfb04cd374fbdd33cf2a371f58a"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "preparedReview": {
+        "path": "T02-05/f84e258938be/prepared/7a65b1fe483f",
+        "modelSha256": "7a65b1fe483fcbe2c41cb5a1a97cf2ccd145d0bdd61cb1f666ab9d23c316f12a",
+        "previewSha256": "6ff5673e7781bb90666ac8a922d1a96b707cf277180c2299f73d07fbd8b837d2"
+      }
     },
     {
       "id": "T02-06",
@@ -132,6 +147,13 @@
         }
       },
       "visualReview": "pending"
+    }
+  ],
+  "combinations": [
+    {
+      "path": "combinations/T02-01_T02-02_T02-04_T02-05/1dc947b7c908",
+      "reportSha256": "1dc947b7c908f178ace19f65abeb8aac6e08c214d335ce963caae15f740232af",
+      "previewSha256": "be6fcf955d864cf59c55053c50085851b30add31f959655f0c5f129330e633ae"
     }
   ]
 }

@@ -1,0 +1,98 @@
+{
+  "checked_at": "2026-09-26T07:33:13.190597+00:00",
+  "image_commit": "51d38b692fac41e25b24493a322984d71907569b",
+  "theme_count": 20,
+  "https_checks": [
+    {
+      "path": "overview-1.jpg",
+      "result": "retrieved_and_visually_reviewed",
+      "tool": "web.run open",
+      "url": "https://raw.githubusercontent.com/leading/buddahome_assets/51d38b692fac41e25b24493a322984d71907569b/theme-previews/world-v1/overview-1.jpg"
+    },
+    {
+      "path": "overview-2.jpg",
+      "result": "retrieved_and_visually_reviewed",
+      "tool": "web.run open",
+      "url": "https://raw.githubusercontent.com/leading/buddahome_assets/51d38b692fac41e25b24493a322984d71907569b/theme-previews/world-v1/overview-2.jpg"
+    },
+    {
+      "path": "overview-3.jpg",
+      "result": "retrieved_and_visually_reviewed",
+      "tool": "web.run open",
+      "url": "https://raw.githubusercontent.com/leading/buddahome_assets/51d38b692fac41e25b24493a322984d71907569b/theme-previews/world-v1/overview-3.jpg"
+    },
+    {
+      "path": "overview-4.jpg",
+      "result": "retrieved_and_visually_reviewed",
+      "tool": "web.run open",
+      "url": "https://raw.githubusercontent.com/leading/buddahome_assets/51d38b692fac41e25b24493a322984d71907569b/theme-previews/world-v1/overview-4.jpg"
+    }
+  ],
+  "whole_page_visual_reviews": [
+    {
+      "ids": [
+        "T22",
+        "T23",
+        "T24",
+        "T25",
+        "T26"
+      ],
+      "image": "overview-1.jpg",
+      "observed": "五张完整竖幅主题：砖拱青铜、贝母折扉、靛蓝竹编、黄墙珐琅、八角木龛；场景与器物材质均可区分。",
+      "url": "https://raw.githubusercontent.com/leading/buddahome_assets/51d38b692fac41e25b24493a322984d71907569b/theme-previews/world-v1/overview-1.jpg",
+      "sha256": "aef54a80a17f259b4c3422e97b6d92e5aeef85d4b2478ff34d0a1fa8a37739ff",
+      "review_method": "direct_assistant_visual_inspection_of_published_HTTPS_HTML_screenshot",
+      "preview_review": "pass"
+    },
+    {
+      "ids": [
+        "T27",
+        "T28",
+        "T29",
+        "T30",
+        "T31"
+      ],
+      "image": "overview-2.jpg",
+      "observed": "河畔编织凉廊、金箔折扉立佛、紫色绳结密教道场、钴蓝陶艺壁龛、丹青纸莲灯；茶具与供器可见。",
+      "url": "https://raw.githubusercontent.com/leading/buddahome_assets/51d38b692fac41e25b24493a322984d71907569b/theme-previews/world-v1/overview-2.jpg",
+      "sha256": "ade2558e39f40b9a5fac6a2ec21a36ab75bbcdcbe9a95d43eda64c721f448db6",
+      "review_method": "direct_assistant_visual_inspection_of_published_HTTPS_HTML_screenshot",
+      "preview_review": "pass"
+    },
+    {
+      "ids": [
+        "T32",
+        "T33",
+        "T34",
+        "T35",
+        "T36"
+      ],
+      "image": "overview-3.jpg",
+      "observed": "灰白粉青陶器、剪金树形立佛、雕砂岩高棉石室、朱漆供盒、栗红柱廊；佛像造型、主色与器物有明显变化。",
+      "url": "https://raw.githubusercontent.com/leading/buddahome_assets/51d38b692fac41e25b24493a322984d71907569b/theme-previews/world-v1/overview-3.jpg",
+      "sha256": "ed8ba2eddb57f386694317ced5a704b4da89fb6802190641d85aac5c76bf3967",
+      "review_method": "direct_assistant_visual_inspection_of_published_HTTPS_HTML_screenshot",
+      "preview_review": "pass"
+    },
+    {
+      "ids": [
+        "T37",
+        "T38",
+        "T39",
+        "T40",
+        "T41"
+      ],
+      "image": "overview-4.jpg",
+      "observed": "蓝窗灰石山房、彩梁织锦高窗、蓝橙蒙古毡帐、菩提树影赤砂壁龛、台南压花玻璃磨石地；完整供桌与前景坐垫均可见。",
+      "url": "https://raw.githubusercontent.com/leading/buddahome_assets/51d38b692fac41e25b24493a322984d71907569b/theme-previews/world-v1/overview-4.jpg",
+      "sha256": "b3fcc96e9d31b9dd8779a99954478d7f232465c019b38b57edebd4c2ae809bbb",
+      "review_method": "direct_assistant_visual_inspection_of_published_HTTPS_HTML_screenshot",
+      "preview_review": "pass"
+    }
+  ],
+  "stage": "theme_preview_only",
+  "user_approval": "pending",
+  "production_asset_acceptance": false,
+  "no_base64_returned_to_chat": true,
+  "note": "本轮用于用户看主题效果；尚未拆分透明物件，也未执行最终拆件遗漏审计。"
+}

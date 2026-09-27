@@ -1,0 +1,17 @@
+{
+  "theme": "T03",
+  "name": "日式侘寂禅室",
+  "environment": "development",
+  "themeId": "29cabbf3-4927-4fe4-a8bb-018afc5e521e",
+  "releaseId": "59df1be9-3c01-4359-9494-e118e9ab48a1",
+  "revisionId": "5302f84f-a46f-4326-837c-b01942da35e6",
+  "assets": 19,
+  "backgrounds": 1,
+  "sceneNodes": 19,
+  "languages": 16,
+  "namesVerified": 336,
+  "publicFileHashesVerified": 63,
+  "matTexture": "original 1K",
+  "T01AndT02Unchanged": true,
+  "runtimeVerified": false
+}

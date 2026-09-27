@@ -1,0 +1,246 @@
+{
+  "checkedAt": "2026-09-27T18:46:36.161172+00:00",
+  "theme": "T03",
+  "state": "passed",
+  "assetCount": 19,
+  "acceptedAssets": 19,
+  "interactiveAssets": 13,
+  "staticAssets": 6,
+  "combinationCount": 12,
+  "passedCombinations": 12,
+  "retained2dLayers": [
+    "T03-24",
+    "T03-25"
+  ],
+  "allSourceAnd4KHashesUnchanged": true,
+  "allRuntimeTexturesMatchCurrentCsv": true,
+  "matTextureUserChoice": "1k",
+  "runtimeVerified": false,
+  "items": [
+    {
+      "assetId": "T03-01",
+      "sourceSha256": "ab023e36327ca3394e241169dc8db3595b705e188120a3bd003feaeb8c7a5934",
+      "modelSha256": "923c969d009ed6ffcb61d7e7de73f95736f9e86ad72e5c77b9c39388042cc718",
+      "configSha256": "bd274e07d6e590bb9d763cd1274febb950ec9cd8dd7c8f46ac5c815f88cf95db"
+    },
+    {
+      "assetId": "T03-02",
+      "sourceSha256": "5063a562699e90c8d99e86e08f6319948695686741f00a68313c90b8bcef7fa1",
+      "modelSha256": "5063a562699e90c8d99e86e08f6319948695686741f00a68313c90b8bcef7fa1",
+      "configSha256": "b0d2260714203cadd3a8073dfb9fd66f11ea9f6f55b8a29d74dc7c42057b8cb8"
+    },
+    {
+      "assetId": "T03-04",
+      "sourceSha256": "c1d40ee932fd3ee75ebadbe31bfd787155cb1e56648ce675170823cff77bec97",
+      "modelSha256": "031c37de39936f556f5310e3a335f86cc3e2fc9473ff48a97ae6028955b7af0c",
+      "configSha256": "995d861a00f953f1474056c2c78d7a55d419d469e21242b175838a9108ccc53e"
+    },
+    {
+      "assetId": "T03-05",
+      "sourceSha256": "8b39b3edcd2c05a7a130cb0958421f54ebfd61b448a03e8d178b10a66e66f66d",
+      "modelSha256": "89dd2d1f0b2f512050c6363cbc63c0eef813d76a7edb184b2af221c3b4715610",
+      "configSha256": "68230573b20545e906c6968ed037eea546fc7f90549cf2ec56372423b6721556"
+    },
+    {
+      "assetId": "T03-06",
+      "sourceSha256": "33808c66709f8fe62854e3cdb89a9e4eb69f60134374a4a7ef7de8c9d3fdf712",
+      "modelSha256": "74e7af1a6d5381842752025b70a027eaeb628df0c88545cb125173a0c0b6ebc3",
+      "configSha256": "55290a1bed77b26119e8beed4bc3b0ebe0e9f8ab6533e5d69cde114d82d03bef"
+    },
+    {
+      "assetId": "T03-07",
+      "sourceSha256": "0734d2be71227599d340592c6f304716cbd47cfd5056eff4e5b50a60cbb155aa",
+      "modelSha256": "96fddeb49a3a498428c67129f2ad21f7dad955c21c56c17dc4397ab5450e9bae",
+      "configSha256": "bc17d8743481c52293b1efce2f5a2b80cceb5a5f51bb86ee7bdf7cc8dcf0c979"
+    },
+    {
+      "assetId": "T03-08",
+      "sourceSha256": "7e2ded944bf51822045e871565a0c21ea427024fd6d4cf494d0519d250efb681",
+      "modelSha256": "16e4cee3fd3f42ba82e185a5c914471645927e53a09b4be3767d114678d7d97e",
+      "configSha256": "acaf0996ca710c9932da577ca2e97217b7aa39d0b285c0d99f972ff0ad824d6f"
+    },
+    {
+      "assetId": "T03-09",
+      "sourceSha256": "ecd173faf9be41b7435b58b6da203e058147a946079a5671607054b4445027b6",
+      "modelSha256": "0ef03945de820e63897a97cd5f8b1e7a55fda6b78145f7346c0a67cf90831132",
+      "configSha256": "366b3f61bfd91c6e44e41a8bc0d7ba3557a7a05157740a98136f56adaced335b"
+    },
+    {
+      "assetId": "T03-12",
+      "sourceSha256": "50111090f6cf2de39515cc2c9d7cfb0908661d5430a6b0bfb60c35a65d492a5c",
+      "modelSha256": "6bd17632064b9b3bdf87ad63434706ef3495e0a37b01314b3fc03c3448f3dcf2",
+      "configSha256": "a73035e61b08260b4ba3efdbcaca65637f51e698f383a2180bafdc5056c49664"
+    },
+    {
+      "assetId": "T03-13",
+      "sourceSha256": "b375852d590d6e53814481f5914eb92ac5ff7b62d37fa8a4f8056f31d963a885",
+      "modelSha256": "2ae39f380b29bdf866f86941419a71dc7f979a1ee5ecfe252d2bd4682c18f1a0",
+      "configSha256": "14e04a26c2ebbbb78c239432e8692239b93003aee858e0de6442b79de2091da6"
+    },
+    {
+      "assetId": "T03-14",
+      "sourceSha256": "28242e60777867514ef58db647e0f01d0a35e91f1602a9a757536f9b862f3306",
+      "modelSha256": "376ff141de033d929d41ba71d5d0608fda138d68477e2a2cd7e12fc281e42888",
+      "configSha256": "a5a5a82dadff1770c7b83f40cf1aa6435dcc10f90d23b8a580e41fee1bad1fbc"
+    },
+    {
+      "assetId": "T03-16",
+      "sourceSha256": "39a43456eb9b7744ed26bf19cd8db92a2b30302a5509b51af92929b07b118c85",
+      "modelSha256": "39a43456eb9b7744ed26bf19cd8db92a2b30302a5509b51af92929b07b118c85",
+      "configSha256": "d013d661b367327a8f4827146b509adb898bfb0763948079ff1cec180a51c7d5"
+    },
+    {
+      "assetId": "T03-17",
+      "sourceSha256": "b6842b53db35655a2e71c057616168171802bd5fffcb8d8dc115fd664851e2d6",
+      "modelSha256": "81f353929e36b0256bb45b03284dc9c58a85a7a96cdba1d4aa4f1a24ac5b41a4",
+      "configSha256": "341d41c13eb778bcc78a3c4d4411b4aa31144cd98bc676e1d1cd59a3b1beb831"
+    },
+    {
+      "assetId": "T03-18",
+      "sourceSha256": "f26fe717eec9ee75d9d61c13288fd84cd794625d22b3039562f285d76f4e4f81",
+      "modelSha256": "f26fe717eec9ee75d9d61c13288fd84cd794625d22b3039562f285d76f4e4f81",
+      "configSha256": "037b8677cee43274adf5db84a9e0359d54f072c076a0aceb628cb13ff4a8a9da"
+    },
+    {
+      "assetId": "T03-19",
+      "sourceSha256": "99bbf870737e3a4a184665a27582c19d1d65832496e81b0c634a12364cdbe3d6",
+      "modelSha256": "d1b7cce1f03e14aa5ebd27c4b9818fa830d7076d2cf4c7d84610ade712a93083",
+      "configSha256": "e1022eafad0eaae10b3d5134ddd6b5691ddb80d494099dd2f7a911c066add6ea"
+    },
+    {
+      "assetId": "T03-20",
+      "sourceSha256": "b259251dd213ba3172026fde856f7e3d8d0eced7813c7b5cbdf947019974c2c3",
+      "modelSha256": "9352af4cd7c93ec15839161ec528d65db85e4efaa9252d65531143bca347ee6c",
+      "configSha256": "7d878ccd5cc6a7db3d22160990002108403129a948b8609dae7bc53eda5e8e1e"
+    },
+    {
+      "assetId": "T03-21",
+      "sourceSha256": "bb429d9bf26937fc359712f790b244fd44a39b38532dbe42a3c29ab61cd6c4b0",
+      "modelSha256": "bb429d9bf26937fc359712f790b244fd44a39b38532dbe42a3c29ab61cd6c4b0",
+      "configSha256": "cba0fb053a2b48ab1814bf15ece9c275a3efa661696731da12396569b81bab69"
+    },
+    {
+      "assetId": "T03-22",
+      "sourceSha256": "4b84caf2a7c51f8c03a9cdc382489bde9efdbbfd04fc1f88a46cc92ee62c031f",
+      "modelSha256": "4b84caf2a7c51f8c03a9cdc382489bde9efdbbfd04fc1f88a46cc92ee62c031f",
+      "configSha256": "eeab6af44ea40ab717d574ae203b95189348d5693b88635028d2c56674c9342c"
+    },
+    {
+      "assetId": "T03-23",
+      "sourceSha256": "900c52a578422a8abc23b9cc0c8735ca5d096969d8af49e6dbcdb2a421e79bf0",
+      "modelSha256": "900c52a578422a8abc23b9cc0c8735ca5d096969d8af49e6dbcdb2a421e79bf0",
+      "configSha256": "571edc1d592c1922c781ec225852bd04c9bd635f8fb9b8d3f7ad929762d0c017"
+    }
+  ],
+  "combinations": [
+    {
+      "name": "T03-01_T03-02_T03-04_T03-05",
+      "assetIds": [
+        "T03-01",
+        "T03-02",
+        "T03-04",
+        "T03-05"
+      ],
+      "reportSha256": "409932287e18fb6a6d1a3f73cbd388dd92c8ae8ab087767bf14b4bc10f5f7cff",
+      "passed": true
+    },
+    {
+      "name": "T03-06_T03-07",
+      "assetIds": [
+        "T03-06",
+        "T03-07"
+      ],
+      "reportSha256": "9871f2282d790482afa1de10100b7366b466e2d261b8bed0c8239479e2cdc5f4",
+      "passed": true
+    },
+    {
+      "name": "T03-08_T03-09",
+      "assetIds": [
+        "T03-08",
+        "T03-09"
+      ],
+      "reportSha256": "2a8206672c00e03a920f1493ba1d4da334d9013dd0337e980a0e6b90d4d94101",
+      "passed": true
+    },
+    {
+      "name": "T03-08_T03-21_盖件",
+      "assetIds": [
+        "T03-08",
+        "T03-21"
+      ],
+      "reportSha256": "7bc8c3e96742532d98a0d03ccc1b9dabe35ccd67f02734457b8205d90f584bd1",
+      "passed": true
+    },
+    {
+      "name": "T03-12_T03-13_倾倒姿态",
+      "assetIds": [
+        "T03-12",
+        "T03-13"
+      ],
+      "reportSha256": "adf1c43be15770987a6f10f3936a5cfcd1a8f4e68f15a66f20ce0a601f5082a4",
+      "passed": true
+    },
+    {
+      "name": "T03-12_T03-19_倾倒姿态",
+      "assetIds": [
+        "T03-12",
+        "T03-19"
+      ],
+      "reportSha256": "d3e84c9de4e0968bb25c51ff647b6de79d90bc9df075e636c2abce5f14cb5d32",
+      "passed": true
+    },
+    {
+      "name": "T03-13_液体",
+      "assetIds": [
+        "T03-13"
+      ],
+      "reportSha256": "53ad89f6c718895383fb59f04db9fa203fdf2c6dd815fd4f18986d36bb6694a7",
+      "passed": true
+    },
+    {
+      "name": "T03-14_T03-13_三杯",
+      "assetIds": [
+        "T03-14",
+        "T03-13"
+      ],
+      "reportSha256": "44c4fe0f1215c8c60a5c01ea1f44e72e3928169b0bfe300c2bc85e95868ae872",
+      "passed": true
+    },
+    {
+      "name": "T03-17_T03-18_苔藓摆放",
+      "assetIds": [
+        "T03-17",
+        "T03-18"
+      ],
+      "reportSha256": "e2360ed5852481a255df940404db15e1a556134d93be9c7794c1eb9c9c7dc956",
+      "passed": true
+    },
+    {
+      "name": "T03-19_液体",
+      "assetIds": [
+        "T03-19"
+      ],
+      "reportSha256": "32fc896f8d20f42141dbfaa393e25bb07cfe16bcbfda3e72e0dbef40a91cc795",
+      "passed": true
+    },
+    {
+      "name": "T03-20_T03-19_杯碟承托",
+      "assetIds": [
+        "T03-20",
+        "T03-19"
+      ],
+      "reportSha256": "244719d85ad50f9dd410ff7d2bc0f0d8f5e47f89d8bd3ec35ca975965ebb8912",
+      "passed": true
+    },
+    {
+      "name": "T03-22_T03-16_地席坐垫",
+      "assetIds": [
+        "T03-22",
+        "T03-16"
+      ],
+      "reportSha256": "e4e2485171fbf5065432d0ae859a5a37ab8649725bccaf4ace2bb1d2141138af",
+      "passed": true
+    }
+  ],
+  "issues": []
+}

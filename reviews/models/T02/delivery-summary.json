@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-09-27T09:27:07.477782+00:00",
+  "state": "passed",
+  "theme": "T02",
+  "assetCount": 28,
+  "acceptedAssets": 28,
+  "interactiveAssets": 16,
+  "staticAssets": 12,
+  "combinationCount": 15,
+  "passedCombinations": 15,
+  "retained2dLayers": [
+    "T02-26",
+    "T02-27",
+    "T02-32"
+  ],
+  "exportPairsPassed": true,
+  "runtimeVerified": false,
+  "restored4kBackupPaths": 23,
+  "allRecommendedOriginalHashesPreserved": true,
+  "scope": "Asset-level delivery and current source integrity. No App deployment or device-runtime verification."
+}

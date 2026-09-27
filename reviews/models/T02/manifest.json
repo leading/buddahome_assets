@@ -1,6 +1,6 @@
 {
   "theme": "T02",
-  "updatedAt": "2026-09-27T09:14:25.031544+00:00",
+  "updatedAt": "2026-09-27T09:30:24.603260+00:00",
   "scope": "Source image and actual imported GLB renders; publishing does not establish acceptance.",
   "items": [
     {
@@ -337,8 +337,8 @@
           "reviewSha256": "06974ba203dcfdbc13042a2b5d5149347c8fc236af5f9998ac611e0d5b386e37"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T02-12/6ed4be9abd66/prepared/90c529570d64",
         "modelSha256": "90c529570d64238e3e3c386e7d26b4688917f54f0d9a3939e302e9fd4ba2ed51",
@@ -551,8 +551,8 @@
           "reviewSha256": "18d9335fb09663aa332bd6ec407dafed669ad3ddb8e74e346582fff908a93c41"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T02-20",
@@ -664,8 +664,8 @@
           "reviewSha256": "7444a1040d5a0c703fc38c4ef9c73662699593f90bd3067648764fa98907e4a0"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T02-23/0c307e5fa84f/prepared/e6032466d932",
         "modelSha256": "e6032466d932f4ab9599d4f238aca5185fc6b0848cd2342ef1548b7b7a0edccc",
@@ -696,8 +696,8 @@
           "reviewSha256": "0df62ccc0bce60be095153d3f5b58f6fcf301c3c73e788aee456a8f45cf25d36"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T02-25",
@@ -723,8 +723,8 @@
           "reviewSha256": "4d4a3962da20e3d47b119ebf91dd33681b0375ecc104e444dc2029a9f6898399"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T02-28",
@@ -750,8 +750,8 @@
           "reviewSha256": "eef91239f3f57b6a27ef462d51ef1e9b0c2b01e3a308b6185692071ce10df5fb"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T02-28/dd707698fc97/prepared/3724a43ad198",
         "modelSha256": "3724a43ad198275485eb3a53c5c7e9b5d7be77ce46bde530b2030513743d71d6",
@@ -782,8 +782,8 @@
           "reviewSha256": "ca2a99d78fc8bc4ff8f19420a7c44e7afed7410cf492eec0a7f834699ba25231"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T02-30",
@@ -809,8 +809,8 @@
           "reviewSha256": "f3bbe14e12a4ff6b7d4cdb41a86287e7b96f06ebb91889cd91fb1ef3efd4fb91"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T02-31",
@@ -836,8 +836,8 @@
           "reviewSha256": "456d7cf82e0cfc456996b20a880d5d55902e9e76e495d7cdc36cfb17e9482ff4"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     }
   ],
   "combinations": [

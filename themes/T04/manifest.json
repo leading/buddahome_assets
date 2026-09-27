@@ -1,7 +1,7 @@
 {
   "theme_id": "T04",
   "name": "喜马拉雅鎏金佛堂",
-  "fingerprint": "57b4ceb8e9204574f65748490e46ca6ab0925c88f271c2c69b3e0b51602340bc",
+  "fingerprint": "d8985ceb2981545c4e9e0ac3d69734508835d21f227bc1171c4ac1db79e5669d",
   "snapshot": {
     "theme_id": "T04",
     "review_protocol": "paired-v2",
@@ -31,7 +31,7 @@
       },
       {
         "object_id": "T04-07",
-        "sha256": "8dd441ebdca633e48040c6eda6589b83289ea50d00ad437471ee84945fbcd6ec"
+        "sha256": "f8342abbb47e7e54fc868217fa555d71e2f50962bc41201215a99d3f2a2c171f"
       },
       {
         "object_id": "T04-08",
@@ -181,9 +181,9 @@
     {
       "object_id": "T04-07",
       "name": "未点燃灯芯",
-      "description": "为源图金属酥油灯提取或合理重建一根匹配尺寸的未点燃灯芯。燃料内芯可能被遮挡，必须保持简洁，不凭空改成柱蜡烛；无灯碗、燃料液体、火焰、光晕或烟。",
+      "description": "为源图金属酥油灯提取或合理重建一根匹配尺寸的未点燃灯芯。燃料内芯可能被遮挡，必须保持简洁，不凭空改成柱蜡烛；无灯碗、燃料液体、火焰、光晕或烟。 原误含灯碗的图模已保留历史，本次PNG为真实独立适配灯芯的透明渲染。",
       "classification": "standalone_object",
-      "sha256": "8dd441ebdca633e48040c6eda6589b83289ea50d00ad437471ee84945fbcd6ec",
+      "sha256": "f8342abbb47e7e54fc868217fa555d71e2f50962bc41201215a99d3f2a2c171f",
       "path": "objects/T04-07.png"
     },
     {
@@ -388,5 +388,11 @@
     }
   ],
   "review": "../../reviews/themes/T04/overview.png",
-  "status": "verified"
+  "status": "verified",
+  "runtimeCorrection": {
+    "objectId": "T04-07",
+    "imageSha256": "f8342abbb47e7e54fc868217fa555d71e2f50962bc41201215a99d3f2a2c171f",
+    "reviewedAtUtc": "2026-09-27T21:49:58.221495+00:00",
+    "source": "corrected runtime wick render; old input retained in local history and Git history"
+  }
 }

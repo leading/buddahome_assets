@@ -246,7 +246,7 @@
     "T04-29": "ae85b54a16b38621c169fa36b573273f2415126e58f63318ad5f5a4436c45909",
     "T04-30": "2ab19280e07b66af171687fee4c9e4887ef27bbe0a16118e7e380027f83ad1f5"
   },
-  "sceneSha256": "604f963a38de24a089219920944410ede7d5ebe157b518e687d8c17b733d5802",
+  "sceneSha256": "96847a22766a095ac59d231beda306c23cf5334e5ff56ca666372bfb9b282954",
   "notes": [
     "All 31 model types are editable; three offering plates match the explicit CSV quantity. Other repeated instances are authored initial layout choices, not claimed photograph counts.",
     "Free grouped placement with actual mesh contacts; oversized statue, fruit stacks and textiles do not imply automatic full-footprint snapping.",
@@ -257,6 +257,6 @@
     1080,
     1890
   ],
-  "coverSha256": "e516435b9a3db9d09be6df8869b5046c9a8750914a3753134421f9b00748cae0",
-  "renderer": "Blender Cycles; same saved scene transforms, camera and background crop; not an App screenshot"
+  "coverSha256": "6c86be96fe6e103639024bdaa19ad82ffedb36fa5b91f0cdf3eee5ba8144f402",
+  "renderer": "Blender Cycles using the actual saved transforms and camera; not an App screenshot"
 }

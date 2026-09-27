@@ -1,0 +1,17 @@
+{
+  "environment": "Disposable cloned iPhone simulator with shared WebView renderer; actual React callbacks, not physical touches",
+  "addition": {
+    "addedAndSelected": true,
+    "savedUnchanged": true,
+    "staysEditing": true,
+    "undoRestoresPriorWork": true
+  },
+  "preview": {
+    "started": true
+  },
+  "cancelAndApply": {
+    "applyRemainsDraft": true,
+    "cancelPreservesWorkAndCamera": true,
+    "undoRestoresWork": true
+  }
+}

@@ -34,6 +34,10 @@
 
 ![T02-06](T02-06/2de4ee14953a/comparison.jpg)
 
+适配版：
+
+![T02-06 prepared](T02-06/2de4ee14953a/prepared/9b3c9fef0352/preview.jpg)
+
 ## T02-07 未点燃蜡芯
 
 ![T02-07](T02-07/f9ea14e1f277/comparison.jpg)
@@ -50,6 +54,10 @@
 
 ![T02-10](T02-10/2842eedc7b2d/comparison.jpg)
 
+## T02-11 供品水果
+
+![T02-11](T02-11/d2ee6f62e3bd/comparison.jpg)
+
 ## T02-12 茶壶
 
 ![T02-12](T02-12/6ed4be9abd66/comparison.jpg)
@@ -62,6 +70,14 @@
 
 ![T02-14](T02-14/c272be3c2837/comparison.jpg)
 
+## T02-15 经书
+
+![T02-15](T02-15/4582b6ad2fa1/comparison.jpg)
+
+## T02-16 坐垫
+
+![T02-16](T02-16/18580d92594a/comparison.jpg)
+
 ## T02-17 前方独立供案
 
 ![T02-17](T02-17/f2f729d13981/comparison.jpg)
@@ -70,13 +86,29 @@
 
 ![T02-18](T02-18/0cfd9915c98b/comparison.jpg)
 
+## T02-19 后方古铜炉盖
+
+![T02-19](T02-19/4b8155e67f42/comparison.jpg)
+
+## T02-20 古铜环形摆件
+
+![T02-20](T02-20/4069ec490077/comparison.jpg)
+
 ## T02-21 深色陶瓷空小供盘
 
 ![T02-21](T02-21/6af4c07f8fe1/comparison.jpg)
 
+## T02-22 红枣
+
+![T02-22](T02-22/5afdc9d87c75/comparison.jpg)
+
 ## T02-23 小型古铜空盖罐
 
 ![T02-23](T02-23/0c307e5fa84f/comparison.jpg)
+
+## T02-24 小型古铜罐盖
+
+![T02-24](T02-24/7c300ea281fc/comparison.jpg)
 
 ## 组合验证预览
 

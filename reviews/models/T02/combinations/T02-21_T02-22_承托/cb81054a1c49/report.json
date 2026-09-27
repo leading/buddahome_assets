@@ -1,0 +1,26 @@
+{
+  "staticAsset": "T02-22",
+  "supports": [
+    {
+      "support": "T02-21",
+      "sourceSha256": "6af4c07f8fe16ca6d8e5044b939b769157547ec8d163b621941bc9b8cea4ecfa",
+      "preparedSha256": "facde92f29fe7e17a7be904f5135bc8b282026f739e851b9d11da140d8dea889",
+      "fruitSourceSha256": "5afdc9d87c75d3ce7621bf812d3762699210d699f25f9347579d794429c954c3",
+      "fruitHorizontalWidthMeters": 0.03,
+      "fruitScaleScope": "standard virtual placement configuration; source mesh unchanged",
+      "fruitNodeBinding": "virtual",
+      "fullFootprintFits": true,
+      "outsidePlacementRejected": true,
+      "footprintRaySamples": 9,
+      "meshIntersectionPairs": 0,
+      "attachmentTransformError": 1.4901161193847656e-08,
+      "detachWorldError": 0.0
+    }
+  ],
+  "configHashes": {
+    "T02-21": "60885c4ebe5a1ffb87a911726b2180dfb93cda5f9eb7324ee21a799bad626123",
+    "T02-22": "ccc802d0bc101223530b47003ee5efadaa6943a0b9be8b649a6e27856587eff9"
+  },
+  "runtimeVerified": false,
+  "scope": "Actual prepared support and raw static fruit geometry/transform checks; mobile runtime not verified."
+}

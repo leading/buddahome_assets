@@ -1,0 +1,42 @@
+{
+  "staticAsset": "T02-11",
+  "supports": [
+    {
+      "support": "T02-10",
+      "sourceSha256": "2842eedc7b2d57b78c36349c3e9f60ca5fffeab7863decb70fc4141e0296e86f",
+      "preparedSha256": "2b81f6fa39b1c7811f3e77abb911912dda7cc354a7fa8448dafe9f94c0b505a4",
+      "fruitSourceSha256": "d2ee6f62e3bde8e816524d3a3558db262eb3e7a6c9166c2e5fd76e46bea4bfda",
+      "fruitHorizontalWidthMeters": 0.055,
+      "fruitScaleScope": "standard virtual placement configuration; source mesh unchanged",
+      "fruitNodeBinding": "virtual",
+      "fullFootprintFits": true,
+      "outsidePlacementRejected": true,
+      "footprintRaySamples": 9,
+      "meshIntersectionPairs": 0,
+      "attachmentTransformError": 1.4901161193847656e-08,
+      "detachWorldError": 0.0
+    },
+    {
+      "support": "T02-17",
+      "sourceSha256": "f2f729d139815e00b1922958df20e1d14f934477c208ad2f2f69f4a1559f28d4",
+      "preparedSha256": "f25ca7c1b042efcff2ed36d2257a12c01892ceb79c6f95e8c13246c987716c9f",
+      "fruitSourceSha256": "d2ee6f62e3bde8e816524d3a3558db262eb3e7a6c9166c2e5fd76e46bea4bfda",
+      "fruitHorizontalWidthMeters": 0.055,
+      "fruitScaleScope": "standard virtual placement configuration; source mesh unchanged",
+      "fruitNodeBinding": "virtual",
+      "fullFootprintFits": true,
+      "outsidePlacementRejected": true,
+      "footprintRaySamples": 9,
+      "meshIntersectionPairs": 0,
+      "attachmentTransformError": 1.4901161193847656e-08,
+      "detachWorldError": 0.0
+    }
+  ],
+  "configHashes": {
+    "T02-10": "45082de6a11a0fce2e48465b55ffbd75956b8a4bebca2b965eef90fc34d8175b",
+    "T02-17": "69699b4094fa59b863c155dbf1da9f7131c9338dd409351e266a7443545a5d21",
+    "T02-11": "e14b3bd22f222be556ec272b2996d7c03fa3c89dedf444d335a947b18ab2061f"
+  },
+  "runtimeVerified": false,
+  "scope": "Actual prepared support and raw static fruit geometry/transform checks; mobile runtime not verified."
+}

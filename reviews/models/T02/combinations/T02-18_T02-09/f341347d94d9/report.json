@@ -1,0 +1,50 @@
+{
+  "emptyMainAsset": true,
+  "optionalFillDefaultDisabled": true,
+  "fillTriangles": 476,
+  "fillShellIntersectionPairs": 0,
+  "continuousRegionSurfaceRaySamples": 96,
+  "incenseAvailable": true,
+  "burner": "T02-18",
+  "incense": "T02-09",
+  "configHashes": {
+    "T02-18": "144932eb921d1a7583d9c936636ae44413d666228c73c1141771543e8d559fe1",
+    "T02-09": "9f11110e7f86ed661a8a18717426779da87b36d6b54fdff0bf257c7d1cc9227a"
+  },
+  "runtimeVerified": false,
+  "sourceHashes": {
+    "T02-18": "0cfd9915c98bafb457e7863eab6db45a254d90f1c2c750b35ec7d1d3aa3820f0",
+    "T02-09": "305edf8d58539f1352ab164e7834a305394bb7b7a0aae5afa006f3d1dcf26b4a"
+  },
+  "preparedHashes": {
+    "T02-18": "16d1ab2cee78aec80b77eb88281a1006a41d816b4aff288d70e85d2f20105f71",
+    "T02-09": "c80d1f9296b5a750f8c3b2df8586e70d13ca66370e7fe6d528763ebc7eb66624"
+  },
+  "fillSha256": "347b0be50cc40cd51a93f03736011bb8c0b1033f60d288de227299474ce97a3b",
+  "scope": "Geometry, continuous insertion surface and attachment tests; no App particle simulation or mobile performance validation.",
+  "pairDepthRangeMeters": [
+    0.005,
+    0.014512752058601365
+  ],
+  "excessDepthRejected": true,
+  "multiIncense": {
+    "testedInstanceCount": 7,
+    "sharedMeshAndMaterials": true,
+    "hardcodedCountLimit": null,
+    "shellOrOtherStickIntersections": 0,
+    "tiltedInstances": 2,
+    "depthMeters": 0.011200000047683716,
+    "independentDepthsMeters": [
+      0.011200000047683716,
+      0.005951275205860137,
+      0.012610201646881094,
+      0.008805100823440546,
+      0.0140371144556713,
+      0.007378188014650342,
+      0.011183288838090888
+    ],
+    "attachmentTransformError": 2.9802322387695312e-08,
+    "detachWorldError": 0.0,
+    "defaultUnlit": true
+  }
+}

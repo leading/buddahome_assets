@@ -1,6 +1,6 @@
 {
   "theme": "T04",
-  "updatedAt": "2026-09-27T20:51:07.939874+00:00",
+  "updatedAt": "2026-09-27T21:56:35.854673+00:00",
   "scope": "Source image and actual imported GLB renders; publishing does not establish acceptance.",
   "items": [
     {
@@ -27,8 +27,8 @@
           "reviewSha256": "e5549bf8b29283bd4397432c4cb8e22a1b71e3e1edcb66918303eab2db1f99f9"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T04-01/19b67a7f9a64/prepared/eac1093ffe07",
         "modelSha256": "eac1093ffe07a8817ddfba9663cf859408fda7a2bff956f07a2e005cae718eb7",
@@ -59,8 +59,8 @@
           "reviewSha256": "ced6bcbb20d7310a3ccdb83ef9e1d407bf05156324983e624843eb7d2bd8917d"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T04-04",
@@ -86,8 +86,8 @@
           "reviewSha256": "c93d002b307518ad6bce13a179b78573bc695271e4b7a336308f9ae5e8f348a5"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T04-04/c839361914d4/prepared/9e0b0ae84639",
         "modelSha256": "9e0b0ae84639683d7394ecaa932ea21f30ec34792fc2287b60d6588f048c420a",
@@ -118,8 +118,8 @@
           "reviewSha256": "1e99cd62ad76f1f4e7a26079e8eab3e126e0ed3b4e2b8a0348cc478f7097b904"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T04-05/731e712aff8a/prepared/9dac6f930bbe",
         "modelSha256": "9dac6f930bbec49edd415a93d18d788cbf25277029d73df28948e85e1d4af4de",
@@ -150,8 +150,8 @@
           "reviewSha256": "2d86c8ef7aaf5dcb73d53542cf86d33a20ee44cc573a7f56d84aef31e9ffb1f0"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T04-06/a4909338eb7e/prepared/d02225160865",
         "modelSha256": "d022251608659a3c3336c00d65647ae6a2b6888085a7a2c888b06a7ed785f86a",
@@ -164,12 +164,12 @@
       "capability": "可点燃",
       "sourceSha256": "97bb72c50e941fc71e83e84161cfb59db6ec58926d99da95284ab6b1e8c4d67a",
       "path": "T04-07/97bb72c50e94",
-      "comparisonSha256": "448b84ebcf9a5735ed0dc423757512764c2ed4c687b562503405eab4660606ad",
+      "comparisonSha256": "07f1f513c923eb730f738eee947e9e399629c67ae8d0d28df3386b822601d7be",
       "images": {
         "source": {
-          "originalSha256": "867c38b7fc7ae63500acdb9afad5892fc8a9eda724cdc7d732a0f031a244e6e4",
+          "originalSha256": "f8342abbb47e7e54fc868217fa555d71e2f50962bc41201215a99d3f2a2c171f",
           "reviewFile": "source.jpg",
-          "reviewSha256": "c04da958884b99ad4a1ca2bfaa70393d8a0d0e00db58595ab3c80f9b5d408ac4"
+          "reviewSha256": "433d2ec2e0c9ea5a9d031e4b111aaddec2a17055bb0c1b534e11b507b652f3bc"
         },
         "perspective": {
           "originalSha256": "3d3a4025e1ce41373818189ca4ad4dda8b503c5b56e8e68978aa04d0a32586fe",
@@ -182,12 +182,12 @@
           "reviewSha256": "5fded74055cc34956e839af1aeabb0af63fab19b9ada9d73887ac6f340150ac8"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
-        "path": "T04-07/97bb72c50e94/prepared/871f72576524",
-        "modelSha256": "871f7257652460056a0531ea80f78a6e4a5cbe271700ab233e58dc6c98c5f7ed",
-        "previewSha256": "1b83e23f835fdf28dcc7098f88b03555e23d3643bfe6cf918dc81f248e51625a"
+        "path": "T04-07/97bb72c50e94/prepared/aa02fa3f66a3",
+        "modelSha256": "aa02fa3f66a36287f8b203a2d7ef52267f5fd96a2d9ffc2e23c5da2605b2e3df",
+        "previewSha256": "a7fa0e345ab56f56074994975ec69592ca3cb91712c19720c01a4cc730a8ebce"
       }
     },
     {
@@ -214,8 +214,8 @@
           "reviewSha256": "6a9ace69140ff48bcd820483f807dcc0e87e1ea18e50d299f33c33832bfb6a19"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T04-08/aaf0e9f9da3b/prepared/9fe52f32b4d8",
         "modelSha256": "9fe52f32b4d8701f7f1bf46a9fec5af17dc7188df2c797e7a6b97517c3ab4f84",
@@ -246,8 +246,8 @@
           "reviewSha256": "24f5a653f68c71742110cc7e293c9346001a1e9cfac1aa1bececf53fb989b196"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T04-09/d688e5142c92/prepared/588469acb2a2",
         "modelSha256": "588469acb2a29e690278979c1606ac15106dc4f47a49ccee0ab2a2a2b871785c",
@@ -278,8 +278,8 @@
           "reviewSha256": "330937f97c2a4f063b06b792ddfd92145392db6260a189b905393be009d0ee30"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T04-10/5bb81bbbd1a7/prepared/c5b7d9ad74e4",
         "modelSha256": "c5b7d9ad74e4be1d6133b07d7683d8a5ccc6da97639d576a7b29c9c2cc72e849",
@@ -310,8 +310,8 @@
           "reviewSha256": "6f77bcacbf97f69f7ad62042309307b3f5bf7615b1a85e87052c1faa26da6419"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T04-12",
@@ -337,8 +337,8 @@
           "reviewSha256": "743ae62b85cf14cd08ca4497c2ae57afa8b65f3a06e264d321d11dde5d59d90c"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T04-12/7b87e14aed1c/prepared/42fca62bfab9",
         "modelSha256": "42fca62bfab91ebacfee7bca43121e3512a9b79ec325d04e71bbab1b00cf123f",
@@ -369,8 +369,8 @@
           "reviewSha256": "0e717c33588c94bda3f470dbdba3b2eab57d24c05163b654be3a3923b57f2ca3"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T04-13/4db90c15ffd9/prepared/fc24769310f7",
         "modelSha256": "fc24769310f7b3d63578b65af76397f51d28fcbd397dd4944b35e69bebcdbc68",
@@ -401,8 +401,8 @@
           "reviewSha256": "9812e634bac45d57cd2c32a7c26295d799c74656a57664b72ceeb4f0b2ea421b"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T04-16",
@@ -428,8 +428,8 @@
           "reviewSha256": "72a8bab489ef8e3575e89874c0da7f8f2cb2cd31ba24b69d991a2f10a29a52d2"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T04-17",
@@ -455,8 +455,8 @@
           "reviewSha256": "15fa18d0bb7e7fb422159cd5192a5e8abc4c8aacf3f2dd851ccff91070487210"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T04-17/2a9272c3b859/prepared/d6f6613b59bb",
         "modelSha256": "d6f6613b59bbce287c1677533f45dabb5c9a9549056c3edee346f19a96d0e2a1",
@@ -487,8 +487,8 @@
           "reviewSha256": "1524b7032a6d3b46ddfdf6e1a4215660341b9721d8ad41e09c371ff3509b6a21"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T04-18/6855721c4444/prepared/e68a3ec19a37",
         "modelSha256": "e68a3ec19a37be57e6ce5bdf7a2ac7d06dc9ff93cbcae2be61328bd90bf5be2f",
@@ -519,8 +519,8 @@
           "reviewSha256": "d55e874cc67de6e4eba180bdbfb0fc600819d5e8968c3b8a760c5febbd28c099"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T04-19/298d04df69dc/prepared/71793863a4ea",
         "modelSha256": "71793863a4eaf7a43e9455628a29fd80b2b7f32fffc75fcb89732372c4da819e",
@@ -551,8 +551,8 @@
           "reviewSha256": "3a671b9c4ecf777dc19d3a218a5e34b99b8bdcc1bbb27462f705e31c4ae623f7"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T04-20/070be42dc457/prepared/470af6aad963",
         "modelSha256": "470af6aad963f045c5b1eef67121711c5a6d78484819dadfa7f37429d553654c",
@@ -583,8 +583,8 @@
           "reviewSha256": "c8c84ede6215c048f1663c5c46e81aadcfa310822bc167c3b06110ec429788d7"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T04-21/8282ecf090df/prepared/991966b12ae2",
         "modelSha256": "991966b12ae2030487452f1bb1fc6a35eff81140963cb3cd5e115bc8ac21ed8d",
@@ -615,8 +615,8 @@
           "reviewSha256": "1c2bc22ee276ac31b4a7b425fa201a34334c0c434767ff2cc54e01cd3583b300"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T04-23",
@@ -642,8 +642,8 @@
           "reviewSha256": "ba289e75faf3965f6e51fee0aa0034485e3b49e439f403cfb1656efa1bdb9ee1"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T04-24",
@@ -669,8 +669,8 @@
           "reviewSha256": "30de21412dba6d0bc9d12f4ffe8b0a684d2ceaae6bc1cb76b57beade1e6907bc"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T04-25",
@@ -696,8 +696,8 @@
           "reviewSha256": "c76b8beefefaaf72f0804461650a70c0596c7f5c85a3a7c57249f6aa773c0fae"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T04-25/bbcd37133351/prepared/14a3ef212baf",
         "modelSha256": "14a3ef212baf4284aa0a05ee543a6a72e2bcc99aa2bf53e0fbe991f2731c3429",
@@ -728,8 +728,8 @@
           "reviewSha256": "ef9c6a15c8ca612bfa7d7381602677f16cda153f5926b44c840f7b79e2a0ed42"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T04-27",
@@ -755,8 +755,8 @@
           "reviewSha256": "190627df8ee4f4d840ccd8a38fe4a22aa62fa2e28ddaa33c0eb1f0f3bce797e6"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T04-28",
@@ -782,8 +782,8 @@
           "reviewSha256": "7c6882270e1326006f3f9d0ba366eeb96c9e60e3bd683c382a8e7e9521c31412"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T04-29",
@@ -809,8 +809,8 @@
           "reviewSha256": "01e9b0209ca1282f834c69f26e4f6dd8a852474ced250a1ce3816768f2dc9204"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T04-30",
@@ -836,8 +836,8 @@
           "reviewSha256": "3e2f37fa99861419a32700be59db2702b42570b221080cff87c61294ad712e60"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T04-31",
@@ -863,8 +863,8 @@
           "reviewSha256": "883d817e69bf4742892d66e1b112e4632d917ee5f963ff65a6e8ceff89b1d6fa"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T04-34",
@@ -890,8 +890,8 @@
           "reviewSha256": "0bf9a8c0135c9b4a35cffc1d59324f5e85ee6c5b0209e4a8819885ac7014b357"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated"
     },
     {
       "id": "T04-35",
@@ -917,12 +917,12 @@
           "reviewSha256": "daab930a10e5dd4d5334b817db0d688263b82944488fe7eb7827c7c6ee4a716e"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "static_metadata_validated",
       "preparedReview": {
-        "path": "T04-35/b1731c711702/prepared/d2d563e44f82",
-        "modelSha256": "d2d563e44f821b0477feb69330be09ebb693b2eab47dbc47cfab2be8274f7da7",
-        "previewSha256": "ae5a85bc193c58944798bd49ca9b87f40de79d7959a01a178af54ff921f1fb85"
+        "path": "T04-35/b1731c711702/prepared/f9f4ddc087fd",
+        "modelSha256": "f9f4ddc087fde6a6bc7032bb1faef08e9ec9d6e0aab9511b3b986ff65bac0b19",
+        "previewSha256": "cb219d7d31d92631eca38e4d764c7dd4e87108eb266ecd35e5676ae9762c2ff7"
       }
     }
   ],
@@ -963,9 +963,9 @@
       "previewSha256": "c7f3366eebd3f5152aaf61e7c218e44bfc7865b9abc3283ea461090dbe429b6d"
     },
     {
-      "path": "combinations/T04_grain-right/b36e20980a53",
-      "reportSha256": "b36e20980a535d16f7efa5aadb37e07be59d2a4fdd28a47b4b908e367ee0b927",
-      "previewSha256": "6d95dc93994dc546129f0e3e460f8df548412136f3c8c03d852cb91d15a9e2a2"
+      "path": "combinations/T04_grain-right/f19596350429",
+      "reportSha256": "f19596350429b962a20d3cacf89f13c642d5402cab4fb2ceb62d819aa68633e7",
+      "previewSha256": "9e74521211081b3f4e1118a2b02cf7ea6fea2673ebb4708f198daa41bd107447"
     },
     {
       "path": "combinations/T04_grapes/64848fb3be0e",
@@ -1003,14 +1003,14 @@
       "previewSha256": "ecee58ef857584064f3126f4465903faf2b3636d255c67b1c658df5a23cbf130"
     },
     {
-      "path": "combinations/T04_wick-large/0fc46a23c95a",
-      "reportSha256": "0fc46a23c95a2a187b69f17fef439f3d596271e7036bf21cbf331ecb5c110436",
-      "previewSha256": "a8f30ce11bfeefd987e31f999ae2282097b8dd5f4cbe15c55a7f99757efa0e41"
+      "path": "combinations/T04_wick-large/4535c707595c",
+      "reportSha256": "4535c707595cd58ce8131fc619fc6078b50bcf1a3f58071c5d06e3e6d8660800",
+      "previewSha256": "94e7194a027f7e9b7a8e30068ae4286162915093c1ffb24cf22765c26975741c"
     },
     {
-      "path": "combinations/T04_wick-medium/816a249e2974",
-      "reportSha256": "816a249e2974f117cb2156172bd93d59f2a0e33259333f84866e3d6573ceaf0a",
-      "previewSha256": "35c430e457b966102122bce80303426806339aa8e8bbf351f5dc58625623a5e0"
+      "path": "combinations/T04_wick-medium/9dc6cc145065",
+      "reportSha256": "9dc6cc145065520134092868fd2ca264198b4c933d97e14a234d73cdcf0ba422",
+      "previewSha256": "cd80ad3a5078f96cdcbe8610db1f8a639aeb15ea1a5904a5d9e580165fde6066"
     }
   ]
 }

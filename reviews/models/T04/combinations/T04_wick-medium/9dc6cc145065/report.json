@@ -1,0 +1,42 @@
+{
+  "parent": "T04-20",
+  "child": "T04-07",
+  "mode": "wick-medium",
+  "depthMeters": 0.037693819701671585,
+  "profileSamples": 139,
+  "meshIntersectionPairs": 0,
+  "actualFloorContact": {
+    "actualContactSamples": 68,
+    "nearestContactMeters": 0.0004999488592147827,
+    "supportClearanceMeters": 0.0005,
+    "meshIntersectionPairs": 0,
+    "nearestFinalContactMeters": 0.0017491430044174194,
+    "measuredSeatedDepth": 0.03894301503896713
+  },
+  "parentTransformError": 9.371433407068253e-09,
+  "detachWorldError": 0.0,
+  "relativePositionBlenderXYZ": [
+    0.0001422222121618688,
+    0.00032888888381421566,
+    0.06689325720071793
+  ],
+  "runtimeVerified": false,
+  "sourceHashes": {
+    "T04-20": "070be42dc4579ad6bcbd18ee5c6c587677cf7cca1561f64f0c7e9baf9e02eec3",
+    "T04-07": "97bb72c50e941fc71e83e84161cfb59db6ec58926d99da95284ab6b1e8c4d67a"
+  },
+  "modelHashes": {
+    "T04-20": "470af6aad963f045c5b1eef67121711c5a6d78484819dadfa7f37429d553654c",
+    "T04-07": "aa02fa3f66a36287f8b203a2d7ef52267f5fd96a2d9ffc2e23c5da2605b2e3df"
+  },
+  "configHashes": {
+    "T04-20": "d77595b0200f9e3ba0471ad269a4afa1e24df20b52bfd643125776960465f002",
+    "T04-07": "4d1c49848cfb2f48a99e3d8fc1ea909ac6e63e713467e5a4967deb1dfbfc3f97"
+  },
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "287b36d37caa6a478b5d5e3bda0e89476234bf3ebb363eba11e19bec02bd07ee",
+    "组合验证.blend": "d57a678beaeb0ebadb22b6fca9c9b3f89f5a724941a2eace799c979d955fff28",
+    "组合预览.png": "59ab4f5a7af4ea8471fcd0bd0cd13a448dccdf8294e4743602d0684ff8575f06"
+  }
+}

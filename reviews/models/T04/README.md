@@ -44,7 +44,7 @@
 
 适配版：
 
-![T04-07 prepared](T04-07/97bb72c50e94/prepared/871f72576524/preview.jpg)
+![T04-07 prepared](T04-07/97bb72c50e94/prepared/aa02fa3f66a3/preview.jpg)
 
 ## T04-08 空香炉
 
@@ -192,7 +192,7 @@
 
 适配版：
 
-![T04-35 prepared](T04-35/b1731c711702/prepared/d2d563e44f82/preview.jpg)
+![T04-35 prepared](T04-35/b1731c711702/prepared/f9f4ddc087fd/preview.jpg)
 
 ## 组合验证预览
 
@@ -238,9 +238,9 @@
 
 ## 组合验证预览
 
-![assembly](combinations/T04_grain-right/b36e20980a53/preview.jpg)
+![assembly](combinations/T04_grain-right/f19596350429/preview.jpg)
 
-[几何验证报告](combinations/T04_grain-right/b36e20980a53/report.json)
+[几何验证报告](combinations/T04_grain-right/f19596350429/report.json)
 
 ## 组合验证预览
 
@@ -286,12 +286,12 @@
 
 ## 组合验证预览
 
-![assembly](combinations/T04_wick-large/0fc46a23c95a/preview.jpg)
+![assembly](combinations/T04_wick-large/4535c707595c/preview.jpg)
 
-[几何验证报告](combinations/T04_wick-large/0fc46a23c95a/report.json)
+[几何验证报告](combinations/T04_wick-large/4535c707595c/report.json)
 
 ## 组合验证预览
 
-![assembly](combinations/T04_wick-medium/816a249e2974/preview.jpg)
+![assembly](combinations/T04_wick-medium/9dc6cc145065/preview.jpg)
 
-[几何验证报告](combinations/T04_wick-medium/816a249e2974/report.json)
+[几何验证报告](combinations/T04_wick-medium/9dc6cc145065/report.json)

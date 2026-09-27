@@ -1,0 +1,21 @@
+{
+  "theme": "T04",
+  "name": "喜马拉雅鎏金佛堂",
+  "environment": "development",
+  "themeId": "86522cc8-ae9a-4578-9d9f-70ddb81b90a6",
+  "releaseId": "293a2206-d13c-4605-beb8-744d90029c91",
+  "revisionId": "dbe8ac37-769e-4b5f-9b9a-d00297dcfacd",
+  "assets": 31,
+  "backgrounds": 1,
+  "sceneNodes": 47,
+  "languages": 16,
+  "resourceNamesVerified": 528,
+  "categoryNamesVerified": 16,
+  "publicFileHashesVerified": 98,
+  "priorThemesUnchanged": true,
+  "corrections": [
+    "independent wick extracted; erroneous original thumbnail archived",
+    "granular right offering rebuilt within authored polygon review limit"
+  ],
+  "runtimeVerified": false
+}

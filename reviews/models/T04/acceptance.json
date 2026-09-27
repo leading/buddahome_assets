@@ -1,0 +1,376 @@
+{
+  "checkedAt": "2026-09-27T21:14:52.703960+00:00",
+  "theme": "T04",
+  "state": "passed",
+  "assetCount": 31,
+  "acceptedAssets": 31,
+  "interactiveAssets": 16,
+  "staticAssets": 15,
+  "combinationCount": 18,
+  "passedCombinations": 18,
+  "retained2dLayers": [],
+  "allSourceAnd4KHashesUnchanged": true,
+  "allRuntimeTexturesMatchCurrentCsv": true,
+  "runtimeVerified": false,
+  "items": [
+    {
+      "assetId": "T04-01",
+      "sourceSha256": "19b67a7f9a642ae3ca1b5f630e80e3464aaf2040f9b1537b87b1d33650fc2358",
+      "modelSha256": "eac1093ffe07a8817ddfba9663cf859408fda7a2bff956f07a2e005cae718eb7",
+      "configSha256": "481da12ca9933a316368f62e0837c78a550ff2d13e0b199b4cb4497433cb4f52"
+    },
+    {
+      "assetId": "T04-02",
+      "sourceSha256": "e5a90518bd26fc0279e7dffde29042cd71d0d45afa69acb801a8f46bc33c1281",
+      "modelSha256": "e5a90518bd26fc0279e7dffde29042cd71d0d45afa69acb801a8f46bc33c1281",
+      "configSha256": "ba65c2afe68cded9a546e59e4344c382cafc5f255cace8417bba39d06d023816"
+    },
+    {
+      "assetId": "T04-04",
+      "sourceSha256": "c839361914d41c6241eb25e325ee7528ad7f5c7821e271a0bc01737e511e3872",
+      "modelSha256": "9e0b0ae84639683d7394ecaa932ea21f30ec34792fc2287b60d6588f048c420a",
+      "configSha256": "41ae01eb5be64dd9ff5c4988400c03e88aa4c96706354523f06732e2c5d4cba6"
+    },
+    {
+      "assetId": "T04-05",
+      "sourceSha256": "731e712aff8a09bb008a26bdec2a186cce96774651dca9ee965b2c9628b73e26",
+      "modelSha256": "9dac6f930bbec49edd415a93d18d788cbf25277029d73df28948e85e1d4af4de",
+      "configSha256": "53f4771982f9328f9ec51cc9da01c02369f03a550a333af25f3927bc735c8c0d"
+    },
+    {
+      "assetId": "T04-06",
+      "sourceSha256": "a4909338eb7e71d62f6c148c2bdc0bc825d7cd0027717dc7b402e6a6876de6d7",
+      "modelSha256": "d022251608659a3c3336c00d65647ae6a2b6888085a7a2c888b06a7ed785f86a",
+      "configSha256": "d99a24c39798b766da4aafa5c61c6f64370fb6ee30c3d38d7972f30e1ffacd5c"
+    },
+    {
+      "assetId": "T04-07",
+      "sourceSha256": "97bb72c50e941fc71e83e84161cfb59db6ec58926d99da95284ab6b1e8c4d67a",
+      "modelSha256": "aa02fa3f66a36287f8b203a2d7ef52267f5fd96a2d9ffc2e23c5da2605b2e3df",
+      "configSha256": "4d1c49848cfb2f48a99e3d8fc1ea909ac6e63e713467e5a4967deb1dfbfc3f97"
+    },
+    {
+      "assetId": "T04-08",
+      "sourceSha256": "aaf0e9f9da3b9f07025eb76fa271d4baef1f99db7b08c5c88fbe4824577748cc",
+      "modelSha256": "9fe52f32b4d8701f7f1bf46a9fec5af17dc7188df2c797e7a6b97517c3ab4f84",
+      "configSha256": "807c5510c60b63ae2d835245cb356f2788f422b478cf0761570d209fcbba8c7f"
+    },
+    {
+      "assetId": "T04-09",
+      "sourceSha256": "d688e5142c92b179ecc3c7fb92afb2e26776b79aa1b9a38cef694fda43aae8be",
+      "modelSha256": "588469acb2a29e690278979c1606ac15106dc4f47a49ccee0ab2a2a2b871785c",
+      "configSha256": "9d09ba961f94df3a6a1f7eb118ba6bd56fbe697819bbb3186909b7aa2f7522fe"
+    },
+    {
+      "assetId": "T04-10",
+      "sourceSha256": "5bb81bbbd1a7c3a279422f400f8cb497705b811258a227337395ce084e42a513",
+      "modelSha256": "c5b7d9ad74e4be1d6133b07d7683d8a5ccc6da97639d576a7b29c9c2cc72e849",
+      "configSha256": "574e24cf233bd63a3a13bac308501d191d5eb94271bbdfd43b6a1671d9a1ff7f"
+    },
+    {
+      "assetId": "T04-11",
+      "sourceSha256": "8c508ba845d9d46e04ea44c3da76e9771b6eaa63eaa8a27d9978cd8bd07ab93c",
+      "modelSha256": "8c508ba845d9d46e04ea44c3da76e9771b6eaa63eaa8a27d9978cd8bd07ab93c",
+      "configSha256": "6e03bd15106bb2cc3627b7e7ba91e76c6cfa51676847c8e6559c1d2283efada5"
+    },
+    {
+      "assetId": "T04-12",
+      "sourceSha256": "7b87e14aed1ca0fdfceaffac7a72097ae7c7cb808e1130ff283dd5116779175e",
+      "modelSha256": "42fca62bfab91ebacfee7bca43121e3512a9b79ec325d04e71bbab1b00cf123f",
+      "configSha256": "898c919412a4bc0c4007be9059fff6a75139123fbb6c3329e932edad0bbac521"
+    },
+    {
+      "assetId": "T04-13",
+      "sourceSha256": "4db90c15ffd9b6733056dbb49660c0252fbdc2bf839e49cacec8e7f200971989",
+      "modelSha256": "fc24769310f7b3d63578b65af76397f51d28fcbd397dd4944b35e69bebcdbc68",
+      "configSha256": "e64bcd64965afaa07c515b160eab352a646d8c103f9fbcf8390a6a9f8deb2e19"
+    },
+    {
+      "assetId": "T04-15",
+      "sourceSha256": "990f3a5bb36bc58cad2f727f85527b8b5a5b15b04bf755ec18ad154c87617961",
+      "modelSha256": "990f3a5bb36bc58cad2f727f85527b8b5a5b15b04bf755ec18ad154c87617961",
+      "configSha256": "ff851c8e3019d7e656058d5ff2bf6e3d8a1dc23ce3a64a72cbb015cc5fadfd7f"
+    },
+    {
+      "assetId": "T04-16",
+      "sourceSha256": "d867a3131d75367f7e8a5c89d3e964d1a682eeb2a8ed98e9c46b187a5c9d3cd6",
+      "modelSha256": "d867a3131d75367f7e8a5c89d3e964d1a682eeb2a8ed98e9c46b187a5c9d3cd6",
+      "configSha256": "10a680c6e6c53b4de588907254cf166bf8540eff6630735972541ecfb96ad495"
+    },
+    {
+      "assetId": "T04-17",
+      "sourceSha256": "2a9272c3b859860a91e1bd8ca8f00e21b8bc75b2701fd2a375e6589cad636a69",
+      "modelSha256": "d6f6613b59bbce287c1677533f45dabb5c9a9549056c3edee346f19a96d0e2a1",
+      "configSha256": "86cb17f9f095fdda99b90f160e3c263305f9f5180cae3984bffa2ea330aeab01"
+    },
+    {
+      "assetId": "T04-18",
+      "sourceSha256": "6855721c4444099fcb7811b7ce6d1fa853f5a07417561f69b81338165b5c3d41",
+      "modelSha256": "e68a3ec19a37be57e6ce5bdf7a2ac7d06dc9ff93cbcae2be61328bd90bf5be2f",
+      "configSha256": "f5804f4b314d98967a2a5bf91fd3c88754e27ddf334c836bffce75ca68f778f6"
+    },
+    {
+      "assetId": "T04-19",
+      "sourceSha256": "298d04df69dccabcd4595d34a93de4790a0ca28ff5e1336351bd1a18e3088b00",
+      "modelSha256": "71793863a4eaf7a43e9455628a29fd80b2b7f32fffc75fcb89732372c4da819e",
+      "configSha256": "9d7c3073b2630614ffb39064c92a8abe42ff71628bf5c20b0306dee0ef583385"
+    },
+    {
+      "assetId": "T04-20",
+      "sourceSha256": "070be42dc4579ad6bcbd18ee5c6c587677cf7cca1561f64f0c7e9baf9e02eec3",
+      "modelSha256": "470af6aad963f045c5b1eef67121711c5a6d78484819dadfa7f37429d553654c",
+      "configSha256": "d77595b0200f9e3ba0471ad269a4afa1e24df20b52bfd643125776960465f002"
+    },
+    {
+      "assetId": "T04-21",
+      "sourceSha256": "8282ecf090df6c63785546c8145cbb10e20105b7e3617a9e79e5823fda46a7c6",
+      "modelSha256": "991966b12ae2030487452f1bb1fc6a35eff81140963cb3cd5e115bc8ac21ed8d",
+      "configSha256": "b10a43c88a1b5930b02932a95cc375a20325d48faeb6b4fdb9ba55825b0ff120"
+    },
+    {
+      "assetId": "T04-22",
+      "sourceSha256": "6d21b47792b6536f0e9967054f6e68ab877adab0ae5469efd5fee89d45cb9362",
+      "modelSha256": "6d21b47792b6536f0e9967054f6e68ab877adab0ae5469efd5fee89d45cb9362",
+      "configSha256": "7e55a3bb581574ffa0614dfc47604a633b4bbd513865e28941530ac895ecac97"
+    },
+    {
+      "assetId": "T04-23",
+      "sourceSha256": "98eb56e337e0e3b97621c7b5addd09700c6974604d3e7c863faac313f9181882",
+      "modelSha256": "98eb56e337e0e3b97621c7b5addd09700c6974604d3e7c863faac313f9181882",
+      "configSha256": "20c42da76e59ebe59ef2e55a43d14a8c7d511f80f69f967afeb25ae867ba2783"
+    },
+    {
+      "assetId": "T04-24",
+      "sourceSha256": "31508cebf03777cc93915fc6102c267b63a4e6c2a830e4b05c9e82e405f85918",
+      "modelSha256": "31508cebf03777cc93915fc6102c267b63a4e6c2a830e4b05c9e82e405f85918",
+      "configSha256": "aa182321a37d8156f727cb992cf2058c7c9f3b67009c4db72aeac9009f73ef62"
+    },
+    {
+      "assetId": "T04-25",
+      "sourceSha256": "bbcd371333513911b361b185631bdba9c18614b1c517383857a9e375d4b67ccf",
+      "modelSha256": "14a3ef212baf4284aa0a05ee543a6a72e2bcc99aa2bf53e0fbe991f2731c3429",
+      "configSha256": "75413183089bebb22c986d6e02269993942df14dd3543acc1fe4ef2f24bc6944"
+    },
+    {
+      "assetId": "T04-26",
+      "sourceSha256": "6526dea31de1e3c8e6e5970c8af1dad13eaa356b78edf8a3dcc025dcc830db6a",
+      "modelSha256": "6526dea31de1e3c8e6e5970c8af1dad13eaa356b78edf8a3dcc025dcc830db6a",
+      "configSha256": "2955c0b2b5fb08c2d339f491ca34e88220369a93a01016ea287bbbf00f6999e2"
+    },
+    {
+      "assetId": "T04-27",
+      "sourceSha256": "3d4b649cbac021d065e09dd6368a4c26983cb92077c72ec39d405310f6e456f9",
+      "modelSha256": "3d4b649cbac021d065e09dd6368a4c26983cb92077c72ec39d405310f6e456f9",
+      "configSha256": "c903aedea8010b2f34c7193363df75e8f309a77c71df5cff566d07c96d51bcc4"
+    },
+    {
+      "assetId": "T04-28",
+      "sourceSha256": "11383595723dfe55269b3f278930c5bc95a22d72cb466bd4504a01e05670e688",
+      "modelSha256": "11383595723dfe55269b3f278930c5bc95a22d72cb466bd4504a01e05670e688",
+      "configSha256": "34bb3c308b26ab6d3d86c506c5a1386170d781098bd14ef551707aebdab9cd69"
+    },
+    {
+      "assetId": "T04-29",
+      "sourceSha256": "ae85b54a16b38621c169fa36b573273f2415126e58f63318ad5f5a4436c45909",
+      "modelSha256": "ae85b54a16b38621c169fa36b573273f2415126e58f63318ad5f5a4436c45909",
+      "configSha256": "2a2698d00dd0dcab616c8ea98622e2d9564482b8228bff8345b7829c23a610b4"
+    },
+    {
+      "assetId": "T04-30",
+      "sourceSha256": "2ab19280e07b66af171687fee4c9e4887ef27bbe0a16118e7e380027f83ad1f5",
+      "modelSha256": "2ab19280e07b66af171687fee4c9e4887ef27bbe0a16118e7e380027f83ad1f5",
+      "configSha256": "b4e37bd6224199fbe9fa435d1e7cbe0a088a9059f41a14bbecdbe58810a607c1"
+    },
+    {
+      "assetId": "T04-31",
+      "sourceSha256": "444e0eb8069e614561645720893867c10f4c785752c4776d2d4424c19a529c37",
+      "modelSha256": "444e0eb8069e614561645720893867c10f4c785752c4776d2d4424c19a529c37",
+      "configSha256": "0d5c1af2c720e84768083740e723dff095befa9cc8a5e1a1798d5354d218c4da"
+    },
+    {
+      "assetId": "T04-34",
+      "sourceSha256": "f95f53c1085ed5a1e61437530efe422643f8f3a2fc1f428d745c8ec2702297d1",
+      "modelSha256": "f95f53c1085ed5a1e61437530efe422643f8f3a2fc1f428d745c8ec2702297d1",
+      "configSha256": "92482c212f6d4a64458a24d9410603077d29fe40bbbacfb32cac3f0ac1adc191"
+    },
+    {
+      "assetId": "T04-35",
+      "sourceSha256": "b1731c71170271420b8cb90479b3fd7a856479a89532b18c153898c0f548627b",
+      "modelSha256": "f9f4ddc087fde6a6bc7032bb1faef08e9ec9d6e0aab9511b3b986ff65bac0b19",
+      "configSha256": "c3f5d16ac9cc16778f02c50144ccec82a22b4d9348766fd0cb002002caad9230"
+    }
+  ],
+  "combinations": [
+    {
+      "name": "T04_grapes",
+      "assetIds": [
+        "T04-10",
+        "T04-24"
+      ],
+      "reportSha256": "64848fb3be0ead615ccc2e23d44ccaef0f7752ecce8096ea916920b7921d6323",
+      "passed": true
+    },
+    {
+      "name": "T04_textiles",
+      "assetIds": [
+        "T04-01",
+        "T04-26",
+        "T04-27",
+        "T04-28",
+        "T04-29",
+        "T04-30"
+      ],
+      "reportSha256": "cdba5106f065a29539add89aa96db6e27b58973f48d0e47f66efffdbd00e0bd5",
+      "passed": true
+    },
+    {
+      "name": "T04_wick-medium",
+      "assetIds": [
+        "T04-20",
+        "T04-07"
+      ],
+      "reportSha256": "9dc6cc145065520134092868fd2ca264198b4c933d97e14a234d73cdcf0ba422",
+      "passed": true
+    },
+    {
+      "name": "T04_wick-large",
+      "assetIds": [
+        "T04-06",
+        "T04-07"
+      ],
+      "reportSha256": "4535c707595cd58ce8131fc619fc6078b50bcf1a3f58071c5d06e3e6d8660800",
+      "passed": true
+    },
+    {
+      "name": "T04-12_T04-13_倾倒姿态",
+      "assetIds": [
+        "T04-12",
+        "T04-13"
+      ],
+      "reportSha256": "f99d942522914e859a6e661d7d9714c4c3995bc37ebd626271b026f7cf295410",
+      "passed": true
+    },
+    {
+      "name": "T04_flower-right",
+      "assetIds": [
+        "T04-18",
+        "T04-19"
+      ],
+      "reportSha256": "7bfc28bbc593e98bcade2fc824d72dffda3c67d399f7ce8c082426c39ca09e74",
+      "passed": true
+    },
+    {
+      "name": "T04_orange",
+      "assetIds": [
+        "T04-10",
+        "T04-11"
+      ],
+      "reportSha256": "1e6a7eb97190860c0d4ac528d1421a7f2de10b366fa9379b705b652529707949",
+      "passed": true
+    },
+    {
+      "name": "T04_grain-right",
+      "assetIds": [
+        "T04-21",
+        "T04-35"
+      ],
+      "reportSha256": "f19596350429b962a20d3cacf89f13c642d5402cab4fb2ceb62d819aa68633e7",
+      "passed": true
+    },
+    {
+      "name": "T04_grain-left",
+      "assetIds": [
+        "T04-21",
+        "T04-34"
+      ],
+      "reportSha256": "a3787fee4ff45ddae61e9ba02740e15ea1ff35b5fcc4fdb4f05d1c2e5d69701e",
+      "passed": true
+    },
+    {
+      "name": "T04_main-table",
+      "assetIds": [
+        "T04-01",
+        "T04-02",
+        "T04-04",
+        "T04-05"
+      ],
+      "reportSha256": "7d57cd2a33d268bf2dfe160ae6a20c5b76685be44c5ee486d263abef28086f05",
+      "passed": true
+    },
+    {
+      "name": "T04-08_T04-22_盖件",
+      "assetIds": [
+        "T04-08",
+        "T04-22"
+      ],
+      "reportSha256": "31bc3b8eae3aa1578656fbd8e9266bee052b9136fa8b0157200aafe7095f98f2",
+      "passed": true
+    },
+    {
+      "name": "T04_saucer",
+      "assetIds": [
+        "T04-25",
+        "T04-13"
+      ],
+      "reportSha256": "b02ef09b6e608b55cf47739039e4cdca705237ac176cb37e52df64a5a92b3fee",
+      "passed": true
+    },
+    {
+      "name": "T04_apple",
+      "assetIds": [
+        "T04-10",
+        "T04-23"
+      ],
+      "reportSha256": "bc2559b100170851667a693998201f727f9125fe8d7b0e014e8e402a8bafb811",
+      "passed": true
+    },
+    {
+      "name": "T04-08_T04-09",
+      "assetIds": [
+        "T04-08",
+        "T04-09"
+      ],
+      "reportSha256": "83efd5df57b430657582f31223083ac00619df7faf8dc6bcaf74eba93d3d9842",
+      "passed": true
+    },
+    {
+      "name": "T04_rug-cushion",
+      "assetIds": [
+        "T04-31",
+        "T04-16"
+      ],
+      "reportSha256": "7e7941f7465856a91b77ea20b1d484c24f3d3fe86837cea9bd3df860b0247021",
+      "passed": true
+    },
+    {
+      "name": "T04-13_液体",
+      "assetIds": [
+        "T04-13"
+      ],
+      "reportSha256": "63997a9a3e86d075c6d5312abfabf105656fb540c430c1ff809fd2b41cdc4fd2",
+      "passed": true
+    },
+    {
+      "name": "T04_tea-table",
+      "assetIds": [
+        "T04-17",
+        "T04-12",
+        "T04-25",
+        "T04-15",
+        "T04-13"
+      ],
+      "reportSha256": "ddcad7fc163057a8dfa6b78a9ec0fbb7e79085ac658f1e67df6506b3beeb0380",
+      "passed": true
+    },
+    {
+      "name": "T04_flower-left",
+      "assetIds": [
+        "T04-04",
+        "T04-05"
+      ],
+      "reportSha256": "352fd33ea12d7b72dcb661d5faec26bcddb07952d7144cefb03ac99d9735867b",
+      "passed": true
+    }
+  ],
+  "issues": []
+}

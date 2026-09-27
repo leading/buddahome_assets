@@ -36,7 +36,7 @@
 
 适配版：
 
-![T04-06 prepared](T04-06/a4909338eb7e/prepared/f834e540244a/preview.jpg)
+![T04-06 prepared](T04-06/a4909338eb7e/prepared/d02225160865/preview.jpg)
 
 ## T04-07 未点燃灯芯
 
@@ -44,7 +44,7 @@
 
 适配版：
 
-![T04-07 prepared](T04-07/97bb72c50e94/prepared/a0279ad27b09/preview.jpg)
+![T04-07 prepared](T04-07/97bb72c50e94/prepared/871f72576524/preview.jpg)
 
 ## T04-08 空香炉
 
@@ -190,6 +190,10 @@
 
 ![T04-35](T04-35/b1731c711702/comparison.jpg)
 
+适配版：
+
+![T04-35 prepared](T04-35/b1731c711702/prepared/d2d563e44f82/preview.jpg)
+
 ## 组合验证预览
 
 ![assembly](combinations/T04-08_T04-09/83efd5df57b4/preview.jpg)
@@ -234,9 +238,9 @@
 
 ## 组合验证预览
 
-![assembly](combinations/T04_grain-right/1b88f5626f03/preview.jpg)
+![assembly](combinations/T04_grain-right/b36e20980a53/preview.jpg)
 
-[几何验证报告](combinations/T04_grain-right/1b88f5626f03/report.json)
+[几何验证报告](combinations/T04_grain-right/b36e20980a53/report.json)
 
 ## 组合验证预览
 
@@ -282,12 +286,12 @@
 
 ## 组合验证预览
 
-![assembly](combinations/T04_wick-large/5664a41e03d9/preview.jpg)
+![assembly](combinations/T04_wick-large/0fc46a23c95a/preview.jpg)
 
-[几何验证报告](combinations/T04_wick-large/5664a41e03d9/report.json)
+[几何验证报告](combinations/T04_wick-large/0fc46a23c95a/report.json)
 
 ## 组合验证预览
 
-![assembly](combinations/T04_wick-medium/ae9a3aaea2ad/preview.jpg)
+![assembly](combinations/T04_wick-medium/816a249e2974/preview.jpg)
 
-[几何验证报告](combinations/T04_wick-medium/ae9a3aaea2ad/report.json)
+[几何验证报告](combinations/T04_wick-medium/816a249e2974/report.json)

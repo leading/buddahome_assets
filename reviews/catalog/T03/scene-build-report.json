@@ -1,0 +1,130 @@
+{
+  "nodeCount": 19,
+  "distinctAssets": 19,
+  "supportContacts": [
+    {
+      "instance": "buddha",
+      "parent": "altar",
+      "actualContactSamples": 42188,
+      "nearestContactMeters": 0.000500088615808636,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "vase",
+      "parent": "altar",
+      "actualContactSamples": 4962,
+      "nearestContactMeters": 0.0004999556695111096,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "candle-holder",
+      "parent": "altar",
+      "actualContactSamples": 6694,
+      "nearestContactMeters": 0.0004999267985112965,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "moss-bowl",
+      "parent": "altar",
+      "actualContactSamples": 6075,
+      "nearestContactMeters": 0.0004999521770514548,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "saucer",
+      "parent": "altar",
+      "actualContactSamples": 1911,
+      "nearestContactMeters": 0.0004999698139727116,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "tea-tray",
+      "parent": "altar",
+      "actualContactSamples": 1969,
+      "nearestContactMeters": 0.0004998706863261759,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "teapot",
+      "parent": "tea-tray",
+      "actualContactSamples": 12244,
+      "nearestContactMeters": 0.0004999773809686303,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "tea-cup",
+      "parent": "tea-tray",
+      "actualContactSamples": 2770,
+      "nearestContactMeters": 0.0005000093951821327,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "incense-burner",
+      "parent": "altar",
+      "actualContactSamples": 11055,
+      "nearestContactMeters": 0.0004999316879548132,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "incense-lid",
+      "parent": "altar",
+      "actualContactSamples": 6254,
+      "nearestContactMeters": 0.000499999092426151,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "meditation-cushion",
+      "parent": "floor-mat",
+      "actualContactSamples": 4487,
+      "nearestContactMeters": 0.0005000866949558258,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    }
+  ],
+  "collisionFreeModelPairs": 171,
+  "runtimeVerified": false,
+  "sourceHashes": {
+    "T03-22": "4b84caf2a7c51f8c03a9cdc382489bde9efdbbfd04fc1f88a46cc92ee62c031f",
+    "T03-01": "ab023e36327ca3394e241169dc8db3595b705e188120a3bd003feaeb8c7a5934",
+    "T03-02": "5063a562699e90c8d99e86e08f6319948695686741f00a68313c90b8bcef7fa1",
+    "T03-04": "c1d40ee932fd3ee75ebadbe31bfd787155cb1e56648ce675170823cff77bec97",
+    "T03-05": "8b39b3edcd2c05a7a130cb0958421f54ebfd61b448a03e8d178b10a66e66f66d",
+    "T03-06": "33808c66709f8fe62854e3cdb89a9e4eb69f60134374a4a7ef7de8c9d3fdf712",
+    "T03-07": "0734d2be71227599d340592c6f304716cbd47cfd5056eff4e5b50a60cbb155aa",
+    "T03-17": "b6842b53db35655a2e71c057616168171802bd5fffcb8d8dc115fd664851e2d6",
+    "T03-18": "f26fe717eec9ee75d9d61c13288fd84cd794625d22b3039562f285d76f4e4f81",
+    "T03-20": "b259251dd213ba3172026fde856f7e3d8d0eced7813c7b5cbdf947019974c2c3",
+    "T03-19": "99bbf870737e3a4a184665a27582c19d1d65832496e81b0c634a12364cdbe3d6",
+    "T03-14": "28242e60777867514ef58db647e0f01d0a35e91f1602a9a757536f9b862f3306",
+    "T03-12": "50111090f6cf2de39515cc2c9d7cfb0908661d5430a6b0bfb60c35a65d492a5c",
+    "T03-13": "b375852d590d6e53814481f5914eb92ac5ff7b62d37fa8a4f8056f31d963a885",
+    "T03-08": "7e2ded944bf51822045e871565a0c21ea427024fd6d4cf494d0519d250efb681",
+    "T03-09": "ecd173faf9be41b7435b58b6da203e058147a946079a5671607054b4445027b6",
+    "T03-21": "bb429d9bf26937fc359712f790b244fd44a39b38532dbe42a3c29ab61cd6c4b0",
+    "T03-23": "900c52a578422a8abc23b9cc0c8735ca5d096969d8af49e6dbcdb2a421e79bf0",
+    "T03-16": "39a43456eb9b7744ed26bf19cd8db92a2b30302a5509b51af92929b07b118c85"
+  },
+  "sceneSha256": "daffdc6c42555720c2b6f9f26172b6b1e7b1ee1df5274b7d3453194ddbf2da22",
+  "notes": [
+    "Authoring layout with one instance per asset, not a claim of original photograph instance counts.",
+    "Incense lid is placed beside the burner to keep the unlit incense unobstructed.",
+    "Default cups are empty. Pot has authored tea stock, but no visible internal liquid.",
+    "Mat remains the original 1K model per the user instruction."
+  ],
+  "coverSha256": "422015c84565fb59a664bf959c988711975f89e91f85b4212c01d411f3c2f694",
+  "coverSize": [
+    1080,
+    1890
+  ],
+  "renderer": "Blender Cycles; exact saved catalog scene transforms and camera with the same background crop; not an App screenshot"
+}

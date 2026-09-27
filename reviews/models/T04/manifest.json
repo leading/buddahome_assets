@@ -1,0 +1,268 @@
+{
+  "theme": "T04",
+  "updatedAt": "2026-09-27T19:42:31.394519+00:00",
+  "scope": "Source image and actual imported GLB renders; publishing does not establish acceptance.",
+  "items": [
+    {
+      "id": "T04-01",
+      "name": "供桌或主题主台",
+      "capability": "可承托",
+      "sourceSha256": "19b67a7f9a642ae3ca1b5f630e80e3464aaf2040f9b1537b87b1d33650fc2358",
+      "path": "T04-01/19b67a7f9a64",
+      "comparisonSha256": "79e963d6ba2af1bf3edf042c70761eb19a5c7f9390af2199f44cc4884d434bc6",
+      "images": {
+        "source": {
+          "originalSha256": "42c65d7265a7622fda78aeec6d905e0720b1db580a6987cc9413eb130da121a8",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "e577f79d68cc11570cdf1d1c0ccd69f6f6a20ec89c0770f0180e833555a8633e"
+        },
+        "perspective": {
+          "originalSha256": "8ea9886b5094b28c6997197d028b151d59e2a9710e3935950a4815ecacf814c2",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "1c184a2d35d2c8d4bd6c590ca664ee0e33064277538b4fa5c1d020fb39370295"
+        },
+        "top": {
+          "originalSha256": "bb6cc07f87661c8c570f0e10cead5ab76019a3a1e8b2fea9aadeacf0aab1e451",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "e5549bf8b29283bd4397432c4cb8e22a1b71e3e1edcb66918303eab2db1f99f9"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T04-02",
+      "name": "坐佛",
+      "capability": "静态物件",
+      "sourceSha256": "e5a90518bd26fc0279e7dffde29042cd71d0d45afa69acb801a8f46bc33c1281",
+      "path": "T04-02/e5a90518bd26",
+      "comparisonSha256": "47b4787dc6047337b19ca9b6966991ef4f26604470ca78327da6ae68b19b1f61",
+      "images": {
+        "source": {
+          "originalSha256": "6ebc7bbfb629a693de500a72987bae9c4de8ac75b153750d259d1212e7141fcf",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "99ef4a5b19dbead19be522bc7729afa5e3419d303988b8256c72b2108ca61843"
+        },
+        "perspective": {
+          "originalSha256": "42d713b078c2c2dd18ce7f63b5931b88113e4a92bcb1583d960f8aa4a828018a",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "6408e18323e06b4f01e593716c9ffdfd968b87ea0f04a0b223cda0fbaf8acfdd"
+        },
+        "top": {
+          "originalSha256": "eab2a8656dd9683d6f47adac5d0ad2af6d8d5a7fe0ce97168cf5dd9491e5a67f",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "ced6bcbb20d7310a3ccdb83ef9e1d407bf05156324983e624843eb7d2bd8917d"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T04-04",
+      "name": "空花瓶",
+      "capability": "可容纳物件",
+      "sourceSha256": "c839361914d41c6241eb25e325ee7528ad7f5c7821e271a0bc01737e511e3872",
+      "path": "T04-04/c839361914d4",
+      "comparisonSha256": "d03a5d04db4c95cc53fa1e51e6716fb445e018bcfdff485e8f77ded0a0962e83",
+      "images": {
+        "source": {
+          "originalSha256": "07c9658009a6f96b66493d65262523bbbadfc231f1ee14bc110883c67f306a1b",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "a6114432d923239885fbb084f8098311a2dbe8645bc7e39b6a60754f518278b7"
+        },
+        "perspective": {
+          "originalSha256": "81df21a97b290172d78ca5ff0d75d7c83b7508dbe2e8e5a0fd045dfa0b2ed12d",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "0d35b27ee1938876428a4d7cff401be4b4ca9162933859e9e0cbb69d1669001b"
+        },
+        "top": {
+          "originalSha256": "f5621e2fe934483ee42ab3f88f7dacda6d0802fedf1e75061fedc83353fd98c1",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "c93d002b307518ad6bce13a179b78573bc695271e4b7a336308f9ae5e8f348a5"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T04-05",
+      "name": "花枝花束",
+      "capability": "可插入",
+      "sourceSha256": "731e712aff8a09bb008a26bdec2a186cce96774651dca9ee965b2c9628b73e26",
+      "path": "T04-05/731e712aff8a",
+      "comparisonSha256": "fd44482961848a248a6e0f471a46524554332c7d03c589e6f94609d5f9d2d631",
+      "images": {
+        "source": {
+          "originalSha256": "d9e33cafde9132208781ece2c406b8ce3236878ad9c88e4b3d87548e068421bf",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "9db6d9ee5a74288ab1653cfc4f2f43a7ccbceee43bac9e000c56754c67c54bc9"
+        },
+        "perspective": {
+          "originalSha256": "67c79c030aefb0cf223c05aff27d1d3624675431387e9e82a7d611bfae0e1cc5",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "4591ec427918a086a30ab1f5e1fe0ea2b5243d0cfb4f1dbca0034f9aa0164462"
+        },
+        "top": {
+          "originalSha256": "8a3bc754158668873afd3ce079631887bef172f09b83d6ffd75dcdfff6b822c6",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "1e99cd62ad76f1f4e7a26079e8eab3e126e0ed3b4e2b8a0348cc478f7097b904"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T04-06",
+      "name": "空烛台或灯盏",
+      "capability": "可容纳物件",
+      "sourceSha256": "a4909338eb7e71d62f6c148c2bdc0bc825d7cd0027717dc7b402e6a6876de6d7",
+      "path": "T04-06/a4909338eb7e",
+      "comparisonSha256": "f5c2485c1a821e897722688d41820e9722c4f5a99aba333c6ed777be916481e3",
+      "images": {
+        "source": {
+          "originalSha256": "1778c72554902e898354156501ac3845d5317671ddfcecee5217e46750ac0cca",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "e7ef30ae115fc9c38cd0170343486248ae3c37689c07ac5c102fba94b112eca8"
+        },
+        "perspective": {
+          "originalSha256": "d0c6d06903fb219dc309a691149371095b9e4f05d4ccc1d1130abed9d687215d",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "ff2cac1e6248254cf094de0626428858c38d933e8117050fcf43f2e4ac4642d1"
+        },
+        "top": {
+          "originalSha256": "fcf6e367b331968e485da7ebf2524e570ade8df421ffa0f3b2d698e040ef6193",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "2d86c8ef7aaf5dcb73d53542cf86d33a20ee44cc573a7f56d84aef31e9ffb1f0"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T04-07",
+      "name": "未点燃灯芯",
+      "capability": "可点燃",
+      "sourceSha256": "97bb72c50e941fc71e83e84161cfb59db6ec58926d99da95284ab6b1e8c4d67a",
+      "path": "T04-07/97bb72c50e94",
+      "comparisonSha256": "2961e11b71f64420bcd020c7c9200ee3ef79eae50218848f3497fca2c25decd6",
+      "images": {
+        "source": {
+          "originalSha256": "8dd441ebdca633e48040c6eda6589b83289ea50d00ad437471ee84945fbcd6ec",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "102366984719db2a8ea50ebca830a101c4722bb0ad8f3f31f6c15d6860d62698"
+        },
+        "perspective": {
+          "originalSha256": "3d3a4025e1ce41373818189ca4ad4dda8b503c5b56e8e68978aa04d0a32586fe",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "81b283d53825888fec9e986c995781b6e63cd76058bd07ecf6f5e67fa51a0194"
+        },
+        "top": {
+          "originalSha256": "a6a4aaba0bb4a084685b495d339a391336abd1f7831c39aa31274b91d4360d13",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "5fded74055cc34956e839af1aeabb0af63fab19b9ada9d73887ac6f340150ac8"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T04-08",
+      "name": "空香炉",
+      "capability": "可容纳物件",
+      "sourceSha256": "aaf0e9f9da3b9f07025eb76fa271d4baef1f99db7b08c5c88fbe4824577748cc",
+      "path": "T04-08/aaf0e9f9da3b",
+      "comparisonSha256": "6c8bc72bde47afcd1399f0fbcc25eb8d2e35653dd2ad7b14591dac4d0f95ccbd",
+      "images": {
+        "source": {
+          "originalSha256": "724789dab285720083df12533f9526105f57f2dd63792f93dea618cf4fe46fe7",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "949b23a1dc7843dcf135f4450cb8750793202a46798a8d4ec822190c0db8ebd8"
+        },
+        "perspective": {
+          "originalSha256": "7546b8d17066d3803abd303b977da67724128a444388abd678d5b60b68bd7d81",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "865c303cc4d21aadaad583adf0ec383e20d51fe1f0c3aa17f47fd95de7bd7c25"
+        },
+        "top": {
+          "originalSha256": "fb40cfd8e30c2d7578077b85bc7a522eab9efb71b9813683c7424bdc6d03f072",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "6a9ace69140ff48bcd820483f807dcc0e87e1ea18e50d299f33c33832bfb6a19"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T04-09",
+      "name": "未点燃线香",
+      "capability": "可点燃_可插入",
+      "sourceSha256": "d688e5142c92b179ecc3c7fb92afb2e26776b79aa1b9a38cef694fda43aae8be",
+      "path": "T04-09/d688e5142c92",
+      "comparisonSha256": "46aa0489c4a5d1ab52e26904b371bbbf79929207d4e0523ac1647545e6512e75",
+      "images": {
+        "source": {
+          "originalSha256": "9cea12a10052b14a99b8004a0d419e2f0466ff9f4801a268b086726192420902",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "b5271cd39190d6f7b531e8a1e4852997276bb420f8e8711b57b7a6b3156f3ea0"
+        },
+        "perspective": {
+          "originalSha256": "7fdfa22873bbc9a88fb0856b85c016f016f4ff617e7b2f1d7c51d2f24ca693a0",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "486080ecb8615382425c70425cd0132f7b8ce1154a68f286d87bea00c1a9e2e3"
+        },
+        "top": {
+          "originalSha256": "8591211481020b3aff5b6d9cb591d81c85a49b40a4961560f492aa3ef6002e97",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "24f5a653f68c71742110cc7e293c9346001a1e9cfac1aa1bececf53fb989b196"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T04-10",
+      "name": "空供盘",
+      "capability": "可承托",
+      "sourceSha256": "5bb81bbbd1a7c3a279422f400f8cb497705b811258a227337395ce084e42a513",
+      "path": "T04-10/5bb81bbbd1a7",
+      "comparisonSha256": "e77dec3c15396cda23eedc1d7c09a7a0b414a63a5f4e430393513f090bc47405",
+      "images": {
+        "source": {
+          "originalSha256": "47266f658f2899a80ebe36de8148916aff81c75e8d11d8be22da103b93d5f203",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "1957f09d4ede189a33120951efcbf6ab5bad53e1c865a182f2d8dfdbf4b249fc"
+        },
+        "perspective": {
+          "originalSha256": "993750141c7966142c5648be0f22855185429d377578e067d4cc28c56ff6e256",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "e327e91724112e791ed6dbb81ac000fceafda448e13880c2698885324a58bac5"
+        },
+        "top": {
+          "originalSha256": "bac0fa60be6d1601ee2f17b19bff335ea6ab84df6c8eae6beb79a5afde0f4121",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "330937f97c2a4f063b06b792ddfd92145392db6260a189b905393be009d0ee30"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T04-11",
+      "name": "橙子",
+      "capability": "静态物件",
+      "sourceSha256": "8c508ba845d9d46e04ea44c3da76e9771b6eaa63eaa8a27d9978cd8bd07ab93c",
+      "path": "T04-11/8c508ba845d9",
+      "comparisonSha256": "2fee424408f806c8eecdd01d8f7d4c1fef876431b6fa260fe0da60e8eb060f1b",
+      "images": {
+        "source": {
+          "originalSha256": "44581424925c450735d9ffa71d3966ee20e27305855d194093ff046dbf744e49",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "ef966199322fd0bb3551bdcb51e92ea25ab2e475f0cfbef8887bdbc27d7b9e32"
+        },
+        "perspective": {
+          "originalSha256": "6cfce103adef51cdfb056be59ab79ba845a49d1521325d8e253b4f52a7ac8b13",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "0aa48abb10a5483deaaaccfeeeaf090d29664a83eab99d7e19d760110d6f6154"
+        },
+        "top": {
+          "originalSha256": "f1258f29655add48faa1324ffde62d87f59163a179fc78973ac2c44b28881d50",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "6f77bcacbf97f69f7ad62042309307b3f5bf7615b1a85e87052c1faa26da6419"
+        }
+      },
+      "visualReview": "pending"
+    }
+  ],
+  "combinations": []
+}

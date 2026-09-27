@@ -1,0 +1,32 @@
+{
+  "holder": "T03-06",
+  "wax": "T03-07",
+  "testedDepthsMeters": [
+    0.005,
+    0.04438248753547668
+  ],
+  "incompatibleDepthsRejected": [
+    0.04765608310699463
+  ],
+  "meshIntersectionPairs": 0,
+  "excessiveDepthRejected": true,
+  "holderNotIgnitable": true,
+  "defaultUnlit": true,
+  "fuelAndSmokeAnchorsCoincide": true,
+  "attachmentMoveRotateScaleError": 2.1187588572502136e-08,
+  "detachWorldError": 0.0,
+  "sourceHashes": {
+    "T03-06": "33808c66709f8fe62854e3cdb89a9e4eb69f60134374a4a7ef7de8c9d3fdf712",
+    "T03-07": "0734d2be71227599d340592c6f304716cbd47cfd5056eff4e5b50a60cbb155aa"
+  },
+  "preparedHashes": {
+    "T03-06": "74e7af1a6d5381842752025b70a027eaeb628df0c88545cb125173a0c0b6ebc3",
+    "T03-07": "96fddeb49a3a498428c67129f2ad21f7dad955c21c56c17dc4397ab5450e9bae"
+  },
+  "configHashes": {
+    "T03-06": "55290a1bed77b26119e8beed4bc3b0ebe0e9f8ab6533e5d69cde114d82d03bef",
+    "T03-07": "bc17d8743481c52293b1efce2f5a2b80cceb5a5f51bb86ee7bdf7cc8dcf0c979"
+  },
+  "runtimeVerified": false,
+  "scope": "Blender geometry/attachment and unlit effect contract; runtime flame/smoke must be implemented and verified in App."
+}

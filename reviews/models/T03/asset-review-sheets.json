@@ -1,0 +1,130 @@
+{
+  "assets": [
+    {
+      "assetId": "T03-01",
+      "sourceSha256": "ab023e36327ca3394e241169dc8db3595b705e188120a3bd003feaeb8c7a5934",
+      "reviewSheet": "asset-review-1.jpg",
+      "previewSha256": "60b06031f3c54a0798c6693a8625f946787277c22c5fb20a30e40881fd45b7e3"
+    },
+    {
+      "assetId": "T03-02",
+      "sourceSha256": "5063a562699e90c8d99e86e08f6319948695686741f00a68313c90b8bcef7fa1",
+      "reviewSheet": "asset-review-1.jpg",
+      "previewSha256": "2b3dbc391100eee3417324a0a0e1e246efcfbbeb3712ec4b1a0a29ccee39a2fa"
+    },
+    {
+      "assetId": "T03-04",
+      "sourceSha256": "c1d40ee932fd3ee75ebadbe31bfd787155cb1e56648ce675170823cff77bec97",
+      "reviewSheet": "asset-review-1.jpg",
+      "previewSha256": "c200271e8a6cf2c61df21cbf3b53813fe67efbefd77976f235721b0eacdb812d"
+    },
+    {
+      "assetId": "T03-05",
+      "sourceSha256": "8b39b3edcd2c05a7a130cb0958421f54ebfd61b448a03e8d178b10a66e66f66d",
+      "reviewSheet": "asset-review-1.jpg",
+      "previewSha256": "a847bf2399f00c23fb69b1dca54a515d981119aad0a354d05a05f97c80d0d7c8"
+    },
+    {
+      "assetId": "T03-06",
+      "sourceSha256": "33808c66709f8fe62854e3cdb89a9e4eb69f60134374a4a7ef7de8c9d3fdf712",
+      "reviewSheet": "asset-review-2.jpg",
+      "previewSha256": "1bc3a67d2dac3b0802d0d93477936a8794a664a04b1500e0b8621ab7488d0840"
+    },
+    {
+      "assetId": "T03-07",
+      "sourceSha256": "0734d2be71227599d340592c6f304716cbd47cfd5056eff4e5b50a60cbb155aa",
+      "reviewSheet": "asset-review-2.jpg",
+      "previewSha256": "525e5633eaeb2e7221612c62732c66211d93a6a932a32c1120af52dd0e1a077b"
+    },
+    {
+      "assetId": "T03-08",
+      "sourceSha256": "7e2ded944bf51822045e871565a0c21ea427024fd6d4cf494d0519d250efb681",
+      "reviewSheet": "asset-review-2.jpg",
+      "previewSha256": "1addd9bdc9657ed088d89e10bfb23a829d0f033b7076250ea416ed4298a2a36f"
+    },
+    {
+      "assetId": "T03-09",
+      "sourceSha256": "ecd173faf9be41b7435b58b6da203e058147a946079a5671607054b4445027b6",
+      "reviewSheet": "asset-review-2.jpg",
+      "previewSha256": "4f2c8d5c9267d32c38b5feb28b12fed53997408d246be79947d1d73569147716"
+    },
+    {
+      "assetId": "T03-12",
+      "sourceSha256": "50111090f6cf2de39515cc2c9d7cfb0908661d5430a6b0bfb60c35a65d492a5c",
+      "reviewSheet": "asset-review-2.jpg",
+      "previewSha256": "f86715574151e54b6e91cabcd6a7006adfa2f2e33da4898df402ab2c0429a203"
+    },
+    {
+      "assetId": "T03-13",
+      "sourceSha256": "b375852d590d6e53814481f5914eb92ac5ff7b62d37fa8a4f8056f31d963a885",
+      "reviewSheet": "asset-review-3.jpg",
+      "previewSha256": "d7e2fad33ff89ee932cbabd187e57eb10287c950c472e516e5bf8cecde90ed2d"
+    },
+    {
+      "assetId": "T03-14",
+      "sourceSha256": "28242e60777867514ef58db647e0f01d0a35e91f1602a9a757536f9b862f3306",
+      "reviewSheet": "asset-review-3.jpg",
+      "previewSha256": "b1f0e146fb6e8040830a43123a6215f9bdc166bbf68130c53dbb24b3c9b2bfb2"
+    },
+    {
+      "assetId": "T03-17",
+      "sourceSha256": "b6842b53db35655a2e71c057616168171802bd5fffcb8d8dc115fd664851e2d6",
+      "reviewSheet": "asset-review-3.jpg",
+      "previewSha256": "b1bfa6296f72a172837d22311c6e53e319790ac24bb33cbdc90afe2a54aab91d"
+    },
+    {
+      "assetId": "T03-18",
+      "sourceSha256": "f26fe717eec9ee75d9d61c13288fd84cd794625d22b3039562f285d76f4e4f81",
+      "reviewSheet": "asset-review-3.jpg",
+      "previewSha256": "1fc52467138b3f1be7789f372feb320483aefd6ea4e2a010caf55def92e42036"
+    },
+    {
+      "assetId": "T03-19",
+      "sourceSha256": "99bbf870737e3a4a184665a27582c19d1d65832496e81b0c634a12364cdbe3d6",
+      "reviewSheet": "asset-review-3.jpg",
+      "previewSha256": "c09f9858cc4e6b9e44cbaa4842e3ce2cd57595e4c1991e83d81137ff4d2a1ca4"
+    },
+    {
+      "assetId": "T03-20",
+      "sourceSha256": "b259251dd213ba3172026fde856f7e3d8d0eced7813c7b5cbdf947019974c2c3",
+      "reviewSheet": "asset-review-3.jpg",
+      "previewSha256": "4584344624a3a19d883ebd154de6b81efeec94f12644c84d458d77d6c747f3c9"
+    },
+    {
+      "assetId": "T03-16",
+      "sourceSha256": "39a43456eb9b7744ed26bf19cd8db92a2b30302a5509b51af92929b07b118c85",
+      "reviewSheet": "asset-review-4.jpg",
+      "previewSha256": "debd62b4ecde5c65e1ab9a0930a406579fb0a38cb2c6d7de6ad88fedd37d68ad"
+    },
+    {
+      "assetId": "T03-21",
+      "sourceSha256": "bb429d9bf26937fc359712f790b244fd44a39b38532dbe42a3c29ab61cd6c4b0",
+      "reviewSheet": "asset-review-4.jpg",
+      "previewSha256": "46fcb2dee472f29ad7c22a972cd825c4fad305e543a45e07469549b4684578ec"
+    },
+    {
+      "assetId": "T03-22",
+      "sourceSha256": "4b84caf2a7c51f8c03a9cdc382489bde9efdbbfd04fc1f88a46cc92ee62c031f",
+      "reviewSheet": "asset-review-4.jpg",
+      "previewSha256": "d5444fef3288f010ed072fb426039cfd09c0975826825f3ce9d1c721fb83ee4d"
+    },
+    {
+      "assetId": "T03-23",
+      "sourceSha256": "900c52a578422a8abc23b9cc0c8735ca5d096969d8af49e6dbcdb2a421e79bf0",
+      "reviewSheet": "asset-review-4.jpg",
+      "previewSha256": "6966b251dbf4dab55efd43f17fe840961e70df3cf848ca9ba9bfa3a1633cf71a"
+    }
+  ],
+  "combinationOrder": [
+    "T03-01_T03-02_T03-04_T03-05",
+    "T03-06_T03-07",
+    "T03-08_T03-09",
+    "T03-08_T03-21_盖件",
+    "T03-12_T03-13_倾倒姿态",
+    "T03-12_T03-19_倾倒姿态",
+    "T03-14_T03-13_三杯",
+    "T03-17_T03-18_苔藓摆放",
+    "T03-20_T03-19_杯碟承托",
+    "T03-22_T03-16_地席坐垫"
+  ]
+}

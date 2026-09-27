@@ -1,0 +1,137 @@
+{
+  "state": "geometry_and_transform_checks_passed",
+  "assetIds": [
+    "T03-01",
+    "T03-02",
+    "T03-04",
+    "T03-05"
+  ],
+  "insertions": [
+    {
+      "depthMeters": 0.005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "depthMeters": 0.05879999816417695,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "depthMeters": 0.07559999763965607,
+      "meshIntersectionPairs": 0
+    }
+  ],
+  "overDepthRejected": true,
+  "stemParentTransformError": 1.4901161193847656e-08,
+  "detachWorldError": 0.0,
+  "supports": [
+    {
+      "assetId": "T03-02",
+      "positionXYMeters": [
+        0,
+        0
+      ],
+      "fullFootprintFits": true,
+      "outsidePlacementRejected": true,
+      "footprintRaySamples": 49,
+      "surfaceHeightRangeMeters": [
+        0.31133127212524414,
+        0.3123641014099121
+      ],
+      "meshIntersectionPairs": 0,
+      "parentTransformError": 2.9802322387695312e-08,
+      "actualContactSamples": 42188,
+      "nearestContactMeters": 0.0004999103839509189,
+      "supportClearanceMeters": 0.0005
+    },
+    {
+      "assetId": "T03-04",
+      "positionXYMeters": [
+        -0.4,
+        0
+      ],
+      "fullFootprintFits": true,
+      "outsidePlacementRejected": true,
+      "footprintRaySamples": 49,
+      "surfaceHeightRangeMeters": [
+        0.3059096336364746,
+        0.3100703954696655
+      ],
+      "meshIntersectionPairs": 0,
+      "parentTransformError": 2.9802322387695312e-08,
+      "actualContactSamples": 4962,
+      "nearestContactMeters": 0.000499947287607938,
+      "supportClearanceMeters": 0.0005
+    }
+  ],
+  "allMeshPairs": [
+    {
+      "assets": [
+        "T03-01",
+        "T03-02"
+      ],
+      "intersections": 0
+    },
+    {
+      "assets": [
+        "T03-01",
+        "T03-04"
+      ],
+      "intersections": 0
+    },
+    {
+      "assets": [
+        "T03-01",
+        "T03-05"
+      ],
+      "intersections": 0
+    },
+    {
+      "assets": [
+        "T03-02",
+        "T03-04"
+      ],
+      "intersections": 0
+    },
+    {
+      "assets": [
+        "T03-02",
+        "T03-05"
+      ],
+      "intersections": 0
+    },
+    {
+      "assets": [
+        "T03-04",
+        "T03-05"
+      ],
+      "intersections": 0
+    }
+  ],
+  "nestedAttachmentError": 2.9802322387695312e-08,
+  "sourceHashes": {
+    "T03-01": "ab023e36327ca3394e241169dc8db3595b705e188120a3bd003feaeb8c7a5934",
+    "T03-02": "5063a562699e90c8d99e86e08f6319948695686741f00a68313c90b8bcef7fa1",
+    "T03-04": "c1d40ee932fd3ee75ebadbe31bfd787155cb1e56648ce675170823cff77bec97",
+    "T03-05": "8b39b3edcd2c05a7a130cb0958421f54ebfd61b448a03e8d178b10a66e66f66d"
+  },
+  "modelHashes": {
+    "T03-01": "923c969d009ed6ffcb61d7e7de73f95736f9e86ad72e5c77b9c39388042cc718",
+    "T03-02": "5063a562699e90c8d99e86e08f6319948695686741f00a68313c90b8bcef7fa1",
+    "T03-04": "031c37de39936f556f5310e3a335f86cc3e2fc9473ff48a97ae6028955b7af0c",
+    "T03-05": "89dd2d1f0b2f512050c6363cbc63c0eef813d76a7edb184b2af221c3b4715610"
+  },
+  "configHashes": {
+    "T03-01": "bd274e07d6e590bb9d763cd1274febb950ec9cd8dd7c8f46ac5c815f88cf95db",
+    "T03-02": "b0d2260714203cadd3a8073dfb9fd66f11ea9f6f55b8a29d74dc7c42057b8cb8",
+    "T03-04": "995d861a00f953f1474056c2c78d7a55d419d469e21242b175838a9108ccc53e",
+    "T03-05": "68230573b20545e906c6968ed037eea546fc7f90549cf2ec56372423b6721556"
+  },
+  "artifacts": {
+    "组合预览.png": "0e2e2c2094f58f2e46b7d252e451991f8e2073e47b79eef9ad46a89e06865116",
+    "组合验证.glb": "eb577829598ffa55a35a73b275ed1a202863b24ef64526c38ee5b2cac65aac38",
+    "组合验证.blend": "0dba10180a3a34c2c42db36e5aa5744763b71ddde7c860388a789429fdacd146"
+  },
+  "visualReview": "pending_https_review",
+  "runtimeVerified": false,
+  "scope": "Actual geometry, continuous insertion depths, full footprints, pair collisions and nested transforms; no visual or app-runtime acceptance implied."
+}

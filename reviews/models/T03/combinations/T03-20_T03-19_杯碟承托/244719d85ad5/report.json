@@ -1,0 +1,39 @@
+{
+  "parent": "T03-20",
+  "child": "T03-19",
+  "relativePositionBlenderXYZ": [
+    0.0,
+    0.0,
+    0.007989800535142422
+  ],
+  "uniformScale": 1,
+  "fullFootprintFits": true,
+  "actualContactSamples": 3092,
+  "nearestContactMeters": 0.0005000278470106423,
+  "supportClearanceMeters": 0.0005,
+  "meshIntersectionPairs": 0,
+  "parentTransformError": 6.51925802230835e-09,
+  "detachWorldError": 0.0,
+  "sourceGeometryMaterialsPreserved": true,
+  "placementMode": "support",
+  "scope": "Actual surface contacts and collision-free grouped transforms; no moss growth, fabric simulation, or App-device validation.",
+  "sourceHashes": {
+    "T03-20": "b259251dd213ba3172026fde856f7e3d8d0eced7813c7b5cbdf947019974c2c3",
+    "T03-19": "99bbf870737e3a4a184665a27582c19d1d65832496e81b0c634a12364cdbe3d6"
+  },
+  "modelHashes": {
+    "T03-20": "9352af4cd7c93ec15839161ec528d65db85e4efaa9252d65531143bca347ee6c",
+    "T03-19": "d1b7cce1f03e14aa5ebd27c4b9818fa830d7076d2cf4c7d84610ade712a93083"
+  },
+  "configHashes": {
+    "T03-20": "7d878ccd5cc6a7db3d22160990002108403129a948b8609dae7bc53eda5e8e1e",
+    "T03-19": "e1022eafad0eaae10b3d5134ddd6b5691ddb80d494099dd2f7a911c066add6ea"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "dc4dbbe41f3e8890bafb2625cf7695929593b5798b04f2c75e4c2053428f19e2",
+    "组合验证.blend": "bcb9b3907c3763bb08cb8b1dc9b412570cbb2c1de0256e84d8bf0814d28e39d8",
+    "组合预览.png": "773d8b682f4d0c20de5ff8fde281844b998638a962492ae878a89f1ef852e1ae"
+  }
+}

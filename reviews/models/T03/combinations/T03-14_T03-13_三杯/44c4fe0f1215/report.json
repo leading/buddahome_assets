@@ -1,0 +1,30 @@
+{
+  "tray": "T03-14",
+  "cup": "T03-13",
+  "configHashes": {
+    "T03-14": "a5a5a82dadff1770c7b83f40cf1aa6435dcc10f90d23b8a580e41fee1bad1fbc",
+    "T03-13": "14e04a26c2ebbbb78c239432e8692239b93003aee858e0de6442b79de2091da6"
+  },
+  "traySourceSha256": "28242e60777867514ef58db647e0f01d0a35e91f1602a9a757536f9b862f3306",
+  "cupSourceSha256": "b375852d590d6e53814481f5914eb92ac5ff7b62d37fa8a4f8056f31d963a885",
+  "trayPreparedSha256": "376ff141de033d929d41ba71d5d0608fda138d68477e2a2cd7e12fc281e42888",
+  "cupPreparedSha256": "2ae39f380b29bdf866f86941419a71dc7f979a1ee5ecfe252d2bd4682c18f1a0",
+  "cupCount": 3,
+  "sharedCupMesh": true,
+  "fullFootprintsFit": true,
+  "supportContactRays": 27,
+  "meshIntersectionPairs": 0,
+  "attachmentTransformErrors": [
+    1.4901161193847656e-08,
+    1.4901161193847656e-08,
+    1.4901161193847656e-08
+  ],
+  "defaultEmpty": true,
+  "exportedCavityProxy": {
+    "sha256": "2d9e7b804cc356784ff3a2b0d3c34da6f3e1dd024d84ad54aa3d4aefdb70f50b",
+    "closedVolumeMl": 82.2050440872544,
+    "correctHeightAndCapacity": true
+  },
+  "runtimeVerified": false,
+  "scope": "Actual prepared tray and three empty glass cup instances, shared mesh and parent transforms; no App device or nonempty tilt behavior test."
+}

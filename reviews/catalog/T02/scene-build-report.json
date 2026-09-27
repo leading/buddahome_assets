@@ -1,0 +1,242 @@
+{
+  "nodeCount": 46,
+  "distinctAssets": 28,
+  "supportContacts": [
+    {
+      "instance": "back-table",
+      "parent": "rug",
+      "height": 0.04628816992044449,
+      "sampleCount": 7343
+    },
+    {
+      "instance": "buddha",
+      "parent": "back-table",
+      "height": 0.5100261569023132,
+      "sampleCount": 23001
+    },
+    {
+      "instance": "vase",
+      "parent": "back-table",
+      "height": 0.5100261569023132,
+      "sampleCount": 2555
+    },
+    {
+      "instance": "lantern-left",
+      "parent": "back-table",
+      "height": 0.5100262761116028,
+      "sampleCount": 5030
+    },
+    {
+      "instance": "lantern-right",
+      "parent": "back-table",
+      "height": 0.5100262761116028,
+      "sampleCount": 5030
+    },
+    {
+      "instance": "bronze-censer",
+      "parent": "back-table",
+      "height": 0.5100262761116028,
+      "sampleCount": 6014
+    },
+    {
+      "instance": "bronze-ring",
+      "parent": "back-table",
+      "height": 0.5100262761116028,
+      "sampleCount": 3481
+    },
+    {
+      "instance": "front-table",
+      "parent": "rug",
+      "height": 0.05193594843149185,
+      "sampleCount": 5869
+    },
+    {
+      "instance": "green-censer",
+      "parent": "front-table",
+      "height": 0.2890686094760895,
+      "sampleCount": 4785
+    },
+    {
+      "instance": "fruit-dish",
+      "parent": "front-table",
+      "height": 0.28906896710395813,
+      "sampleCount": 1420
+    },
+    {
+      "instance": "fruit-1",
+      "parent": "fruit-dish",
+      "height": 0.06310299038887024,
+      "sampleCount": 973
+    },
+    {
+      "instance": "fruit-2",
+      "parent": "fruit-dish",
+      "height": 0.06269291043281555,
+      "sampleCount": 973
+    },
+    {
+      "instance": "fruit-3",
+      "parent": "fruit-dish",
+      "height": 0.06123284250497818,
+      "sampleCount": 973
+    },
+    {
+      "instance": "tea-tray",
+      "parent": "front-table",
+      "height": 0.28906872868537903,
+      "sampleCount": 940
+    },
+    {
+      "instance": "tea-cup-1",
+      "parent": "tea-tray",
+      "height": 0.012126929126679897,
+      "sampleCount": 1414
+    },
+    {
+      "instance": "tea-cup-2",
+      "parent": "tea-tray",
+      "height": 0.012127048335969448,
+      "sampleCount": 1414
+    },
+    {
+      "instance": "tea-cup-3",
+      "parent": "tea-tray",
+      "height": 0.012127167545258999,
+      "sampleCount": 1414
+    },
+    {
+      "instance": "teapot",
+      "parent": "front-table",
+      "height": 0.2890688478946686,
+      "sampleCount": 4878
+    },
+    {
+      "instance": "small-jar",
+      "parent": "front-table",
+      "height": 0.28906872868537903,
+      "sampleCount": 2870
+    },
+    {
+      "instance": "dates-dish",
+      "parent": "back-table",
+      "height": 0.5100262761116028,
+      "sampleCount": 1487
+    },
+    {
+      "instance": "date-1",
+      "parent": "dates-dish",
+      "height": 0.026840901002287865,
+      "sampleCount": 900
+    },
+    {
+      "instance": "date-2",
+      "parent": "dates-dish",
+      "height": 0.027032827958464622,
+      "sampleCount": 900
+    },
+    {
+      "instance": "date-3",
+      "parent": "dates-dish",
+      "height": 0.026840901002287865,
+      "sampleCount": 900
+    },
+    {
+      "instance": "meditation-cushion",
+      "parent": "rug",
+      "height": 0.052079834043979645,
+      "sampleCount": 2253
+    },
+    {
+      "instance": "book-stand",
+      "parent": "rug",
+      "height": 0.05322305113077164,
+      "sampleCount": 5869
+    },
+    {
+      "instance": "scripture",
+      "parent": "book-stand",
+      "height": 0.28906872868537903,
+      "sampleCount": 906
+    },
+    {
+      "instance": "stone-basin",
+      "parent": "rug",
+      "height": 0.050045765936374664,
+      "sampleCount": 2048
+    },
+    {
+      "instance": "petal-1",
+      "parent": "rug",
+      "height": 0.05405823141336441,
+      "sampleCount": 916
+    },
+    {
+      "instance": "petal-2",
+      "parent": "rug",
+      "height": 0.050781287252902985,
+      "sampleCount": 916
+    },
+    {
+      "instance": "petal-3",
+      "parent": "rug",
+      "height": 0.05048910528421402,
+      "sampleCount": 916
+    },
+    {
+      "instance": "petal-4",
+      "parent": "rug",
+      "height": 0.04862884432077408,
+      "sampleCount": 916
+    },
+    {
+      "instance": "petal-5",
+      "parent": "rug",
+      "height": 0.049965180456638336,
+      "sampleCount": 916
+    },
+    {
+      "instance": "petal-6",
+      "parent": "rug",
+      "height": 0.05446413904428482,
+      "sampleCount": 916
+    }
+  ],
+  "runtimeVerified": false,
+  "sourceHashes": {
+    "T02-31": "33f7977027f442a97a7c3812c0bbbac20ec43fc2b6d1def832570bc0233e0590",
+    "T02-01": "f99e41c752c68c985f231c7027474e1276efd22380ab0229948759a7b833802a",
+    "T02-02": "4ece035635491ee20870996f9718220b1e326e81e79a88db5628ee15bfea6fb6",
+    "T02-04": "0a7ad65ac843da136495a77034f8cf6a747a3a184987da6cc3aa5c14b513a680",
+    "T02-05": "f84e258938be8dc99ac0ab03a0863570a393edd3b18ce0fb0e6807d81f1dd0f3",
+    "T02-06": "2de4ee14953a6eff281e4ed3ffbdbc38c5127b7a3f8cf46416c76c014ca42c83",
+    "T02-07": "f9ea14e1f27705348ca9bdd3c370a984109b25420498a22e3a71497ae923fc53",
+    "T02-18": "0cfd9915c98bafb457e7863eab6db45a254d90f1c2c750b35ec7d1d3aa3820f0",
+    "T02-19": "4b8155e67f42b301e623ea59073e5f6c8ef33ba60dce2c35161a25c5aad6f7bd",
+    "T02-20": "4069ec490077f5df973a25a51a0ff75b314c1aa9801422c937d9890b78bf1ea3",
+    "T02-17": "f2f729d139815e00b1922958df20e1d14f934477c208ad2f2f69f4a1559f28d4",
+    "T02-08": "ea4baf14b767c41fd7567d2e17067ced427e846dcbb6a809563fc9250d0d9977",
+    "T02-09": "305edf8d58539f1352ab164e7834a305394bb7b7a0aae5afa006f3d1dcf26b4a",
+    "T02-10": "2842eedc7b2d57b78c36349c3e9f60ca5fffeab7863decb70fc4141e0296e86f",
+    "T02-11": "d2ee6f62e3bde8e816524d3a3558db262eb3e7a6c9166c2e5fd76e46bea4bfda",
+    "T02-14": "c272be3c2837865150959825e8cf3323809849bd95e88ba436b51c8139d60742",
+    "T02-13": "62c4699e515f79eb78cdeab8136f16ab8484fef9e01bdf6c144e44d5b4454194",
+    "T02-12": "6ed4be9abd66a481b984e70ff296d8cd2507e48df6efae473eb289e601d61e36",
+    "T02-23": "0c307e5fa84face624aa482007a00e19f0d8aa03c2fb1202db3522329fe10a61",
+    "T02-24": "7c300ea281fc94b0d3a301463b2e89b75fb0957d07e1e848405470bb823b1537",
+    "T02-25": "8a14cfb33743bfe71e73b8e9fffc8771430ab3277b27494d3020b80c0cab68cb",
+    "T02-21": "6af4c07f8fe16ca6d8e5044b939b769157547ec8d163b621941bc9b8cea4ecfa",
+    "T02-22": "5afdc9d87c75d3ce7621bf812d3762699210d699f25f9347579d794429c954c3",
+    "T02-16": "18580d92594a933a1909a05f925a9ad27770ccc2708ff33fca055d3c7325a926",
+    "T02-15": "4582b6ad2fa1a13d37a6002dbcba005a42fd508bbe5b4d028a3a85a8e644ac0e",
+    "T02-28": "dd707698fc97bf81637f4f692fd40bb0b77379228a0899af2ef5849ac3b0be17",
+    "T02-29": "3376732cab349ebcd6e097e0632fe0236e859ed78728dc91e1d8fef6d841c20b",
+    "T02-30": "bf321e4ee7c8a78a12d676157c25846b283411060242321f8b1dc960dc9c099a"
+  },
+  "sceneSha256": "cd1744bfa04e4618338d1f6842f54a36ed611b326e1766abbb5782eefca8952e",
+  "coverSha256": "8abb664acd6753a25f512880bff7eb9ce4334f8fe4941401f8adc697546d68ea",
+  "coverSize": [
+    1080,
+    1890
+  ],
+  "renderer": "Blender Cycles; exact catalog scene transforms/camera, composited onto the same background crop; not an App screenshot"
+}

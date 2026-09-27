@@ -2,6 +2,10 @@
 
 Complete React Native UI on an isolated iPhone 17 Pro simulator clone (402 × 874 pt), using the shared Three.js WebView comparison renderer. The actual phone remains on native Expo GL. The clone uses a guest scene copy; no production scene or account was changed by these interaction checks.
 
+## Current captures: -v2.jpg
+
+The first PNG review (commit 8783d59) exposed the general Tools button covering Stop. The revised images hide general Tools during cup selection/pouring, center the status control, and use smaller action popovers below ordinary objects. Teapot selection hints stay above to keep cups available. German mixed actions share a compact row. Original PNGs remain in that earlier commit.
+
 ## Captures
 
 - 00: initial scene reference.

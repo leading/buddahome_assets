@@ -1,57 +1,57 @@
 [
   {
-    "file": "00-overview.png",
-    "sha256": "d72da7b8cefc4c26d7110c4da7443459895c702beb6bbdee50fbf2f978c7c1fc",
-    "bytes": 137907
+    "file": "00-overview-v2.jpg",
+    "sha256": "2829fcf14b7cbab1f2459e92e830bfe7e7a3517c6db6e509b69a886207eb0323",
+    "bytes": 79208
   },
   {
-    "file": "01-ignite.png",
-    "sha256": "0d65aa4df10ef85f769b43dac87ce138ba3ec8493564631175875448dd98fe05",
-    "bytes": 3189161
+    "file": "01-ignite-v2.jpg",
+    "sha256": "18ac381d8e24cc5d7504d60cf406bfed48153cd6080b0b546128a789a8924431",
+    "bytes": 504353
   },
   {
-    "file": "02-extinguish.png",
-    "sha256": "24f0b56d159ec8741590834ee93a3e8db6b7be672657266e926cbb8faf094bad",
-    "bytes": 3188746
+    "file": "02-extinguish-v2.jpg",
+    "sha256": "5bf20fc03496bd71aab1a1a8813bebf1493212d9abf488d3017cf985026008c6",
+    "bytes": 504000
   },
   {
-    "file": "03-clear-cup.png",
-    "sha256": "722ad2019924e93b8f562dbc59fc914907902d3f3ba14292145234022eb4966a",
-    "bytes": 3194101
+    "file": "03-clear-cup-v2.jpg",
+    "sha256": "2374362717d052547037a32871b01c9eca44bcb75d708abc5362e5be34d72687",
+    "bytes": 506086
   },
   {
-    "file": "04-empty-cup.png",
-    "sha256": "26d6cff8ec16c96b120ca3f05a25b31125cbb0858b68b195186d719eda93139c",
-    "bytes": 3245746
+    "file": "04-empty-cup-v2.jpg",
+    "sha256": "72fdba03e1488ead0ddf614358a04ff641a18451db2c8b4aed0cec6650bc66e0",
+    "bytes": 506669
   },
   {
-    "file": "05-choose-cup.png",
-    "sha256": "699a8d9a00e06a22582f570b39cff7eb8e3ebdc018e25ed823cd46667c871031",
-    "bytes": 3274289
+    "file": "05-choose-cup-v2.jpg",
+    "sha256": "32474b8b05f04510423a2bb2b3cdef7f092b036f1de6d4521a53e1b11e394fc0",
+    "bytes": 511172
   },
   {
-    "file": "06-choose-after-orbit.png",
-    "sha256": "5975e9e745aff432700273d04107de432358a58e58774179d5fff43626cefff2",
-    "bytes": 3442944
+    "file": "06-choose-after-orbit-v2.jpg",
+    "sha256": "3021746480699d341152c2e3443251ed73ac0006174e9071970c9f5b27f67f1a",
+    "bytes": 531438
   },
   {
-    "file": "07-pouring.png",
-    "sha256": "a3c527e001126d1b64b7074ee12c544943d0ec90aac5ab6e46da73bb5e9acb22",
-    "bytes": 3498661
+    "file": "07-pouring-v2.jpg",
+    "sha256": "ec181b046c2775c9cd5914d34351abbc3edebcdd9464663f46cbcd4797bb3bb2",
+    "bytes": 528490
   },
   {
-    "file": "08-editor-teapot.png",
-    "sha256": "155019abf34fbad811f57369057d5f292a39e6879efccf551a30f944327d70a1",
-    "bytes": 2453485
+    "file": "08-editor-teapot-v2.jpg",
+    "sha256": "0e12f9fbe5acda2c27904104ccb43f262b93e23be07d0b40edc59d8d3a889e0d",
+    "bytes": 414076
   },
   {
-    "file": "09-editor-incense.png",
-    "sha256": "340776bae1031dba5b7b2436076f6ada9797bba9157f038a98cbaf88d66d17f7",
-    "bytes": 2451023
+    "file": "09-editor-incense-v2.jpg",
+    "sha256": "cecd94471cd9aebf45c7aae71d1bb95ba09a314e8e8729331aab1c0049c1bda3",
+    "bytes": 414589
   },
   {
-    "file": "10-german-mixed-incense.png",
-    "sha256": "ca263b2b30f44e8aee706ec8d78b95503aee729a9586edb755e8650a559fa9c7",
-    "bytes": 2899224
+    "file": "10-german-mixed-incense-v2.jpg",
+    "sha256": "55b6018197f79884fd198508a42e578958f01b70a837e664c54d974619a35098",
+    "bytes": 524790
   }
 ]

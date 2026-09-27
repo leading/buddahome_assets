@@ -22,9 +22,9 @@
     "textures": 27
   },
   "performance": {
-    "token": "1790510933314-48",
+    "token": "1790511856324-48",
     "drawCompletionP50": 1,
-    "drawCompletionP95": 2.000000000029104,
+    "drawCompletionP95": 2,
     "memory": {
       "geometries": 38,
       "textures": 27

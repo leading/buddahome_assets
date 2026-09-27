@@ -1,0 +1,1381 @@
+{
+  "frames": [
+    {
+      "file": "glass-1-off-design.jpg",
+      "name": "glass",
+      "count": 1,
+      "mode": "off",
+      "view": "design",
+      "litLights": 0,
+      "totalLightSlots": 8,
+      "intensities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 7,
+      "triangles": 9758,
+      "memory": {
+        "geometries": 6,
+        "textures": 3
+      },
+      "camera": [
+        0.36842363894349106,
+        0.42439446030459244,
+        0.5668055983746015
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 398.91304884330424,
+        "y": 335.33932247136977
+      }
+    },
+    {
+      "file": "glass-1-baseline-design.jpg",
+      "name": "glass",
+      "count": 1,
+      "mode": "baseline",
+      "view": "design",
+      "litLights": 1,
+      "totalLightSlots": 2,
+      "intensities": [
+        0.03660252232172895,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 8,
+      "triangles": 9760,
+      "memory": {
+        "geometries": 7,
+        "textures": 3
+      },
+      "camera": [
+        0.36842363894349106,
+        0.42439446030459244,
+        0.5668055983746015
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 398.91304884330424,
+        "y": 335.33932247136977
+      }
+    },
+    {
+      "file": "glass-1-new-design.jpg",
+      "name": "glass",
+      "count": 1,
+      "mode": "new",
+      "view": "design",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 10,
+      "triangles": 10208,
+      "memory": {
+        "geometries": 6,
+        "textures": 3
+      },
+      "camera": [
+        0.36842363894349106,
+        0.42439446030459244,
+        0.5668055983746015
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 398.91304884330424,
+        "y": 335.33932247136977
+      }
+    },
+    {
+      "file": "glass-1-new-near.jpg",
+      "name": "glass",
+      "count": 1,
+      "mode": "new",
+      "view": "near",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 10,
+      "triangles": 10208,
+      "memory": {
+        "geometries": 6,
+        "textures": 3
+      },
+      "camera": [
+        0.23538176932500812,
+        0.3343353485628502,
+        0.3621257989615509
+      ],
+      "quaternion": [
+        -0.16854475919822995,
+        0.2797889356713722,
+        0.04996341987456619,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 398.27937983215793,
+        "y": 297.6435462286009
+      }
+    },
+    {
+      "file": "glass-1-new-far.jpg",
+      "name": "glass",
+      "count": 1,
+      "mode": "new",
+      "view": "far",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 10,
+      "triangles": 10208,
+      "memory": {
+        "geometries": 6,
+        "textures": 3
+      },
+      "camera": [
+        0.5526354584152365,
+        0.5490916919470048,
+        0.8502083975619023
+      ],
+      "quaternion": [
+        -0.16854475919823,
+        0.2797889356713722,
+        0.0499634198745662,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.28012921419605,
+        "y": 357.1762425050965
+      }
+    },
+    {
+      "file": "glass-1-new-top.jpg",
+      "name": "glass",
+      "count": 1,
+      "mode": "new",
+      "view": "top",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 10,
+      "triangles": 10208,
+      "memory": {
+        "geometries": 6,
+        "textures": 3
+      },
+      "camera": [
+        0.08543084606696871,
+        0.886923714244507,
+        0.07119237172247393
+      ],
+      "quaternion": [
+        -0.5888652319324618,
+        0.32223717640920196,
+        0.27580972119848296,
+        0.6879897807768426
+      ],
+      "fuelPixel": {
+        "x": 399.1487324742872,
+        "y": 387.92165809362547
+      }
+    },
+    {
+      "file": "opaque-1-off-design.jpg",
+      "name": "opaque",
+      "count": 1,
+      "mode": "off",
+      "view": "design",
+      "litLights": 0,
+      "totalLightSlots": 8,
+      "intensities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 3,
+      "triangles": 5113,
+      "memory": {
+        "geometries": 8,
+        "textures": 5
+      },
+      "camera": [
+        0.2795608648834571,
+        0.2992412076987205,
+        0.4300936382822417
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.99999999999994,
+        "y": 193.0958006873142
+      }
+    },
+    {
+      "file": "opaque-1-baseline-design.jpg",
+      "name": "opaque",
+      "count": 1,
+      "mode": "baseline",
+      "view": "design",
+      "litLights": 1,
+      "totalLightSlots": 2,
+      "intensities": [
+        0.03660252232172895,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 4,
+      "triangles": 5115,
+      "memory": {
+        "geometries": 9,
+        "textures": 5
+      },
+      "camera": [
+        0.2795608648834571,
+        0.2992412076987205,
+        0.4300936382822417
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.99999999999994,
+        "y": 193.0958006873142
+      }
+    },
+    {
+      "file": "opaque-1-new-design.jpg",
+      "name": "opaque",
+      "count": 1,
+      "mode": "new",
+      "view": "design",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 5,
+      "triangles": 5339,
+      "memory": {
+        "geometries": 8,
+        "textures": 5
+      },
+      "camera": [
+        0.2795608648834571,
+        0.2992412076987205,
+        0.4300936382822417
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.99999999999994,
+        "y": 193.0958006873142
+      }
+    },
+    {
+      "file": "opaque-1-new-near.jpg",
+      "name": "opaque",
+      "count": 1,
+      "mode": "new",
+      "view": "near",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 5,
+      "triangles": 5339,
+      "memory": {
+        "geometries": 8,
+        "textures": 5
+      },
+      "camera": [
+        0.1786083303422087,
+        0.2309041073938754,
+        0.274782046680321
+      ],
+      "quaternion": [
+        -0.1685447591982299,
+        0.27978893567137214,
+        0.04996341987456618,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.99999999999966,
+        "y": 63.65877295936095
+      }
+    },
+    {
+      "file": "opaque-1-new-far.jpg",
+      "name": "opaque",
+      "count": 1,
+      "mode": "new",
+      "view": "far",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 5,
+      "triangles": 5339,
+      "memory": {
+        "geometries": 8,
+        "textures": 5
+      },
+      "camera": [
+        0.41934129732518566,
+        0.3938618081208136,
+        0.6451404574233625
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.99999999999983,
+        "y": 265.02021264174215
+      }
+    },
+    {
+      "file": "opaque-1-new-top.jpg",
+      "name": "opaque",
+      "count": 1,
+      "mode": "new",
+      "view": "top",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 5,
+      "triangles": 5339,
+      "memory": {
+        "geometries": 8,
+        "textures": 5
+      },
+      "camera": [
+        0.06482515965233834,
+        0.6502096706240204,
+        0.05402096637694862
+      ],
+      "quaternion": [
+        -0.5888652319324618,
+        0.32223717640920196,
+        0.2758097211984829,
+        0.6879897807768425
+      ],
+      "fuelPixel": {
+        "x": 399.9999999999999,
+        "y": 361.24091620589434
+      }
+    },
+    {
+      "file": "metal-fixture-1-off-design.jpg",
+      "name": "metal-fixture",
+      "count": 1,
+      "mode": "off",
+      "view": "design",
+      "litLights": 0,
+      "totalLightSlots": 8,
+      "intensities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 3,
+      "triangles": 5113,
+      "memory": {
+        "geometries": 8,
+        "textures": 5
+      },
+      "camera": [
+        0.2795608648834571,
+        0.2992412076987205,
+        0.4300936382822417
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.99999999999994,
+        "y": 193.0958006873142
+      }
+    },
+    {
+      "file": "metal-fixture-1-baseline-design.jpg",
+      "name": "metal-fixture",
+      "count": 1,
+      "mode": "baseline",
+      "view": "design",
+      "litLights": 1,
+      "totalLightSlots": 2,
+      "intensities": [
+        0.03660252232172895,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 4,
+      "triangles": 5115,
+      "memory": {
+        "geometries": 9,
+        "textures": 5
+      },
+      "camera": [
+        0.2795608648834571,
+        0.2992412076987205,
+        0.4300936382822417
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.99999999999994,
+        "y": 193.0958006873142
+      }
+    },
+    {
+      "file": "metal-fixture-1-new-design.jpg",
+      "name": "metal-fixture",
+      "count": 1,
+      "mode": "new",
+      "view": "design",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 5,
+      "triangles": 5339,
+      "memory": {
+        "geometries": 8,
+        "textures": 5
+      },
+      "camera": [
+        0.2795608648834571,
+        0.2992412076987205,
+        0.4300936382822417
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.99999999999994,
+        "y": 193.0958006873142
+      }
+    },
+    {
+      "file": "metal-fixture-1-new-near.jpg",
+      "name": "metal-fixture",
+      "count": 1,
+      "mode": "new",
+      "view": "near",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 5,
+      "triangles": 5339,
+      "memory": {
+        "geometries": 8,
+        "textures": 5
+      },
+      "camera": [
+        0.1786083303422087,
+        0.2309041073938754,
+        0.274782046680321
+      ],
+      "quaternion": [
+        -0.1685447591982299,
+        0.27978893567137214,
+        0.04996341987456618,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.99999999999966,
+        "y": 63.65877295936095
+      }
+    },
+    {
+      "file": "metal-fixture-1-new-far.jpg",
+      "name": "metal-fixture",
+      "count": 1,
+      "mode": "new",
+      "view": "far",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 5,
+      "triangles": 5339,
+      "memory": {
+        "geometries": 8,
+        "textures": 5
+      },
+      "camera": [
+        0.41934129732518566,
+        0.3938618081208136,
+        0.6451404574233625
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.99999999999983,
+        "y": 265.02021264174215
+      }
+    },
+    {
+      "file": "metal-fixture-1-new-top.jpg",
+      "name": "metal-fixture",
+      "count": 1,
+      "mode": "new",
+      "view": "top",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 5,
+      "triangles": 5339,
+      "memory": {
+        "geometries": 8,
+        "textures": 5
+      },
+      "camera": [
+        0.06482515965233834,
+        0.6502096706240204,
+        0.05402096637694862
+      ],
+      "quaternion": [
+        -0.5888652319324618,
+        0.32223717640920196,
+        0.2758097211984829,
+        0.6879897807768425
+      ],
+      "fuelPixel": {
+        "x": 399.9999999999999,
+        "y": 361.24091620589434
+      }
+    },
+    {
+      "file": "stone-1-off-design.jpg",
+      "name": "stone",
+      "count": 1,
+      "mode": "off",
+      "view": "design",
+      "litLights": 0,
+      "totalLightSlots": 8,
+      "intensities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 3,
+      "triangles": 4008,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      },
+      "camera": [
+        0.7950668042673957,
+        0.6170536954113592,
+        1.2231796988729162
+      ],
+      "quaternion": [
+        -0.1685447591982299,
+        0.27978893567137225,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.502002307425,
+        "y": 372.7296129349604
+      }
+    },
+    {
+      "file": "stone-1-baseline-design.jpg",
+      "name": "stone",
+      "count": 1,
+      "mode": "baseline",
+      "view": "design",
+      "litLights": 1,
+      "totalLightSlots": 2,
+      "intensities": [
+        0.03660252232172895,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 4,
+      "triangles": 4010,
+      "memory": {
+        "geometries": 10,
+        "textures": 6
+      },
+      "camera": [
+        0.7950668042673957,
+        0.6170536954113592,
+        1.2231796988729162
+      ],
+      "quaternion": [
+        -0.1685447591982299,
+        0.27978893567137225,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.502002307425,
+        "y": 372.7296129349604
+      }
+    },
+    {
+      "file": "stone-1-new-design.jpg",
+      "name": "stone",
+      "count": 1,
+      "mode": "new",
+      "view": "design",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 5,
+      "triangles": 4234,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      },
+      "camera": [
+        0.7950668042673957,
+        0.6170536954113592,
+        1.2231796988729162
+      ],
+      "quaternion": [
+        -0.1685447591982299,
+        0.27978893567137225,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.502002307425,
+        "y": 372.7296129349604
+      }
+    },
+    {
+      "file": "stone-1-new-near.jpg",
+      "name": "stone",
+      "count": 1,
+      "mode": "new",
+      "view": "near",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 5,
+      "triangles": 4234,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      },
+      "camera": [
+        0.507959347170836,
+        0.4227040321459959,
+        0.7814759187243631
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.2168304255867,
+        "y": 357.11358154817566
+      }
+    },
+    {
+      "file": "stone-1-new-far.jpg",
+      "name": "stone",
+      "count": 1,
+      "mode": "new",
+      "view": "far",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 5,
+      "triangles": 4234,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      },
+      "camera": [
+        1.1926002064010934,
+        0.8861532291634008,
+        1.8347695483093742
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 399.6689227139457,
+        "y": 381.8701855977308
+      }
+    },
+    {
+      "file": "stone-1-new-top.jpg",
+      "name": "stone",
+      "count": 1,
+      "mode": "new",
+      "view": "top",
+      "litLights": 1,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 5,
+      "triangles": 4234,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      },
+      "camera": [
+        0.18436175801070873,
+        1.615202611329849,
+        0.1536347983422573
+      ],
+      "quaternion": [
+        -0.5888652319324618,
+        0.32223717640920196,
+        0.27580972119848296,
+        0.6879897807768426
+      ],
+      "fuelPixel": {
+        "x": 399.6187805790951,
+        "y": 394.9847154466467
+      }
+    },
+    {
+      "file": "glass-2-off-design.jpg",
+      "name": "glass",
+      "count": 2,
+      "mode": "off",
+      "view": "design",
+      "litLights": 0,
+      "totalLightSlots": 8,
+      "intensities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 12,
+      "triangles": 19512,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      },
+      "camera": [
+        0.48826385612776485,
+        0.5055170688601008,
+        0.7511751632734842
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.27978893567137225,
+        0.04996341987456619,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 282.6176347709925,
+        "y": 328.18306353020546
+      }
+    },
+    {
+      "file": "glass-2-baseline-design.jpg",
+      "name": "glass",
+      "count": 2,
+      "mode": "baseline",
+      "view": "design",
+      "litLights": 2,
+      "totalLightSlots": 2,
+      "intensities": [
+        0.03660252232172895,
+        0.03662556547257676
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 14,
+      "triangles": 19516,
+      "memory": {
+        "geometries": 11,
+        "textures": 6
+      },
+      "camera": [
+        0.48826385612776485,
+        0.5055170688601008,
+        0.7511751632734842
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.27978893567137225,
+        0.04996341987456619,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 282.6176347709925,
+        "y": 328.18306353020546
+      }
+    },
+    {
+      "file": "glass-2-new-design.jpg",
+      "name": "glass",
+      "count": 2,
+      "mode": "new",
+      "view": "design",
+      "litLights": 2,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.28737717926147915,
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 15,
+      "triangles": 20412,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      },
+      "camera": [
+        0.48826385612776485,
+        0.5055170688601008,
+        0.7511751632734842
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.27978893567137225,
+        0.04996341987456619,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 282.6176347709925,
+        "y": 328.18306353020546
+      }
+    },
+    {
+      "file": "glass-4-off-design.jpg",
+      "name": "glass",
+      "count": 4,
+      "mode": "off",
+      "view": "design",
+      "litLights": 0,
+      "totalLightSlots": 8,
+      "intensities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 22,
+      "triangles": 39020,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      },
+      "camera": [
+        0.8581780472172535,
+        0.7559205212899085,
+        1.3202739187957746
+      ],
+      "quaternion": [
+        -0.1685447591982299,
+        0.2797889356713722,
+        0.04996341987456618,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 209.88961960203926,
+        "y": 332.6084759523618
+      }
+    },
+    {
+      "file": "glass-4-baseline-design.jpg",
+      "name": "glass",
+      "count": 4,
+      "mode": "baseline",
+      "view": "design",
+      "litLights": 2,
+      "totalLightSlots": 2,
+      "intensities": [
+        0.03660252232172895,
+        0.03662556547257676
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 26,
+      "triangles": 39028,
+      "memory": {
+        "geometries": 13,
+        "textures": 6
+      },
+      "camera": [
+        0.8581780472172535,
+        0.7559205212899085,
+        1.3202739187957746
+      ],
+      "quaternion": [
+        -0.1685447591982299,
+        0.2797889356713722,
+        0.04996341987456618,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 209.88961960203926,
+        "y": 332.6084759523618
+      }
+    },
+    {
+      "file": "glass-4-new-design.jpg",
+      "name": "glass",
+      "count": 4,
+      "mode": "new",
+      "view": "design",
+      "litLights": 4,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.2846118115544064,
+        0.286482864581125,
+        0.28737717926147915,
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 25,
+      "triangles": 40820,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      },
+      "camera": [
+        0.8581780472172535,
+        0.7559205212899085,
+        1.3202739187957746
+      ],
+      "quaternion": [
+        -0.1685447591982299,
+        0.2797889356713722,
+        0.04996341987456618,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 209.88961960203926,
+        "y": 332.6084759523618
+      }
+    },
+    {
+      "file": "glass-8-off-design.jpg",
+      "name": "glass",
+      "count": 8,
+      "mode": "off",
+      "view": "design",
+      "litLights": 0,
+      "totalLightSlots": 8,
+      "intensities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 42,
+      "triangles": 78036,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      },
+      "camera": [
+        1.7039813502875192,
+        1.3284642956759345,
+        2.6215097696731062
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 181.5063181736773,
+        "y": 338.70191488744575
+      }
+    },
+    {
+      "file": "glass-8-baseline-design.jpg",
+      "name": "glass",
+      "count": 8,
+      "mode": "baseline",
+      "view": "design",
+      "litLights": 2,
+      "totalLightSlots": 2,
+      "intensities": [
+        0.03660252232172895,
+        0.03662556547257676
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 50,
+      "triangles": 78052,
+      "memory": {
+        "geometries": 17,
+        "textures": 6
+      },
+      "camera": [
+        1.7039813502875192,
+        1.3284642956759345,
+        2.6215097696731062
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 181.5063181736773,
+        "y": 338.70191488744575
+      }
+    },
+    {
+      "file": "glass-8-new-design.jpg",
+      "name": "glass",
+      "count": 8,
+      "mode": "new",
+      "view": "design",
+      "litLights": 8,
+      "totalLightSlots": 8,
+      "intensities": [
+        0.285864087951778,
+        0.2836846512930641,
+        0.28095006803736666,
+        0.2780723431392456,
+        0.2846118115544064,
+        0.286482864581125,
+        0.28737717926147915,
+        0.28716001401154595
+      ],
+      "shaderErrors": 0,
+      "glError": 0,
+      "drawCalls": 45,
+      "triangles": 81636,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      },
+      "camera": [
+        1.7039813502875192,
+        1.3284642956759345,
+        2.6215097696731062
+      ],
+      "quaternion": [
+        -0.16854475919822992,
+        0.2797889356713722,
+        0.049963419874566185,
+        0.9438296839457474
+      ],
+      "fuelPixel": {
+        "x": 181.5063181736773,
+        "y": 338.70191488744575
+      }
+    }
+  ],
+  "illumination": {
+    "litPixelsOutsideFlame": 291879,
+    "meanIncrease": 11.555146875,
+    "maximum": 235
+  },
+  "materials": [
+    {
+      "name": "glass",
+      "revision": "afac23cd-6f74-4b93-a488-77b920939ca0",
+      "synthetic": false
+    },
+    {
+      "name": "opaque",
+      "revision": "f8faecf4-50e8-483d-8193-3fd2f5407d3b",
+      "synthetic": false
+    },
+    {
+      "name": "stone",
+      "revision": "6104dc72-2186-46d1-896c-6d3eb2c6d164",
+      "synthetic": false
+    },
+    {
+      "name": "metal-fixture",
+      "revision": "f8faecf4-50e8-483d-8193-3fd2f5407d3b",
+      "synthetic": true
+    }
+  ],
+  "errors": [],
+  "viewport": [
+    800,
+    800
+  ],
+  "backend": "isolated browser, same lighting and camera for off/previous/current comparisons; metal-fixture is a material-only copy, not an asset change"
+}

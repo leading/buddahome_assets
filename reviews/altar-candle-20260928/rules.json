@@ -1,0 +1,83 @@
+{
+  "cases": [
+    {
+      "count": 1,
+      "scale": 0.4,
+      "allLit": true,
+      "stableBuffers": true
+    },
+    {
+      "count": 1,
+      "scale": 1,
+      "allLit": true,
+      "stableBuffers": true
+    },
+    {
+      "count": 1,
+      "scale": 2,
+      "allLit": true,
+      "stableBuffers": true
+    },
+    {
+      "count": 2,
+      "scale": 0.4,
+      "allLit": true,
+      "stableBuffers": true
+    },
+    {
+      "count": 2,
+      "scale": 1,
+      "allLit": true,
+      "stableBuffers": true
+    },
+    {
+      "count": 2,
+      "scale": 2,
+      "allLit": true,
+      "stableBuffers": true
+    },
+    {
+      "count": 4,
+      "scale": 0.4,
+      "allLit": true,
+      "stableBuffers": true
+    },
+    {
+      "count": 4,
+      "scale": 1,
+      "allLit": true,
+      "stableBuffers": true
+    },
+    {
+      "count": 4,
+      "scale": 2,
+      "allLit": true,
+      "stableBuffers": true
+    },
+    {
+      "count": 8,
+      "scale": 0.4,
+      "allLit": true,
+      "stableBuffers": true
+    },
+    {
+      "count": 8,
+      "scale": 1,
+      "allLit": true,
+      "stableBuffers": true
+    },
+    {
+      "count": 8,
+      "scale": 2,
+      "allLit": true,
+      "stableBuffers": true
+    }
+  ],
+  "overflow": {
+    "flames": 16,
+    "realLights": 8,
+    "nearPriority": true
+  },
+  "ignitionAndDeletion": true,
+  "fixtureUnchanged": true
+}

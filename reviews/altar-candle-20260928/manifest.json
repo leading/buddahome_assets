@@ -1,0 +1,19 @@
+{
+  "sourceParent": "bacdab1",
+  "sourceSha256": {
+    "candle-batch.ts": "a4467f3e8a052fea5569a44615df2a2ffe125c92b49e4d9008b092d2fbbb0c43",
+    "candle-effects.ts": "e6736f3a126e27b5710b764dd92da116a8fefbfa5811b9983805e9cf0ce5ac40",
+    "fire-smoke.ts": "f9e592498989e97f342746504a03179587631de56812431995218041e35287ec",
+    "combustion-materials.ts": "94ede24f81ff240b08486979c4aff8396d599edc23e8c9c207d7d866db30890e"
+  },
+  "images": 33,
+  "videoSeconds": 8,
+  "viewport": [
+    800,
+    800
+  ],
+  "baseline": "previous two-light candle implementation",
+  "noAddedPostprocessing": true,
+  "reviewMethod": "deterministic rendering, pixels, temporal state and error checks; no embedded image output",
+  "nativeEvidence": "native-final.json: 19 source nodes; native-comparison.json: earlier dense 68-node copy; timings include JS and GL queue synchronization, not isolated GPU or screen FPS"
+}

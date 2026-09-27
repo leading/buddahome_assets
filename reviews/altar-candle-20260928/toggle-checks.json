@@ -1,0 +1,41 @@
+{
+  "name": "glass",
+  "count": 1,
+  "mode": "off",
+  "view": "design",
+  "litLights": 0,
+  "totalLightSlots": 8,
+  "intensities": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "shaderErrors": 0,
+  "glError": 0,
+  "drawCalls": 7,
+  "triangles": 9758,
+  "memory": {
+    "geometries": 9,
+    "textures": 6
+  },
+  "camera": [
+    0.36842363894349106,
+    0.42439446030459244,
+    0.5668055983746015
+  ],
+  "quaternion": [
+    -0.16854475919822992,
+    0.2797889356713722,
+    0.049963419874566185,
+    0.9438296839457474
+  ],
+  "fuelPixel": {
+    "x": 398.91304884330424,
+    "y": 335.33932247136977
+  }
+}

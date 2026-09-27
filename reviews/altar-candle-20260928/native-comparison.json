@@ -1,0 +1,59 @@
+{
+  "initialErrors": [],
+  "method": "Unpresented native full-resolution scene-copy renders; elapsed includes JS submission, GL queue and finish/getError synchronization, not isolated GPU time",
+  "modelNodes": 68,
+  "results": [
+    {
+      "count": 8,
+      "drawCalls": 166,
+      "errors": [],
+      "medianMs": 28.888167023658752,
+      "p95Ms": 29.657750010490417,
+      "samplesMs": [
+        27.06991696357727,
+        27.95112496614456,
+        28.07233303785324,
+        28.107915997505188,
+        28.859125018119812,
+        28.880832970142365,
+        28.888167023658752,
+        28.963208973407745,
+        28.980291962623596,
+        29.010958969593048,
+        29.399249970912933,
+        29.657750010490417
+      ],
+      "triangles": 349750,
+      "variant": "baseline"
+    },
+    {
+      "count": 8,
+      "drawCalls": 161,
+      "errors": [],
+      "medianMs": 35.27262502908707,
+      "p95Ms": 35.80683296918869,
+      "samplesMs": [
+        33.953249990940094,
+        34.095916986465454,
+        34.154833018779755,
+        34.21145796775818,
+        34.27716600894928,
+        35.07991701364517,
+        35.27262502908707,
+        35.31608295440674,
+        35.38525003194809,
+        35.42516702413559,
+        35.43266600370407,
+        35.80683296918869
+      ],
+      "triangles": 353334,
+      "variant": "new"
+    }
+  ],
+  "sceneSavedDraftCameraUnchanged": true,
+  "shaderErrors": 0,
+  "size": [
+    828,
+    1792
+  ]
+}

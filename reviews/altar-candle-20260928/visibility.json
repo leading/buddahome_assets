@@ -1,0 +1,10 @@
+{
+  "throughGlass": {
+    "changedPixels": 1411,
+    "maximum": 227
+  },
+  "behindOpaqueWall": {
+    "changedPixels": 0,
+    "maximum": 0
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "frames": 240,
+  "fps": 30,
+  "duration": 8,
+  "ignitionSeconds": 0.5,
+  "extinctionSeconds": 6.5,
+  "movementSeconds": [
+    3,
+    5
+  ],
+  "materialUnchanged": true,
+  "flickerPowerRatio": 1.0783674470379567,
+  "checkpoints": [
+    {
+      "frame": 0,
+      "time": 0,
+      "lights": 0,
+      "intensities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "drawCalls": 7,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      }
+    },
+    {
+      "frame": 15,
+      "time": 0.5,
+      "lights": 0,
+      "intensities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      }
+    },
+    {
+      "frame": 18,
+      "time": 0.6,
+      "lights": 1,
+      "intensities": [
+        0.13477173135011153,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      }
+    },
+    {
+      "frame": 24,
+      "time": 0.8,
+      "lights": 1,
+      "intensities": [
+        0.27991582924425096,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      }
+    },
+    {
+      "frame": 60,
+      "time": 2,
+      "lights": 1,
+      "intensities": [
+        0.28716001401154595,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      }
+    },
+    {
+      "frame": 90,
+      "time": 3,
+      "lights": 1,
+      "intensities": [
+        0.2837663056191324,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      }
+    },
+    {
+      "frame": 120,
+      "time": 4,
+      "lights": 1,
+      "intensities": [
+        0.2823774737996162,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      }
+    },
+    {
+      "frame": 150,
+      "time": 5,
+      "lights": 1,
+      "intensities": [
+        0.2839445476651582,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      }
+    },
+    {
+      "frame": 195,
+      "time": 6.5,
+      "lights": 1,
+      "intensities": [
+        0.23002189718500254,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      }
+    },
+    {
+      "frame": 198,
+      "time": 6.6,
+      "lights": 1,
+      "intensities": [
+        0.09140447771937937,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "drawCalls": 10,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      }
+    },
+    {
+      "frame": 204,
+      "time": 6.8,
+      "lights": 0,
+      "intensities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "drawCalls": 7,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      }
+    },
+    {
+      "frame": 239,
+      "time": 7.966666666666667,
+      "lights": 0,
+      "intensities": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "drawCalls": 7,
+      "memory": {
+        "geometries": 9,
+        "textures": 6
+      }
+    }
+  ],
+  "errors": []
+}

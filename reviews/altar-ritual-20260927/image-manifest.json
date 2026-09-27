@@ -1,10 +1,5 @@
 [
   {
-    "file": "00-overview-v2.jpg",
-    "sha256": "2829fcf14b7cbab1f2459e92e830bfe7e7a3517c6db6e509b69a886207eb0323",
-    "bytes": 79208
-  },
-  {
     "file": "01-ignite-v2.jpg",
     "sha256": "18ac381d8e24cc5d7504d60cf406bfed48153cd6080b0b546128a789a8924431",
     "bytes": 504353

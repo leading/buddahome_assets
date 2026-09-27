@@ -1,0 +1,79 @@
+{
+  "core-results.json": {
+    "checks": [
+      "Specific fuel/container capabilities; no table/group aggregation",
+      "Tea patch preserves complete authored camera and transforms",
+      "Concurrent liquid or missing receiver never overwritten",
+      "Serialized SQLite checkpoints preserve recovery/drafts and newer mutations",
+      "Existing layout draft blocks usage save without deleting either record",
+      "Legacy liquid defaults normalize at the same boundary as regular loading",
+      "Finish fences late animation updates and waits for durable commit",
+      "Final flush drains updates that arrive during the periodic checkpoint",
+      "Disk failure retains the actual result and retry commits exactly once",
+      "Background flush saves transferred tea without an editing draft",
+      "Account/generation change prevents delayed writes from changing new account UI"
+    ],
+    "fixtureUnchanged": true
+  },
+  "gesture-results.json": {
+    "checks": [
+      "Tap-only raycast reports actual member and normalized position without editing selection",
+      "Drag orbits and dismisses popover without raycast, tap, or scene commit",
+      "Two-finger zoom never triggers a click",
+      "Cancelled touch cannot activate ritual",
+      "Empty scene tap closes interaction",
+      "Camera observation remains available while tea pours",
+      "Paused surface does not accept actions"
+    ],
+    "errors": []
+  },
+  "layout-results.json": {
+    "cases": 2100,
+    "checks": [
+      "12pt horizontal safe edge",
+      "toolbar and bottom safe bounds",
+      "popup never covers hit point",
+      "minimum action space in portrait/landscape"
+    ],
+    "viewports": [
+      "375x667",
+      "390x844",
+      "402x874",
+      "414x896",
+      "874x402"
+    ],
+    "method": "Production layout expressions; numerical viewport checks, not device screenshots"
+  },
+  "interruption-results.json": {
+    "resetDismissesPopover": true,
+    "rendererFailureStopsAndSaves": true,
+    "hiddenActionsOnFailure": true,
+    "busy": false,
+    "current": 33.27275960022219,
+    "draft": false,
+    "failed": true,
+    "interactive": false,
+    "saved": 33.27275960022219,
+    "undo": false
+  },
+  "native-data-results.json": {
+    "device": "Physical iPhone / Expo GL",
+    "gestureReplayDeferred": true,
+    "method": "Read-only capability checks and in-memory scene-copy transfer; current user editing left untouched",
+    "recognized": 13,
+    "rendererMemory": {
+      "geometries": 47,
+      "textures": 38
+    },
+    "sceneAndSavedStateUnchanged": true,
+    "sceneCopyTransferChecked": true
+  },
+  "sourceCommit": "5c959578dfb5ea05f4eba8cd77f20df57f04091f",
+  "scopeNotes": {
+    "core": "Production transaction code with controlled lifecycle and a real SQLite diagnostic adapter.",
+    "gestures": "Production pointer handlers with controlled event replay.",
+    "layout": "Numerical production-layout checks, not screenshots from five devices.",
+    "interruption": "Deliberate renderer error; failed=true records the expected error state, subsequently recovered.",
+    "phone": "Read-only and in-memory scene-copy checks; user editing was preserved."
+  }
+}

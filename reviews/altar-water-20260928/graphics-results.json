@@ -1,0 +1,742 @@
+{
+  "viewport": [
+    720,
+    720
+  ],
+  "backend": "Isolated browser WebGL using published GLBs and production LiquidVolume; no bloom/post effects",
+  "seed": 0,
+  "cases": [
+    {
+      "name": "stone",
+      "revision": "6104dc72-2186-46d1-896c-6d3eb2c6d164",
+      "coldBindMs": 23,
+      "capacity": 18368.363312845453
+    },
+    {
+      "name": "ceramic",
+      "revision": "0405e223-8ff1-4400-b7ff-3432adeaead0",
+      "coldBindMs": 15.5,
+      "capacity": 95.11050936503669
+    },
+    {
+      "name": "glass",
+      "revision": "a4e37945-1246-4c8c-8dee-046365938b4a",
+      "coldBindMs": 18.5,
+      "capacity": 80.29251358542727
+    }
+  ],
+  "frames": [
+    {
+      "file": "stone-water-0-design.jpg",
+      "name": "stone",
+      "type": "water",
+      "fraction": 0,
+      "view": "design",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": false,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 1,
+      "triangles": 2978,
+      "memory": {
+        "geometries": 2,
+        "textures": 2
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.5131108259413613,
+        0.8699004845668749,
+        1.068980887377836
+      ],
+      "target": [
+        0,
+        0.07885462790727615,
+        0
+      ]
+    },
+    {
+      "file": "stone-water-55-design.jpg",
+      "name": "stone",
+      "type": "water",
+      "fraction": 0.55,
+      "view": "design",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 3,
+      "triangles": 7236,
+      "memory": {
+        "geometries": 2,
+        "textures": 2
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.5131108259413613,
+        0.8699004845668749,
+        1.068980887377836
+      ],
+      "target": [
+        0,
+        0.07885462790727615,
+        0
+      ]
+    },
+    {
+      "file": "stone-water-100-design.jpg",
+      "name": "stone",
+      "type": "water",
+      "fraction": 1,
+      "view": "design",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 3,
+      "triangles": 7236,
+      "memory": {
+        "geometries": 2,
+        "textures": 2
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.5131108259413613,
+        0.8699004845668749,
+        1.068980887377836
+      ],
+      "target": [
+        0,
+        0.07885462790727615,
+        0
+      ]
+    },
+    {
+      "file": "stone-tea-55-design.jpg",
+      "name": "stone",
+      "type": "tea",
+      "fraction": 0.55,
+      "view": "design",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": true,
+      "glassAbsorption": false,
+      "waterAttenuation": "c58b3c",
+      "drawCalls": 4,
+      "triangles": 8900,
+      "memory": {
+        "geometries": 3,
+        "textures": 2
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.5131108259413613,
+        0.8699004845668749,
+        1.068980887377836
+      ],
+      "target": [
+        0,
+        0.07885462790727615,
+        0
+      ]
+    },
+    {
+      "file": "stone-water-55-near.jpg",
+      "name": "stone",
+      "type": "water",
+      "fraction": 0.55,
+      "view": "near",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 3,
+      "triangles": 7236,
+      "memory": {
+        "geometries": 3,
+        "textures": 2
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.3576226968682215,
+        0.630189618912451,
+        0.7450472851421281
+      ],
+      "target": [
+        0,
+        0.07885462790727615,
+        0
+      ]
+    },
+    {
+      "file": "stone-water-55-far.jpg",
+      "name": "stone",
+      "type": "water",
+      "fraction": 0.55,
+      "view": "far",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 3,
+      "triangles": 7236,
+      "memory": {
+        "geometries": 3,
+        "textures": 2
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.8240870840876409,
+        1.3493222158757225,
+        1.7168480918492517
+      ],
+      "target": [
+        0,
+        0.07885462790727615,
+        0
+      ]
+    },
+    {
+      "file": "ceramic-water-0-design.jpg",
+      "name": "ceramic",
+      "type": "water",
+      "fraction": 0,
+      "view": "design",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": false,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 1,
+      "triangles": 1690,
+      "memory": {
+        "geometries": 4,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.06914044663524224,
+        0.1305717370878396,
+        0.14404259715675466
+      ],
+      "target": [
+        0,
+        0.023980215191841125,
+        0
+      ]
+    },
+    {
+      "file": "ceramic-water-55-design.jpg",
+      "name": "ceramic",
+      "type": "water",
+      "fraction": 0.55,
+      "view": "design",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 3,
+      "triangles": 4660,
+      "memory": {
+        "geometries": 5,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.06914044663524224,
+        0.1305717370878396,
+        0.14404259715675466
+      ],
+      "target": [
+        0,
+        0.023980215191841125,
+        0
+      ]
+    },
+    {
+      "file": "ceramic-water-100-design.jpg",
+      "name": "ceramic",
+      "type": "water",
+      "fraction": 1,
+      "view": "design",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 3,
+      "triangles": 4660,
+      "memory": {
+        "geometries": 5,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.06914044663524224,
+        0.1305717370878396,
+        0.14404259715675466
+      ],
+      "target": [
+        0,
+        0.023980215191841125,
+        0
+      ]
+    },
+    {
+      "file": "ceramic-tea-55-design.jpg",
+      "name": "ceramic",
+      "type": "tea",
+      "fraction": 0.55,
+      "view": "design",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": true,
+      "glassAbsorption": false,
+      "waterAttenuation": "c58b3c",
+      "drawCalls": 4,
+      "triangles": 6324,
+      "memory": {
+        "geometries": 6,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.06914044663524224,
+        0.1305717370878396,
+        0.14404259715675466
+      ],
+      "target": [
+        0,
+        0.023980215191841125,
+        0
+      ]
+    },
+    {
+      "file": "ceramic-water-55-near.jpg",
+      "name": "ceramic",
+      "type": "water",
+      "fraction": 0.55,
+      "view": "near",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 3,
+      "triangles": 4660,
+      "memory": {
+        "geometries": 6,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.04818879613971429,
+        0.09827127590723399,
+        0.10039332529107144
+      ],
+      "target": [
+        0,
+        0.023980215191841125,
+        0
+      ]
+    },
+    {
+      "file": "ceramic-water-55-far.jpg",
+      "name": "ceramic",
+      "type": "water",
+      "fraction": 0.55,
+      "view": "far",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 3,
+      "triangles": 4660,
+      "memory": {
+        "geometries": 6,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.11104374762629814,
+        0.19517265944905077,
+        0.2313411408881211
+      ],
+      "target": [
+        0,
+        0.023980215191841125,
+        0
+      ]
+    },
+    {
+      "file": "glass-water-0-design.jpg",
+      "name": "glass",
+      "type": "water",
+      "fraction": 0,
+      "view": "design",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": false,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 1,
+      "triangles": 1532,
+      "memory": {
+        "geometries": 7,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.06809790538557574,
+        0.1273055639332796,
+        0.14187063621994944
+      ],
+      "target": [
+        0,
+        0.022321293130517006,
+        0
+      ]
+    },
+    {
+      "file": "glass-water-55-design.jpg",
+      "name": "glass",
+      "type": "water",
+      "fraction": 0.55,
+      "view": "design",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 2,
+      "triangles": 2812,
+      "memory": {
+        "geometries": 8,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.06809790538557574,
+        0.1273055639332796,
+        0.14187063621994944
+      ],
+      "target": [
+        0,
+        0.022321293130517006,
+        0
+      ]
+    },
+    {
+      "file": "glass-water-100-design.jpg",
+      "name": "glass",
+      "type": "water",
+      "fraction": 1,
+      "view": "design",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 2,
+      "triangles": 2812,
+      "memory": {
+        "geometries": 8,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.06809790538557574,
+        0.1273055639332796,
+        0.14187063621994944
+      ],
+      "target": [
+        0,
+        0.022321293130517006,
+        0
+      ]
+    },
+    {
+      "file": "glass-tea-55-design.jpg",
+      "name": "glass",
+      "type": "tea",
+      "fraction": 0.55,
+      "view": "design",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": true,
+      "waterAttenuation": "c58b3c",
+      "drawCalls": 2,
+      "triangles": 2812,
+      "memory": {
+        "geometries": 8,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.06809790538557574,
+        0.1273055639332796,
+        0.14187063621994944
+      ],
+      "target": [
+        0,
+        0.022321293130517006,
+        0
+      ]
+    },
+    {
+      "file": "glass-water-55-near.jpg",
+      "name": "glass",
+      "type": "water",
+      "fraction": 0.55,
+      "view": "near",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 2,
+      "triangles": 2812,
+      "memory": {
+        "geometries": 8,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.047462176480855815,
+        0.09549214853850306,
+        0.09887953433511629
+      ],
+      "target": [
+        0,
+        0.022321293130517006,
+        0
+      ]
+    },
+    {
+      "file": "glass-water-55-far.jpg",
+      "name": "glass",
+      "type": "water",
+      "fraction": 0.55,
+      "view": "far",
+      "time": 1.2,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 2,
+      "triangles": 2812,
+      "memory": {
+        "geometries": 8,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.10936936319501558,
+        0.19093239472283272,
+        0.2278528399896158
+      ],
+      "target": [
+        0,
+        0.022321293130517006,
+        0
+      ]
+    },
+    {
+      "file": "stone-ripple-0.jpg",
+      "name": "stone",
+      "type": "water",
+      "fraction": 0.55,
+      "view": "design",
+      "time": 0,
+      "inflow": 1,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 3,
+      "triangles": 7236,
+      "memory": {
+        "geometries": 8,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.5131108259413613,
+        0.8699004845668749,
+        1.068980887377836
+      ],
+      "target": [
+        0,
+        0.07885462790727615,
+        0
+      ]
+    },
+    {
+      "file": "stone-ripple-0.2.jpg",
+      "name": "stone",
+      "type": "water",
+      "fraction": 0.55,
+      "view": "design",
+      "time": 0.2,
+      "inflow": 1,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 3,
+      "triangles": 7236,
+      "memory": {
+        "geometries": 8,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.5131108259413613,
+        0.8699004845668749,
+        1.068980887377836
+      ],
+      "target": [
+        0,
+        0.07885462790727615,
+        0
+      ]
+    },
+    {
+      "file": "stone-ripple-1.2.jpg",
+      "name": "stone",
+      "type": "water",
+      "fraction": 0.55,
+      "view": "design",
+      "time": 1.2,
+      "inflow": 1,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 3,
+      "triangles": 7236,
+      "memory": {
+        "geometries": 8,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.5131108259413613,
+        0.8699004845668749,
+        1.068980887377836
+      ],
+      "target": [
+        0,
+        0.07885462790727615,
+        0
+      ]
+    },
+    {
+      "file": "stone-ripple-4.jpg",
+      "name": "stone",
+      "type": "water",
+      "fraction": 0.55,
+      "view": "design",
+      "time": 4,
+      "inflow": 0,
+      "surfaceVisible": true,
+      "bodyVisible": false,
+      "glassAbsorption": false,
+      "waterAttenuation": "ffffff",
+      "drawCalls": 3,
+      "triangles": 7236,
+      "memory": {
+        "geometries": 8,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.5131108259413613,
+        0.8699004845668749,
+        1.068980887377836
+      ],
+      "target": [
+        0,
+        0.07885462790727615,
+        0
+      ]
+    }
+  ],
+  "motion": {
+    "meanCpuUpdateMs": 0.021666666666666667,
+    "reusesBuffers": true,
+    "finite": true,
+    "type": "water",
+    "fraction": 0.55,
+    "surfaceVisible": true,
+    "bodyVisible": false,
+    "glassAbsorption": false,
+    "waterAttenuation": "ffffff",
+    "drawCalls": 3,
+    "triangles": 7236,
+    "memory": {
+      "geometries": 8,
+      "textures": 3
+    },
+    "shaderErrors": 0,
+    "glError": 0,
+    "camera": [
+      0.5131108259413613,
+      0.8699004845668749,
+      1.068980887377836
+    ],
+    "target": [
+      0,
+      0.07885462790727615,
+      0
+    ]
+  },
+  "errors": []
+}

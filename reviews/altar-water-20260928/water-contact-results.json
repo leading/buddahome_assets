@@ -1,0 +1,57 @@
+{
+  "containers": [
+    {
+      "bindingMs": 5.6582499742507935,
+      "id": "stone-basin",
+      "meanCpuUpdateMs": 0.505578645815452,
+      "rows": [
+        {
+          "fraction": 0.1,
+          "maxAbsoluteGapMm": 0.000025923379831649385,
+          "meanGapMm": -8.637757306292904e-10
+        },
+        {
+          "fraction": 0.55,
+          "maxAbsoluteGapMm": 0.000013445075830453845,
+          "meanGapMm": 3.2043275975321417e-10
+        },
+        {
+          "fraction": 1,
+          "maxAbsoluteGapMm": 0.000013745399762843391,
+          "meanGapMm": -2.295901056076355e-11
+        }
+      ],
+      "stableBuffers": true,
+      "teaGlassAbsorption": false,
+      "waterOriginalMaterials": true,
+      "waterRestoresMaterials": true
+    },
+    {
+      "bindingMs": 1.1696250140666962,
+      "id": "tea-cup-1",
+      "meanCpuUpdateMs": 0.5065381957838933,
+      "rows": [
+        {
+          "fraction": 0.1,
+          "maxAbsoluteGapMm": 0.0024076150255056272,
+          "meanGapMm": 8.837977820202667e-8
+        },
+        {
+          "fraction": 0.55,
+          "maxAbsoluteGapMm": 0.000376991469673571,
+          "meanGapMm": 6.383280522432103e-9
+        },
+        {
+          "fraction": 1,
+          "maxAbsoluteGapMm": 0.000003437454813848273,
+          "meanGapMm": -5.041236461481372e-10
+        }
+      ],
+      "stableBuffers": true,
+      "teaGlassAbsorption": false,
+      "waterOriginalMaterials": true,
+      "waterRestoresMaterials": true
+    }
+  ],
+  "liveSceneSavedDraftUnchanged": true
+}

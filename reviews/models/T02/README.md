@@ -166,6 +166,10 @@
 
 ![T02-30](T02-30/bf321e4ee7c8/comparison.jpg)
 
+## T02-31 天然编织地毯
+
+![T02-31](T02-31/33f7977027f4/comparison.jpg)
+
 ## 组合验证预览
 
 ![assembly](combinations/T02-01_T02-02_T02-04_T02-05/1dc947b7c908/preview.jpg)

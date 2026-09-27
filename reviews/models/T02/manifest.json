@@ -1,6 +1,6 @@
 {
   "theme": "T02",
-  "updatedAt": "2026-09-27T07:36:05.597599+00:00",
+  "updatedAt": "2026-09-27T07:43:59.359607+00:00",
   "scope": "Source image and actual imported GLB renders; publishing does not establish acceptance.",
   "items": [
     {
@@ -150,8 +150,8 @@
           "reviewSha256": "5cb3576c60cab430180e1773a158e5f7fbcb63eebc7988b824b4cfa1afac10e7"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T02-06/2de4ee14953a/prepared/9b3c9fef0352",
         "modelSha256": "9b3c9fef0352300af727ba711f6e8bfee6fa59afa78b6ec6d87433388f07e7e6",
@@ -182,8 +182,8 @@
           "reviewSha256": "b2c593b5d7c243f4dc4c7a3d4f6da91b71da63f837ed967bb34754cd5a706b9f"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T02-07/f9ea14e1f277/prepared/de19aa3c8366",
         "modelSha256": "de19aa3c8366f1f3f4d86fb39ea997386b424590c08754699dc9f0c6ddbf05a9",
@@ -214,8 +214,8 @@
           "reviewSha256": "81d6120609c3d85844ad9a31658f3e1ac2d40cd0d662fb0de6ec9fc44a1565de"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T02-08/ea4baf14b767/prepared/dedc7816456b",
         "modelSha256": "dedc7816456b414f92db3fdf49ea66bebe3a3fc26db664896179500b2a927e11",
@@ -246,8 +246,8 @@
           "reviewSha256": "be06e86ba6b2201b6587b7b879706b932d45369e67740b6cda6d8ceb517d8c75"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T02-09/305edf8d5853/prepared/c80d1f9296b5",
         "modelSha256": "c80d1f9296b5a750f8c3b2df8586e70d13ca66370e7fe6d528763ebc7eb66624",
@@ -278,8 +278,8 @@
           "reviewSha256": "5c984a9a1b019269a25f9dcf29a308835283ad540e3f00bb24b9e0c8fcdd8ef2"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T02-10/2842eedc7b2d/prepared/2b81f6fa39b1",
         "modelSha256": "2b81f6fa39b1c7811f3e77abb911912dda7cc354a7fa8448dafe9f94c0b505a4",
@@ -364,8 +364,8 @@
           "reviewSha256": "c27e89c2e3085d8a8e142c01d68967600d0aaaf896cd23b8b1b9218a875a9714"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T02-13/62c4699e515f/prepared/98faf6567d55",
         "modelSha256": "98faf6567d55966cd65e7312d2836bf1e8960350d2f8c798ba0473af3a038c97",
@@ -396,8 +396,8 @@
           "reviewSha256": "04b5ce0cd7f2183a4ed70fc012b60bf28cddf0a5a33b4eedd9a45966ed0a1943"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T02-14/c272be3c2837/prepared/7245ac5d538f",
         "modelSha256": "7245ac5d538f5efc35b1ece6b20fba62dd84c2fe7e5dd24940a4f0e2a87c5209",
@@ -482,8 +482,8 @@
           "reviewSha256": "447990790634df607bd6ea52194d6c853929403954db6d0bad94426a2e0fd6c5"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T02-17/f2f729d13981/prepared/f25ca7c1b042",
         "modelSha256": "f25ca7c1b042efcff2ed36d2257a12c01892ceb79c6f95e8c13246c987716c9f",
@@ -514,8 +514,8 @@
           "reviewSha256": "5f9547cfebe8f1cedb3b08e79db708b623f7c5b9d8a25d553ea1924995005e2c"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T02-18/0cfd9915c98b/prepared/16d1ab2cee78",
         "modelSha256": "16d1ab2cee78aec80b77eb88281a1006a41d816b4aff288d70e85d2f20105f71",
@@ -599,8 +599,8 @@
           "reviewSha256": "6726da728f698786b51cba6cf5f75db7321490956a2f5ae652c22bebc8048be7"
         }
       },
-      "visualReview": "pending",
-      "artifactState": "prepared_pending_visual_review",
+      "visualReview": "passed",
+      "artifactState": "validated_asset",
       "preparedReview": {
         "path": "T02-21/6af4c07f8fe1/prepared/facde92f29fe",
         "modelSha256": "facde92f29fe7e17a7be904f5135bc8b282026f739e851b9d11da140d8dea889",
@@ -793,6 +793,32 @@
           "originalSha256": "49c0cf4a25decde0599ea93bdb2c610ebe6e900492534cb1d31e5cb6bd1320ff",
           "reviewFile": "top.jpg",
           "reviewSha256": "f3bbe14e12a4ff6b7d4cdb41a86287e7b96f06ebb91889cd91fb1ef3efd4fb91"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T02-31",
+      "name": "天然编织地毯",
+      "capability": "静态物件",
+      "sourceSha256": "33f7977027f442a97a7c3812c0bbbac20ec43fc2b6d1def832570bc0233e0590",
+      "path": "T02-31/33f7977027f4",
+      "comparisonSha256": "859276963b0149d43ad3d3d71305ef1b14c71f56bedf3b483e26aad04fcb874b",
+      "images": {
+        "source": {
+          "originalSha256": "cfb24b63f4a95ba9697e81c942a9ea6810fd61ad6c3b9e333b342ab5117df01c",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "24968ac2b62daf0ca756643f238f221075a63b2eead76cd6005442fcb0770fcc"
+        },
+        "perspective": {
+          "originalSha256": "d43560ac41759b608dddfd2959d259804f1c261f497ac2c52323f4c51095aa72",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "2bc3e7bd6842b7156a8c5567432ba14c9424377678963d7096523713592a6e56"
+        },
+        "top": {
+          "originalSha256": "0d3594d3e6cd99030309c8f9eeeaa9bbafb91923d08b451e1d12c7fd2117687f",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "456d7cf82e0cfc456996b20a880d5d55902e9e76e495d7cdc36cfb17e9482ff4"
         }
       },
       "visualReview": "pending"

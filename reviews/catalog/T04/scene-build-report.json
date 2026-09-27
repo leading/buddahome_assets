@@ -1,0 +1,262 @@
+{
+  "nodeCount": 47,
+  "distinctAssets": 31,
+  "supportContacts": [
+    {
+      "instance": "buddha",
+      "parent": "altar",
+      "actualContactSamples": 28115,
+      "nearestContactMeters": 0.0005000829696655273,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "vase-left",
+      "parent": "altar",
+      "actualContactSamples": 5153,
+      "nearestContactMeters": 0.0005000829696655273,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "vase-right",
+      "parent": "altar",
+      "actualContactSamples": 5614,
+      "nearestContactMeters": 0.0005000829696655273,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "tall-lamp-left",
+      "parent": "altar",
+      "actualContactSamples": 9998,
+      "nearestContactMeters": 0.0005001425743103027,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "tall-lamp-right",
+      "parent": "altar",
+      "actualContactSamples": 9934,
+      "nearestContactMeters": 0.000500112771987915,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "medium-lamp-left",
+      "parent": "carpet",
+      "actualContactSamples": 8896,
+      "nearestContactMeters": 0.0005000866949558258,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "medium-lamp-right",
+      "parent": "carpet",
+      "actualContactSamples": 8896,
+      "nearestContactMeters": 0.0005000866949558258,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "offering-bowl-left",
+      "parent": "altar",
+      "actualContactSamples": 4375,
+      "nearestContactMeters": 0.00037127998075447977,
+      "supportClearanceMeters": 0.00075,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "offering-bowl-right",
+      "parent": "altar",
+      "actualContactSamples": 4375,
+      "nearestContactMeters": 0.00037132276338525116,
+      "supportClearanceMeters": 0.00075,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "incense-burner",
+      "parent": "carpet",
+      "actualContactSamples": 12306,
+      "nearestContactMeters": 0.0005000866949558258,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "incense-lid",
+      "parent": "carpet",
+      "actualContactSamples": 6850,
+      "nearestContactMeters": 0.0005000866949558258,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "plate-oranges",
+      "parent": "carpet",
+      "actualContactSamples": 3193,
+      "nearestContactMeters": 0.0005000866949558258,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "oranges-1",
+      "parent": "plate-oranges",
+      "actualContactSamples": 2175,
+      "nearestContactMeters": 0.0004946926492266357,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "oranges-2",
+      "parent": "plate-oranges",
+      "actualContactSamples": 2175,
+      "nearestContactMeters": 0.0004948001587763429,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "oranges-3",
+      "parent": "plate-oranges",
+      "actualContactSamples": 2175,
+      "nearestContactMeters": 0.0004946301924064755,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "plate-apples",
+      "parent": "carpet",
+      "actualContactSamples": 3193,
+      "nearestContactMeters": 0.0005000866949558258,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "apples-1",
+      "parent": "plate-apples",
+      "actualContactSamples": 2067,
+      "nearestContactMeters": 0.00045484869042411447,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "apples-2",
+      "parent": "plate-apples",
+      "actualContactSamples": 2067,
+      "nearestContactMeters": 0.0004546049458440393,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "apples-3",
+      "parent": "plate-apples",
+      "actualContactSamples": 2067,
+      "nearestContactMeters": 0.0004547507269307971,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "plate-grapes",
+      "parent": "carpet",
+      "actualContactSamples": 3193,
+      "nearestContactMeters": 0.0005000866949558258,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "grape-bunch",
+      "parent": "plate-grapes",
+      "actualContactSamples": 3001,
+      "nearestContactMeters": 0.0004547626886051148,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "tea-table",
+      "parent": "carpet",
+      "actualContactSamples": 12674,
+      "nearestContactMeters": 0.0005000866949558258,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "teapot",
+      "parent": "tea-table",
+      "actualContactSamples": 11748,
+      "nearestContactMeters": 0.000500000489410013,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "tea-saucer",
+      "parent": "tea-table",
+      "actualContactSamples": 2136,
+      "nearestContactMeters": 0.0004999708035029471,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "scripture",
+      "parent": "tea-table",
+      "actualContactSamples": 1972,
+      "nearestContactMeters": 0.0004999112570658326,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "cushion",
+      "parent": "carpet",
+      "actualContactSamples": 5181,
+      "nearestContactMeters": 0.000499967485666275,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    }
+  ],
+  "collisionFreeModelPairs": 1081,
+  "runtimeVerified": false,
+  "sourceHashes": {
+    "T04-31": "444e0eb8069e614561645720893867c10f4c785752c4776d2d4424c19a529c37",
+    "T04-01": "19b67a7f9a642ae3ca1b5f630e80e3464aaf2040f9b1537b87b1d33650fc2358",
+    "T04-26": "6526dea31de1e3c8e6e5970c8af1dad13eaa356b78edf8a3dcc025dcc830db6a",
+    "T04-27": "3d4b649cbac021d065e09dd6368a4c26983cb92077c72ec39d405310f6e456f9",
+    "T04-02": "e5a90518bd26fc0279e7dffde29042cd71d0d45afa69acb801a8f46bc33c1281",
+    "T04-04": "c839361914d41c6241eb25e325ee7528ad7f5c7821e271a0bc01737e511e3872",
+    "T04-05": "731e712aff8a09bb008a26bdec2a186cce96774651dca9ee965b2c9628b73e26",
+    "T04-18": "6855721c4444099fcb7811b7ce6d1fa853f5a07417561f69b81338165b5c3d41",
+    "T04-19": "298d04df69dccabcd4595d34a93de4790a0ca28ff5e1336351bd1a18e3088b00",
+    "T04-06": "a4909338eb7e71d62f6c148c2bdc0bc825d7cd0027717dc7b402e6a6876de6d7",
+    "T04-07": "97bb72c50e941fc71e83e84161cfb59db6ec58926d99da95284ab6b1e8c4d67a",
+    "T04-20": "070be42dc4579ad6bcbd18ee5c6c587677cf7cca1561f64f0c7e9baf9e02eec3",
+    "T04-21": "8282ecf090df6c63785546c8145cbb10e20105b7e3617a9e79e5823fda46a7c6",
+    "T04-34": "f95f53c1085ed5a1e61437530efe422643f8f3a2fc1f428d745c8ec2702297d1",
+    "T04-35": "b1731c71170271420b8cb90479b3fd7a856479a89532b18c153898c0f548627b",
+    "T04-08": "aaf0e9f9da3b9f07025eb76fa271d4baef1f99db7b08c5c88fbe4824577748cc",
+    "T04-09": "d688e5142c92b179ecc3c7fb92afb2e26776b79aa1b9a38cef694fda43aae8be",
+    "T04-22": "6d21b47792b6536f0e9967054f6e68ab877adab0ae5469efd5fee89d45cb9362",
+    "T04-10": "5bb81bbbd1a7c3a279422f400f8cb497705b811258a227337395ce084e42a513",
+    "T04-11": "8c508ba845d9d46e04ea44c3da76e9771b6eaa63eaa8a27d9978cd8bd07ab93c",
+    "T04-23": "98eb56e337e0e3b97621c7b5addd09700c6974604d3e7c863faac313f9181882",
+    "T04-24": "31508cebf03777cc93915fc6102c267b63a4e6c2a830e4b05c9e82e405f85918",
+    "T04-17": "2a9272c3b859860a91e1bd8ca8f00e21b8bc75b2701fd2a375e6589cad636a69",
+    "T04-12": "7b87e14aed1ca0fdfceaffac7a72097ae7c7cb808e1130ff283dd5116779175e",
+    "T04-25": "bbcd371333513911b361b185631bdba9c18614b1c517383857a9e375d4b67ccf",
+    "T04-13": "4db90c15ffd9b6733056dbb49660c0252fbdc2bf839e49cacec8e7f200971989",
+    "T04-15": "990f3a5bb36bc58cad2f727f85527b8b5a5b15b04bf755ec18ad154c87617961",
+    "T04-16": "d867a3131d75367f7e8a5c89d3e964d1a682eeb2a8ed98e9c46b187a5c9d3cd6",
+    "T04-28": "11383595723dfe55269b3f278930c5bc95a22d72cb466bd4504a01e05670e688",
+    "T04-29": "ae85b54a16b38621c169fa36b573273f2415126e58f63318ad5f5a4436c45909",
+    "T04-30": "2ab19280e07b66af171687fee4c9e4887ef27bbe0a16118e7e380027f83ad1f5"
+  },
+  "sceneSha256": "604f963a38de24a089219920944410ede7d5ebe157b518e687d8c17b733d5802",
+  "notes": [
+    "All 31 model types are editable; three offering plates match the explicit CSV quantity. Other repeated instances are authored initial layout choices, not claimed photograph counts.",
+    "Free grouped placement with actual mesh contacts; oversized statue, fruit stacks and textiles do not imply automatic full-footprint snapping.",
+    "Unlit wicks and incense, empty tea cup, numeric tea stock only in the opaque pot.",
+    "Original generated sources and 4K backups retained; independent wick and granular right offering are the explicitly reviewed runtime corrections."
+  ],
+  "coverSize": [
+    1080,
+    1890
+  ],
+  "coverSha256": "e516435b9a3db9d09be6df8869b5046c9a8750914a3753134421f9b00748cae0",
+  "renderer": "Blender Cycles; same saved scene transforms, camera and background crop; not an App screenshot"
+}

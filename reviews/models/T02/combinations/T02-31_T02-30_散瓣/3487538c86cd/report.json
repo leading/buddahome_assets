@@ -1,0 +1,77 @@
+{
+  "rug": "T02-31",
+  "petal": "T02-30",
+  "instances": 5,
+  "sharedPetalGeometry": true,
+  "hardcodedCountLimit": null,
+  "placements": [
+    {
+      "positionMeters": [
+        -0.2199999988079071,
+        -0.05999999865889549,
+        0.04909397289156914
+      ],
+      "yawRadians": 0,
+      "supportRays": 9
+    },
+    {
+      "positionMeters": [
+        -0.09000000357627869,
+        0.06499999761581421,
+        0.04574007913470268
+      ],
+      "yawRadians": 0.7,
+      "supportRays": 9
+    },
+    {
+      "positionMeters": [
+        0.03500000014901161,
+        -0.05000000074505806,
+        0.04710359498858452
+      ],
+      "yawRadians": 1.4,
+      "supportRays": 9
+    },
+    {
+      "positionMeters": [
+        0.1599999964237213,
+        0.07999999821186066,
+        0.04423142597079277
+      ],
+      "yawRadians": 2.5,
+      "supportRays": 9
+    },
+    {
+      "positionMeters": [
+        0.25,
+        -0.07000000029802322,
+        0.04671640321612358
+      ],
+      "yawRadians": 3.2,
+      "supportRays": 9
+    }
+  ],
+  "meshIntersections": 0,
+  "sourceMeshesMaterialsPreserved": true,
+  "previewFraming": "Close-up of petals; complete carpet remains in the fixture",
+  "scope": "Static reusable petals manually placed over actual carpet surface, without adding a support capability to the static carpet or claiming fabric simulation.",
+  "sourceHashes": {
+    "T02-31": "33f7977027f442a97a7c3812c0bbbac20ec43fc2b6d1def832570bc0233e0590",
+    "T02-30": "bf321e4ee7c8a78a12d676157c25846b283411060242321f8b1dc960dc9c099a"
+  },
+  "modelHashes": {
+    "T02-31": "33f7977027f442a97a7c3812c0bbbac20ec43fc2b6d1def832570bc0233e0590",
+    "T02-30": "bf321e4ee7c8a78a12d676157c25846b283411060242321f8b1dc960dc9c099a"
+  },
+  "configHashes": {
+    "T02-31": "fec8603b6d4c76a76d535b95130345fbbbb635055d42c0376bd9a68ebc1efef5",
+    "T02-30": "363c3f47879cf957e542e77b636778b9be7980bd77f0fd2e46fc204a90c8d4bb"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "272e1baaffbbde6c783afe0d9670aca6b0f76b5b68dc04fe6ecaf17378dac352",
+    "组合验证.blend": "e146e490dbfe77f6bcc95cd5d511d244b060a183a38ddd1ab2901ce89e9b23c2",
+    "组合预览.png": "b67ed1033276e180d30380d3b4e278fdfcc31f559066055f5de298c60076669b"
+  }
+}

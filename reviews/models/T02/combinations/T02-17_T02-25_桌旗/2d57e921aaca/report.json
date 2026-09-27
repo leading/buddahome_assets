@@ -1,0 +1,46 @@
+{
+  "table": "T02-17",
+  "cloth": "T02-25",
+  "testedPoses": 2,
+  "acceptedPose": {
+    "uniformInstanceScale": 1,
+    "rotationQuaternionWXYZ": [
+      0.9992783069610596,
+      -0.03603290766477585,
+      -0.012022100389003754,
+      0.0
+    ],
+    "placementPointMeters": [
+      -0.2800000011920929,
+      0.0,
+      0.29056867957115173
+    ],
+    "authoredAnchorClearanceMeters": 0.002,
+    "nearestContactDistanceMeters": 0.0012535452842712402,
+    "lowestHemHeightMeters": 0.03565094619989395
+  },
+  "meshIntersectionPairs": 0,
+  "originalMeshMaterialsPreserved": true,
+  "parentTransformError": 5.960464477539063e-08,
+  "detachWorldError": 7.450580596923828e-09,
+  "scope": "Existing drape positioned on the LEFT of the named front table by its measured underside anchor. Manual grouping, not rigid full-footprint snapping, cloth deformation or runtime cloth simulation.",
+  "sourceHashes": {
+    "T02-17": "f2f729d139815e00b1922958df20e1d14f934477c208ad2f2f69f4a1559f28d4",
+    "T02-25": "8a14cfb33743bfe71e73b8e9fffc8771430ab3277b27494d3020b80c0cab68cb"
+  },
+  "modelHashes": {
+    "T02-17": "f25ca7c1b042efcff2ed36d2257a12c01892ceb79c6f95e8c13246c987716c9f",
+    "T02-25": "8a14cfb33743bfe71e73b8e9fffc8771430ab3277b27494d3020b80c0cab68cb"
+  },
+  "configHashes": {
+    "T02-17": "69699b4094fa59b863c155dbf1da9f7131c9338dd409351e266a7443545a5d21",
+    "T02-25": "9955ad026f88e986a1f5e9f0e4a13c29397b43dce45ed0f5aa7e4bfc6dc69aa7"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "6d4cc32e4275a7d7d6f5cc7622d5b14b5eb66b19ea07edf78f235de190bcc19c",
+    "组合验证.blend": "40ea3ae952a1dbbb847c0950f1f78d8d379478eb1a518f5895ef7172fd54e680",
+    "组合预览.png": "eff01b8905b955ef39cae71c6f2d1744d8c9c90942f41dcebd1541669a79dce1"
+  }
+}

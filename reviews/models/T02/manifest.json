@@ -1,6 +1,6 @@
 {
   "theme": "T02",
-  "updatedAt": "2026-09-27T07:43:59.359607+00:00",
+  "updatedAt": "2026-09-27T09:14:25.031544+00:00",
   "scope": "Source image and actual imported GLB renders; publishing does not establish acceptance.",
   "items": [
     {
@@ -338,7 +338,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "awaiting_geometry_review"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T02-12/6ed4be9abd66/prepared/90c529570d64",
+        "modelSha256": "90c529570d64238e3e3c386e7d26b4688917f54f0d9a3939e302e9fd4ba2ed51",
+        "previewSha256": "97dc2442b1e9b0a2d1ffd0ebbfeac5a41fc93c4f50a4ba94bfe47f32af83b51f"
+      }
     },
     {
       "id": "T02-13",
@@ -546,7 +551,8 @@
           "reviewSha256": "18d9335fb09663aa332bd6ec407dafed669ad3ddb8e74e346582fff908a93c41"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T02-20",
@@ -690,7 +696,8 @@
           "reviewSha256": "0df62ccc0bce60be095153d3f5b58f6fcf301c3c73e788aee456a8f45cf25d36"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T02-25",
@@ -716,7 +723,8 @@
           "reviewSha256": "4d4a3962da20e3d47b119ebf91dd33681b0375ecc104e444dc2029a9f6898399"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T02-28",
@@ -743,7 +751,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "awaiting_geometry_review"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T02-28/dd707698fc97/prepared/3724a43ad198",
+        "modelSha256": "3724a43ad198275485eb3a53c5c7e9b5d7be77ce46bde530b2030513743d71d6",
+        "previewSha256": "5705eb0303d1e97dfa908646c4cda6c03a6b39206fb5db7a75997e32590f9769"
+      }
     },
     {
       "id": "T02-29",
@@ -769,7 +782,8 @@
           "reviewSha256": "ca2a99d78fc8bc4ff8f19420a7c44e7afed7410cf492eec0a7f834699ba25231"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T02-30",
@@ -795,7 +809,8 @@
           "reviewSha256": "f3bbe14e12a4ff6b7d4cdb41a86287e7b96f06ebb91889cd91fb1ef3efd4fb91"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T02-31",
@@ -821,7 +836,8 @@
           "reviewSha256": "456d7cf82e0cfc456996b20a880d5d55902e9e76e495d7cdc36cfb17e9482ff4"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     }
   ],
   "combinations": [
@@ -846,6 +862,11 @@
       "previewSha256": "84e250327c3f975dca2fd782b035ff6ff2ae1a9d207a83e9713274beb410c32c"
     },
     {
+      "path": "combinations/T02-12_T02-13_倾倒姿态/95d5b2764040",
+      "reportSha256": "95d5b27640405c828179db18fd785e2b5685c6c2ed99230703d68ff62613643a",
+      "previewSha256": "f4ba1cb1af6535153c309cde4a5bea537b0f9c6c113c7cf123bd0e57a27ffd8e"
+    },
+    {
       "path": "combinations/T02-13_液体/825373ffe994",
       "reportSha256": "825373ffe9941c8ba9200348180c48c3551b3ae844c1f1e5bf003990be5b9326",
       "previewSha256": "557f173983864ccb4d7755f0423d86d9c037e878faee0615c74e1c544b584cb4"
@@ -856,14 +877,44 @@
       "previewSha256": "1e243244897f6a58572262f58e5f7140a9be06414425c3bb199ce325efc8b044"
     },
     {
+      "path": "combinations/T02-17_T02-25_桌旗/2d57e921aaca",
+      "reportSha256": "2d57e921aaca7a95b2c1ed1309b630cb295a1f48c0a4befbda877457170100aa",
+      "previewSha256": "fb2ba733c9849499bca44543617872212df3981d21f88668aeebf0edfbfaef0f"
+    },
+    {
       "path": "combinations/T02-18_T02-09/f341347d94d9",
       "reportSha256": "f341347d94d913225763e5f839b8b26da735c5a5e5757f2262654bd1323c9608",
       "previewSha256": "790847506d736076f6869319fca91af7d184a480b91ed5133e9a3f2e175c905b"
     },
     {
+      "path": "combinations/T02-18_T02-19_盖件/6414ab7c8f2d",
+      "reportSha256": "6414ab7c8f2d01cc2f2b8c9ef3d0920834a98af99a4ef1eaef19ad6a13c8d9f3",
+      "previewSha256": "94a5ab25b0727625e4df451823343f14225d989d0012bbbbe431dc208c3d64b2"
+    },
+    {
       "path": "combinations/T02-21_T02-22_承托/cb81054a1c49",
       "reportSha256": "cb81054a1c49f4ea7414d36890f3e5601c8dedaab3317962fcaec9e1dad1c3c6",
       "previewSha256": "a09a2ff00c275a8f08e84af7b3da85c0a2b716d9ac3845f779e528004f1cbb5f"
+    },
+    {
+      "path": "combinations/T02-23_T02-24_盖件/d443936e54ee",
+      "reportSha256": "d443936e54ee0e1a18457983092c5679079d119f2dcc811d71a24160cc61b22b",
+      "previewSha256": "aa60753ce5a5dc68fa99728e1fea790bf328bd3bf2a8788eb75000d9f64d3e80"
+    },
+    {
+      "path": "combinations/T02-28_T02-29_水面放置/48757422f52e",
+      "reportSha256": "48757422f52e0f17fb9deca0438c704e01bfe5dcec33b2bd99bb643c9a2ea4d9",
+      "previewSha256": "da7c846d95f04f827ba757e42cbb94981fc11dc0668001695b9efbac37fb48a2"
+    },
+    {
+      "path": "combinations/T02-28_液体/ce4a275a89f4",
+      "reportSha256": "ce4a275a89f40e361a31fa5f997a21a3f9534bc1eef6b32042392746c4a00358",
+      "previewSha256": "51557e957d9ad25338d06f166d60a6b43b7f0ba1ab46fd26aaf7f8eacf1b8b23"
+    },
+    {
+      "path": "combinations/T02-31_T02-30_散瓣/3487538c86cd",
+      "reportSha256": "3487538c86cd561534fdfbd4edc1e942f17ee5db04325376b3b398dcf2025d3d",
+      "previewSha256": "7105947c47c3ac5ad39b219b3d7927071824c864e7500ef5fb9e5102e9626414"
     }
   ]
 }

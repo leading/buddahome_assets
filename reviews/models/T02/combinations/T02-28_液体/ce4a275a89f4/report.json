@@ -1,0 +1,47 @@
+{
+  "sourceSha256": "dd707698fc97bf81637f4f692fd40bb0b77379228a0899af2ef5849ac3b0be17",
+  "preparedSha256": "3724a43ad198275485eb3a53c5c7e9b5d7be77ce46bde530b2030513743d71d6",
+  "capacityMl": 18368.363312845453,
+  "defaultEmpty": true,
+  "vesselMaterial": "opaque_stone",
+  "glassClosedAfterGLBRoundTrip": null,
+  "configSha256": "7081ed19532bdd02dfbc318057f092f0b7882b2baa10f3709c2243f5433738c9",
+  "proxySha256": "b9d8ec6bf95b6026148661112372541e9bea7989972aaf2b8d736e761d181ce6",
+  "capacityCurveMonotonic": true,
+  "fillStates": [
+    {
+      "fillFraction": 0,
+      "volumeMl": 0.0,
+      "emptyWaterMeshAbsent": true
+    },
+    {
+      "fillFraction": 0.25,
+      "volumeMl": 4592.090828211363,
+      "emptyWaterMeshAbsent": false,
+      "heightMeters": 0.06408598090607706,
+      "actualClosedMeshVolumeMl": 4592.091242591562,
+      "volumeErrorMl": 0.0004143801988902851,
+      "shellIntersections": 0
+    },
+    {
+      "fillFraction": 0.6,
+      "volumeMl": 11021.017987707271,
+      "emptyWaterMeshAbsent": false,
+      "heightMeters": 0.10337911676817327,
+      "actualClosedMeshVolumeMl": 11021.017877693355,
+      "volumeErrorMl": 0.0001100139161280822,
+      "shellIntersections": 0
+    },
+    {
+      "fillFraction": 1,
+      "volumeMl": 18368.363312845453,
+      "emptyWaterMeshAbsent": false,
+      "heightMeters": 0.1485551,
+      "actualClosedMeshVolumeMl": 18368.363420272184,
+      "volumeErrorMl": 0.00010742673111963086,
+      "shellIntersections": 0
+    }
+  ],
+  "runtimeVerified": false,
+  "scope": "Blender glass, closed liquid geometry, capacity-height conversion and allowed transforms; no target App refraction/sorting, pour stream or mobile performance test."
+}

@@ -78,6 +78,10 @@
 
 ![T02-12](T02-12/6ed4be9abd66/comparison.jpg)
 
+适配版：
+
+![T02-12 prepared](T02-12/6ed4be9abd66/prepared/90c529570d64/preview.jpg)
+
 ## T02-13 空茶杯
 
 ![T02-13](T02-13/62c4699e515f/comparison.jpg)
@@ -158,6 +162,10 @@
 
 ![T02-28](T02-28/dd707698fc97/comparison.jpg)
 
+适配版：
+
+![T02-28 prepared](T02-28/dd707698fc97/prepared/3724a43ad198/preview.jpg)
+
 ## T02-29 水钵漂浮小白花
 
 ![T02-29](T02-29/3376732cab34/comparison.jpg)
@@ -196,6 +204,12 @@
 
 ## 组合验证预览
 
+![assembly](combinations/T02-12_T02-13_倾倒姿态/95d5b2764040/preview.jpg)
+
+[几何验证报告](combinations/T02-12_T02-13_倾倒姿态/95d5b2764040/report.json)
+
+## 组合验证预览
+
 ![assembly](combinations/T02-13_液体/825373ffe994/preview.jpg)
 
 [几何验证报告](combinations/T02-13_液体/825373ffe994/report.json)
@@ -208,12 +222,48 @@
 
 ## 组合验证预览
 
+![assembly](combinations/T02-17_T02-25_桌旗/2d57e921aaca/preview.jpg)
+
+[几何验证报告](combinations/T02-17_T02-25_桌旗/2d57e921aaca/report.json)
+
+## 组合验证预览
+
 ![assembly](combinations/T02-18_T02-09/f341347d94d9/preview.jpg)
 
 [几何验证报告](combinations/T02-18_T02-09/f341347d94d9/report.json)
 
 ## 组合验证预览
 
+![assembly](combinations/T02-18_T02-19_盖件/6414ab7c8f2d/preview.jpg)
+
+[几何验证报告](combinations/T02-18_T02-19_盖件/6414ab7c8f2d/report.json)
+
+## 组合验证预览
+
 ![assembly](combinations/T02-21_T02-22_承托/cb81054a1c49/preview.jpg)
 
 [几何验证报告](combinations/T02-21_T02-22_承托/cb81054a1c49/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T02-23_T02-24_盖件/d443936e54ee/preview.jpg)
+
+[几何验证报告](combinations/T02-23_T02-24_盖件/d443936e54ee/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T02-28_T02-29_水面放置/48757422f52e/preview.jpg)
+
+[几何验证报告](combinations/T02-28_T02-29_水面放置/48757422f52e/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T02-28_液体/ce4a275a89f4/preview.jpg)
+
+[几何验证报告](combinations/T02-28_液体/ce4a275a89f4/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T02-31_T02-30_散瓣/3487538c86cd/preview.jpg)
+
+[几何验证报告](combinations/T02-31_T02-30_散瓣/3487538c86cd/report.json)

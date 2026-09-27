@@ -1,0 +1,87 @@
+{
+  "pot": "T02-12",
+  "cup": "T02-13",
+  "capacityMl": 800.4628714817065,
+  "closedProxyVolumeMl": 800.4628899332911,
+  "proxySha256": "deb95ba8356777e48822366f9aa9a63caa6990dc466b6004be5aaa37c717b184",
+  "flowRateMlPerSecond": 45,
+  "flowRateIsAuthoredPreset": true,
+  "tiltDegrees": 55,
+  "outletAlignmentErrorMeters": 1.490116188773703e-08,
+  "restorePoseError": 0.0,
+  "potCupMeshIntersections": 0,
+  "gravityCenterlineSegmentsClear": 64,
+  "visibleInternalPotLiquidAbsent": true,
+  "sourceGeometryMaterialsPreserved": true,
+  "receiverAcceptsTea": true,
+  "transferLedger": [
+    {
+      "sourceBeforeMl": 0,
+      "targetBeforeMl": 0,
+      "seconds": 1,
+      "transferMl": 0,
+      "sourceAfterMl": 0,
+      "targetAfterMl": 0
+    },
+    {
+      "sourceBeforeMl": 800.4628714817065,
+      "targetBeforeMl": 95.11050936503669,
+      "seconds": 1,
+      "transferMl": 0,
+      "sourceAfterMl": 800.4628714817065,
+      "targetAfterMl": 95.11050936503669
+    },
+    {
+      "sourceBeforeMl": 800.4628714817065,
+      "targetBeforeMl": 0,
+      "seconds": 1,
+      "transferMl": 45,
+      "sourceAfterMl": 755.4628714817065,
+      "targetAfterMl": 45
+    },
+    {
+      "sourceBeforeMl": 800.4628714817065,
+      "targetBeforeMl": 0,
+      "seconds": 100,
+      "transferMl": 95.11050936503669,
+      "sourceAfterMl": 705.3523621166698,
+      "targetAfterMl": 95.11050936503669
+    },
+    {
+      "sourceBeforeMl": 0.75,
+      "targetBeforeMl": 0,
+      "seconds": 1,
+      "transferMl": 0.75,
+      "sourceAfterMl": 0.0,
+      "targetAfterMl": 0.75
+    },
+    {
+      "sourceBeforeMl": 800.4628714817065,
+      "targetBeforeMl": 94.61050936503669,
+      "seconds": 1,
+      "transferMl": 0.5,
+      "sourceAfterMl": 799.9628714817065,
+      "targetAfterMl": 95.11050936503669
+    }
+  ],
+  "scope": "Real asset anchors, static pour pose, capacity proxy and offline transfer-contract examples. No running App stream, particle, sound or device behavior is claimed.",
+  "sourceHashes": {
+    "T02-12": "6ed4be9abd66a481b984e70ff296d8cd2507e48df6efae473eb289e601d61e36",
+    "T02-13": "62c4699e515f79eb78cdeab8136f16ab8484fef9e01bdf6c144e44d5b4454194"
+  },
+  "modelHashes": {
+    "T02-12": "90c529570d64238e3e3c386e7d26b4688917f54f0d9a3939e302e9fd4ba2ed51",
+    "T02-13": "98faf6567d55966cd65e7312d2836bf1e8960350d2f8c798ba0473af3a038c97"
+  },
+  "configHashes": {
+    "T02-12": "ace4f8219ee369b7b1fb45f98ff82511d582f8261d8116e3a6ef4a5f87f6ae12",
+    "T02-13": "fc18e3cb1677e262179321b6a67c5ed4384df654f14a2c831fc9df733fa0baa0"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "fefa37ccb71d64aa646d0a97edfc3493b6345ce5af91af8c5ef94e59839d073d",
+    "组合验证.blend": "600820ea8a6e93448c4fdae1edf305b99dcdb0f8ff558bcf861c738c06e4e67e",
+    "组合预览.png": "378f4a13d7b57caf707fb7063517e08233b7a4f50cddf69638f9833b79579785"
+  }
+}

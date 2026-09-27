@@ -1,0 +1,50 @@
+{
+  "basin": "T02-28",
+  "flower": "T02-29",
+  "testedFlowerInstances": 3,
+  "sharedFlowerGeometry": true,
+  "hardcodedCountLimit": null,
+  "waterLevelCases": [
+    {
+      "fillFraction": 0.25,
+      "waterHeightMeters": 0.06408598090607706,
+      "threeAnchorsFollowSurface": true,
+      "vesselOrFlowerIntersections": 0
+    },
+    {
+      "fillFraction": 0.6,
+      "waterHeightMeters": 0.10337911676817327,
+      "threeAnchorsFollowSurface": true,
+      "vesselOrFlowerIntersections": 0
+    },
+    {
+      "fillFraction": 1,
+      "waterHeightMeters": 0.1485551,
+      "threeAnchorsFollowSurface": true,
+      "vesselOrFlowerIntersections": 0
+    }
+  ],
+  "waterShellIntersections": 0,
+  "surfaceBindingTransformError": 7.450580596923828e-09,
+  "originalFlowerMeshMaterialsPreserved": true,
+  "scope": "Authored 4mm water-contact anchor and manual/shared surface placement tested at actual volume-derived levels. No buoyancy, water displacement, wave-following or App behavior is claimed.",
+  "sourceHashes": {
+    "T02-28": "dd707698fc97bf81637f4f692fd40bb0b77379228a0899af2ef5849ac3b0be17",
+    "T02-29": "3376732cab349ebcd6e097e0632fe0236e859ed78728dc91e1d8fef6d841c20b"
+  },
+  "modelHashes": {
+    "T02-28": "3724a43ad198275485eb3a53c5c7e9b5d7be77ce46bde530b2030513743d71d6",
+    "T02-29": "3376732cab349ebcd6e097e0632fe0236e859ed78728dc91e1d8fef6d841c20b"
+  },
+  "configHashes": {
+    "T02-28": "7081ed19532bdd02dfbc318057f092f0b7882b2baa10f3709c2243f5433738c9",
+    "T02-29": "2dce0bb4cd8e1d967e017bdf74bf935018e955496901288a58e4f3571e908273"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "c38d62a03b0b97bf2aaaa22cb613650ace35bbf92e72a2083eb53f4afd6bf3b5",
+    "组合验证.blend": "146b70357042746acbed43f7bbf368f61eaf98d4beeb716f869f43822f37153b",
+    "组合预览.png": "c28aa04f5966ecb18a4a81988760c7d39a1ce19ed86676e9980d123e20999780"
+  }
+}

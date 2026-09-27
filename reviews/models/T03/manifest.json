@@ -1,6 +1,6 @@
 {
   "theme": "T03",
-  "updatedAt": "2026-09-27T18:16:00.678440+00:00",
+  "updatedAt": "2026-09-27T18:19:36.313931+00:00",
   "scope": "Source image and actual imported GLB renders; publishing does not establish acceptance.",
   "items": [
     {
@@ -28,7 +28,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "awaiting_geometry_review"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T03-01/ab023e36327c/prepared/923c969d009e",
+        "modelSha256": "923c969d009ed6ffcb61d7e7de73f95736f9e86ad72e5c77b9c39388042cc718",
+        "previewSha256": "8e3df2fdcdf3ca5ea8e283761924510d15512b0ba10ab79289f5aa7ba39f7df2"
+      }
     },
     {
       "id": "T03-02",
@@ -54,7 +59,8 @@
           "reviewSha256": "6629f6e4f66689d2dca0f6b8e1eef085147b37fa0a4c23061084843fec246f55"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T03-04",
@@ -81,7 +87,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "awaiting_geometry_review"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T03-04/c1d40ee932fd/prepared/031c37de3993",
+        "modelSha256": "031c37de39936f556f5310e3a335f86cc3e2fc9473ff48a97ae6028955b7af0c",
+        "previewSha256": "79d57a4e11fed77e9a680e6b84dc8a795f6ab89afae13452a3f1c72d67f39559"
+      }
     },
     {
       "id": "T03-05",
@@ -108,7 +119,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "awaiting_geometry_review"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T03-05/8b39b3edcd2c/prepared/89dd2d1f0b2f",
+        "modelSha256": "89dd2d1f0b2f512050c6363cbc63c0eef813d76a7edb184b2af221c3b4715610",
+        "previewSha256": "85dd8bba87ec1e15837277fac19a333b2d4c6e6f90131115ff597dbf51cebf32"
+      }
     },
     {
       "id": "T03-06",
@@ -135,7 +151,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "awaiting_geometry_review"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T03-06/33808c66709f/prepared/74e7af1a6d53",
+        "modelSha256": "74e7af1a6d5381842752025b70a027eaeb628df0c88545cb125173a0c0b6ebc3",
+        "previewSha256": "55305000db7f921493d83c406cf0989af71f10b31b76ac220d31dacf33096d50"
+      }
     },
     {
       "id": "T03-07",
@@ -162,7 +183,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "awaiting_geometry_review"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T03-07/0734d2be7122/prepared/96fddeb49a3a",
+        "modelSha256": "96fddeb49a3a498428c67129f2ad21f7dad955c21c56c17dc4397ab5450e9bae",
+        "previewSha256": "c49067f0500b59412e9220b3cba6c5a15b90cecc64110955919bdbe4e2471ef6"
+      }
     },
     {
       "id": "T03-08",
@@ -186,6 +212,65 @@
           "originalSha256": "27583b58016f3caf8f6c49738fa4f9f220be3d3dca063877a53beb4233a3b270",
           "reviewFile": "top.jpg",
           "reviewSha256": "0a87ede917049b6c863601b204f46093bdade72cfec554c3de2a143f8e3ba74e"
+        }
+      },
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T03-08/7e2ded944bf5/prepared/16e4cee3fd3f",
+        "modelSha256": "16e4cee3fd3f42ba82e185a5c914471645927e53a09b4be3767d114678d7d97e",
+        "previewSha256": "9953146ebb84076b8a8ca304f95420e668def3334b60b4ea5c51395a4591310a"
+      }
+    },
+    {
+      "id": "T03-09",
+      "name": "未点燃线香",
+      "capability": "可点燃_可插入",
+      "sourceSha256": "ecd173faf9be41b7435b58b6da203e058147a946079a5671607054b4445027b6",
+      "path": "T03-09/ecd173faf9be",
+      "comparisonSha256": "06dcc822fb595a7811e6615098ce3f4beeafa67e962f279235df1f140dc29f0f",
+      "images": {
+        "source": {
+          "originalSha256": "66074164bfe92ae230aea88ed7c62d369d9e1486f79e111cd14161807ddfca2c",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "eb6163fb8380a09a1db813bd73b22997f90704fcace0ed0ba62822a16186c1c5"
+        },
+        "perspective": {
+          "originalSha256": "31c350b36154f0afc1e38f01e6d2dac93b09c7ad5e0160a75af61a51aabca449",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "adb65456d263765a5f2ef71ead948fe296b9c31abc5ef2bc6eaba94e6597929e"
+        },
+        "top": {
+          "originalSha256": "6d58309912bbc70e9db557b68ec9351a595171e7078c0d6f1936af9e7bf690c6",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "cc9ce07b8f846902f8f513c72b9665b7dc4d22e27c19a4c5f121262899383187"
+        }
+      },
+      "visualReview": "pending",
+      "artifactState": "awaiting_geometry_review"
+    },
+    {
+      "id": "T03-12",
+      "name": "茶壶",
+      "capability": "可盛液体_可倒液体",
+      "sourceSha256": "50111090f6cf2de39515cc2c9d7cfb0908661d5430a6b0bfb60c35a65d492a5c",
+      "path": "T03-12/50111090f6cf",
+      "comparisonSha256": "0f6870f6c4b86163f61963b60d948f5356d92170ef42044c9c883c4da34e0e0a",
+      "images": {
+        "source": {
+          "originalSha256": "2d5ec6a1012602433ed40cb45572189179ec1ed51c44db7beaff648f66f16ee9",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "8c4da0b473ebe5b585d7b20b9a1a85e9a217e59196946a61404c044a8eed08e2"
+        },
+        "perspective": {
+          "originalSha256": "b4715ec637db597bdd689577f0081d44196469c69e3807de732db791c30fdc0d",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "0b96aae9dbd129dbfd11467529806c9cbd4d22e08020322861cd57b61e96f03d"
+        },
+        "top": {
+          "originalSha256": "7c47e5d2a01e1dbceb181bba184fe4d7f4a816597e5bc417f94c2081bd4d6471",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "e5abb7d80d2503a1a7c3d6135b04f5d912afaab77e843242511d9ec5b2df5c8c"
         }
       },
       "visualReview": "pending",

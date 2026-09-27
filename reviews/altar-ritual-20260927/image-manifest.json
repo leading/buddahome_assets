@@ -1,0 +1,57 @@
+[
+  {
+    "file": "00-overview.png",
+    "sha256": "d72da7b8cefc4c26d7110c4da7443459895c702beb6bbdee50fbf2f978c7c1fc",
+    "bytes": 137907
+  },
+  {
+    "file": "01-ignite.png",
+    "sha256": "0d65aa4df10ef85f769b43dac87ce138ba3ec8493564631175875448dd98fe05",
+    "bytes": 3189161
+  },
+  {
+    "file": "02-extinguish.png",
+    "sha256": "24f0b56d159ec8741590834ee93a3e8db6b7be672657266e926cbb8faf094bad",
+    "bytes": 3188746
+  },
+  {
+    "file": "03-clear-cup.png",
+    "sha256": "722ad2019924e93b8f562dbc59fc914907902d3f3ba14292145234022eb4966a",
+    "bytes": 3194101
+  },
+  {
+    "file": "04-empty-cup.png",
+    "sha256": "26d6cff8ec16c96b120ca3f05a25b31125cbb0858b68b195186d719eda93139c",
+    "bytes": 3245746
+  },
+  {
+    "file": "05-choose-cup.png",
+    "sha256": "699a8d9a00e06a22582f570b39cff7eb8e3ebdc018e25ed823cd46667c871031",
+    "bytes": 3274289
+  },
+  {
+    "file": "06-choose-after-orbit.png",
+    "sha256": "5975e9e745aff432700273d04107de432358a58e58774179d5fff43626cefff2",
+    "bytes": 3442944
+  },
+  {
+    "file": "07-pouring.png",
+    "sha256": "a3c527e001126d1b64b7074ee12c544943d0ec90aac5ab6e46da73bb5e9acb22",
+    "bytes": 3498661
+  },
+  {
+    "file": "08-editor-teapot.png",
+    "sha256": "155019abf34fbad811f57369057d5f292a39e6879efccf551a30f944327d70a1",
+    "bytes": 2453485
+  },
+  {
+    "file": "09-editor-incense.png",
+    "sha256": "340776bae1031dba5b7b2436076f6ada9797bba9157f038a98cbaf88d66d17f7",
+    "bytes": 2451023
+  },
+  {
+    "file": "10-german-mixed-incense.png",
+    "sha256": "ca263b2b30f44e8aee706ec8d78b95503aee729a9586edb755e8650a559fa9c7",
+    "bytes": 2899224
+  }
+]

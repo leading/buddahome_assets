@@ -1,0 +1,42 @@
+{
+  "device": "Isolated iPhone 17 Pro clone, complete native UI / WebView renderer",
+  "method": "Real DOM PointerEvents plus native control callbacks; not physical finger input",
+  "checks": [
+    "Native ignition/extinguish menus operate contained wick without saving layout",
+    "Clear cup persists immediately; empty cup has a state label and no edit history",
+    "Full cup gives inline reason and retains real-scene cup selection",
+    "Real pointer pour, camera observation, stop/return and autosave conserve transferred tea",
+    "Periodic native SQLite checkpoint persists tea during continuous use",
+    "Entering edit first settles tea; editor has no ritual actions and retains ash-fill setup",
+    "Mixed incense state offers remaining/all actions with live German translation",
+    "Repeated cup hints retain one renderer and stable geometry/texture counts"
+  ],
+  "integrity": {
+    "draft": null,
+    "layoutUnchanged": true,
+    "persistedMatches": true,
+    "savedMatches": true
+  },
+  "memory": {
+    "geometries": 38,
+    "textures": 27
+  },
+  "performance": {
+    "token": "1790510933314-48",
+    "drawCompletionP50": 1,
+    "drawCompletionP95": 2.000000000029104,
+    "memory": {
+      "geometries": 38,
+      "textures": 27
+    },
+    "glError": 0
+  },
+  "editing": {
+    "draft": false,
+    "forbidden": [],
+    "noBrowseTap": true,
+    "noRitual": true,
+    "saved": true,
+    "undo": false
+  }
+}

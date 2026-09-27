@@ -1,6 +1,6 @@
 {
   "theme": "T02",
-  "updatedAt": "2026-09-26T08:30:21.038959+00:00",
+  "updatedAt": "2026-09-27T07:06:03.547702+00:00",
   "scope": "Source image and actual imported GLB renders; publishing does not establish acceptance.",
   "items": [
     {
@@ -144,6 +144,292 @@
           "originalSha256": "3e4e97080cfce90f72070619ddb5127ec12b0749598e82cd4027f5034dd58f1e",
           "reviewFile": "top.jpg",
           "reviewSha256": "5cb3576c60cab430180e1773a158e5f7fbcb63eebc7988b824b4cfa1afac10e7"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T02-07",
+      "name": "未点燃蜡芯",
+      "capability": "可点燃",
+      "sourceSha256": "f9ea14e1f27705348ca9bdd3c370a984109b25420498a22e3a71497ae923fc53",
+      "path": "T02-07/f9ea14e1f277",
+      "comparisonSha256": "f031c46a89420ac9192d09229e120405b3172bd8293bb60caf7760110731e25c",
+      "images": {
+        "source": {
+          "originalSha256": "2c49cfcb8d2dcdf103f922d78de72cd6ac2a158accef9246a9f07c75087c763d",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "71075f353290cfe194ac5aad29a2eaedfce73c992baa88c54d38cac8e745235b"
+        },
+        "perspective": {
+          "originalSha256": "1a370d5eb543cd435f6c702ed010feb25ac4b50fbc904f8d344cc812748775d6",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "5f7cb5fe9ec398c2e940576f5db3c4fa11a61f72bd14387b5f2366beba8bef7e"
+        },
+        "top": {
+          "originalSha256": "af83bf723d45f97215322b658d1eafb0af0aea30db232e64d35e2052f8087d3a",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "b2c593b5d7c243f4dc4c7a3d4f6da91b71da63f837ed967bb34754cd5a706b9f"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T02-08",
+      "name": "空香炉",
+      "capability": "可容纳物件",
+      "sourceSha256": "ea4baf14b767c41fd7567d2e17067ced427e846dcbb6a809563fc9250d0d9977",
+      "path": "T02-08/ea4baf14b767",
+      "comparisonSha256": "c3ee0a3e0ab39ae6119a9c9be847260a2942f81f2e58600af387a8d54c382a70",
+      "images": {
+        "source": {
+          "originalSha256": "6f91054edae93ea0c49ff92719a4a2340a0164a66d45725f61300e33e0dc5eeb",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "cdf2e4d50dedc2fa097c7bfc8d456bc3de6c527dcf6acc965d7d62d7c3ff8632"
+        },
+        "perspective": {
+          "originalSha256": "7f62724ad072f0efaa2e1ffd2937fd6b39b1ca8a6539a0fde962c4481d3ecfe9",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "b0039a9d9f0d2f92d623711f865404f30b3fe773348c4ce86ddfb54f4cf20b27"
+        },
+        "top": {
+          "originalSha256": "2ac21b6eab32880bc5023a70d238450fb9385622ced706d4518d77de28fec14d",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "81d6120609c3d85844ad9a31658f3e1ac2d40cd0d662fb0de6ec9fc44a1565de"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T02-09",
+      "name": "未点燃线香",
+      "capability": "可点燃_可插入",
+      "sourceSha256": "305edf8d58539f1352ab164e7834a305394bb7b7a0aae5afa006f3d1dcf26b4a",
+      "path": "T02-09/305edf8d5853",
+      "comparisonSha256": "2275be1259e285d79a054c4e978cb9e786accf0fabed36c3f1fd0362240b228b",
+      "images": {
+        "source": {
+          "originalSha256": "2675d353fe517f822c73bb5285301844b22e393db7f8a206d1f47ea96625be17",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "d6d816e996ce159d4e4ed74af7e20af8fb73eca1bbba26c93f2c2bc1810e4f40"
+        },
+        "perspective": {
+          "originalSha256": "9a17d11cd9e5d7c76ac1355648cf058e07645acc519410e32961651c2b50f8ac",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "43950f66c982b350c2fe23a2766549cf6e2ffb6e0e874646a3ef2ff196d5d70b"
+        },
+        "top": {
+          "originalSha256": "2ef3c0f6c22418d99776d438344a032256c61a2802e534458269a23acf6c8e3b",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "be06e86ba6b2201b6587b7b879706b932d45369e67740b6cda6d8ceb517d8c75"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T02-10",
+      "name": "空供盘",
+      "capability": "可承托",
+      "sourceSha256": "2842eedc7b2d57b78c36349c3e9f60ca5fffeab7863decb70fc4141e0296e86f",
+      "path": "T02-10/2842eedc7b2d",
+      "comparisonSha256": "bf7b3210afb1f68ad95acb9a014cdaaea19c76a5127345969511014ad2c255fb",
+      "images": {
+        "source": {
+          "originalSha256": "7374b5762a9f677a79792b19a63cd8ebc7cd45c6b5542292070c8e993fbc2e24",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "fc335f810f5c0092d68f4fdf8001ea28a84dc9c4d05297a874a75c54513eb77a"
+        },
+        "perspective": {
+          "originalSha256": "f91e5ebb6ff8c5177792493166ef095b67a2607269dffb744b66fc9994a2cfe6",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "bc7d8140593d4bcc5eb058d2b52122945fcb86ec9a2a47387e2796f74e1bb295"
+        },
+        "top": {
+          "originalSha256": "073774190ac0b99dfd3d30286a0ca7abf9f2af6b01e4347e7fbeaf3f9ee32010",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "5c984a9a1b019269a25f9dcf29a308835283ad540e3f00bb24b9e0c8fcdd8ef2"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T02-12",
+      "name": "茶壶",
+      "capability": "可盛液体_可倒液体",
+      "sourceSha256": "6ed4be9abd66a481b984e70ff296d8cd2507e48df6efae473eb289e601d61e36",
+      "path": "T02-12/6ed4be9abd66",
+      "comparisonSha256": "f6108d12726723ae259eb3461a94085b18fb35374617757f0def38ea69513de3",
+      "images": {
+        "source": {
+          "originalSha256": "317050d167ca2c6051704ed6820f12c2e047d4ecd5274ee080420f2ed1701af2",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "976d53d756530c4951186ef0238968942fcd231187fa452cef94aa66fb748a67"
+        },
+        "perspective": {
+          "originalSha256": "33bc01d402e2100889b2989ba4636720d7252f425592bda6d28ff7708c4f5137",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "09455debc658f7ab432d0861db3d0b3aac996bd64ed09131d716d60ad0ed1b76"
+        },
+        "top": {
+          "originalSha256": "1a6174aa4b263d9900d0d4058f5c7bc17926c0dce6b544b8bad82f5e401c0cd7",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "06974ba203dcfdbc13042a2b5d5149347c8fc236af5f9998ac611e0d5b386e37"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T02-13",
+      "name": "空茶杯",
+      "capability": "可盛液体_可接液体",
+      "sourceSha256": "62c4699e515f79eb78cdeab8136f16ab8484fef9e01bdf6c144e44d5b4454194",
+      "path": "T02-13/62c4699e515f",
+      "comparisonSha256": "e4427694175d9a8d30b8da1ecc1deb34bce37e116f757be38c8d0db074c97932",
+      "images": {
+        "source": {
+          "originalSha256": "a9ca1ce3ccd8b7f07f08cb11cc5db67e183d76972f6a4c341e2b22dd0957225c",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "bd6d1c914dc95bdf202ae986d247c8220d8d2c5f90ff1b328dd0ece73c578539"
+        },
+        "perspective": {
+          "originalSha256": "4a4511d3382be1399e7cc91582ba20a4ca2744f6502652604e105df12f8b69c0",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "3b3366351603911d7405488aa570cfa098c6ee7febb5c54723025395391899dd"
+        },
+        "top": {
+          "originalSha256": "fb929a53b5e2a5f4b14fe205e9b988a58af57487becec70023c61e507cfd10d5",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "c27e89c2e3085d8a8e142c01d68967600d0aaaf896cd23b8b1b9218a875a9714"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T02-14",
+      "name": "茶托",
+      "capability": "可承托",
+      "sourceSha256": "c272be3c2837865150959825e8cf3323809849bd95e88ba436b51c8139d60742",
+      "path": "T02-14/c272be3c2837",
+      "comparisonSha256": "e0e21bcf9c2aff72927ccbf6d0f5062033211336b7a02313c88175751ee86f49",
+      "images": {
+        "source": {
+          "originalSha256": "9372c3444db1f2a118f76111f9b8a8b295035ca210b28bde37c0516b8c2c7d50",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "b9ac3eaed11e1acad14d592ca8438c7f9087976a342b591be08b4304c1b96339"
+        },
+        "perspective": {
+          "originalSha256": "629703aad459a02fde5cc6487f2bb7a284506acd3662a069037a66a12d6143a2",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "bd9a87cb2cc2997e6822a0d0e66a1556faded19f153bbf52c4428e928fe59007"
+        },
+        "top": {
+          "originalSha256": "47557787388c118d11078691b075fac334c1221050a4381e4a511a5d45995da1",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "04b5ce0cd7f2183a4ed70fc012b60bf28cddf0a5a33b4eedd9a45966ed0a1943"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T02-17",
+      "name": "前方独立供案",
+      "capability": "可承托",
+      "sourceSha256": "f2f729d139815e00b1922958df20e1d14f934477c208ad2f2f69f4a1559f28d4",
+      "path": "T02-17/f2f729d13981",
+      "comparisonSha256": "3315ece8a7030a54f54d9a9d3c2cd643dc46e3b3dd607f984833c81fd3adc19a",
+      "images": {
+        "source": {
+          "originalSha256": "c844c387d18b50e6f18424523d5dd38627bbc0e2f0a05e7e810b3211a5ee7bd2",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "8dcb091bd35f98a7ac7b3a932d0d8539ff7294869d6ffb42921a4ef4d2d48aa1"
+        },
+        "perspective": {
+          "originalSha256": "fcf433ea7cc2d17d7ac60af31c53ad35bef268f82a378340f3ba29ccf90787d8",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "85b5b7b783d7a9b230fae2c8f22c66636b6f34759285c26117fa2d76cf263d2e"
+        },
+        "top": {
+          "originalSha256": "f1cf37d48da11d1a4d21f5c279c98e1529ad1af2caec8c2b89143ec6187b18af",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "447990790634df607bd6ea52194d6c853929403954db6d0bad94426a2e0fd6c5"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T02-18",
+      "name": "后方古铜空盖炉",
+      "capability": "可容纳物件",
+      "sourceSha256": "0cfd9915c98bafb457e7863eab6db45a254d90f1c2c750b35ec7d1d3aa3820f0",
+      "path": "T02-18/0cfd9915c98b",
+      "comparisonSha256": "f42dd1b33c087250525bd16558805d39e609898911943496d65f9f618d9b3f77",
+      "images": {
+        "source": {
+          "originalSha256": "d0891971ee2d31f8a46585b1ab19741a46c63c8c9ab14821b9be023c7d0b2bbb",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "8158c8a9746feea50c33fdfd514ba5acfbb6a56cf502d9fe262010872be6fd90"
+        },
+        "perspective": {
+          "originalSha256": "7a8a1cd35c95020f4c2b57de0942330712d7cf4561a3420bda778c187d344065",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "33aed6308e42ee9339a82ecf96da1912c5e34fa9bb656b406fd725b3a2d906b2"
+        },
+        "top": {
+          "originalSha256": "b65c28aad629f30b6a334b0adc887cc838847a4e98677ae5e2be531f6b99ce2e",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "5f9547cfebe8f1cedb3b08e79db708b623f7c5b9d8a25d553ea1924995005e2c"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T02-21",
+      "name": "深色陶瓷空小供盘",
+      "capability": "可承托",
+      "sourceSha256": "6af4c07f8fe16ca6d8e5044b939b769157547ec8d163b621941bc9b8cea4ecfa",
+      "path": "T02-21/6af4c07f8fe1",
+      "comparisonSha256": "3f5fadc17586c79d7b82fb597822b5e8ee166437b2a9ff4ac2b0e72bdd93f1d4",
+      "images": {
+        "source": {
+          "originalSha256": "a1d5554dfa5db03eb5b7792c902ee74144ab217f5617e8f66b60e1b9e48bbc65",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "f0a06a78b8fe0b14f2aac72d36787fa9ffb8031031a2917c8cdd4abdd49317ec"
+        },
+        "perspective": {
+          "originalSha256": "40d49af6f4db6d280883081b5991f00c4174010dddb96c3937c3e6fd345f7642",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "2ffe368342f5eb230d706f91bfa6415f64cb485b63f968e147e9eefdf81a1188"
+        },
+        "top": {
+          "originalSha256": "751880257455843f36a16cecff3bae502e98bc155c332cdbbaf6737ac42bd51a",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "6726da728f698786b51cba6cf5f75db7321490956a2f5ae652c22bebc8048be7"
+        }
+      },
+      "visualReview": "pending"
+    },
+    {
+      "id": "T02-23",
+      "name": "小型古铜空盖罐",
+      "capability": "可容纳物件",
+      "sourceSha256": "0c307e5fa84face624aa482007a00e19f0d8aa03c2fb1202db3522329fe10a61",
+      "path": "T02-23/0c307e5fa84f",
+      "comparisonSha256": "6d26cd681ac83c9e3ce66a06b1aa7c3e51838ba3dedbb49c356c74c88f4c4e31",
+      "images": {
+        "source": {
+          "originalSha256": "cbfc489586fb06660d64404ccd5344f21324f783336c180a589aaec22071430b",
+          "reviewFile": "source.jpg",
+          "reviewSha256": "f0d11d0866610fef96d98ef41db27ced4f279d80a22b828d8f356384dfea3123"
+        },
+        "perspective": {
+          "originalSha256": "2d89e3047c2cd11b95533ddd10d99f30a2706630fafaf251a54a96adf8af407f",
+          "reviewFile": "perspective.jpg",
+          "reviewSha256": "81daab2697e2b955513c023110bb598977bc0f9d9dc41c8e89acf929bf2e14fb"
+        },
+        "top": {
+          "originalSha256": "a6fe29cfbce203916072a7ecc1b4c1d5846fe968adc92c1f116b91c536b42422",
+          "reviewFile": "top.jpg",
+          "reviewSha256": "7444a1040d5a0c703fc38c4ef9c73662699593f90bd3067648764fa98907e4a0"
         }
       },
       "visualReview": "pending"

@@ -34,6 +34,50 @@
 
 ![T02-06](T02-06/2de4ee14953a/comparison.jpg)
 
+## T02-07 未点燃蜡芯
+
+![T02-07](T02-07/f9ea14e1f277/comparison.jpg)
+
+## T02-08 空香炉
+
+![T02-08](T02-08/ea4baf14b767/comparison.jpg)
+
+## T02-09 未点燃线香
+
+![T02-09](T02-09/305edf8d5853/comparison.jpg)
+
+## T02-10 空供盘
+
+![T02-10](T02-10/2842eedc7b2d/comparison.jpg)
+
+## T02-12 茶壶
+
+![T02-12](T02-12/6ed4be9abd66/comparison.jpg)
+
+## T02-13 空茶杯
+
+![T02-13](T02-13/62c4699e515f/comparison.jpg)
+
+## T02-14 茶托
+
+![T02-14](T02-14/c272be3c2837/comparison.jpg)
+
+## T02-17 前方独立供案
+
+![T02-17](T02-17/f2f729d13981/comparison.jpg)
+
+## T02-18 后方古铜空盖炉
+
+![T02-18](T02-18/0cfd9915c98b/comparison.jpg)
+
+## T02-21 深色陶瓷空小供盘
+
+![T02-21](T02-21/6af4c07f8fe1/comparison.jpg)
+
+## T02-23 小型古铜空盖罐
+
+![T02-23](T02-23/0c307e5fa84f/comparison.jpg)
+
 ## 组合验证预览
 
 ![assembly](combinations/T02-01_T02-02_T02-04_T02-05/1dc947b7c908/preview.jpg)

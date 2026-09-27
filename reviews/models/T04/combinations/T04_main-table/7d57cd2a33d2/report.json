@@ -1,0 +1,90 @@
+{
+  "mode": "main-table",
+  "assetIds": [
+    "T04-01",
+    "T04-02",
+    "T04-04",
+    "T04-05"
+  ],
+  "contacts": [
+    {
+      "assetId": "T04-02",
+      "positionBlender": [
+        0.11999999731779099,
+        -0.20899662375450134,
+        0.437432199716568
+      ],
+      "scale": 0.65,
+      "actualContactSamples": 38507,
+      "nearestContactMeters": 0.0005000829696655273,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "assetId": "T04-04",
+      "positionBlender": [
+        -0.36000001430511475,
+        -0.20899662375450134,
+        0.437432199716568
+      ],
+      "scale": 0.6,
+      "actualContactSamples": 5465,
+      "nearestContactMeters": 0.0005000829696655273,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    }
+  ],
+  "collisionFreePairs": [
+    [
+      "T04-01",
+      "T04-02"
+    ],
+    [
+      "T04-01",
+      "T04-04"
+    ],
+    [
+      "T04-01",
+      "T04-05"
+    ],
+    [
+      "T04-02",
+      "T04-04"
+    ],
+    [
+      "T04-02",
+      "T04-05"
+    ],
+    [
+      "T04-04",
+      "T04-05"
+    ]
+  ],
+  "meshIntersectionPairs": 0,
+  "scope": "Actual upright contacts and free nested grouping on the measured source table geometry.",
+  "sourceHashes": {
+    "T04-01": "19b67a7f9a642ae3ca1b5f630e80e3464aaf2040f9b1537b87b1d33650fc2358",
+    "T04-02": "e5a90518bd26fc0279e7dffde29042cd71d0d45afa69acb801a8f46bc33c1281",
+    "T04-04": "c839361914d41c6241eb25e325ee7528ad7f5c7821e271a0bc01737e511e3872",
+    "T04-05": "731e712aff8a09bb008a26bdec2a186cce96774651dca9ee965b2c9628b73e26"
+  },
+  "modelHashes": {
+    "T04-01": "eac1093ffe07a8817ddfba9663cf859408fda7a2bff956f07a2e005cae718eb7",
+    "T04-02": "e5a90518bd26fc0279e7dffde29042cd71d0d45afa69acb801a8f46bc33c1281",
+    "T04-04": "9e0b0ae84639683d7394ecaa932ea21f30ec34792fc2287b60d6588f048c420a",
+    "T04-05": "9dac6f930bbec49edd415a93d18d788cbf25277029d73df28948e85e1d4af4de"
+  },
+  "configHashes": {
+    "T04-01": "481da12ca9933a316368f62e0837c78a550ff2d13e0b199b4cb4497433cb4f52",
+    "T04-02": "ba65c2afe68cded9a546e59e4344c382cafc5f255cace8417bba39d06d023816",
+    "T04-04": "41ae01eb5be64dd9ff5c4988400c03e88aa4c96706354523f06732e2c5d4cba6",
+    "T04-05": "53f4771982f9328f9ec51cc9da01c02369f03a550a333af25f3927bc735c8c0d"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "4ce4c789fcb92a49df4b718494deb9ccbaa56d87d23032867dc4f8bef9cff207",
+    "组合验证.blend": "102afa3c35ff527aab8eb8b2ee5314ae699087ee18f57b589eb83066b0dd6f01",
+    "组合预览.png": "48c8d64e87d192d5262c8b5b7eeee17880ffc45fc11ec30cc1441e15c04c2b30"
+  }
+}

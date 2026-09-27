@@ -6,6 +6,10 @@
 
 ![T04-01](T04-01/19b67a7f9a64/comparison.jpg)
 
+适配版：
+
+![T04-01 prepared](T04-01/19b67a7f9a64/prepared/eac1093ffe07/preview.jpg)
+
 ## T04-02 坐佛
 
 ![T04-02](T04-02/e5a90518bd26/comparison.jpg)
@@ -13,6 +17,10 @@
 ## T04-04 空花瓶
 
 ![T04-04](T04-04/c839361914d4/comparison.jpg)
+
+适配版：
+
+![T04-04 prepared](T04-04/c839361914d4/prepared/9e0b0ae84639/preview.jpg)
 
 ## T04-05 花枝花束
 
@@ -25,6 +33,10 @@
 ## T04-06 空烛台或灯盏
 
 ![T04-06](T04-06/a4909338eb7e/comparison.jpg)
+
+适配版：
+
+![T04-06 prepared](T04-06/a4909338eb7e/prepared/f834e540244a/preview.jpg)
 
 ## T04-07 未点燃灯芯
 
@@ -54,6 +66,10 @@
 
 ![T04-10](T04-10/5bb81bbbd1a7/comparison.jpg)
 
+适配版：
+
+![T04-10 prepared](T04-10/5bb81bbbd1a7/prepared/c5b7d9ad74e4/preview.jpg)
+
 ## T04-11 橙子
 
 ![T04-11](T04-11/8c508ba845d9/comparison.jpg)
@@ -62,9 +78,17 @@
 
 ![T04-12](T04-12/7b87e14aed1c/comparison.jpg)
 
+适配版：
+
+![T04-12 prepared](T04-12/7b87e14aed1c/prepared/42fca62bfab9/preview.jpg)
+
 ## T04-13 空茶杯
 
 ![T04-13](T04-13/4db90c15ffd9/comparison.jpg)
+
+适配版：
+
+![T04-13 prepared](T04-13/4db90c15ffd9/prepared/fc24769310f7/preview.jpg)
 
 ## T04-15 经书
 
@@ -78,21 +102,41 @@
 
 ![T04-17](T04-17/2a9272c3b859/comparison.jpg)
 
+适配版：
+
+![T04-17 prepared](T04-17/2a9272c3b859/prepared/d6f6613b59bb/preview.jpg)
+
 ## T04-18 右侧银色空花瓶
 
 ![T04-18](T04-18/6855721c4444/comparison.jpg)
+
+适配版：
+
+![T04-18 prepared](T04-18/6855721c4444/prepared/e68a3ec19a37/preview.jpg)
 
 ## T04-19 右侧彩色花束
 
 ![T04-19](T04-19/298d04df69dc/comparison.jpg)
 
+适配版：
+
+![T04-19 prepared](T04-19/298d04df69dc/prepared/71793863a4ea/preview.jpg)
+
 ## T04-20 中型金色空灯盏
 
 ![T04-20](T04-20/070be42dc457/comparison.jpg)
 
+适配版：
+
+![T04-20 prepared](T04-20/070be42dc457/prepared/470af6aad963/preview.jpg)
+
 ## T04-21 小型金色空供碗
 
 ![T04-21](T04-21/8282ecf090df/comparison.jpg)
+
+适配版：
+
+![T04-21 prepared](T04-21/8282ecf090df/prepared/991966b12ae2/preview.jpg)
 
 ## T04-22 中央古铜香炉盖
 
@@ -109,6 +153,10 @@
 ## T04-25 金色金属杯碟
 
 ![T04-25](T04-25/bbcd37133351/comparison.jpg)
+
+适配版：
+
+![T04-25 prepared](T04-25/bbcd37133351/prepared/14a3ef212baf/preview.jpg)
 
 ## T04-26 前方绣纹垂幔
 
@@ -141,3 +189,105 @@
 ## T04-35 右侧小供碗白色供粮
 
 ![T04-35](T04-35/b1731c711702/comparison.jpg)
+
+## 组合验证预览
+
+![assembly](combinations/T04-08_T04-09/83efd5df57b4/preview.jpg)
+
+[几何验证报告](combinations/T04-08_T04-09/83efd5df57b4/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04-08_T04-22_盖件/31bc3b8eae3a/preview.jpg)
+
+[几何验证报告](combinations/T04-08_T04-22_盖件/31bc3b8eae3a/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04-12_T04-13_倾倒姿态/f99d94252291/preview.jpg)
+
+[几何验证报告](combinations/T04-12_T04-13_倾倒姿态/f99d94252291/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04_apple/bc2559b10017/preview.jpg)
+
+[几何验证报告](combinations/T04_apple/bc2559b10017/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04_flower-left/352fd33ea12d/preview.jpg)
+
+[几何验证报告](combinations/T04_flower-left/352fd33ea12d/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04_flower-right/7bfc28bbc593/preview.jpg)
+
+[几何验证报告](combinations/T04_flower-right/7bfc28bbc593/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04_grain-left/a3787fee4ff4/preview.jpg)
+
+[几何验证报告](combinations/T04_grain-left/a3787fee4ff4/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04_grain-right/1b88f5626f03/preview.jpg)
+
+[几何验证报告](combinations/T04_grain-right/1b88f5626f03/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04_grapes/64848fb3be0e/preview.jpg)
+
+[几何验证报告](combinations/T04_grapes/64848fb3be0e/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04_main-table/7d57cd2a33d2/preview.jpg)
+
+[几何验证报告](combinations/T04_main-table/7d57cd2a33d2/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04_orange/1e6a7eb97190/preview.jpg)
+
+[几何验证报告](combinations/T04_orange/1e6a7eb97190/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04_rug-cushion/7e7941f74658/preview.jpg)
+
+[几何验证报告](combinations/T04_rug-cushion/7e7941f74658/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04_saucer/b02ef09b6e60/preview.jpg)
+
+[几何验证报告](combinations/T04_saucer/b02ef09b6e60/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04_tea-table/ddcad7fc1630/preview.jpg)
+
+[几何验证报告](combinations/T04_tea-table/ddcad7fc1630/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04_textiles/cdba5106f065/preview.jpg)
+
+[几何验证报告](combinations/T04_textiles/cdba5106f065/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04_wick-large/5664a41e03d9/preview.jpg)
+
+[几何验证报告](combinations/T04_wick-large/5664a41e03d9/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T04_wick-medium/ae9a3aaea2ad/preview.jpg)
+
+[几何验证报告](combinations/T04_wick-medium/ae9a3aaea2ad/report.json)

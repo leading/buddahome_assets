@@ -1,0 +1,172 @@
+{
+  "assetIds": [
+    "T04-01",
+    "T04-26",
+    "T04-27",
+    "T04-28",
+    "T04-29",
+    "T04-30"
+  ],
+  "drapePoses": [
+    {
+      "assetId": "T04-26",
+      "scale": 0.5,
+      "rotationQuaternionWXYZ": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "positionBlenderXYZ": [
+        0.2199999988079071,
+        -0.4357808232307434,
+        0.04918097332119942
+      ],
+      "authoredContactAnchorBlenderXYZ": [
+        0.5285051465034485,
+        0.20930635929107666,
+        0.13219347596168518
+      ],
+      "contactTargetBlenderXYZ": [
+        0.48425257205963135,
+        -0.3311276435852051,
+        0.11527770757675171
+      ],
+      "nearestContactMeters": 0.000490370555780828,
+      "lowestHemMeters": 0.04918097332119942,
+      "testedPoses": 78,
+      "contactMode": "rear_fabric_surface_against_real_cabinet_face",
+      "scope": "Static grouped valance; retain source U-shaped fold, no flattened-fabric or gravity-simulation claim",
+      "parentTransformError": 2.9802322387695312e-08,
+      "detachWorldError": 0.0
+    },
+    {
+      "assetId": "T04-27",
+      "scale": 0.75,
+      "rotationQuaternionWXYZ": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "positionBlenderXYZ": [
+        -0.4000000059604645,
+        -0.4758214056491852,
+        0.21342135965824127
+      ],
+      "authoredContactAnchorBlenderXYZ": [
+        0.2442663311958313,
+        0.16362029314041138,
+        0.24836435914039612
+      ],
+      "contactTargetBlenderXYZ": [
+        -0.2168002724647522,
+        -0.35310614109039307,
+        0.39969465136528015
+      ],
+      "nearestContactMeters": 0.0019970217254012823,
+      "lowestHemMeters": 0.21342135965824127,
+      "testedPoses": 77,
+      "contactMode": "rear_fabric_surface_against_real_cabinet_face",
+      "scope": "Static grouped valance; retain source U-shaped fold, no flattened-fabric or gravity-simulation claim",
+      "parentTransformError": 5.960464477539063e-08,
+      "detachWorldError": 0.0
+    }
+  ],
+  "collisionFreePairs": [
+    [
+      "T04-01",
+      "T04-26"
+    ],
+    [
+      "T04-01",
+      "T04-27"
+    ],
+    [
+      "T04-01",
+      "T04-28"
+    ],
+    [
+      "T04-01",
+      "T04-29"
+    ],
+    [
+      "T04-01",
+      "T04-30"
+    ],
+    [
+      "T04-26",
+      "T04-27"
+    ],
+    [
+      "T04-26",
+      "T04-28"
+    ],
+    [
+      "T04-26",
+      "T04-29"
+    ],
+    [
+      "T04-26",
+      "T04-30"
+    ],
+    [
+      "T04-27",
+      "T04-28"
+    ],
+    [
+      "T04-27",
+      "T04-29"
+    ],
+    [
+      "T04-27",
+      "T04-30"
+    ],
+    [
+      "T04-28",
+      "T04-29"
+    ],
+    [
+      "T04-28",
+      "T04-30"
+    ],
+    [
+      "T04-29",
+      "T04-30"
+    ]
+  ],
+  "meshIntersectionPairs": 0,
+  "sourceMeshesMaterialsPreserved": true,
+  "scope": "Static grouped fabric edge contact and independent hanging decorations aligned by authored transforms; no cloth dynamics, simulated suspension or modeled ceiling is claimed.",
+  "sourceHashes": {
+    "T04-01": "19b67a7f9a642ae3ca1b5f630e80e3464aaf2040f9b1537b87b1d33650fc2358",
+    "T04-26": "6526dea31de1e3c8e6e5970c8af1dad13eaa356b78edf8a3dcc025dcc830db6a",
+    "T04-27": "3d4b649cbac021d065e09dd6368a4c26983cb92077c72ec39d405310f6e456f9",
+    "T04-28": "11383595723dfe55269b3f278930c5bc95a22d72cb466bd4504a01e05670e688",
+    "T04-29": "ae85b54a16b38621c169fa36b573273f2415126e58f63318ad5f5a4436c45909",
+    "T04-30": "2ab19280e07b66af171687fee4c9e4887ef27bbe0a16118e7e380027f83ad1f5"
+  },
+  "modelHashes": {
+    "T04-01": "eac1093ffe07a8817ddfba9663cf859408fda7a2bff956f07a2e005cae718eb7",
+    "T04-26": "6526dea31de1e3c8e6e5970c8af1dad13eaa356b78edf8a3dcc025dcc830db6a",
+    "T04-27": "3d4b649cbac021d065e09dd6368a4c26983cb92077c72ec39d405310f6e456f9",
+    "T04-28": "11383595723dfe55269b3f278930c5bc95a22d72cb466bd4504a01e05670e688",
+    "T04-29": "ae85b54a16b38621c169fa36b573273f2415126e58f63318ad5f5a4436c45909",
+    "T04-30": "2ab19280e07b66af171687fee4c9e4887ef27bbe0a16118e7e380027f83ad1f5"
+  },
+  "configHashes": {
+    "T04-01": "481da12ca9933a316368f62e0837c78a550ff2d13e0b199b4cb4497433cb4f52",
+    "T04-26": "2955c0b2b5fb08c2d339f491ca34e88220369a93a01016ea287bbbf00f6999e2",
+    "T04-27": "c903aedea8010b2f34c7193363df75e8f309a77c71df5cff566d07c96d51bcc4",
+    "T04-28": "34bb3c308b26ab6d3d86c506c5a1386170d781098bd14ef551707aebdab9cd69",
+    "T04-29": "2a2698d00dd0dcab616c8ea98622e2d9564482b8228bff8345b7829c23a610b4",
+    "T04-30": "b4e37bd6224199fbe9fa435d1e7cbe0a088a9059f41a14bbecdbe58810a607c1"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "f1ff02a4724216b651078e2bf4a40aee5b2607ee4fecc7a3ded3f65a9a547fd7",
+    "组合验证.blend": "ed1b772b6d8229b7fcfa4cf36e1da9ba05eabf1cb6e010cc24fca7c9af37dc6f",
+    "组合预览.png": "fe49f87fe0f2f229612fb040af2c7aefe910e29d1a922582c0c70249a2de606c"
+  }
+}

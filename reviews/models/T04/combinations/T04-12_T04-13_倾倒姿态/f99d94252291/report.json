@@ -1,0 +1,87 @@
+{
+  "pot": "T04-12",
+  "cup": "T04-13",
+  "capacityMl": 1322.4073857946473,
+  "closedProxyVolumeMl": 1322.4074305939955,
+  "proxySha256": "14daa0377fcf831bc7a6a2cc6655c1b82cdba1a708693f9e1998d0e14834919d",
+  "flowRateMlPerSecond": 45,
+  "flowRateIsAuthoredPreset": true,
+  "tiltDegrees": 55,
+  "outletAlignmentErrorMeters": 5.587936631930639e-09,
+  "restorePoseError": 0.0,
+  "potCupMeshIntersections": 0,
+  "gravityCenterlineSegmentsClear": 64,
+  "visibleInternalPotLiquidAbsent": true,
+  "sourceGeometryMaterialsPreserved": true,
+  "receiverAcceptsTea": true,
+  "transferLedger": [
+    {
+      "sourceBeforeMl": 0,
+      "targetBeforeMl": 0,
+      "seconds": 1,
+      "transferMl": 0,
+      "sourceAfterMl": 0,
+      "targetAfterMl": 0
+    },
+    {
+      "sourceBeforeMl": 1322.4073857946473,
+      "targetBeforeMl": 65.74875720156673,
+      "seconds": 1,
+      "transferMl": 0,
+      "sourceAfterMl": 1322.4073857946473,
+      "targetAfterMl": 65.74875720156673
+    },
+    {
+      "sourceBeforeMl": 1322.4073857946473,
+      "targetBeforeMl": 0,
+      "seconds": 1,
+      "transferMl": 45,
+      "sourceAfterMl": 1277.4073857946473,
+      "targetAfterMl": 45
+    },
+    {
+      "sourceBeforeMl": 1322.4073857946473,
+      "targetBeforeMl": 0,
+      "seconds": 100,
+      "transferMl": 65.74875720156673,
+      "sourceAfterMl": 1256.6586285930805,
+      "targetAfterMl": 65.74875720156673
+    },
+    {
+      "sourceBeforeMl": 0.75,
+      "targetBeforeMl": 0,
+      "seconds": 1,
+      "transferMl": 0.75,
+      "sourceAfterMl": 0.0,
+      "targetAfterMl": 0.75
+    },
+    {
+      "sourceBeforeMl": 1322.4073857946473,
+      "targetBeforeMl": 65.24875720156673,
+      "seconds": 1,
+      "transferMl": 0.5,
+      "sourceAfterMl": 1321.9073857946473,
+      "targetAfterMl": 65.74875720156673
+    }
+  ],
+  "scope": "Real asset anchors, static pour pose, capacity proxy and offline transfer-contract examples. No running App stream, particle, sound or device behavior is claimed.",
+  "sourceHashes": {
+    "T04-12": "7b87e14aed1ca0fdfceaffac7a72097ae7c7cb808e1130ff283dd5116779175e",
+    "T04-13": "4db90c15ffd9b6733056dbb49660c0252fbdc2bf839e49cacec8e7f200971989"
+  },
+  "modelHashes": {
+    "T04-12": "42fca62bfab91ebacfee7bca43121e3512a9b79ec325d04e71bbab1b00cf123f",
+    "T04-13": "fc24769310f7b3d63578b65af76397f51d28fcbd397dd4944b35e69bebcdbc68"
+  },
+  "configHashes": {
+    "T04-12": "898c919412a4bc0c4007be9059fff6a75139123fbb6c3329e932edad0bbac521",
+    "T04-13": "e64bcd64965afaa07c515b160eab352a646d8c103f9fbcf8390a6a9f8deb2e19"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "cc49d865e7f48fb949a4323cecf41a827a35bf11c39e9a299df209ad55f1c73a",
+    "组合验证.blend": "8c6b172784a08df4fd89518d0ad2f1cd61c9c299bdc3ee8e46772c1e6dd10322",
+    "组合预览.png": "5eb6eb0ab19be9837f2d8ca1c7b55218dce588a5a18d23dc93bea34ed417f235"
+  }
+}

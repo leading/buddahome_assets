@@ -1,0 +1,130 @@
+{
+  "mode": "tea-table",
+  "assetIds": [
+    "T04-17",
+    "T04-12",
+    "T04-25",
+    "T04-15",
+    "T04-13"
+  ],
+  "contacts": [
+    {
+      "assetId": "T04-12",
+      "positionBlender": [
+        -0.10999999940395355,
+        0.0,
+        0.33311939239501953
+      ],
+      "scale": 0.65,
+      "actualContactSamples": 11748,
+      "nearestContactMeters": 0.0005000006058253348,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "assetId": "T04-25",
+      "positionBlender": [
+        0.11999999731779099,
+        0.05000000074505806,
+        0.33340945839881897
+      ],
+      "scale": 1,
+      "actualContactSamples": 2136,
+      "nearestContactMeters": 0.0005000304663553834,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "assetId": "T04-15",
+      "positionBlender": [
+        0.09000000357627869,
+        -0.10000000149011612,
+        0.33289387822151184
+      ],
+      "scale": 0.65,
+      "actualContactSamples": 1972,
+      "nearestContactMeters": 0.0004999112570658326,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "assetId": "T04-13",
+      "actualContactSamples": 3342,
+      "nearestContactMeters": 0.00048524493467994034,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    }
+  ],
+  "collisionFreePairs": [
+    [
+      "T04-17",
+      "T04-12"
+    ],
+    [
+      "T04-17",
+      "T04-25"
+    ],
+    [
+      "T04-17",
+      "T04-15"
+    ],
+    [
+      "T04-17",
+      "T04-13"
+    ],
+    [
+      "T04-12",
+      "T04-25"
+    ],
+    [
+      "T04-12",
+      "T04-15"
+    ],
+    [
+      "T04-12",
+      "T04-13"
+    ],
+    [
+      "T04-25",
+      "T04-15"
+    ],
+    [
+      "T04-25",
+      "T04-13"
+    ],
+    [
+      "T04-15",
+      "T04-13"
+    ]
+  ],
+  "meshIntersectionPairs": 0,
+  "scope": "Actual upright contacts and free nested grouping on the measured source table geometry.",
+  "sourceHashes": {
+    "T04-17": "2a9272c3b859860a91e1bd8ca8f00e21b8bc75b2701fd2a375e6589cad636a69",
+    "T04-12": "7b87e14aed1ca0fdfceaffac7a72097ae7c7cb808e1130ff283dd5116779175e",
+    "T04-25": "bbcd371333513911b361b185631bdba9c18614b1c517383857a9e375d4b67ccf",
+    "T04-15": "990f3a5bb36bc58cad2f727f85527b8b5a5b15b04bf755ec18ad154c87617961",
+    "T04-13": "4db90c15ffd9b6733056dbb49660c0252fbdc2bf839e49cacec8e7f200971989"
+  },
+  "modelHashes": {
+    "T04-17": "d6f6613b59bbce287c1677533f45dabb5c9a9549056c3edee346f19a96d0e2a1",
+    "T04-12": "42fca62bfab91ebacfee7bca43121e3512a9b79ec325d04e71bbab1b00cf123f",
+    "T04-25": "14a3ef212baf4284aa0a05ee543a6a72e2bcc99aa2bf53e0fbe991f2731c3429",
+    "T04-15": "990f3a5bb36bc58cad2f727f85527b8b5a5b15b04bf755ec18ad154c87617961",
+    "T04-13": "fc24769310f7b3d63578b65af76397f51d28fcbd397dd4944b35e69bebcdbc68"
+  },
+  "configHashes": {
+    "T04-17": "86cb17f9f095fdda99b90f160e3c263305f9f5180cae3984bffa2ea330aeab01",
+    "T04-12": "898c919412a4bc0c4007be9059fff6a75139123fbb6c3329e932edad0bbac521",
+    "T04-25": "75413183089bebb22c986d6e02269993942df14dd3543acc1fe4ef2f24bc6944",
+    "T04-15": "ff851c8e3019d7e656058d5ff2bf6e3d8a1dc23ce3a64a72cbb015cc5fadfd7f",
+    "T04-13": "e64bcd64965afaa07c515b160eab352a646d8c103f9fbcf8390a6a9f8deb2e19"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "f27adaadb38b0d8a69a70f0e725b24d57995296efdcb24e3457c7b286639f08b",
+    "组合验证.blend": "1821fa42843cb642c4c1ad9a8a9f7a5fd12b0a691382766e77340acaf71125eb",
+    "组合预览.png": "2b9afaf1c7e1bd36099c1b68b580afd17db176e1bc9c01c15331bfae87e600bc"
+  }
+}

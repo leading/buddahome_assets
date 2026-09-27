@@ -1,0 +1,36 @@
+{
+  "parent": "T04-10",
+  "child": "T04-23",
+  "mode": "apple",
+  "actualContactSamples": 2067,
+  "nearestContactMeters": 0.0004947544075548649,
+  "supportClearanceMeters": 0.0005,
+  "meshIntersectionPairs": 0,
+  "parentTransformError": 7.450580596923828e-09,
+  "detachWorldError": 0.0,
+  "relativePositionBlenderXYZ": [
+    0.0,
+    0.0,
+    0.08471468836069107
+  ],
+  "sourceGeometryMaterialsPreserved": true,
+  "sourceHashes": {
+    "T04-10": "5bb81bbbd1a7c3a279422f400f8cb497705b811258a227337395ce084e42a513",
+    "T04-23": "98eb56e337e0e3b97621c7b5addd09700c6974604d3e7c863faac313f9181882"
+  },
+  "modelHashes": {
+    "T04-10": "c5b7d9ad74e4be1d6133b07d7683d8a5ccc6da97639d576a7b29c9c2cc72e849",
+    "T04-23": "98eb56e337e0e3b97621c7b5addd09700c6974604d3e7c863faac313f9181882"
+  },
+  "configHashes": {
+    "T04-10": "574e24cf233bd63a3a13bac308501d191d5eb94271bbdfd43b6a1671d9a1ff7f",
+    "T04-23": "20c42da76e59ebe59ef2e55a43d14a8c7d511f80f69f967afeb25ae867ba2783"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "a183aa6b7c2912e96459cecf1681d51430c159cba186f7757168660e4b8500b5",
+    "组合验证.blend": "26d23df28365206d44fb414d6c44a1f4b665f28fc4031b5d14d4ff9f5b764ddc",
+    "组合预览.png": "91c295b005e42caa5654ce0b645ce7ea58f4662b0f7644f263f28c9c9e8f234b"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "theme": "T04",
-  "updatedAt": "2026-09-27T19:51:45.063636+00:00",
+  "updatedAt": "2026-09-27T20:19:38.927201+00:00",
   "scope": "Source image and actual imported GLB renders; publishing does not establish acceptance.",
   "items": [
     {
@@ -28,7 +28,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "awaiting_geometry_review"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T04-01/19b67a7f9a64/prepared/eac1093ffe07",
+        "modelSha256": "eac1093ffe07a8817ddfba9663cf859408fda7a2bff956f07a2e005cae718eb7",
+        "previewSha256": "1e1ed57e37514ae15ee90255f615d7a09cfdedcff8eaaed3828d93708608ee15"
+      }
     },
     {
       "id": "T04-02",
@@ -82,7 +87,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "failed"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T04-04/c839361914d4/prepared/9e0b0ae84639",
+        "modelSha256": "9e0b0ae84639683d7394ecaa932ea21f30ec34792fc2287b60d6588f048c420a",
+        "previewSha256": "4272fbf83d0908a6200adc6ff4b726cc11095c558ace3b450b04a413da5130ba"
+      }
     },
     {
       "id": "T04-05",
@@ -141,7 +151,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "awaiting_geometry_review"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T04-06/a4909338eb7e/prepared/f834e540244a",
+        "modelSha256": "f834e540244a755f599ac59f785ec9e0e986009e00a877ac13f7034d4fd02c49",
+        "previewSha256": "4df2d61c4198a4beba90da794c7dbf573144be9ca79b0eeda5dda507f49e68db"
+      }
     },
     {
       "id": "T04-07",
@@ -264,7 +279,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "ready_to_process"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T04-10/5bb81bbbd1a7/prepared/c5b7d9ad74e4",
+        "modelSha256": "c5b7d9ad74e4be1d6133b07d7683d8a5ccc6da97639d576a7b29c9c2cc72e849",
+        "previewSha256": "50b1f27a7bf5e0c00431899f5b18a70e1241a67991622c25fa8d203c260b1279"
+      }
     },
     {
       "id": "T04-11",
@@ -318,7 +338,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "awaiting_geometry_review"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T04-12/7b87e14aed1c/prepared/42fca62bfab9",
+        "modelSha256": "42fca62bfab91ebacfee7bca43121e3512a9b79ec325d04e71bbab1b00cf123f",
+        "previewSha256": "bf0bb9611f52d80eb3992653443de3e3fea6a6b375f5e7753f2fe0653a8d4ad7"
+      }
     },
     {
       "id": "T04-13",
@@ -345,7 +370,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "ready_to_process"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T04-13/4db90c15ffd9/prepared/fc24769310f7",
+        "modelSha256": "fc24769310f7b3d63578b65af76397f51d28fcbd397dd4944b35e69bebcdbc68",
+        "previewSha256": "b5915458d40c3a5d02f7f0ec1d7b7c160cb4231bf39b0658cfcb824841ea559a"
+      }
     },
     {
       "id": "T04-15",
@@ -426,7 +456,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "ready_to_process"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T04-17/2a9272c3b859/prepared/d6f6613b59bb",
+        "modelSha256": "d6f6613b59bbce287c1677533f45dabb5c9a9549056c3edee346f19a96d0e2a1",
+        "previewSha256": "c1268763a5e1d036a26bab933ff5f67ee74a7e3e55114ed16e3135c9c39e4b67"
+      }
     },
     {
       "id": "T04-18",
@@ -453,7 +488,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "ready_to_process"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T04-18/6855721c4444/prepared/e68a3ec19a37",
+        "modelSha256": "e68a3ec19a37be57e6ce5bdf7a2ac7d06dc9ff93cbcae2be61328bd90bf5be2f",
+        "previewSha256": "9904eeb77994b3ddec27234c96128b6720fb656d1f03ac58829c99f638b21ab7"
+      }
     },
     {
       "id": "T04-19",
@@ -480,7 +520,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "ready_to_process"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T04-19/298d04df69dc/prepared/71793863a4ea",
+        "modelSha256": "71793863a4eaf7a43e9455628a29fd80b2b7f32fffc75fcb89732372c4da819e",
+        "previewSha256": "b1145b44011306914eaf0474f2f188fa059c9741c583d02fd903912f98bc4e59"
+      }
     },
     {
       "id": "T04-20",
@@ -507,7 +552,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "ready_to_process"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T04-20/070be42dc457/prepared/470af6aad963",
+        "modelSha256": "470af6aad963f045c5b1eef67121711c5a6d78484819dadfa7f37429d553654c",
+        "previewSha256": "21f916e75ef8e5c295a87dfc35faa502cac7dc28f74d7e359f490a70f62d6b73"
+      }
     },
     {
       "id": "T04-21",
@@ -534,7 +584,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "ready_to_process"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T04-21/8282ecf090df/prepared/991966b12ae2",
+        "modelSha256": "991966b12ae2030487452f1bb1fc6a35eff81140963cb3cd5e115bc8ac21ed8d",
+        "previewSha256": "a0319d63e115f7d166390c6844a927375b478eb5c333975d9f94436fb7645669"
+      }
     },
     {
       "id": "T04-22",
@@ -642,7 +697,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "ready_to_process"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T04-25/bbcd37133351/prepared/14a3ef212baf",
+        "modelSha256": "14a3ef212baf4284aa0a05ee543a6a72e2bcc99aa2bf53e0fbe991f2731c3429",
+        "previewSha256": "d051b742ba05e5e44814304d21e116b06ff553f4eb265ebca0908992b30194b6"
+      }
     },
     {
       "id": "T04-26",
@@ -861,5 +921,91 @@
       "artifactState": "static_prepared_pending_visual_review"
     }
   ],
-  "combinations": []
+  "combinations": [
+    {
+      "path": "combinations/T04-08_T04-09/83efd5df57b4",
+      "reportSha256": "83efd5df57b430657582f31223083ac00619df7faf8dc6bcaf74eba93d3d9842",
+      "previewSha256": "19c3a42cc30e6b8ad85bbf55f8d2d727eb1de7f7a0dafec64e6afedd30f4f0ad"
+    },
+    {
+      "path": "combinations/T04-08_T04-22_盖件/31bc3b8eae3a",
+      "reportSha256": "31bc3b8eae3aa1578656fbd8e9266bee052b9136fa8b0157200aafe7095f98f2",
+      "previewSha256": "f5fd1c7ecc3e665c720508d9feb38fdb275e28106c02bc64add208d36e93080c"
+    },
+    {
+      "path": "combinations/T04-12_T04-13_倾倒姿态/f99d94252291",
+      "reportSha256": "f99d942522914e859a6e661d7d9714c4c3995bc37ebd626271b026f7cf295410",
+      "previewSha256": "c9a7ca53f0d3fcef4b8c529f968cb719b81edbc09ff51c71fd7eaf7ed1004383"
+    },
+    {
+      "path": "combinations/T04_apple/bc2559b10017",
+      "reportSha256": "bc2559b100170851667a693998201f727f9125fe8d7b0e014e8e402a8bafb811",
+      "previewSha256": "56fa6d82ba22c9dc16a1d91e30fee1f74758c5119ec3e7eff2a2ad97bc83325c"
+    },
+    {
+      "path": "combinations/T04_flower-left/352fd33ea12d",
+      "reportSha256": "352fd33ea12d7b72dcb661d5faec26bcddb07952d7144cefb03ac99d9735867b",
+      "previewSha256": "e792699b66e4c66fe1d67a80314ddeb282886064be819a85daddb83867f35a1f"
+    },
+    {
+      "path": "combinations/T04_flower-right/7bfc28bbc593",
+      "reportSha256": "7bfc28bbc593e98bcade2fc824d72dffda3c67d399f7ce8c082426c39ca09e74",
+      "previewSha256": "29323db93e709c4e8cf179649b65cab3ed916fb3d05083c58e71ddf18e2d7efe"
+    },
+    {
+      "path": "combinations/T04_grain-left/a3787fee4ff4",
+      "reportSha256": "a3787fee4ff45ddae61e9ba02740e15ea1ff35b5fcc4fdb4f05d1c2e5d69701e",
+      "previewSha256": "c7f3366eebd3f5152aaf61e7c218e44bfc7865b9abc3283ea461090dbe429b6d"
+    },
+    {
+      "path": "combinations/T04_grain-right/1b88f5626f03",
+      "reportSha256": "1b88f5626f0381971468b109c97ba1d07dbce6b9a2a5d666a4f31206b1d1de3f",
+      "previewSha256": "c8a1961f3c7d67d2d2dc61404ba077691b66195a4c4daf5f52b5364f46aa738b"
+    },
+    {
+      "path": "combinations/T04_grapes/64848fb3be0e",
+      "reportSha256": "64848fb3be0ead615ccc2e23d44ccaef0f7752ecce8096ea916920b7921d6323",
+      "previewSha256": "82b045596949c013fc45967555c8b99c1d9df53571fbc957d596f0d0bfeb2503"
+    },
+    {
+      "path": "combinations/T04_main-table/7d57cd2a33d2",
+      "reportSha256": "7d57cd2a33d268bf2dfe160ae6a20c5b76685be44c5ee486d263abef28086f05",
+      "previewSha256": "a9d59a162288a6c3ad30bd7a5a26aab8cc85be5d09e98b03226d900b8eec9408"
+    },
+    {
+      "path": "combinations/T04_orange/1e6a7eb97190",
+      "reportSha256": "1e6a7eb97190860c0d4ac528d1421a7f2de10b366fa9379b705b652529707949",
+      "previewSha256": "4d57e76e3ed220b05a913f5cee532ea446184568f513bef09863eb553109dcce"
+    },
+    {
+      "path": "combinations/T04_rug-cushion/7e7941f74658",
+      "reportSha256": "7e7941f7465856a91b77ea20b1d484c24f3d3fe86837cea9bd3df860b0247021",
+      "previewSha256": "556a13554d1b4b71a5c2d23784725129140c4ee55a5dc3b3d9c80b4d8abf055a"
+    },
+    {
+      "path": "combinations/T04_saucer/b02ef09b6e60",
+      "reportSha256": "b02ef09b6e608b55cf47739039e4cdca705237ac176cb37e52df64a5a92b3fee",
+      "previewSha256": "a1c7c0056a653e1d083c4f460913a1c2c8dd567ef1abb8f764ae107c1ceb2273"
+    },
+    {
+      "path": "combinations/T04_tea-table/ddcad7fc1630",
+      "reportSha256": "ddcad7fc163057a8dfa6b78a9ec0fbb7e79085ac658f1e67df6506b3beeb0380",
+      "previewSha256": "c531ce30854fbbc2028e9e13675adf57f004d65115a6cbd2afacfc7b55ebe0ca"
+    },
+    {
+      "path": "combinations/T04_textiles/cdba5106f065",
+      "reportSha256": "cdba5106f065a29539add89aa96db6e27b58973f48d0e47f66efffdbd00e0bd5",
+      "previewSha256": "ecee58ef857584064f3126f4465903faf2b3636d255c67b1c658df5a23cbf130"
+    },
+    {
+      "path": "combinations/T04_wick-large/5664a41e03d9",
+      "reportSha256": "5664a41e03d981ecc59fbe51affed9e0ea5f8eeed578547d7a8be0e4123f52e8",
+      "previewSha256": "25e5ee08fbc91c99a86b82eb8ed7bbe8eda556c113892dcfb36fd9fc4c31ee3a"
+    },
+    {
+      "path": "combinations/T04_wick-medium/ae9a3aaea2ad",
+      "reportSha256": "ae9a3aaea2ad1e30f4c57c29e6a1d9d7ed4f3a17c719f4c2e45070b6f97352ff",
+      "previewSha256": "e2692da9f331377dd6022f2d431ebe926651a4689704f54cceef8d1d1ff21e83"
+    }
+  ]
 }

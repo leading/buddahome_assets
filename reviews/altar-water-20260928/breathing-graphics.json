@@ -1,0 +1,70 @@
+{
+  "frames": 180,
+  "fps": 15,
+  "durationSeconds": 12,
+  "difference": {
+    "changedPixels": 5490,
+    "meanMaximumChannelDelta": 0.12197916666666667,
+    "maximum": 4
+  },
+  "geometryUploads": 0,
+  "shaderProgramCountStable": true,
+  "before": {
+    "positionVersion": 2,
+    "normalVersion": 2,
+    "programs": 3,
+    "phase": 0.619728238305799,
+    "strength": 0.003,
+    "type": "water",
+    "fraction": 0.8,
+    "surfaceVisible": true,
+    "bodyVisible": false,
+    "glassAbsorption": false,
+    "waterAttenuation": "ffffff",
+    "drawCalls": 3,
+    "triangles": 7236,
+    "memory": {
+      "geometries": 2,
+      "textures": 2
+    },
+    "shaderErrors": 0,
+    "glError": 0,
+    "camera": [
+      0.3576226968682215,
+      0.630189618912451,
+      0.7450472851421281
+    ],
+    "target": [
+      0,
+      0.07885462790727615,
+      0
+    ]
+  },
+  "after": {
+    "type": "water",
+    "fraction": 0.8,
+    "surfaceVisible": true,
+    "bodyVisible": false,
+    "glassAbsorption": false,
+    "waterAttenuation": "ffffff",
+    "drawCalls": 3,
+    "triangles": 7236,
+    "memory": {
+      "geometries": 2,
+      "textures": 2
+    },
+    "shaderErrors": 0,
+    "glError": 0,
+    "camera": [
+      0.3576226968682215,
+      0.630189618912451,
+      0.7450472851421281
+    ],
+    "target": [
+      0,
+      0.07885462790727615,
+      0
+    ]
+  },
+  "errors": []
+}

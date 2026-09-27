@@ -4,7 +4,8 @@
     "Tilted container is not refilled",
     "Pour type conserved; water and tea never silently mix",
     "Homepage merge saves liquid only; layout and camera remain intact",
-    "Actual editor component: table/group hidden; selected container alone cleared in one edit"
+    "Actual editor component: table/group hidden; selected container alone cleared in one edit",
+    "Actual homepage overlay: tea receivers hide Add water; water basin retains it; cup fill API is also blocked"
   ],
   "fixtureUnchanged": true
 }

@@ -1,0 +1,215 @@
+{
+  "frames": 210,
+  "fps": 15,
+  "durationSeconds": 14,
+  "heatUntilSeconds": 4,
+  "peakParticles": 31,
+  "sharedHalfResolutionPass": true,
+  "states": [
+    {
+      "time": 0,
+      "particles": 0,
+      "particleCapacity": 96,
+      "type": "tea",
+      "fraction": 0.65,
+      "surfaceVisible": true,
+      "bodyVisible": true,
+      "glassAbsorption": false,
+      "waterAttenuation": "c58b3c",
+      "drawCalls": 4,
+      "triangles": 6324,
+      "memory": {
+        "geometries": 5,
+        "textures": 3
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.16337071802257402,
+        0.23534292981790783,
+        0.3403556625470292
+      ],
+      "target": [
+        0,
+        0.023980215191841125,
+        0
+      ]
+    },
+    {
+      "time": 2,
+      "particles": 27,
+      "particleCapacity": 96,
+      "type": "tea",
+      "fraction": 0.65,
+      "surfaceVisible": true,
+      "bodyVisible": true,
+      "glassAbsorption": false,
+      "waterAttenuation": "c58b3c",
+      "drawCalls": 8,
+      "triangles": 9350,
+      "memory": {
+        "geometries": 9,
+        "textures": 5
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.16337071802257402,
+        0.23534292981790783,
+        0.3403556625470292
+      ],
+      "target": [
+        0,
+        0.023980215191841125,
+        0
+      ]
+    },
+    {
+      "time": 4,
+      "particles": 30,
+      "particleCapacity": 96,
+      "type": "tea",
+      "fraction": 0.65,
+      "surfaceVisible": true,
+      "bodyVisible": true,
+      "glassAbsorption": false,
+      "waterAttenuation": "c58b3c",
+      "drawCalls": 8,
+      "triangles": 9356,
+      "memory": {
+        "geometries": 9,
+        "textures": 5
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.16337071802257402,
+        0.23534292981790783,
+        0.3403556625470292
+      ],
+      "target": [
+        0,
+        0.023980215191841125,
+        0
+      ]
+    },
+    {
+      "time": 6,
+      "particles": 24,
+      "particleCapacity": 96,
+      "type": "tea",
+      "fraction": 0.65,
+      "surfaceVisible": true,
+      "bodyVisible": true,
+      "glassAbsorption": false,
+      "waterAttenuation": "c58b3c",
+      "drawCalls": 8,
+      "triangles": 9344,
+      "memory": {
+        "geometries": 9,
+        "textures": 5
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.16337071802257402,
+        0.23534292981790783,
+        0.3403556625470292
+      ],
+      "target": [
+        0,
+        0.023980215191841125,
+        0
+      ]
+    },
+    {
+      "time": 8,
+      "particles": 14,
+      "particleCapacity": 96,
+      "type": "tea",
+      "fraction": 0.65,
+      "surfaceVisible": true,
+      "bodyVisible": true,
+      "glassAbsorption": false,
+      "waterAttenuation": "c58b3c",
+      "drawCalls": 8,
+      "triangles": 9324,
+      "memory": {
+        "geometries": 9,
+        "textures": 5
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.16337071802257402,
+        0.23534292981790783,
+        0.3403556625470292
+      ],
+      "target": [
+        0,
+        0.023980215191841125,
+        0
+      ]
+    },
+    {
+      "time": 10,
+      "particles": 4,
+      "particleCapacity": 96,
+      "type": "tea",
+      "fraction": 0.65,
+      "surfaceVisible": true,
+      "bodyVisible": true,
+      "glassAbsorption": false,
+      "waterAttenuation": "c58b3c",
+      "drawCalls": 8,
+      "triangles": 9304,
+      "memory": {
+        "geometries": 9,
+        "textures": 5
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.16337071802257402,
+        0.23534292981790783,
+        0.3403556625470292
+      ],
+      "target": [
+        0,
+        0.023980215191841125,
+        0
+      ]
+    },
+    {
+      "time": 12,
+      "particles": 0,
+      "particleCapacity": 96,
+      "type": "tea",
+      "fraction": 0.65,
+      "surfaceVisible": true,
+      "bodyVisible": true,
+      "glassAbsorption": false,
+      "waterAttenuation": "c58b3c",
+      "drawCalls": 4,
+      "triangles": 6324,
+      "memory": {
+        "geometries": 9,
+        "textures": 5
+      },
+      "shaderErrors": 0,
+      "glError": 0,
+      "camera": [
+        0.16337071802257402,
+        0.23534292981790783,
+        0.3403556625470292
+      ],
+      "target": [
+        0,
+        0.023980215191841125,
+        0
+      ]
+    }
+  ],
+  "errors": [],
+  "scope": "Cup steam visual reference using production TeaSteam/SmokeBatch/SmokePass. The teapot pose is covered separately by regression checks."
+}

@@ -1,0 +1,14 @@
+{
+  "particleLimit": 96,
+  "peakParticles": 31,
+  "maxHotCups": 4,
+  "checks": [
+    "Tea only, not clear water",
+    "Steam originates at the scaled liquid surface",
+    "Fixed buffers and bounded particle pool",
+    "Brief residual steam; background time expires it",
+    "Clear/delete removes steam and releases owner references",
+    "Shared noise texture and existing smoke render group",
+    "No idle buffer uploads or scene writes"
+  ]
+}

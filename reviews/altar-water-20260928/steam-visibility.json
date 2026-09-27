@@ -1,0 +1,29 @@
+{
+  "visibleChangedPixels": 7437,
+  "meanDelta": 0.10695601851851852,
+  "maxDelta": 37,
+  "type": "tea",
+  "fraction": 0.65,
+  "surfaceVisible": true,
+  "bodyVisible": true,
+  "glassAbsorption": false,
+  "waterAttenuation": "c58b3c",
+  "drawCalls": 8,
+  "triangles": 9350,
+  "memory": {
+    "geometries": 9,
+    "textures": 5
+  },
+  "shaderErrors": 0,
+  "glError": 0,
+  "camera": [
+    0.16337071802257402,
+    0.23534292981790783,
+    0.3403556625470292
+  ],
+  "target": [
+    0,
+    0.023980215191841125,
+    0
+  ]
+}

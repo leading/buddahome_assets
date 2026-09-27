@@ -1,0 +1,12 @@
+{
+  "idleFrames": 900,
+  "geometryUploadsDuringIdle": 0,
+  "meanCpuEffectsUpdateMs": 0.012469358888888912,
+  "checks": [
+    "Only uniforms change while water breathes",
+    "Hidden, offscreen, tiny and empty surfaces do not keep rendering alive",
+    "Slow water uses 15fps, other effects and camera transitions 30fps",
+    "Touch invalidation bypasses cadence, pause cancels RAF",
+    "Whole-cycle clock wrap and source data unchanged"
+  ]
+}

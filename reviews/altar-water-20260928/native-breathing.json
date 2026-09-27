@@ -1,0 +1,10 @@
+{
+  "available": true,
+  "calmVisible": 2,
+  "frameIntervalMs": 66.66666666666667,
+  "idleWaterOnly": true,
+  "phaseAdvances": true,
+  "sceneSavedDraftUnchanged": true,
+  "shaderErrors": 0,
+  "steadyGeometry": true
+}

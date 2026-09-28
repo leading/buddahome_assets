@@ -1,6 +1,6 @@
 {
   "theme": "T06",
-  "updatedAt": "2026-09-28T12:51:18.273511+00:00",
+  "updatedAt": "2026-09-28T13:06:17.888616+00:00",
   "scope": "Source image and actual imported GLB renders; publishing does not establish acceptance.",
   "items": [
     {
@@ -27,7 +27,13 @@
           "reviewSha256": "ec56c28a48751323c0dc8813c2b1f76d444c56d786622713f67dca88ceef812a"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-01/0084de70cab6/prepared/aeb3a7bde9ec",
+        "modelSha256": "aeb3a7bde9ecb53f95a81a03ff17f37c877af06ed13481854c4e468aef76fc55",
+        "previewSha256": "da7f2a21cb6524154990ef4a0ddadbb3c02a5f8c455869db5a2f321cd38021cc"
+      }
     },
     {
       "id": "T06-02",
@@ -53,7 +59,8 @@
           "reviewSha256": "64155a855bf9b5205e69d8cf31ffd0a7c33ab25b81ef5d2cb179091c54d73411"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T06-04",
@@ -79,7 +86,13 @@
           "reviewSha256": "91700abda3aaa79354de730c0a46464776a34ec1dfe49eda35567cd2c1ff9b68"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-04/1343ff8afb1e/prepared/346dfb835c6d",
+        "modelSha256": "346dfb835c6dbe61aec9f5e5340c90e875f9040dc9108ab4f5afe32d036dce8d",
+        "previewSha256": "8f6752496808ac1bbc711a6e1b5d0e9c1b90e2bd555622d957ec96714c81fc50"
+      }
     },
     {
       "id": "T06-05",
@@ -105,7 +118,13 @@
           "reviewSha256": "b66a6fe4a284e262797066b103125f270a5a3520bf3c5485d535eeddc3ba8404"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-05/41968ae5dd07/prepared/b1f7d79d2bc3",
+        "modelSha256": "b1f7d79d2bc38653505017a6325a71cbeb07364907688145fe0100a64f722a47",
+        "previewSha256": "2055ba373bbf74c41d364013d49981b897bf30772cda2508f9c6e061c0293e57"
+      }
     },
     {
       "id": "T06-06",
@@ -131,7 +150,13 @@
           "reviewSha256": "916e9b1892677a76d524611961afe9fffb0d6606e8e78868e2ddb683d1ff6fe7"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-06/2a3ee642f88b/prepared/0ec9a3a303a9",
+        "modelSha256": "0ec9a3a303a9047dcad254b889dba6537951381867435fa61c444ac4430c5194",
+        "previewSha256": "e0db0dfa2efd87f21b1bc08a95e10a8cc8901dd754a9baed0f8eb1978fc9e4b0"
+      }
     },
     {
       "id": "T06-07",
@@ -157,7 +182,13 @@
           "reviewSha256": "4ad7ce15c2ebe41f7dd1a6a18f2780463499be0ba0092d77f2af09676dc27e0a"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-07/0e2c69bcd21d/prepared/963e83e96581",
+        "modelSha256": "963e83e965813f94ca242d55609054cbd8b0babca1755b5841dd1c30956df732",
+        "previewSha256": "0832cbd4837d99ec15524cb9fcd1b54179c9e6d328a17a6e3f74c9fff1e06c60"
+      }
     },
     {
       "id": "T06-08",
@@ -183,7 +214,13 @@
           "reviewSha256": "f6e36eb7843ffa00ef3dbd2d428689a2ed2894eabe081ffe87aab1e2dfa87f0b"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-08/7d746a18db3d/prepared/fc00e873aad1",
+        "modelSha256": "fc00e873aad1dca6bb0c46b4693eeb2bb0273afa4ad9580e0223b293cc8d1684",
+        "previewSha256": "919c0ea4a1c3dd8bb65abbc423146b96952489e7d87858b8dbb1cb6a53aeea16"
+      }
     },
     {
       "id": "T06-09",
@@ -209,7 +246,13 @@
           "reviewSha256": "2b9bdd7912a106437061c55a4fc287ff73deed8053488e11c3faecc8a18e4275"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-09/a0eb9cbe3978/prepared/a86d65ddfdb4",
+        "modelSha256": "a86d65ddfdb42fb2b603a045c349e90167ba120fc4f21a665d6ea59d71ce4751",
+        "previewSha256": "ac4a24902bde3296d8252b717489a0fe8dc812b317f86e8aeeccb10effdf5ca7"
+      }
     },
     {
       "id": "T06-10",
@@ -235,7 +278,13 @@
           "reviewSha256": "3325533e8b4537e6df33a9274bcd0b689b069cd41de4290eb25efc4d960ebf78"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-10/3179db886f5a/prepared/2f9ce98fd5e5",
+        "modelSha256": "2f9ce98fd5e5e52fc1f77b55f20f127b53f5d1e1ab65fb47e99dbeaccca85da3",
+        "previewSha256": "46a3c47a81d3e42ebaf2260cb29d7c017990e864db0a138b81c1f4441f5f9cfc"
+      }
     },
     {
       "id": "T06-11",
@@ -261,7 +310,8 @@
           "reviewSha256": "402a82db8961245d9ae564946d774e089ca6b3ebc3df1b9b91f9bc940303436f"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T06-12",
@@ -287,7 +337,13 @@
           "reviewSha256": "95b2fb73c5640efa7e09d4ff9d063d41717b4e786a177a4c6a87000ef1fa708d"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-12/71162964acaa/prepared/276154c8ffae",
+        "modelSha256": "276154c8ffaec0b31117492e4da592323c77f0c21d49a98c1ebc9e90abf4290d",
+        "previewSha256": "5cb80b48ca59a7914c743bb005c565e0ba0a9d1600e4a7eff84b7d28a9d0f563"
+      }
     },
     {
       "id": "T06-13",
@@ -313,7 +369,13 @@
           "reviewSha256": "daca5fe52a9618d93bb4a05b3180f01be32690484f1ea4cc94a662800b5ead72"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-13/45e276ef9f90/prepared/a5dac92d780e",
+        "modelSha256": "a5dac92d780e54dea7a780bc57afb76b52154abd647863f2270b7ac76fed7577",
+        "previewSha256": "f1945d4eb7fd5fd9f3ed869f4f2081d3325e8a1d5041659a3382e42ed213b20c"
+      }
     },
     {
       "id": "T06-14",
@@ -339,7 +401,13 @@
           "reviewSha256": "1d9e4e083e03d1df7a80d383ad098d60403970ffe1b32a1c61aaf334a518870f"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-14/b73f70c61fa3/prepared/00b2b8d4b82e",
+        "modelSha256": "00b2b8d4b82e831529eda43b171fe1d484aa5151066f17d8408befd6fcbace57",
+        "previewSha256": "1114869ec3d00a9385c2cf213cf8a5bf834b76b58c7763b1b8474062111880b3"
+      }
     },
     {
       "id": "T06-15",
@@ -365,7 +433,8 @@
           "reviewSha256": "bb150aa8a78e790696ebfdc4ffe0c48b69537f1dc5f4e6f7b60ec28668e743de"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T06-16",
@@ -391,7 +460,8 @@
           "reviewSha256": "92b1a6c5a4dc7bc838eff3092d929299e560999f3819e0ee63adf8ce01359fd6"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T06-17",
@@ -417,7 +487,13 @@
           "reviewSha256": "20ba66b9ec4be44c22f06e00d3f40ba4e8620a9a89d068d6905da7d85f8d1baa"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-17/b69f09c28688/prepared/976f53a80ad2",
+        "modelSha256": "976f53a80ad2f89bab597a3c379dc386a6e56b69ad2a5843645f958072f0c638",
+        "previewSha256": "fc18d589883e975eeb8bffae02fa4955c1c16812555d96e1aa0a57518a2b6aa7"
+      }
     },
     {
       "id": "T06-18",
@@ -443,7 +519,8 @@
           "reviewSha256": "0094f3e9d90f813f170cf735deccd2b4cfad6ddbf454b92fd2fa5095c9ec7c43"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T06-19",
@@ -469,7 +546,8 @@
           "reviewSha256": "ea558ecdf44d635363a924a14fb06fed05493447da379ff88bc603d23a7fdb55"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T06-20",
@@ -495,7 +573,13 @@
           "reviewSha256": "cc1d68d97080b0d5f41acb5c325c02cd1a99a3e73c08fd50783a142f70b6dc7a"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-20/c9a18722c13b/prepared/a1a13ea518cf",
+        "modelSha256": "a1a13ea518cf9a0adc23caf8549557e8190ee5a27752b5f78f7acd619dfb9655",
+        "previewSha256": "f71b3eaa78c87e489c72c258d0ff78241611bfc84df6fd8016aa7d7c28315c38"
+      }
     },
     {
       "id": "T06-21",
@@ -521,7 +605,8 @@
           "reviewSha256": "f57a547d0c25671851c4cabe7d74fc27c3f51621f43355f5929298ada805d7a6"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T06-22",
@@ -547,7 +632,13 @@
           "reviewSha256": "f1d32ce772f328dffe326e425f9f0be17a7bfd8836c351052affe6a8f4cd526b"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-22/3cb9aa307c9a/prepared/7a000db903fe",
+        "modelSha256": "7a000db903fe701a3d6980b8dfd49a9c3e2b4c8478b593b1071a169e14004367",
+        "previewSha256": "b9f05f781f0c72ba6e746d6919db86f4038f6c4982997993b19ab63fd8e2cc67"
+      }
     },
     {
       "id": "T06-23",
@@ -573,7 +664,13 @@
           "reviewSha256": "442f989eb24bd301e76a80051e958eb3ff6729ecffd82f06f78f0e625f0f1bb4"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-23/1cd679ee2680/prepared/37356eefc64e",
+        "modelSha256": "37356eefc64e347971bae73adfca1d6102332dba32447bb8cc3eaddc70c147dc",
+        "previewSha256": "320c6aa42adac81ab0660e26d6aa9740a19713d0f6a120a5e36751db8d5f8e2c"
+      }
     },
     {
       "id": "T06-24",
@@ -599,7 +696,8 @@
           "reviewSha256": "19ad7a2acdf5a33941a977e4fcf32d04c0f927dda1fb2891b043cfad4207bc52"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T06-25",
@@ -625,7 +723,8 @@
           "reviewSha256": "be8973d8b7fc4edfc014147005422f0a2c576a1b82136082f055acf9dc670ab1"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "failed"
     },
     {
       "id": "T06-26",
@@ -651,7 +750,13 @@
           "reviewSha256": "12b63c84d0c78701b23e93f9a600aaf2d11ae6bb5e752fdd5e97fe44368d28c3"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-26/0c7794e4e3d2/prepared/998edddca6b1",
+        "modelSha256": "998edddca6b1f6b599831deaea13c87f77f35c4c0ebcf913f09621434369e575",
+        "previewSha256": "a83641c55ad7763f0a31df2ac1fa851c405dce367ea95fa7ff557de3579f133e"
+      }
     },
     {
       "id": "T06-27",
@@ -677,7 +782,8 @@
           "reviewSha256": "1ab4aa61fb2be32f241a4fe4a8507a280679c2caa7f01c5952bfbc758619c65f"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T06-28",
@@ -703,7 +809,8 @@
           "reviewSha256": "2cae6a9b960e5432f0b4ff2b60bc3dddb28d1e14f4d0522bae385dde069d93b0"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T06-29",
@@ -729,7 +836,13 @@
           "reviewSha256": "df0349d317cda9ddbb3e9a7cd2646aeaae68a599562c4316202b00089c4c5ddd"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-29/1f240893bbf9/prepared/dfde0b2e1e96",
+        "modelSha256": "dfde0b2e1e965df562160c5e89d923d11e9c6919f2de58e084de075687c5fbfe",
+        "previewSha256": "530575a96689fbf02e85826386182ccea31243b1db62ec3f777cad7be5244eee"
+      }
     },
     {
       "id": "T06-30",
@@ -755,7 +868,8 @@
           "reviewSha256": "9cddb18653011d1eb1899801bcef8c354d56c84772dbd35ad8b932246b01edfe"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     }
   ],
   "combinations": []

@@ -1,0 +1,63 @@
+{
+  "phone": {
+    "initial": {
+      "cardCount": 6,
+      "cardY": 665.5,
+      "footerActions": []
+    },
+    "image": {
+      "cached": true,
+      "cancelBounds": null,
+      "contained": true,
+      "imageBounds": {
+        "height": 674,
+        "width": 390,
+        "x": 12,
+        "y": 56
+      },
+      "imageOnly": true,
+      "manifestRequests": 0,
+      "modelLoads": 0,
+      "rendererPaused": true
+    },
+    "cancel": {
+      "cardYAfter": 665.5,
+      "cardYBefore": 665.5,
+      "positionPreserved": true,
+      "sameScrollInstance": true,
+      "sceneSavedDraftUnchanged": true
+    }
+  },
+  "files": {
+    "sha256MatchesNode": true,
+    "maxVerificationReadBytes": 1048576,
+    "fileHandlesClosed": true,
+    "sharedCancellationIsolated": true,
+    "allConsumersCancel": true,
+    "retryAfterCancellation": true,
+    "corruptionReDownloaded": true,
+    "realByteProgress": true
+  },
+  "models": {
+    "peakConcurrentModelParses": 1,
+    "sharedRevisionsReused": true,
+    "independentInstances": true,
+    "stalePreviewStopped": true,
+    "cancelledModelDisposedOnce": true,
+    "allSourcesDisposedOnce": true,
+    "modelStepProgress": true
+  },
+  "applyGuards": [
+    {
+      "stage": "loading",
+      "applyBlocked": true,
+      "cancelAllowed": true
+    },
+    {
+      "stage": "error",
+      "applyBlocked": true,
+      "cancelAllowed": true
+    }
+  ],
+  "limitations": "Full heavy-theme preview on device was stopped when the saved scene changed. No real theme was applied by this verification. Historical CPU resource reports do not establish a recent OS memory termination."
+}

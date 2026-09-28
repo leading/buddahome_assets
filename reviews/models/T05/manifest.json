@@ -1,6 +1,6 @@
 {
   "theme": "T05",
-  "updatedAt": "2026-09-28T04:42:42.013409+00:00",
+  "updatedAt": "2026-09-28T04:54:27.805941+00:00",
   "scope": "Source image and actual imported GLB renders; publishing does not establish acceptance.",
   "items": [
     {
@@ -164,12 +164,12 @@
       "capability": "可点燃",
       "sourceSha256": "ae3c5f719edee4d896aac065859c03401befd6ad5c653ef207667da549f6e132",
       "path": "T05-07/ae3c5f719ede",
-      "comparisonSha256": "9dd7216cb9754c3e7e893c69b6c966a22bd6e4f0e9dfce82fc6ae7aa54931017",
+      "comparisonSha256": "58e6e3985bf62f51c9907281bdfa3e80ce319e1044521fed5de0ddebd41d994c",
       "images": {
         "source": {
-          "originalSha256": "703377d772c043c10bc092ad7b520e3f8772beb33bc7d22f795e149ff12a6de4",
+          "originalSha256": "27929c62902f7c280311a5b6b82c1d0d9dc7dc6d27c96f7cdd45a744b23c8a0d",
           "reviewFile": "source.jpg",
-          "reviewSha256": "d2939f87069571707ae8a46e2209eef8449a569cfa0dee8d8fa568df28b4ee1d"
+          "reviewSha256": "4c13e6a1382ef940dee6379c4355b880378066fc2b5a83171c6881f8d70992ad"
         },
         "perspective": {
           "originalSha256": "7972a9b74a759d2c6e4f35e1e72cf8afc211709ab70b4e84d69c22aa2b2d89a6",
@@ -862,6 +862,11 @@
       "previewSha256": "bf58d6b0aeb0a4f682e6a320c10d4306b015159cb44913dbbe7d830235765f46"
     },
     {
+      "path": "combinations/T05_flower-left/344a9c7af3a4",
+      "reportSha256": "344a9c7af3a4bdf19680e73b7cabaa645633ef8dde66a2b4e56c87418ce39075",
+      "previewSha256": "53d0ae5bdd2949b44bd5d63ff1c869d170f6459acc97cbdbe949a71a8a720efb"
+    },
+    {
       "path": "combinations/T05_flower-right/93e4211d7a98",
       "reportSha256": "93e4211d7a986a7f035d4459ae29eb1d6826680d86e7596a5d184a2ab35a82f9",
       "previewSha256": "3a659f52de5dd79436d2d125ab3575127ee53ac8471d6355870e82b8135f43fe"
@@ -877,6 +882,11 @@
       "previewSha256": "3d5b9dcd5ac1882a4d3c890951ab9b86815e872e9c3e9dcfb3101e6a96284958"
     },
     {
+      "path": "combinations/T05_main-table/608941f093b8",
+      "reportSha256": "608941f093b80a55c3cd62d34bcc133fa3aaab66974e79ead61489e72ed5c8a8",
+      "previewSha256": "1b26bad7350551a5a213a45271c4eeb19491cbbb1e404420bfe4b044f76e73d0"
+    },
+    {
       "path": "combinations/T05_mat-cushion/f8c4b8b6c6a0",
       "reportSha256": "f8c4b8b6c6a03e20c7da1b16cd6b65b9fbe1ef227c3dd9f94efb8daf71e1d6fb",
       "previewSha256": "d513fa0e6129ef4b110c6fedd4fccbd378ce8e0d78b8c4e625865a13ed72c69c"
@@ -885,6 +895,11 @@
       "path": "combinations/T05_orange/8f3982b40f60",
       "reportSha256": "8f3982b40f60daf9c78dc0997af9f93f63e6c0e4dd236ae49033037213028eb7",
       "previewSha256": "3fa6024f02b1128b58d7c39051808ff37b755c1171c73d4852b70a2ecf864f20"
+    },
+    {
+      "path": "combinations/T05_runner/c2701e3fb39d",
+      "reportSha256": "c2701e3fb39dafbf0050bdb70de7684470a775dd858ffdbca8dba533d3bb2516",
+      "previewSha256": "93608c891ab3a0519317433b6d136b9bed6084919d04708cae13202fbc2112db"
     },
     {
       "path": "combinations/T05_saucer/8c442a2df5e1",

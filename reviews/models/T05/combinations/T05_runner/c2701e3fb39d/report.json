@@ -1,0 +1,66 @@
+{
+  "assetIds": [
+    "T05-01",
+    "T05-25"
+  ],
+  "drapePoses": [
+    {
+      "assetId": "T05-25",
+      "scale": 1,
+      "rotationQuaternionWXYZ": [
+        0.9800665974617004,
+        -0.19866937398910522,
+        -0.0,
+        -0.0
+      ],
+      "positionBlenderXYZ": [
+        -0.17417539656162262,
+        -0.7331353425979614,
+        0.29836946725845337
+      ],
+      "authoredContactAnchorBlenderXYZ": [
+        0.17417538166046143,
+        0.19419041275978088,
+        0.43853074312210083
+      ],
+      "contactTargetBlenderXYZ": [
+        0.0,
+        -0.38350218534469604,
+        0.6266617178916931
+      ],
+      "nearestContactMeters": 0.0017667245119810104,
+      "lowestHemMeters": 0.36996233463287354,
+      "testedPoses": 45,
+      "parentTransformError": 0.0,
+      "detachWorldError": 2.9802322387695312e-08
+    }
+  ],
+  "collisionFreePairs": [
+    [
+      "T05-01",
+      "T05-25"
+    ]
+  ],
+  "meshIntersectionPairs": 0,
+  "sourceMeshesMaterialsPreserved": true,
+  "scope": "Static grouped fabric edge contact and independent hanging decorations aligned by authored transforms; no cloth dynamics, simulated suspension or modeled ceiling is claimed.",
+  "sourceHashes": {
+    "T05-01": "e15d1f0cc16324023e54ed64f1311d407287e89f7859c081f69e5c210a437400",
+    "T05-25": "1c9cac20e7f4685dfa7dd92f7a0a16380a93d359c735047fe85a81b1eb08d78a"
+  },
+  "modelHashes": {
+    "T05-01": "35110e71272024cf3417a1f3abe22d26ebfa84acfefa4cac43b1347a0fa23924",
+    "T05-25": "1c9cac20e7f4685dfa7dd92f7a0a16380a93d359c735047fe85a81b1eb08d78a"
+  },
+  "configHashes": {
+    "T05-01": "d71e102e7f94498e2a21637a6b853ad508b191c04c5359c4542694a94fa17dcf",
+    "T05-25": "4c4056ab643762471d52e1e90470012ac366433b811955b20cea4bda77d34286"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "2070e8816dacd043c175bfbe8171c41e15be7f4b53ee87742282bed1310f71fc",
+    "组合验证.blend": "c6c01a9690c1bcf45dfcddf44d2ee830e756f044219ac25994d4da156b3bd54b",
+    "组合预览.png": "ddd25120731421dbbd4bc0ee1e295b72d2ec87fa2a0c88b09be444c613053285"
+  }
+}

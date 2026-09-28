@@ -202,6 +202,12 @@
 
 ## 组合验证预览
 
+![assembly](combinations/T05_flower-left/344a9c7af3a4/preview.jpg)
+
+[几何验证报告](combinations/T05_flower-left/344a9c7af3a4/report.json)
+
+## 组合验证预览
+
 ![assembly](combinations/T05_flower-right/93e4211d7a98/preview.jpg)
 
 [几何验证报告](combinations/T05_flower-right/93e4211d7a98/report.json)
@@ -220,6 +226,12 @@
 
 ## 组合验证预览
 
+![assembly](combinations/T05_main-table/608941f093b8/preview.jpg)
+
+[几何验证报告](combinations/T05_main-table/608941f093b8/report.json)
+
+## 组合验证预览
+
 ![assembly](combinations/T05_mat-cushion/f8c4b8b6c6a0/preview.jpg)
 
 [几何验证报告](combinations/T05_mat-cushion/f8c4b8b6c6a0/report.json)
@@ -229,6 +241,12 @@
 ![assembly](combinations/T05_orange/8f3982b40f60/preview.jpg)
 
 [几何验证报告](combinations/T05_orange/8f3982b40f60/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T05_runner/c2701e3fb39d/preview.jpg)
+
+[几何验证报告](combinations/T05_runner/c2701e3fb39d/report.json)
 
 ## 组合验证预览
 

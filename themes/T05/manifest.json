@@ -1,7 +1,7 @@
 {
   "theme_id": "T05",
   "name": "兰纳柚木佛堂",
-  "fingerprint": "be4b5fd95a5dcf606be9df2cf73c863ee9b83ffd435c1910425dcfacdabf89e5",
+  "fingerprint": "795122e650b21ff98d06c97d8f52b479179316c6975b5500aaad33a5e8475f17",
   "snapshot": {
     "theme_id": "T05",
     "review_protocol": "paired-v2",
@@ -31,7 +31,7 @@
       },
       {
         "object_id": "T05-07",
-        "sha256": "703377d772c043c10bc092ad7b520e3f8772beb33bc7d22f795e149ff12a6de4"
+        "sha256": "27929c62902f7c280311a5b6b82c1d0d9dc7dc6d27c96f7cdd45a744b23c8a0d"
       },
       {
         "object_id": "T05-08",
@@ -179,7 +179,7 @@
       "name": "未点燃蜡芯",
       "description": "源图台面镂空灯笼内部匹配的一枚未点燃燃料内芯，按可见外观提取；隐藏时仅作简洁适配重建。无灯罩、烟火或光晕。",
       "classification": "reconstructed_functional_insert",
-      "sha256": "703377d772c043c10bc092ad7b520e3f8772beb33bc7d22f795e149ff12a6de4",
+      "sha256": "27929c62902f7c280311a5b6b82c1d0d9dc7dc6d27c96f7cdd45a744b23c8a0d",
       "path": "objects/T05-07.png"
     },
     {
@@ -376,5 +376,9 @@
     }
   ],
   "review": "../../reviews/themes/T05/overview.jpg",
-  "status": "verified"
+  "status": "verified",
+  "runtimeCorrection": {
+    "objectId": "T05-07",
+    "source": "Independent source-derived wax/wick render; accidentally included metal cup retained in history."
+  }
 }

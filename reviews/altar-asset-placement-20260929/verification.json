@@ -1,0 +1,120 @@
+{
+  "phone": {
+    "forwarded": {
+      "selectedObjectForwarded": true
+    },
+    "initial": {
+      "cardCount": 4,
+      "cardY": 570.5,
+      "listHasAddButton": false
+    },
+    "preview": {
+      "controls": {
+        "height": 210,
+        "width": 374,
+        "x": 20,
+        "y": 640
+      },
+      "defaultIsSelectedPlate": true,
+      "header": {
+        "height": 58,
+        "width": 414,
+        "x": 0,
+        "y": 48
+      },
+      "pickerHidden": true,
+      "preferredTargetForwarded": true,
+      "targets": 16,
+      "underlyingScenePaused": true,
+      "viewport": {
+        "height": 534,
+        "width": 414,
+        "x": 0,
+        "y": 106
+      }
+    },
+    "independent": {
+      "optionAvailable": true
+    },
+    "returned": {
+      "cardYAfter": 570.5,
+      "cardYBefore": 570.5,
+      "positionPreserved": true,
+      "sameScrollInstance": true,
+      "sceneSavedDraftUnchanged": true,
+      "searchPreserved": true,
+      "selectedObjectPreserved": true
+    },
+    "restored": {
+      "originalCameraRestored": true,
+      "sceneSavedDraftUnchanged": true
+    }
+  },
+  "placement": {
+    "existingNodes": 53,
+    "assetTypes": 33,
+    "compatiblePairs": 528,
+    "worldAnchorChecks": 528,
+    "byCapability": {
+      "container-interior": 190,
+      "support": 198,
+      "liquid-container": 131,
+      "insertion": 9
+    },
+    "explicitIndependentChecks": 33,
+    "automaticDefaultChecks": 33,
+    "incompatibleTargetsRejected": 1221,
+    "ancestorFallbackChecks": 957,
+    "editorAndPreviewTargetsMatch": true,
+    "sourceSceneUnchanged": true
+  },
+  "preview": [
+    {
+      "capability": "container",
+      "selectedDefault": true,
+      "additionUsesChosenTarget": true,
+      "explicitIndependent": true,
+      "cancelSafeDuringCommit": true
+    },
+    {
+      "capability": "support",
+      "selectedDefault": true,
+      "additionUsesChosenTarget": true,
+      "explicitIndependent": true,
+      "cancelSafeDuringCommit": true
+    },
+    {
+      "capability": "liquid",
+      "selectedDefault": true,
+      "additionUsesChosenTarget": true,
+      "explicitIndependent": true,
+      "cancelSafeDuringCommit": true
+    }
+  ],
+  "panel": [
+    {
+      "destination": "selected",
+      "noListAddButton": true,
+      "searchAndSelectionRetained": true,
+      "targetAndRevisionUsedExactly": true,
+      "duplicateAddPrevented": true,
+      "busyCancelPrevented": true
+    },
+    {
+      "destination": "changed",
+      "noListAddButton": true,
+      "searchAndSelectionRetained": true,
+      "targetAndRevisionUsedExactly": true,
+      "duplicateAddPrevented": true,
+      "busyCancelPrevented": true
+    },
+    {
+      "destination": "independent",
+      "noListAddButton": true,
+      "searchAndSelectionRetained": true,
+      "targetAndRevisionUsedExactly": true,
+      "duplicateAddPrevented": true,
+      "busyCancelPrevented": true
+    }
+  ]
+}

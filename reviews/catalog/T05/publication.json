@@ -1,0 +1,16 @@
+{
+  "theme": "T05",
+  "name": "兰纳柚木佛堂",
+  "environment": "development",
+  "themeId": "642a17f4-6a48-455c-bc78-98be62b38377",
+  "releaseId": "9104e502-7b48-49fe-b3dc-2b2ccd851f9a",
+  "revisionId": "e2f97c5f-6c6a-4e84-be54-e7de7b01cedc",
+  "assets": 28,
+  "backgrounds": 1,
+  "sceneNodes": 35,
+  "languages": 16,
+  "namesVerified": 480,
+  "publicFileHashesVerified": 90,
+  "priorThemesUnchanged": true,
+  "runtimeVerified": false
+}

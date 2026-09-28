@@ -1,0 +1,61 @@
+{
+  "basin": "T05-27",
+  "floaters": [
+    "T05-28",
+    "T05-29"
+  ],
+  "waterLevelCases": [
+    {
+      "fillFraction": 0.25,
+      "waterHeightMeters": 0.08590980833477685,
+      "vesselOrOtherPropIntersections": 0,
+      "bothContactAnchorsAtSurface": true
+    },
+    {
+      "fillFraction": 0.6,
+      "waterHeightMeters": 0.14370189343493384,
+      "vesselOrOtherPropIntersections": 0,
+      "bothContactAnchorsAtSurface": true
+    },
+    {
+      "fillFraction": 1,
+      "waterHeightMeters": 0.20389589999999996,
+      "vesselOrOtherPropIntersections": 0,
+      "bothContactAnchorsAtSurface": true
+    }
+  ],
+  "waterShellIntersections": 0,
+  "transformChecks": {
+    "T05-28": {
+      "parentTransformError": 7.450580596923828e-09,
+      "detachWorldError": 0.0
+    },
+    "T05-29": {
+      "parentTransformError": 1.4901161193847656e-08,
+      "detachWorldError": 0.0
+    }
+  },
+  "scope": "Initial water-surface placement using shared liquid-volume rules and authored contact anchors; no buoyancy or automatic water-level following claimed.",
+  "sourceHashes": {
+    "T05-27": "d014efcdba4a63ec65386a1f83397cdc5ed60b619354085944a06aeb602647d8",
+    "T05-28": "c1f12f01b574837d85c0b7d8b19f80ce615924604d64c5702ba70c6c037031f7",
+    "T05-29": "d9e59a18a85ab14266c2aa6e52daf81bf37ac8c673276d33c689215101ce92a2"
+  },
+  "modelHashes": {
+    "T05-27": "be3227a8c9d13ac18ba3c3a3545a48ad67c03a57ba9ad582e1bb095774818405",
+    "T05-28": "c1f12f01b574837d85c0b7d8b19f80ce615924604d64c5702ba70c6c037031f7",
+    "T05-29": "6cee2c3a780a96b5def3e394a9f65c95eba9ac5e8d486608dcbba64eb473ba28"
+  },
+  "configHashes": {
+    "T05-27": "a9bf5d5acbf73d511043369e51a4768b560bcdf5e6dca0923a6413bc87329152",
+    "T05-28": "717312bd16dcfc9ae93d82ce1e7068b9d284edef684ce74e30adcab6bb202a6b",
+    "T05-29": "5b4e1cd01cb4ea7f10725ecca562afd56313f4bbfc95d45158e18254eac35a49"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "fcdb0a9acf81e21d4b427be5055fd51f5dc711d0c0d45b0f9998a023c66ebf86",
+    "组合验证.blend": "40a9d40cf4c6fb19c9eca7dc14b2dd6629527e3b3cf17cfe278a2670b9a3320c",
+    "组合预览.png": "5fda5afc8492a64badddf5e16274f821899184d3ed3765240fa5e1a1da172861"
+  }
+}

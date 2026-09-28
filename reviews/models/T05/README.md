@@ -184,7 +184,7 @@
 
 适配版：
 
-![T05-29 prepared](T05-29/d9e59a18a85a/prepared/042a9a48628e/preview.jpg)
+![T05-29 prepared](T05-29/d9e59a18a85a/prepared/6cee2c3a780a/preview.jpg)
 
 ## T05-30 天然编织地席
 
@@ -204,9 +204,9 @@
 
 ## 组合验证预览
 
-![assembly](combinations/T05_floating/a83a933acd6b/preview.jpg)
+![assembly](combinations/T05_floating/adda19473fcd/preview.jpg)
 
-[几何验证报告](combinations/T05_floating/a83a933acd6b/report.json)
+[几何验证报告](combinations/T05_floating/adda19473fcd/report.json)
 
 ## 组合验证预览
 

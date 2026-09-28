@@ -1,0 +1,356 @@
+{
+  "checkedAt": "2026-09-28T05:30:30.748871+00:00",
+  "theme": "T05",
+  "state": "passed",
+  "assetCount": 28,
+  "acceptedAssets": 28,
+  "interactiveAssets": 17,
+  "staticAssets": 11,
+  "combinationCount": 18,
+  "passedCombinations": 18,
+  "retained2dLayers": [
+    "T05-31",
+    "T05-32"
+  ],
+  "allSourceAnd4KHashesUnchanged": true,
+  "allRuntimeTexturesMatchCurrentCsv": true,
+  "runtimeVerified": false,
+  "items": [
+    {
+      "assetId": "T05-01",
+      "sourceSha256": "e15d1f0cc16324023e54ed64f1311d407287e89f7859c081f69e5c210a437400",
+      "modelSha256": "35110e71272024cf3417a1f3abe22d26ebfa84acfefa4cac43b1347a0fa23924",
+      "configSha256": "d71e102e7f94498e2a21637a6b853ad508b191c04c5359c4542694a94fa17dcf"
+    },
+    {
+      "assetId": "T05-02",
+      "sourceSha256": "758b6d2fb4357941b65feee24e961a0cc244e6d8bbfcc7949614ed9533ae9726",
+      "modelSha256": "758b6d2fb4357941b65feee24e961a0cc244e6d8bbfcc7949614ed9533ae9726",
+      "configSha256": "ff35503010597457e46508a24ba23892d0f31a2bad285766bb84bc53818a1b79"
+    },
+    {
+      "assetId": "T05-04",
+      "sourceSha256": "217afba0be22bdf85d4bc2dcb3d7629feeb9df310f114382bbaa4031879ed735",
+      "modelSha256": "59dc68f0cf7b0fbb86ed2bd11606810fcf2d1047f3b36e5eccd578728e7127f8",
+      "configSha256": "87a5b4eaf0974f95e6060d5417087571b485b3ea4be6e3776562deae6a343f47"
+    },
+    {
+      "assetId": "T05-05",
+      "sourceSha256": "2b2a90126c8e7a37d3f87f6fc96df07b3c30b889394189eb28d726dac185cfcd",
+      "modelSha256": "a96d53bc269aad3570c99eeafacefcc3565a27a8b9d435c9aecf75be9324b72d",
+      "configSha256": "0513e9c5ecd585e7fc9dae9041a7c14d8a66b22ae92f86c196f8b915387e48ad"
+    },
+    {
+      "assetId": "T05-06",
+      "sourceSha256": "9a6f511068494649dfbc3532d252a433f971310d09443b48021488e88e7366de",
+      "modelSha256": "13b529187faf1ffb2d88fa7742c13ae468a2a1f5990917649b5412ad247f391b",
+      "configSha256": "b1dbe999739464844271ab3a981a851595e948a66837bcd5f17c90d58f9d3104"
+    },
+    {
+      "assetId": "T05-07",
+      "sourceSha256": "ae3c5f719edee4d896aac065859c03401befd6ad5c653ef207667da549f6e132",
+      "modelSha256": "20bef9f4ad3035a4c9de2c68bba7ff728d418368d60b8c6bfd4a826b49f963fd",
+      "configSha256": "45d64d6b548d182c851c871bffebeb8a32c90ddfe1d41b1f70619c45bcddf10f"
+    },
+    {
+      "assetId": "T05-08",
+      "sourceSha256": "91653d9919d7102c03099e41a04c76a96afc47c412384bd1c17f84ec8beed901",
+      "modelSha256": "ee3f2502862e3a53c008df735f7d4596b80d1e3aca140ce2178915ceea616a80",
+      "configSha256": "af155d09f18b9c4069ddce77150fd7cf3b9587ed23365e62043e3b66097f190c"
+    },
+    {
+      "assetId": "T05-09",
+      "sourceSha256": "1a2db0ff8a82d323d9f7ada8f4c9cf7d37615d6e38a2e9f20b3ef1a929d57dde",
+      "modelSha256": "c166839546e9cebacf5daa35e4f847b7e08494fb0f99c2c03ed7420a88c736c6",
+      "configSha256": "2a2e546cfd7db28b214f7f0d2bed1e3ecdc7ebfa01e271d02239dd2368c746c4"
+    },
+    {
+      "assetId": "T05-10",
+      "sourceSha256": "c1b90f1ae10215c0b64cc0c29b23f4e307da0bb9e64cae1f9cd17ef60d6aecb0",
+      "modelSha256": "66c32aa4ab4c1755f3ac74dea0bdb81a6313da2af5b47224ded1dac3f48bd485",
+      "configSha256": "581631600c2733f3be89e6f70ebb0bdd1f3485a532fbd7592313870740a87d42"
+    },
+    {
+      "assetId": "T05-11",
+      "sourceSha256": "7fc3b7d5b6a6a1e7953d69d0f29e269083535ed9befecef19108e565c5fb30d4",
+      "modelSha256": "7fc3b7d5b6a6a1e7953d69d0f29e269083535ed9befecef19108e565c5fb30d4",
+      "configSha256": "4c2a05a115dd7c4301b10e991415040352218d319dab5948e6568506bef9497c"
+    },
+    {
+      "assetId": "T05-12",
+      "sourceSha256": "c6d65e08b741c6484acd3bebe851633971b6d6408bd5df7635e3f0bad2497b34",
+      "modelSha256": "b9bf1f82bdbfa80f108a6051e4ff1b7756ba828be501214f28a35fd98e7aef18",
+      "configSha256": "2822ddac0f6f09a89fd20208d07451b28690f605adbd829585238975dc254747"
+    },
+    {
+      "assetId": "T05-13",
+      "sourceSha256": "12c8237f614877df69ff451b24a69966ef7e8be21dafd022ad3652128d72100d",
+      "modelSha256": "8a5cc99bdad37f3a8059021a826fbc90ab463e7a0db515c22a9595ad40a1a0be",
+      "configSha256": "b657f0314ae2108e58fac52998b6891fbe063188f30080a461004608cb03bfef"
+    },
+    {
+      "assetId": "T05-14",
+      "sourceSha256": "3e438542ac51c42a05c2ef634daa7d17b41fd84b8166ff38062a3199d76d0f5d",
+      "modelSha256": "a07c2f14f2c09613f9e1ab8b0d8767ba8322ff14859153efd5020cb54dfbf324",
+      "configSha256": "91be2bce5b050fd666374adf9e3037ce8858aba10121faa8bc5201769f8f1a55"
+    },
+    {
+      "assetId": "T05-16",
+      "sourceSha256": "2f64621442eafc08190642af8d57745389255f7c1a29386d4db0fbd53ed6a0ed",
+      "modelSha256": "2f64621442eafc08190642af8d57745389255f7c1a29386d4db0fbd53ed6a0ed",
+      "configSha256": "b3d60f17fe966381801cb570d6a95b854d79145141d1379a5088983874cfabea"
+    },
+    {
+      "assetId": "T05-17",
+      "sourceSha256": "1e8bb2d994ae5bfc481cc3c5ad86ab19c8fdc372ddc1b5cd0e8959ef5f189e73",
+      "modelSha256": "4c824ea7f41a769d6636f05e6f2e02642bf6fb64dd3143626b1ded91e2002958",
+      "configSha256": "c79dd93e7609d197d71b672df17a6c433b9796971e20dc5d8df7cf30ac982493"
+    },
+    {
+      "assetId": "T05-18",
+      "sourceSha256": "394cf0db53cbd2ee88295b5567a2dfa9189e6e0238ae4c11acbff7be5667c003",
+      "modelSha256": "77049ad6560307f3e14457bc9ffa95dc8c2386f2d89a08b940ea762156151d75",
+      "configSha256": "584729f45884dbac6c6dd37945e7eb9f1b8de250890b810dd29080f0696cc19f"
+    },
+    {
+      "assetId": "T05-19",
+      "sourceSha256": "d0530de77e211f05b203df5fd9aceefcbeb064d72693092c179552202f0cfde5",
+      "modelSha256": "8dd931a6612490952a7c329328a722fcc9d1fd6f2b0c0adc431ef878ba213c28",
+      "configSha256": "281e5d8f4d00e6e4136da2b70b3fdbad5975d9e28b0c2e6ee68357c8a5bd6cc2"
+    },
+    {
+      "assetId": "T05-20",
+      "sourceSha256": "f9b3b953a46184be03a840f664d107fcd407f5b9a0c1d44e155a52400573ff09",
+      "modelSha256": "0b4627217c5385b1f732a7de732724409690eebe731ed6adf0f8ccf342aaaf5e",
+      "configSha256": "7b50b831c4a84019b8357caece4fec670503706e018cdb569df108f715202598"
+    },
+    {
+      "assetId": "T05-21",
+      "sourceSha256": "4981962ae10f0389cf26fb0be73af4b910ef0f2ba89761aa5068b708f6ed6949",
+      "modelSha256": "163b8e9b27d5382a56e2909fad0b672489d48397eb351f5b424cf3f7c871713a",
+      "configSha256": "e1268baf685368b1a630e0a70fa917946e4fc7e47ae689b98e5d68fb174869f5"
+    },
+    {
+      "assetId": "T05-22",
+      "sourceSha256": "6f5c8daec2e88e431b1dbbcad466c055308967b8c0108843a430f759e68b6746",
+      "modelSha256": "6f5c8daec2e88e431b1dbbcad466c055308967b8c0108843a430f759e68b6746",
+      "configSha256": "2326f270c9d31651ab001c763617e2e9886a7a0aee4428b024e2c27f99328dd5"
+    },
+    {
+      "assetId": "T05-23",
+      "sourceSha256": "c5c44e45f9db8b4c4551155093b8ae25b2aa1e573806de6962b94d19327359f2",
+      "modelSha256": "c5c44e45f9db8b4c4551155093b8ae25b2aa1e573806de6962b94d19327359f2",
+      "configSha256": "f3f0b2f308c838a361d8e0c5e5ecc23d0e860a0bf5b46fa14a1ee68df77a58f4"
+    },
+    {
+      "assetId": "T05-24",
+      "sourceSha256": "8ba7b5a74d284ae307687e25019df1831658afeba63b3972df407bcc21ede43a",
+      "modelSha256": "8ba7b5a74d284ae307687e25019df1831658afeba63b3972df407bcc21ede43a",
+      "configSha256": "f18873f82f902dad81de85d34c99643706546fe69edfd59351214b1b017e1d68"
+    },
+    {
+      "assetId": "T05-25",
+      "sourceSha256": "1c9cac20e7f4685dfa7dd92f7a0a16380a93d359c735047fe85a81b1eb08d78a",
+      "modelSha256": "1c9cac20e7f4685dfa7dd92f7a0a16380a93d359c735047fe85a81b1eb08d78a",
+      "configSha256": "4c4056ab643762471d52e1e90470012ac366433b811955b20cea4bda77d34286"
+    },
+    {
+      "assetId": "T05-26",
+      "sourceSha256": "589408564cf2410506139be32c5f61ac1ea1c7cd058936305ec13a9168e72411",
+      "modelSha256": "e8a6a8578d99414c4709c4030bef00fb2b2483425c82a4fc3fde5b451516e4cb",
+      "configSha256": "272d8562d943dfea8ac40d295e39023f687d99d0a867874ad4184c080e3a3939"
+    },
+    {
+      "assetId": "T05-27",
+      "sourceSha256": "d014efcdba4a63ec65386a1f83397cdc5ed60b619354085944a06aeb602647d8",
+      "modelSha256": "be3227a8c9d13ac18ba3c3a3545a48ad67c03a57ba9ad582e1bb095774818405",
+      "configSha256": "a9bf5d5acbf73d511043369e51a4768b560bcdf5e6dca0923a6413bc87329152"
+    },
+    {
+      "assetId": "T05-28",
+      "sourceSha256": "c1f12f01b574837d85c0b7d8b19f80ce615924604d64c5702ba70c6c037031f7",
+      "modelSha256": "c1f12f01b574837d85c0b7d8b19f80ce615924604d64c5702ba70c6c037031f7",
+      "configSha256": "717312bd16dcfc9ae93d82ce1e7068b9d284edef684ce74e30adcab6bb202a6b"
+    },
+    {
+      "assetId": "T05-29",
+      "sourceSha256": "d9e59a18a85ab14266c2aa6e52daf81bf37ac8c673276d33c689215101ce92a2",
+      "modelSha256": "6cee2c3a780a96b5def3e394a9f65c95eba9ac5e8d486608dcbba64eb473ba28",
+      "configSha256": "5b4e1cd01cb4ea7f10725ecca562afd56313f4bbfc95d45158e18254eac35a49"
+    },
+    {
+      "assetId": "T05-30",
+      "sourceSha256": "f268ce5b516b37ca7fd3f33799bcb1da8641566ef42e597e1aca041840622726",
+      "modelSha256": "f268ce5b516b37ca7fd3f33799bcb1da8641566ef42e597e1aca041840622726",
+      "configSha256": "959bb3ad9d5ddcc1cab7ec396bbf01a1bbfb5103f9074250e6452214b05614f5"
+    }
+  ],
+  "combinations": [
+    {
+      "name": "T05_floating",
+      "assetIds": [
+        "T05-27",
+        "T05-28",
+        "T05-29"
+      ],
+      "reportSha256": "adda19473fcda8280318085460387db72faebd591f54dfb83d346016584d5eac",
+      "passed": true
+    },
+    {
+      "name": "T05_flowers-bowl",
+      "assetIds": [
+        "T05-21",
+        "T05-22"
+      ],
+      "reportSha256": "ed1945b95770ab360fc633f1b20ea1a8e0af5c8e7a7f9f49b9f64407bfc09641",
+      "passed": true
+    },
+    {
+      "name": "T05-12_T05-13_倾倒姿态",
+      "assetIds": [
+        "T05-12",
+        "T05-13"
+      ],
+      "reportSha256": "5a3755ab8a230b619377cc0adba5fe9ab7bd9cb727f6163c7b5eb206eb766cb8",
+      "passed": true
+    },
+    {
+      "name": "T05_flower-left",
+      "assetIds": [
+        "T05-04",
+        "T05-05"
+      ],
+      "reportSha256": "344a9c7af3a4bdf19680e73b7cabaa645633ef8dde66a2b4e56c87418ce39075",
+      "passed": true
+    },
+    {
+      "name": "T05_flower-right",
+      "assetIds": [
+        "T05-19",
+        "T05-20"
+      ],
+      "reportSha256": "93e4211d7a986a7f035d4459ae29eb1d6826680d86e7596a5d184a2ab35a82f9",
+      "passed": true
+    },
+    {
+      "name": "T05_runner",
+      "assetIds": [
+        "T05-01",
+        "T05-25"
+      ],
+      "reportSha256": "c2701e3fb39dafbf0050bdb70de7684470a775dd858ffdbca8dba533d3bb2516",
+      "passed": true
+    },
+    {
+      "name": "T05_wax-hanging",
+      "assetIds": [
+        "T05-18",
+        "T05-07"
+      ],
+      "reportSha256": "a9fd1be709a768fdf1e411c4a47a47b6535bc23b7c754550d0252a9fe8e64d28",
+      "passed": true
+    },
+    {
+      "name": "T05_tea-tray",
+      "assetIds": [
+        "T05-14",
+        "T05-12",
+        "T05-26",
+        "T05-13"
+      ],
+      "reportSha256": "d58b5cbc25e5fa41c125db093888483917df82156cd510b47c4de1e68d0165f0",
+      "passed": true
+    },
+    {
+      "name": "T05-13_液体",
+      "assetIds": [
+        "T05-13"
+      ],
+      "reportSha256": "ebffae479cec78f4118fe05c364345bdc24f657d6fb07e9c71320597b26405a3",
+      "passed": true
+    },
+    {
+      "name": "T05-27_液体",
+      "assetIds": [
+        "T05-27"
+      ],
+      "reportSha256": "8ab5c272347db91385ac74890699125262e254f796b1529a0fc2b90d60581a7b",
+      "passed": true
+    },
+    {
+      "name": "T05_wax-table",
+      "assetIds": [
+        "T05-06",
+        "T05-07"
+      ],
+      "reportSha256": "eebaa777f9e5f8dda94097f7dbc06ddea72186b238bebdd8a4925d8d417106e9",
+      "passed": true
+    },
+    {
+      "name": "T05_white-flower-tray",
+      "assetIds": [
+        "T05-14",
+        "T05-24"
+      ],
+      "reportSha256": "480ad28d94d0d76bd4beb07e69077d05a35add051b5d9e3ba5051aabb60fd899",
+      "passed": true
+    },
+    {
+      "name": "T05_green-citrus",
+      "assetIds": [
+        "T05-10",
+        "T05-23"
+      ],
+      "reportSha256": "9e0457cbbe6e488a01fa664300b3ba06ba709f9df0d298626cbf3b6d74108324",
+      "passed": true
+    },
+    {
+      "name": "T05_orange",
+      "assetIds": [
+        "T05-10",
+        "T05-11"
+      ],
+      "reportSha256": "8f3982b40f60daf9c78dc0997af9f93f63e6c0e4dd236ae49033037213028eb7",
+      "passed": true
+    },
+    {
+      "name": "T05_main-table",
+      "assetIds": [
+        "T05-01",
+        "T05-02",
+        "T05-04",
+        "T05-05"
+      ],
+      "reportSha256": "608941f093b80a55c3cd62d34bcc133fa3aaab66974e79ead61489e72ed5c8a8",
+      "passed": true
+    },
+    {
+      "name": "T05_saucer",
+      "assetIds": [
+        "T05-26",
+        "T05-13"
+      ],
+      "reportSha256": "8c442a2df5e13467cb86359962e035498b0093f423812c8b453e6095405bd786",
+      "passed": true
+    },
+    {
+      "name": "T05-08_T05-09",
+      "assetIds": [
+        "T05-08",
+        "T05-09"
+      ],
+      "reportSha256": "2db7fa186d1e745fb4b6708490e863f899e5b2631aee0cbd1083ef23899f7043",
+      "passed": true
+    },
+    {
+      "name": "T05_mat-cushion",
+      "assetIds": [
+        "T05-30",
+        "T05-16"
+      ],
+      "reportSha256": "f8c4b8b6c6a03e20c7da1b16cd6b65b9fbe1ef227c3dd9f94efb8daf71e1d6fb",
+      "passed": true
+    }
+  ],
+  "issues": []
+}

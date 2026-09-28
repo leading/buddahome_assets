@@ -1,0 +1,91 @@
+{
+  "device": "Physical iPhone 11 / native Expo GL",
+  "screenPixels": [
+    828,
+    1792
+  ],
+  "screenPoints": [
+    414,
+    896
+  ],
+  "compactHeightPoints": 156,
+  "fineHeightPoints": 301,
+  "method": "Actual React callbacks and native layout measurements; not a claim of physical finger automation",
+  "checks": [
+    "compact defaults",
+    "fine controls open/close",
+    "reset baseline preserved",
+    "one reusable action sheet",
+    "rename cancel",
+    "placement picker",
+    "camera unchanged",
+    "scene/saved/draft unchanged",
+    "multi-selection shortcut",
+    "local select-all boundary",
+    "empty local scope hides object toolbar",
+    "local overview preserves collapse and fine-panel state",
+    "English/German/Simplified Chinese layouts",
+    "9 isolated liquid/fill capability cases",
+    "existing transform calculations unchanged"
+  ],
+  "frames": [
+    {
+      "state": "compact",
+      "language": null,
+      "height": 156
+    },
+    {
+      "state": "fine",
+      "language": null,
+      "height": 301
+    },
+    {
+      "state": "more",
+      "language": null,
+      "height": 301
+    },
+    {
+      "state": "placement",
+      "language": null,
+      "height": 301
+    },
+    {
+      "state": "multiple",
+      "language": null,
+      "height": 156
+    },
+    {
+      "state": "local-all",
+      "language": null,
+      "height": 156
+    },
+    {
+      "state": "local-return",
+      "language": null,
+      "height": 301
+    },
+    {
+      "state": "locale",
+      "language": "en",
+      "height": 156
+    },
+    {
+      "state": "locale",
+      "language": "de",
+      "height": 156
+    },
+    {
+      "state": "locale",
+      "language": "zh-Hans",
+      "height": 156
+    }
+  ],
+  "controlledChecksPreservedSceneSavedDraft": true,
+  "laterLiveEditsDetected": true,
+  "responseToLiveEdits": "Stopped UI switching; did not cancel or overwrite the current work",
+  "limitations": [
+    "OS large-text settings were not changed on the actively edited phone",
+    "App remains portrait-locked; no physical landscape claim",
+    "Only physical-device screenshot is published; discarded simulator launch diagnostics are excluded"
+  ]
+}

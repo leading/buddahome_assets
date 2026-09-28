@@ -1,0 +1,6 @@
+{
+  "cases": 126,
+  "minEnabledRatio": 4.140307071625874,
+  "minDisabledRatio": 3.0411995965568175,
+  "method": "Numeric alpha-compositing checks in both sRGB and linear-light spaces. White is the luminance upper bound for arbitrary SDR image colors; not a certification or ambient-light guarantee."
+}

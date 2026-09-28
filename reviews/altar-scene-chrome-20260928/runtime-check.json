@@ -1,0 +1,22 @@
+{
+  "source": "connected physical iPhone runtime properties",
+  "buttons": [
+    {
+      "name": "resetView",
+      "disabled": false,
+      "color": "#faf8f3"
+    },
+    {
+      "name": "edit",
+      "disabled": false,
+      "color": "#faf8f3"
+    },
+    {
+      "name": "profile",
+      "disabled": false,
+      "color": "#faf8f3"
+    }
+  ],
+  "screenshotCaptured": false,
+  "note": "Subsequent screenshot attempt could not connect to the phone inspector; the PNG is a style comparison, not a phone screenshot."
+}

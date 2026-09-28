@@ -1,0 +1,184 @@
+{
+  "defaultAfterExpand": true,
+  "move": {
+    "controls": [
+      {
+        "height": 44,
+        "label": "X · 左右移动",
+        "width": 44,
+        "x": 21,
+        "y": 777
+      },
+      {
+        "height": 44,
+        "label": "Y · 上下移动",
+        "width": 44,
+        "x": 71,
+        "y": 777
+      },
+      {
+        "height": 44,
+        "label": "Z · 前后移动",
+        "width": 44,
+        "x": 121,
+        "y": 777
+      },
+      {
+        "height": 44,
+        "label": "移动",
+        "width": 44,
+        "x": 173,
+        "y": 777
+      },
+      {
+        "height": 44,
+        "label": "移动",
+        "width": 44,
+        "x": 271,
+        "y": 777
+      },
+      {
+        "height": 44,
+        "label": "重置",
+        "width": 64,
+        "x": 323,
+        "y": 777
+      }
+    ],
+    "detailsSelected": true,
+    "fontConsistent": true,
+    "insideRow": true,
+    "mode": "move",
+    "oneLine": true,
+    "panel": {
+      "height": 249,
+      "width": 384,
+      "x": 12,
+      "y": 613
+    },
+    "resetWidth": 64,
+    "row": {
+      "height": 44,
+      "width": 366,
+      "x": 21,
+      "y": 777
+    },
+    "texts": [
+      {
+        "fontSize": 14,
+        "kind": "label"
+      },
+      {
+        "fontSize": 14,
+        "kind": "label"
+      },
+      {
+        "fontSize": 14,
+        "kind": "label"
+      },
+      {
+        "fontSize": 14,
+        "kind": "value"
+      },
+      {
+        "fontSize": 14,
+        "kind": "label"
+      }
+    ],
+    "xyzGaps": [
+      6,
+      6
+    ]
+  },
+  "rotate": {
+    "controls": [
+      {
+        "height": 44,
+        "label": "旋转 X",
+        "width": 44,
+        "x": 21,
+        "y": 777
+      },
+      {
+        "height": 44,
+        "label": "旋转 Y",
+        "width": 44,
+        "x": 71,
+        "y": 777
+      },
+      {
+        "height": 44,
+        "label": "旋转 Z",
+        "width": 44,
+        "x": 121,
+        "y": 777
+      },
+      {
+        "height": 44,
+        "label": "旋转",
+        "width": 44,
+        "x": 173,
+        "y": 777
+      },
+      {
+        "height": 44,
+        "label": "旋转",
+        "width": 44,
+        "x": 271,
+        "y": 777
+      },
+      {
+        "height": 44,
+        "label": "重置",
+        "width": 64,
+        "x": 323,
+        "y": 777
+      }
+    ],
+    "detailsSelected": true,
+    "fontConsistent": true,
+    "insideRow": true,
+    "mode": "rotate",
+    "oneLine": true,
+    "panel": {
+      "height": 219,
+      "width": 384,
+      "x": 12,
+      "y": 613
+    },
+    "resetWidth": 64,
+    "row": {
+      "height": 44,
+      "width": 366,
+      "x": 21,
+      "y": 777
+    },
+    "texts": [
+      {
+        "fontSize": 14,
+        "kind": "label"
+      },
+      {
+        "fontSize": 14,
+        "kind": "label"
+      },
+      {
+        "fontSize": 14,
+        "kind": "label"
+      },
+      {
+        "fontSize": 14,
+        "kind": "value"
+      },
+      {
+        "fontSize": 14,
+        "kind": "label"
+      }
+    ],
+    "xyzGaps": [
+      6,
+      6
+    ]
+  },
+  "baselinePreserved": true
+}

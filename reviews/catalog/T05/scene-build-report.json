@@ -1,0 +1,187 @@
+{
+  "nodeCount": 35,
+  "distinctAssets": 28,
+  "collisionFreeModelPairs": 595,
+  "supportContacts": [
+    {
+      "instance": "buddha",
+      "parent": "altar",
+      "actualContactSamples": 39079,
+      "nearestContactMeters": 0.0005002021789550781,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "vase-left",
+      "parent": "altar",
+      "actualContactSamples": 5816,
+      "nearestContactMeters": 0.0005002021789550781,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "vase-right",
+      "parent": "altar",
+      "actualContactSamples": 5903,
+      "nearestContactMeters": 0.0005002021789550781,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "table-lamp",
+      "parent": "altar",
+      "actualContactSamples": 11600,
+      "nearestContactMeters": 0.0005002021789550781,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "incense-burner",
+      "parent": "altar",
+      "actualContactSamples": 11673,
+      "nearestContactMeters": 0.0005000829696655273,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "fruit-plate",
+      "parent": "altar",
+      "actualContactSamples": 3410,
+      "nearestContactMeters": 0.0005002021789550781,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "orange-a",
+      "parent": "fruit-plate",
+      "actualContactSamples": 2146,
+      "nearestContactMeters": 0.0005000382661819458,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "orange-b",
+      "parent": "fruit-plate",
+      "actualContactSamples": 2146,
+      "nearestContactMeters": 0.0005000382661819458,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "citrus-a",
+      "parent": "fruit-plate",
+      "actualContactSamples": 2106,
+      "nearestContactMeters": 0.0005000382661819458,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "citrus-b",
+      "parent": "fruit-plate",
+      "actualContactSamples": 2106,
+      "nearestContactMeters": 0.0005000382661819458,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "white-flower-bowl",
+      "parent": "altar",
+      "actualContactSamples": 4228,
+      "nearestContactMeters": 0.0005002021789550781,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "tea-tray",
+      "parent": "altar",
+      "actualContactSamples": 2140,
+      "nearestContactMeters": 0.0005002021789550781,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "teapot",
+      "parent": "tea-tray",
+      "actualContactSamples": 11838,
+      "nearestContactMeters": 0.0005001378012821078,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "tea-saucer",
+      "parent": "tea-tray",
+      "actualContactSamples": 2015,
+      "nearestContactMeters": 0.0004999408847652376,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "single-white-flower",
+      "parent": "tea-tray",
+      "actualContactSamples": 6023,
+      "nearestContactMeters": 0.0004998996737413108,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "cushion",
+      "parent": "mat",
+      "actualContactSamples": 4964,
+      "nearestContactMeters": 0.0004999637603759766,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "water-basin",
+      "parent": "mat",
+      "actualContactSamples": 4994,
+      "nearestContactMeters": 0.0005000866949558258,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    }
+  ],
+  "sourceHashes": {
+    "T05-30": "f268ce5b516b37ca7fd3f33799bcb1da8641566ef42e597e1aca041840622726",
+    "T05-01": "e15d1f0cc16324023e54ed64f1311d407287e89f7859c081f69e5c210a437400",
+    "T05-17": "1e8bb2d994ae5bfc481cc3c5ad86ab19c8fdc372ddc1b5cd0e8959ef5f189e73",
+    "T05-25": "1c9cac20e7f4685dfa7dd92f7a0a16380a93d359c735047fe85a81b1eb08d78a",
+    "T05-02": "758b6d2fb4357941b65feee24e961a0cc244e6d8bbfcc7949614ed9533ae9726",
+    "T05-04": "217afba0be22bdf85d4bc2dcb3d7629feeb9df310f114382bbaa4031879ed735",
+    "T05-05": "2b2a90126c8e7a37d3f87f6fc96df07b3c30b889394189eb28d726dac185cfcd",
+    "T05-19": "d0530de77e211f05b203df5fd9aceefcbeb064d72693092c179552202f0cfde5",
+    "T05-20": "f9b3b953a46184be03a840f664d107fcd407f5b9a0c1d44e155a52400573ff09",
+    "T05-06": "9a6f511068494649dfbc3532d252a433f971310d09443b48021488e88e7366de",
+    "T05-07": "ae3c5f719edee4d896aac065859c03401befd6ad5c653ef207667da549f6e132",
+    "T05-18": "394cf0db53cbd2ee88295b5567a2dfa9189e6e0238ae4c11acbff7be5667c003",
+    "T05-08": "91653d9919d7102c03099e41a04c76a96afc47c412384bd1c17f84ec8beed901",
+    "T05-09": "1a2db0ff8a82d323d9f7ada8f4c9cf7d37615d6e38a2e9f20b3ef1a929d57dde",
+    "T05-10": "c1b90f1ae10215c0b64cc0c29b23f4e307da0bb9e64cae1f9cd17ef60d6aecb0",
+    "T05-11": "7fc3b7d5b6a6a1e7953d69d0f29e269083535ed9befecef19108e565c5fb30d4",
+    "T05-23": "c5c44e45f9db8b4c4551155093b8ae25b2aa1e573806de6962b94d19327359f2",
+    "T05-21": "4981962ae10f0389cf26fb0be73af4b910ef0f2ba89761aa5068b708f6ed6949",
+    "T05-22": "6f5c8daec2e88e431b1dbbcad466c055308967b8c0108843a430f759e68b6746",
+    "T05-14": "3e438542ac51c42a05c2ef634daa7d17b41fd84b8166ff38062a3199d76d0f5d",
+    "T05-12": "c6d65e08b741c6484acd3bebe851633971b6d6408bd5df7635e3f0bad2497b34",
+    "T05-26": "589408564cf2410506139be32c5f61ac1ea1c7cd058936305ec13a9168e72411",
+    "T05-13": "12c8237f614877df69ff451b24a69966ef7e8be21dafd022ad3652128d72100d",
+    "T05-24": "8ba7b5a74d284ae307687e25019df1831658afeba63b3972df407bcc21ede43a",
+    "T05-16": "2f64621442eafc08190642af8d57745389255f7c1a29386d4db0fbd53ed6a0ed",
+    "T05-27": "d014efcdba4a63ec65386a1f83397cdc5ed60b619354085944a06aeb602647d8",
+    "T05-28": "c1f12f01b574837d85c0b7d8b19f80ce615924604d64c5702ba70c6c037031f7",
+    "T05-29": "d9e59a18a85ab14266c2aa6e52daf81bf37ac8c673276d33c689215101ce92a2"
+  },
+  "sceneSha256": "c5c71d28e7559f14d18ea72129a133d56b580ec0530ddf6fe52f1d90f47875f6",
+  "runtimeVerified": false,
+  "notes": [
+    "Authored initial editable layout; repeated quantities are not asserted photograph counts.",
+    "Unlit wax and incense, empty tea cup, numeric pot tea stock; basin contains 60% nominal safe water volume with world-scale conversion.",
+    "Lotus and leaf use current water-contact support anchors; later automatic buoyancy/water-level following is not claimed.",
+    "Separate 2D foreground and water-layer images remain internal source references, not counterfeit 3D nodes."
+  ],
+  "coverSize": [
+    1080,
+    1890
+  ],
+  "coverSha256": "175a4dbb809352202405627fb9fe3bbc6b2c65a0215cf841dfc563eeeef16935",
+  "renderer": "Blender Cycles; actual saved model transforms, camera and background crop; not an App screenshot"
+}

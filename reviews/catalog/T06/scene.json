@@ -1,0 +1,975 @@
+{
+  "schemaVersion": 1,
+  "placementPolicy": "free",
+  "units": "meters",
+  "nodes": [
+    {
+      "id": "mat",
+      "name": "前景独立地毯",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": null,
+      "asset": {
+        "entityId": "12861ab7-0a0c-4a63-bc4f-0cd4d672ab56",
+        "revisionId": "928b328f-260b-42b2-9de8-2cd7cd5f7c26"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.0,
+          0.0,
+          0.7799999713897705
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "altar",
+      "name": "供桌或主题主台",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": null,
+      "asset": {
+        "entityId": "4278a98a-e64e-4631-90b5-01ea188c4ef4",
+        "revisionId": "0d46c097-f3f4-43c7-810a-09f347fecac7"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.0,
+          0.0,
+          -0.18000000715255737
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "buddha",
+      "name": "坐佛",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "altar",
+      "asset": {
+        "entityId": "15948db5-c677-41dd-972a-3e8dcc28e36e",
+        "revisionId": "41582753-a779-4868-acc5-f90c48501e0c"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.0,
+          0.37321868538856506,
+          -0.034999996423721313
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "vase-left",
+      "name": "空花瓶",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "altar",
+      "asset": {
+        "entityId": "bd96c752-80ad-4567-8071-cf10899307e4",
+        "revisionId": "330e4f0f-d5a4-47ea-954a-f173df836a04"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          -0.46000000834465027,
+          0.3714679777622223,
+          -0.07999998331069946
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.8199999928474426
+      }
+    },
+    {
+      "id": "bouquet-left",
+      "name": "花枝花束",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "vase-left",
+      "asset": {
+        "entityId": "e5adcbed-517f-4b1d-8e94-9abfb0841b5c",
+        "revisionId": "bca190ad-a1cf-44fe-987f-7c3b2cab5b9d"
+      },
+      "fillEnabled": false,
+      "attachment": {
+        "targetId": "vase-left",
+        "mode": "insert",
+        "depth": 0.020000000298023225,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "transform": {
+        "position": [
+          0.01274069957435131,
+          0.27549999952316284,
+          -0.14795060455799103
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "vase-right",
+      "name": "右侧松枝空花瓶",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "altar",
+      "asset": {
+        "entityId": "6ead7348-7181-47f2-b56b-6f2e25c7e167",
+        "revisionId": "af3042cb-e3d5-4327-bd72-f0d7340b4848"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.46000000834465027,
+          0.3707984983921051,
+          -0.07999998331069946
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.8199999928474426
+      }
+    },
+    {
+      "id": "bouquet-right",
+      "name": "松枝组合",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "vase-right",
+      "asset": {
+        "entityId": "8830cf74-5d2a-47a4-ae70-f2f2015dac70",
+        "revisionId": "a6cca3c5-8569-412c-853d-ea7c41242a9f"
+      },
+      "fillEnabled": false,
+      "attachment": {
+        "targetId": "vase-right",
+        "mode": "insert",
+        "depth": 0.011999999284744264,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "transform": {
+        "position": [
+          0.07516510039567947,
+          0.28349998593330383,
+          0.04214970022439957
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "paper-lamp",
+      "name": "空烛台或灯盏",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "altar",
+      "asset": {
+        "entityId": "8bafaa9f-240f-4391-8924-e2e256266fa6",
+        "revisionId": "d0811a6c-eba8-424f-9015-9d46001773f9"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          -0.2849999964237213,
+          0.3711598217487335,
+          -0.06999999284744263
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.6800000071525574
+      }
+    },
+    {
+      "id": "fuel-insert",
+      "name": "未点燃灯芯",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "paper-lamp",
+      "asset": {
+        "entityId": "93482d4a-a05b-461b-bdcf-b25eea181114",
+        "revisionId": "bee7caef-ec3e-4a15-aac1-a99e4017aa93"
+      },
+      "fillEnabled": false,
+      "attachment": {
+        "targetId": "paper-lamp",
+        "mode": "insert",
+        "depth": 0.15701674354076384,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "transform": {
+        "position": [
+          0.03426919877529144,
+          0.17098325490951538,
+          -7.329999789362773e-05
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "incense-burner",
+      "name": "空香炉",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "altar",
+      "asset": {
+        "entityId": "afd03c7e-75c4-4cf9-a2a7-ab3bec9c6e3b",
+        "revisionId": "f0d58a91-b39d-4b99-8601-007e22d1049a"
+      },
+      "fillEnabled": true,
+      "transform": {
+        "position": [
+          0.0,
+          0.36140504479408264,
+          0.1599999964237213
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.550000011920929
+      }
+    },
+    {
+      "id": "incense-1",
+      "name": "未点燃线香",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "incense-burner",
+      "asset": {
+        "entityId": "37f2b82d-cede-4eb0-8f26-7eb38ee796c1",
+        "revisionId": "8f747562-22c5-461f-bfc2-a8623d4df560"
+      },
+      "fillEnabled": false,
+      "attachment": {
+        "targetId": "incense-burner",
+        "mode": "insert",
+        "depth": 0.0168,
+        "offset": [
+          -0.013,
+          0
+        ]
+      },
+      "transform": {
+        "position": [
+          -0.013003000058233738,
+          0.06686490029096603,
+          -8.040000102482736e-05
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "incense-2",
+      "name": "未点燃线香",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "incense-burner",
+      "asset": {
+        "entityId": "37f2b82d-cede-4eb0-8f26-7eb38ee796c1",
+        "revisionId": "8f747562-22c5-461f-bfc2-a8623d4df560"
+      },
+      "fillEnabled": false,
+      "attachment": {
+        "targetId": "incense-burner",
+        "mode": "insert",
+        "depth": 0.0168,
+        "offset": [
+          0,
+          0
+        ]
+      },
+      "transform": {
+        "position": [
+          -3.000000106112566e-06,
+          0.06686490029096603,
+          -8.040000102482736e-05
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "incense-3",
+      "name": "未点燃线香",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "incense-burner",
+      "asset": {
+        "entityId": "37f2b82d-cede-4eb0-8f26-7eb38ee796c1",
+        "revisionId": "8f747562-22c5-461f-bfc2-a8623d4df560"
+      },
+      "fillEnabled": false,
+      "attachment": {
+        "targetId": "incense-burner",
+        "mode": "insert",
+        "depth": 0.0168,
+        "offset": [
+          0.013,
+          0
+        ]
+      },
+      "transform": {
+        "position": [
+          0.01299699954688549,
+          0.06686490029096603,
+          -8.040000102482736e-05
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "fruit-plate",
+      "name": "空供盘",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "altar",
+      "asset": {
+        "entityId": "8181c01e-f394-45ed-a205-98de0a1ddf27",
+        "revisionId": "3569f955-716c-4042-a6f3-19eaabc8b7b3"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          -0.2800000011920929,
+          0.3635897934436798,
+          0.14000000059604645
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.6000000238418579
+      }
+    },
+    {
+      "id": "orange",
+      "name": "橙子",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "fruit-plate",
+      "asset": {
+        "entityId": "2806108c-c3a5-4fb1-bdf4-f37c1fc35b50",
+        "revisionId": "259814ad-78e3-473d-9770-33bee9029bef"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          -0.024999946355819702,
+          0.051247358322143555,
+          7.450580596923828e-09
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.6799999475479126
+      }
+    },
+    {
+      "id": "persimmon-shaped-fruit",
+      "name": "柿子状供果",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "fruit-plate",
+      "asset": {
+        "entityId": "507f3e7f-9a53-4ba2-97d7-ec6eb8959988",
+        "revisionId": "ec163459-cd27-4182-b9ab-44764252ce20"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.02500009536743164,
+          0.051247239112854004,
+          7.450580596923828e-09
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.6799999475479126
+      }
+    },
+    {
+      "id": "date-bowl",
+      "name": "红枣空供碗",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "altar",
+      "asset": {
+        "entityId": "dc430b47-f737-4614-a7cd-30dddf241821",
+        "revisionId": "0e9f641f-8c27-4dc1-a896-b2a0ec59e4a3"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.23499999940395355,
+          0.36148300766944885,
+          0.14000000059604645
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.699999988079071
+      }
+    },
+    {
+      "id": "date-1",
+      "name": "红枣",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "date-bowl",
+      "asset": {
+        "entityId": "a0b5eafa-176e-4bb2-9cd6-cac58a8b6e0c",
+        "revisionId": "4fdab755-c2f1-407a-8b90-dcd0049f1a37"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          -0.02399998903274536,
+          0.028924405574798584,
+          -3.725290298461914e-09
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "date-2",
+      "name": "红枣",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "date-bowl",
+      "asset": {
+        "entityId": "a0b5eafa-176e-4bb2-9cd6-cac58a8b6e0c",
+        "revisionId": "4fdab755-c2f1-407a-8b90-dcd0049f1a37"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.018000006675720215,
+          0.028750240802764893,
+          0.011999998241662979
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "date-3",
+      "name": "红枣",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "date-bowl",
+      "asset": {
+        "entityId": "a0b5eafa-176e-4bb2-9cd6-cac58a8b6e0c",
+        "revisionId": "4fdab755-c2f1-407a-8b90-dcd0049f1a37"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.0,
+          0.02891099452972412,
+          -0.024000007659196854
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "brass-vessel",
+      "name": "小型黄铜空盖器",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "altar",
+      "asset": {
+        "entityId": "3596a8fc-7286-4f44-bdb8-c80d3722d4c3",
+        "revisionId": "04b244cc-418c-4457-ad8f-af2eac02360c"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.27000001072883606,
+          0.37100961804389954,
+          -0.0949999988079071
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.6499999761581421
+      }
+    },
+    {
+      "id": "brass-lid",
+      "name": "小型黄铜器盖",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "brass-vessel",
+      "asset": {
+        "entityId": "57a4dbf2-9050-4482-8d73-0c923bd85c95",
+        "revisionId": "d943c0a5-15ef-405f-8b4b-38f1c1665028"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.0,
+          0.09327981621026993,
+          -0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "cushion",
+      "name": "坐垫",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "mat",
+      "asset": {
+        "entityId": "f38f2c97-f707-4d7a-b3f5-588e6eb9de92",
+        "revisionId": "4ba55702-a0ce-4161-ad16-2fedb754c708"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          -0.3400000035762787,
+          0.03880349546670914,
+          0.18000000715255737
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "low-tea-table",
+      "name": "前方独立矮茶案",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "mat",
+      "asset": {
+        "entityId": "ed8e745b-0c64-4fd0-8b83-3497d5c6d629",
+        "revisionId": "f5489322-35f8-47fe-b1d1-2fa2d8344043"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.3199999928474426,
+          0.03987041860818863,
+          0.13999998569488525
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.7799999713897705
+      }
+    },
+    {
+      "id": "tea-tray",
+      "name": "茶托",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "low-tea-table",
+      "asset": {
+        "entityId": "ce1f530e-ca43-446f-9cf9-baea411a3b87",
+        "revisionId": "f58af42a-1e0f-4577-9886-ed62441ba1cd"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.09999999403953552,
+          0.14603012800216675,
+          -0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "scripture",
+      "name": "经书",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "low-tea-table",
+      "asset": {
+        "entityId": "4171ae47-d253-4558-b922-b98ba50d5688",
+        "revisionId": "d710ce7e-e2be-4109-860a-204d0cc2eee9"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          -0.23000000417232513,
+          0.14603012800216675,
+          -0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.75
+      }
+    },
+    {
+      "id": "teapot",
+      "name": "茶壶",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "tea-tray",
+      "asset": {
+        "entityId": "6119cdc4-bbdb-4e39-bee4-e41b5c4e54e6",
+        "revisionId": "d0f46b7b-52f2-41c8-a031-2eff1cfdf9a4"
+      },
+      "fillEnabled": false,
+      "liquid": {
+        "volumeMl": 100.65067687929503,
+        "type": "tea"
+      },
+      "transform": {
+        "position": [
+          -0.06500005722045898,
+          0.005729511380195618,
+          -0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.6000000238418579
+      }
+    },
+    {
+      "id": "tea-saucer",
+      "name": "青瓷独立杯碟",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "tea-tray",
+      "asset": {
+        "entityId": "ecee8684-4c4e-4748-9b2c-8d0a67e4f9e5",
+        "revisionId": "e2ca76f6-2599-45c4-b3c3-cdc246c7ec55"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.06499999761581421,
+          0.00565868616104126,
+          -0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.75
+      }
+    },
+    {
+      "id": "tea-cup",
+      "name": "空茶杯",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "tea-saucer",
+      "asset": {
+        "entityId": "61564c9f-097c-4403-aba9-e50c31a55e32",
+        "revisionId": "214de8d5-45fb-40a1-9825-dbf76f514e62"
+      },
+      "fillEnabled": false,
+      "liquid": {
+        "volumeMl": 0,
+        "type": "tea"
+      },
+      "transform": {
+        "position": [
+          0.0,
+          0.021016156300902367,
+          -0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "small-plum-tray",
+      "name": "茶托",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "low-tea-table",
+      "asset": {
+        "entityId": "ce1f530e-ca43-446f-9cf9-baea411a3b87",
+        "revisionId": "f58af42a-1e0f-4577-9886-ed62441ba1cd"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.07999998331069946,
+          0.15020793676376343,
+          0.18500006198883057
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.6999999284744263
+      }
+    },
+    {
+      "id": "small-plum",
+      "name": "小枝白梅",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "small-plum-tray",
+      "asset": {
+        "entityId": "56613ecb-afdd-4b5d-8ba6-bf2fa5f5ed31",
+        "revisionId": "e504099c-e4a8-420b-b266-93f195e41b86"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.0,
+          0.020164737477898598,
+          -0.0
+        ],
+        "rotation": [
+          -0.046350039541721344,
+          -0.6982723474502563,
+          -0.6308064460754395,
+          0.33518749475479126
+        ],
+        "scale": 1.0
+      }
+    },
+    {
+      "id": "incense-lid",
+      "name": "古铜香炉盖",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "low-tea-table",
+      "asset": {
+        "entityId": "c2865f99-a0c4-43d1-9b0e-315f9fafc1f9",
+        "revisionId": "89f90f7e-0112-4aae-9ed3-14e942840c2a"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          -0.23000000417232513,
+          0.15042680501937866,
+          -0.1799999475479126
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.5
+      }
+    },
+    {
+      "id": "stone-stand",
+      "name": "供石木托",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "mat",
+      "asset": {
+        "entityId": "1af2d375-db1b-4af6-9e81-91b611261f09",
+        "revisionId": "2edb9b6b-a3bf-45a0-affe-8cbcfe3f774a"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          -0.6299999952316284,
+          0.03682485967874527,
+          -0.3799999952316284
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 0.7799999713897705
+      }
+    },
+    {
+      "id": "display-stone",
+      "name": "灰色供石",
+      "nameSource": "resource",
+      "type": "asset",
+      "parentId": "stone-stand",
+      "asset": {
+        "entityId": "3db962bb-e9d2-4307-a473-9cf2a9d8a1eb",
+        "revisionId": "6b831240-4e4d-4e26-907c-19d49e7057a5"
+      },
+      "fillEnabled": false,
+      "transform": {
+        "position": [
+          0.0,
+          0.08901981264352798,
+          -0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          -0.0,
+          1.0
+        ],
+        "scale": 1.0
+      }
+    }
+  ],
+  "background": {
+    "entityId": "7f9172a4-3f41-4fb0-b570-2626d32fe8d1",
+    "revisionId": "469188e2-9195-48ca-b122-de5d59a18d44"
+  },
+  "camera": {
+    "position": [
+      0.0,
+      2.184999942779541,
+      5.550000190734863
+    ],
+    "target": [
+      0,
+      0.4,
+      0.45
+    ],
+    "fov": 43
+  },
+  "crop": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "aspect": 0.5714285714285714
+}

@@ -1,0 +1,222 @@
+{
+  "nodeCount": 34,
+  "distinctAssets": 29,
+  "collisionFreeModelPairs": 561,
+  "supportContacts": [
+    {
+      "instance": "buddha",
+      "parent": "altar",
+      "actualContactSamples": 40522,
+      "nearestContactMeters": 0.000499640591442585,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "vase-left",
+      "parent": "altar",
+      "actualContactSamples": 5434,
+      "nearestContactMeters": 0.0004997296491637826,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "vase-right",
+      "parent": "altar",
+      "actualContactSamples": 7616,
+      "nearestContactMeters": 0.0004995301133021712,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "paper-lamp",
+      "parent": "altar",
+      "actualContactSamples": 8959,
+      "nearestContactMeters": 0.0004997012438252568,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "incense-burner",
+      "parent": "altar",
+      "actualContactSamples": 10938,
+      "nearestContactMeters": 0.0004994995542801917,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "fruit-plate",
+      "parent": "altar",
+      "actualContactSamples": 3553,
+      "nearestContactMeters": 0.0004997318028472364,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "orange",
+      "parent": "fruit-plate",
+      "actualContactSamples": 2200,
+      "nearestContactMeters": 0.0004999823868274689,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "persimmon-shaped-fruit",
+      "parent": "fruit-plate",
+      "actualContactSamples": 2481,
+      "nearestContactMeters": 0.0004998035728931427,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "date-bowl",
+      "parent": "altar",
+      "actualContactSamples": 4022,
+      "nearestContactMeters": 0.0004995597410015762,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "date-1",
+      "parent": "date-bowl",
+      "actualContactSamples": 2385,
+      "nearestContactMeters": 0.0004997490905225277,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "date-2",
+      "parent": "date-bowl",
+      "actualContactSamples": 2385,
+      "nearestContactMeters": 0.0004997319774702191,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "date-3",
+      "parent": "date-bowl",
+      "actualContactSamples": 2385,
+      "nearestContactMeters": 0.0004996536881662905,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "brass-vessel",
+      "parent": "altar",
+      "actualContactSamples": 6462,
+      "nearestContactMeters": 0.0004997343057766557,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "cushion",
+      "parent": "mat",
+      "actualContactSamples": 6043,
+      "nearestContactMeters": 0.000500085880048573,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "low-tea-table",
+      "parent": "mat",
+      "actualContactSamples": 10639,
+      "nearestContactMeters": 0.0005598915158770978,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "tea-tray",
+      "parent": "low-tea-table",
+      "actualContactSamples": 1860,
+      "nearestContactMeters": 0.0005000829696655273,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "scripture",
+      "parent": "low-tea-table",
+      "actualContactSamples": 1887,
+      "nearestContactMeters": 0.0005000829696655273,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "teapot",
+      "parent": "tea-tray",
+      "actualContactSamples": 10658,
+      "nearestContactMeters": 0.0005000802921131253,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "tea-saucer",
+      "parent": "tea-tray",
+      "actualContactSamples": 2190,
+      "nearestContactMeters": 0.0004999022930860519,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "small-plum-tray",
+      "parent": "low-tea-table",
+      "actualContactSamples": 1860,
+      "nearestContactMeters": 0.0009378045797348022,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "incense-lid",
+      "parent": "low-tea-table",
+      "actualContactSamples": 7144,
+      "nearestContactMeters": 0.0005000829696655273,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "instance": "stone-stand",
+      "parent": "mat",
+      "actualContactSamples": 10824,
+      "nearestContactMeters": 0.0005000011879019439,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    }
+  ],
+  "sourceHashes": {
+    "T06-30": "f1786dd1fde61c109b99c6e73858d9d7512402b7c0af096dcaefeed047a1bd70",
+    "T06-01": "0084de70cab63f2eac712189c8eb65309198ced843071272e02d3004b28e4b9f",
+    "T06-02": "9224a7b13717a890e1348ac4cd1a1826e533c23f51b9ac9d8fdd13edfd55a799",
+    "T06-04": "1343ff8afb1edc5ca545be49406d9fa12513556a7334806cc94e729f6a7a5e49",
+    "T06-05": "41968ae5dd075b585047b8aba1d9d6b8d17099f1ef2c6bd3c71f29a17461ec61",
+    "T06-22": "3cb9aa307c9a28853518aea10a636792d725896020ca291862ec043b0d40c4ba",
+    "T06-23": "1cd679ee268037eb207717f7f3ac1395c1ac454779a7db39c4f51c4d915065e1",
+    "T06-06": "2a3ee642f88b330a522ab8554e208b6a5c5a9ae15f05edd9d87eed40a2a6b153",
+    "T06-07": "0e2c69bcd21d25759e7c702f6502e80ea4a3e850fd0dc819063fa558fad72379",
+    "T06-08": "7d746a18db3d6398c79123b4d6b96a91cfe0af7c3e1df6070d520c624b672b38",
+    "T06-09": "a0eb9cbe39785e1e67c22b8e50d9794c5f8c2dba1ac53138c02788a92c79e89d",
+    "T06-10": "3179db886f5a3ffebd97573a0e54179eb75a4ef2895f6f1cb58c90fc555eeba0",
+    "T06-11": "385c3109724530daf4d227640697ba0b1ccf797730546a9319243181f790a702",
+    "T06-27": "c0d54ea298e6d35669cde63378f808a707b9ab5321a37b1875efd7a9758eec5d",
+    "T06-20": "c9a18722c13b05a620d1d63779604b65267c3d7cbe7a2ffa6cf0c01b3bce3a54",
+    "T06-21": "10a82ddfc24699b63d0ffc3cbcb4273009218cdf74abdaaed3c1f0993bc84ebf",
+    "T06-17": "b69f09c28688ffe4261abbef3080cd2caaa43acfe6af5246f6fe7f1eb7b19d85",
+    "T06-18": "b4eb51320f48938738385763ec7ceae2dcc939519fcca55abfe5ed018fcd18cf",
+    "T06-16": "711f5ef4945ea5006a9b5d98bda40fd40a7fdcd7db5793126f687d34c9382b96",
+    "T06-29": "1f240893bbf9aea94781178030cfcc34d234a51c19933ea3444ca9a01468beb7",
+    "T06-14": "b73f70c61fa35b90093d1f8e21bb3af81d39defed4742ec83d3ec1924f8fde11",
+    "T06-15": "c90eebb681caa83807959ab949988d859e01a88b028894799a198bb670a1fc06",
+    "T06-12": "71162964acaa460c95ef511a69b2d0e0ce3ff09b7e40b77350a7912c4db53baa",
+    "T06-26": "0c7794e4e3d2eb25045ef063694d64bd054b15f0382d1cdf388068532e6a735e",
+    "T06-13": "45e276ef9f906d22e506c2726c82e7befc5a43ba372fd0d7ac69ba02509b6a6b",
+    "T06-28": "5a520f327e39a8e543824a7812ee0d0a5c8bda5469dd14744473dceaa516816b",
+    "T06-19": "a4f389227cb55d7c7c2316336690a5e16dfc3a892b6d7010edb609c7df2fadf1",
+    "T06-25": "ee297657ad861abc588973776640fb788e2d1c397e876ad42671955f5baa630d",
+    "T06-24": "ab6c23f64401508d881ec04f38b61561ac576ec269187d97fd03175b022b00b8"
+  },
+  "sceneSha256": "c031df0d6fe63d5afbf1de99875d0edeb6343affcad2aaa8c73754217adc8a90",
+  "runtimeVerified": false,
+  "notes": [
+    "Authored initial editable layout; repeated quantities are not asserted photograph counts.",
+    "Unlit independent fuel insert and incense, empty tea cup, numeric pot tea stock with world-scale conversion.",
+    "White-covered lamp keeps its source appearance with an authored rough transmission approximation; no measured optical or device claim.",
+    "Separate foreground plum 2D layer remains an internal source reference."
+  ]
+}

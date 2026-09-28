@@ -1,6 +1,6 @@
 {
   "theme": "T05",
-  "updatedAt": "2026-09-28T04:54:27.805941+00:00",
+  "updatedAt": "2026-09-28T05:13:58.138017+00:00",
   "scope": "Source image and actual imported GLB renders; publishing does not establish acceptance.",
   "items": [
     {
@@ -153,9 +153,9 @@
       "visualReview": "pending",
       "artifactState": "prepared_pending_visual_review",
       "preparedReview": {
-        "path": "T05-06/9a6f51106849/prepared/debc96e4fee7",
-        "modelSha256": "debc96e4fee745b9a87062649019dae8354fd5b020980cc3767386e409439f0b",
-        "previewSha256": "f1f0b4e93222d728564528eb69749eb902005961678633869f49626505d09abc"
+        "path": "T05-06/9a6f51106849/prepared/13b529187faf",
+        "modelSha256": "13b529187faf1ffb2d88fa7742c13ae468a2a1f5990917649b5412ad247f391b",
+        "previewSha256": "fd13084e21a4c8397b2cceaa6636d30253ca9d571a2052f002ec32c1e8d4df1d"
       }
     },
     {
@@ -461,7 +461,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "artifactState": "static_prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-17/1e8bb2d994ae/prepared/4c824ea7f41a",
+        "modelSha256": "4c824ea7f41a769d6636f05e6f2e02642bf6fb64dd3143626b1ded91e2002958",
+        "previewSha256": "aa58f782bcb8afb76d5b0b0845b5c70ea970b5400330b89ff4d3ca0d5e2660e1"
+      }
     },
     {
       "id": "T05-18",
@@ -815,7 +820,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "static_prepared_pending_visual_review"
+      "artifactState": "static_prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-29/d9e59a18a85a/prepared/042a9a48628e",
+        "modelSha256": "042a9a48628e761b97853159b2e9fc7b96cabd696d860465b571aac91beabbb5",
+        "previewSha256": "e250c7aa0f746d31d0bf747ef732e8178a4ce8014e67c7880bf88ea10e21cf81"
+      }
     },
     {
       "id": "T05-30",
@@ -857,9 +867,9 @@
       "previewSha256": "f42447c85ba6427c62c7a577afe22484e164e0ba4b58ac37d75010d148ab6759"
     },
     {
-      "path": "combinations/T05_floating/e9032a2af67c",
-      "reportSha256": "e9032a2af67c0ef7a3d6431105050dbc1ad536bc023fb63192554cdef01112f3",
-      "previewSha256": "bf58d6b0aeb0a4f682e6a320c10d4306b015159cb44913dbbe7d830235765f46"
+      "path": "combinations/T05_floating/a83a933acd6b",
+      "reportSha256": "a83a933acd6b8713cc4c68da5b4491ec31bb730710a910821f4c6b06e7f062fc",
+      "previewSha256": "0897675c575e7e7f199b36f02883fda79858f4e937ef0438b4f5c5d065a00d9e"
     },
     {
       "path": "combinations/T05_flower-left/344a9c7af3a4",
@@ -917,9 +927,9 @@
       "previewSha256": "fdc625225f7765bf8908589489b7815be68927a2285efd91062b204b95db1e7b"
     },
     {
-      "path": "combinations/T05_wax-table/405d496207b5",
-      "reportSha256": "405d496207b5089e30e529ea2c4b07db5d3f689a0acd8edfae0a7bc6cc6adc10",
-      "previewSha256": "a66a8070cb966f309826a7e3925418ee15bde65741a00e6014e702cd828b7235"
+      "path": "combinations/T05_wax-table/eebaa777f9e5",
+      "reportSha256": "eebaa777f9e5f8dda94097f7dbc06ddea72186b238bebdd8a4925d8d417106e9",
+      "previewSha256": "3cede0cca76b7e18aae19c082a6be72c005ae54fb54ccc20bb2f123dc1c23ebd"
     },
     {
       "path": "combinations/T05_white-flower-tray/480ad28d94d0",

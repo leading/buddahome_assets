@@ -36,7 +36,7 @@
 
 适配版：
 
-![T05-06 prepared](T05-06/9a6f51106849/prepared/debc96e4fee7/preview.jpg)
+![T05-06 prepared](T05-06/9a6f51106849/prepared/13b529187faf/preview.jpg)
 
 ## T05-07 未点燃蜡芯
 
@@ -105,6 +105,10 @@
 ## T05-17 雕木金饰背屏
 
 ![T05-17](T05-17/1e8bb2d994ae/comparison.jpg)
+
+适配版：
+
+![T05-17 prepared](T05-17/1e8bb2d994ae/prepared/4c824ea7f41a/preview.jpg)
 
 ## T05-18 悬挂古铜空灯笼
 
@@ -178,6 +182,10 @@
 
 ![T05-29](T05-29/d9e59a18a85a/comparison.jpg)
 
+适配版：
+
+![T05-29 prepared](T05-29/d9e59a18a85a/prepared/042a9a48628e/preview.jpg)
+
 ## T05-30 天然编织地席
 
 ![T05-30](T05-30/f268ce5b516b/comparison.jpg)
@@ -196,9 +204,9 @@
 
 ## 组合验证预览
 
-![assembly](combinations/T05_floating/e9032a2af67c/preview.jpg)
+![assembly](combinations/T05_floating/a83a933acd6b/preview.jpg)
 
-[几何验证报告](combinations/T05_floating/e9032a2af67c/report.json)
+[几何验证报告](combinations/T05_floating/a83a933acd6b/report.json)
 
 ## 组合验证预览
 
@@ -268,9 +276,9 @@
 
 ## 组合验证预览
 
-![assembly](combinations/T05_wax-table/405d496207b5/preview.jpg)
+![assembly](combinations/T05_wax-table/eebaa777f9e5/preview.jpg)
 
-[几何验证报告](combinations/T05_wax-table/405d496207b5/report.json)
+[几何验证报告](combinations/T05_wax-table/eebaa777f9e5/report.json)
 
 ## 组合验证预览
 

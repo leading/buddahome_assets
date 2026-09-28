@@ -1,0 +1,77 @@
+{
+  "browser": {
+    "pending": {
+      "status": 401,
+      "hashCleared": true,
+      "secureContext": false
+    },
+    "loaded": {
+      "canvas": true,
+      "controls": true,
+      "hashCleared": true
+    },
+    "security": {
+      "noCsrf": 403,
+      "draftItems": 0,
+      "publishedItems": 40,
+      "disallowed": 403
+    },
+    "savedWithCover": true,
+    "admin": 1,
+    "revoked": 401,
+    "defaultUnchanged": true
+  },
+  "security": {
+    "qrGeneratedInAdmin": true,
+    "inviteSingleUse": true,
+    "otherBrowserDenied": true,
+    "checks": {
+      "crossThemeDraft": true,
+      "rangeStatus": 206,
+      "rangeBytes": 24,
+      "concurrentStatuses": [
+        200,
+        409
+      ],
+      "httpUuid": true,
+      "secureContext": false
+    },
+    "expiryEnforced": true,
+    "scratchRecovered": true
+  },
+  "core": {
+    "viewportCases": 12,
+    "logicalAndPhysicalPixelParity": true,
+    "localCameraParity": true,
+    "historyBounded": true,
+    "undoRedo": true,
+    "productionHttpRejected": true,
+    "lanHttpAllowed": true,
+    "devAndProductionCookiesSeparated": true,
+    "reactRemountQueueRecovery": true
+  },
+  "native": {
+    "ready": true,
+    "size": {
+      "height": 896,
+      "width": 414
+    },
+    "dpr": 2,
+    "objects": 53,
+    "canUndo": false,
+    "draft": false,
+    "sameScene": true,
+    "sameSavedScene": true
+  },
+  "physicalSafari": {
+    "physicalSafari": true,
+    "lanPageVisible": true,
+    "requestButtonVisible": true,
+    "paired": false,
+    "inspectorEnabled": false
+  },
+  "cleanup": {
+    "revoked": 0,
+    "deleted": 1
+  }
+}

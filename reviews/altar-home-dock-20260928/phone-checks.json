@@ -1,0 +1,255 @@
+{
+  "collapsed": {
+    "buttons": [
+      {
+        "disabled": true,
+        "label": "重置视角",
+        "name": "resetView"
+      },
+      {
+        "disabled": true,
+        "label": "编辑佛堂",
+        "name": "edit"
+      },
+      {
+        "disabled": true,
+        "label": "我的",
+        "name": "profile"
+      },
+      {
+        "disabled": true,
+        "label": "布置与音乐",
+        "name": "tools"
+      },
+      {
+        "disabled": false,
+        "label": "展开快捷操作",
+        "name": "tools"
+      }
+    ],
+    "clip": {
+      "hidden": true,
+      "pointerEvents": "none"
+    },
+    "geometry": {
+      "height": 56,
+      "width": 252,
+      "x": 144,
+      "y": 806
+    },
+    "hits": [
+      {
+        "label": null,
+        "x": 28
+      },
+      {
+        "label": null,
+        "x": 76
+      },
+      {
+        "label": null,
+        "x": 124
+      },
+      {
+        "label": null,
+        "x": 172
+      },
+      {
+        "label": "展开快捷操作",
+        "x": 224
+      }
+    ],
+    "menu": false,
+    "oldTopBar": false
+  },
+  "expanded": {
+    "buttons": [
+      {
+        "disabled": false,
+        "label": "重置视角",
+        "name": "resetView"
+      },
+      {
+        "disabled": false,
+        "label": "编辑佛堂",
+        "name": "edit"
+      },
+      {
+        "disabled": false,
+        "label": "我的",
+        "name": "profile"
+      },
+      {
+        "disabled": false,
+        "label": "布置与音乐",
+        "name": "tools"
+      },
+      {
+        "disabled": false,
+        "label": "收起快捷操作",
+        "name": "collapseHorizontal"
+      }
+    ],
+    "clip": {
+      "hidden": false,
+      "pointerEvents": "box-none"
+    },
+    "geometry": {
+      "height": 56,
+      "width": 252,
+      "x": 144,
+      "y": 806
+    },
+    "hits": [
+      {
+        "label": "重置视角",
+        "x": 28
+      },
+      {
+        "label": "编辑佛堂",
+        "x": 76
+      },
+      {
+        "label": "我的",
+        "x": 124
+      },
+      {
+        "label": "布置与音乐",
+        "x": 172
+      },
+      {
+        "label": "收起快捷操作",
+        "x": 224
+      }
+    ],
+    "menu": false,
+    "oldTopBar": false
+  },
+  "menu": {
+    "buttons": [
+      {
+        "disabled": false,
+        "label": "重置视角",
+        "name": "resetView"
+      },
+      {
+        "disabled": false,
+        "label": "编辑佛堂",
+        "name": "edit"
+      },
+      {
+        "disabled": false,
+        "label": "我的",
+        "name": "profile"
+      },
+      {
+        "disabled": false,
+        "label": "布置与音乐",
+        "name": "tools"
+      },
+      {
+        "disabled": false,
+        "label": "收起快捷操作",
+        "name": "collapseHorizontal"
+      }
+    ],
+    "clip": {
+      "hidden": false,
+      "pointerEvents": "box-none"
+    },
+    "geometry": {
+      "height": 56,
+      "width": 252,
+      "x": 144,
+      "y": 806
+    },
+    "hits": [
+      {
+        "label": "重置视角",
+        "x": 28
+      },
+      {
+        "label": "编辑佛堂",
+        "x": 76
+      },
+      {
+        "label": "我的",
+        "x": 124
+      },
+      {
+        "label": "布置与音乐",
+        "x": 172
+      },
+      {
+        "label": "收起快捷操作",
+        "x": 224
+      }
+    ],
+    "menu": true,
+    "oldTopBar": false
+  },
+  "collapsedAfterMenu": {
+    "buttons": [
+      {
+        "disabled": true,
+        "label": "重置视角",
+        "name": "resetView"
+      },
+      {
+        "disabled": true,
+        "label": "编辑佛堂",
+        "name": "edit"
+      },
+      {
+        "disabled": true,
+        "label": "我的",
+        "name": "profile"
+      },
+      {
+        "disabled": true,
+        "label": "布置与音乐",
+        "name": "tools"
+      },
+      {
+        "disabled": false,
+        "label": "展开快捷操作",
+        "name": "tools"
+      }
+    ],
+    "clip": {
+      "hidden": true,
+      "pointerEvents": "none"
+    },
+    "geometry": {
+      "height": 56,
+      "width": 252,
+      "x": 144,
+      "y": 806
+    },
+    "hits": [
+      {
+        "label": null,
+        "x": 28
+      },
+      {
+        "label": null,
+        "x": 76
+      },
+      {
+        "label": null,
+        "x": 124
+      },
+      {
+        "label": null,
+        "x": 172
+      },
+      {
+        "label": "展开快捷操作",
+        "x": 224
+      }
+    ],
+    "menu": false,
+    "oldTopBar": false
+  },
+  "dataUnchanged": true
+}

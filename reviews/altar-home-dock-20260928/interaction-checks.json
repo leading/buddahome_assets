@@ -1,0 +1,48 @@
+{
+  "animation": {
+    "final": 0,
+    "hidden": true,
+    "intermediate": true,
+    "samples": 30
+  },
+  "cameraRestored": true,
+  "dataUnchanged": true,
+  "editor": {
+    "colors": {
+      "accentBackground": "#e2e6d9",
+      "activeBackground": "#e2e6d9",
+      "background": "#ffffff",
+      "border": "#ecece6",
+      "disabled": "#7e807b",
+      "foreground": "#252824",
+      "pressed": "#e2e6d9",
+      "selected": "#e2e6d9"
+    },
+    "dockHidden": true,
+    "opened": true,
+    "sharedMenu": true
+  },
+  "panels": [
+    {
+      "actualKind": "music",
+      "kind": "music",
+      "opened": true
+    },
+    {
+      "actualKind": "asset",
+      "kind": "asset",
+      "opened": true
+    },
+    {
+      "actualKind": "background",
+      "kind": "background",
+      "opened": true
+    },
+    {
+      "actualKind": "theme",
+      "kind": "theme",
+      "opened": true
+    }
+  ],
+  "resetView": true
+}

@@ -1,0 +1,58 @@
+{
+  "frames": [
+    {
+      "height": 896,
+      "id": "altar-model-preview-safe-area",
+      "width": 414,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "height": 58,
+      "id": "altar-model-preview-header",
+      "width": 414,
+      "x": 0,
+      "y": 48
+    },
+    {
+      "height": 44,
+      "label": "返回",
+      "role": "button",
+      "width": 44,
+      "x": 14,
+      "y": 55
+    },
+    {
+      "height": 20,
+      "label": "空烛台或灯盏",
+      "role": "header",
+      "width": 298,
+      "x": 58,
+      "y": 67
+    },
+    {
+      "height": 622,
+      "id": "altar-model-preview-viewport",
+      "width": 414,
+      "x": 0,
+      "y": 106
+    }
+  ],
+  "hits": [
+    {
+      "button": "返回",
+      "x": 36,
+      "y": 77
+    },
+    {
+      "button": "返回",
+      "x": 20,
+      "y": 61
+    },
+    {
+      "button": "返回",
+      "x": 52,
+      "y": 93
+    }
+  ]
+}

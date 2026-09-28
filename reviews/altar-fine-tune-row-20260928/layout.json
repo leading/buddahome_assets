@@ -1,0 +1,77 @@
+{
+  "canUndoPreserved": true,
+  "controls": [
+    {
+      "height": 44,
+      "kind": "button",
+      "label": "X · 左右移动",
+      "width": 44,
+      "x": 51,
+      "y": 556
+    },
+    {
+      "height": 44,
+      "kind": "button",
+      "label": "Y · 上下移动",
+      "width": 44,
+      "x": 95,
+      "y": 556
+    },
+    {
+      "height": 44,
+      "kind": "button",
+      "label": "Z · 前后移动",
+      "width": 44,
+      "x": 139,
+      "y": 556
+    },
+    {
+      "height": 44,
+      "kind": "button",
+      "label": "移动",
+      "width": 44,
+      "x": 185,
+      "y": 556
+    },
+    {
+      "height": 24,
+      "kind": "value",
+      "label": null,
+      "width": 76,
+      "x": 229,
+      "y": 566
+    },
+    {
+      "height": 44,
+      "kind": "button",
+      "label": "移动",
+      "width": 44,
+      "x": 305,
+      "y": 556
+    },
+    {
+      "height": 44,
+      "kind": "button",
+      "label": "重置",
+      "width": 44,
+      "x": 349,
+      "y": 556
+    }
+  ],
+  "detailsDefaultSelected": true,
+  "insideRow": true,
+  "oneLine": true,
+  "panel": {
+    "height": 249,
+    "width": 360,
+    "x": 42,
+    "y": 392
+  },
+  "resetPresent": true,
+  "row": {
+    "height": 44,
+    "width": 342,
+    "x": 51,
+    "y": 556
+  }
+}

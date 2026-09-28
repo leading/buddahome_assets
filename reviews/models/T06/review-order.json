@@ -30,5 +30,22 @@
     "T06-29",
     "T06-30"
   ],
-  "combinations": []
+  "combinations": [
+    "T06-08_T06-09",
+    "T06-08_T06-19_盖件",
+    "T06-12_T06-13_倾倒姿态",
+    "T06-17_T06-18_盖件",
+    "T06_dates-bowl",
+    "T06_flower-left",
+    "T06_front-tea-table",
+    "T06_fuel-lamp",
+    "T06_main-table",
+    "T06_mat-cushion",
+    "T06_orange",
+    "T06_persimmon",
+    "T06_pine-right",
+    "T06_plum-tray",
+    "T06_saucer",
+    "T06_stone-stand"
+  ]
 }

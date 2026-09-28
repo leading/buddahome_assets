@@ -1,0 +1,90 @@
+{
+  "mode": "main-table",
+  "assetIds": [
+    "T06-01",
+    "T06-02",
+    "T06-04",
+    "T06-05"
+  ],
+  "contacts": [
+    {
+      "assetId": "T06-02",
+      "positionBlender": [
+        0.0,
+        0.0,
+        0.3719393312931061
+      ],
+      "scale": 1,
+      "actualContactSamples": 40522,
+      "nearestContactMeters": 0.0004996394854970276,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "assetId": "T06-04",
+      "positionBlender": [
+        -0.4000000059604645,
+        0.0,
+        0.3688610792160034
+      ],
+      "scale": 1,
+      "actualContactSamples": 5434,
+      "nearestContactMeters": 0.0004997583455406129,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    }
+  ],
+  "collisionFreePairs": [
+    [
+      "T06-01",
+      "T06-02"
+    ],
+    [
+      "T06-01",
+      "T06-04"
+    ],
+    [
+      "T06-01",
+      "T06-05"
+    ],
+    [
+      "T06-02",
+      "T06-04"
+    ],
+    [
+      "T06-02",
+      "T06-05"
+    ],
+    [
+      "T06-04",
+      "T06-05"
+    ]
+  ],
+  "meshIntersectionPairs": 0,
+  "scope": "Actual contact and nested free grouping on current source geometry.",
+  "sourceHashes": {
+    "T06-01": "0084de70cab63f2eac712189c8eb65309198ced843071272e02d3004b28e4b9f",
+    "T06-02": "9224a7b13717a890e1348ac4cd1a1826e533c23f51b9ac9d8fdd13edfd55a799",
+    "T06-04": "1343ff8afb1edc5ca545be49406d9fa12513556a7334806cc94e729f6a7a5e49",
+    "T06-05": "41968ae5dd075b585047b8aba1d9d6b8d17099f1ef2c6bd3c71f29a17461ec61"
+  },
+  "modelHashes": {
+    "T06-01": "aeb3a7bde9ecb53f95a81a03ff17f37c877af06ed13481854c4e468aef76fc55",
+    "T06-02": "9224a7b13717a890e1348ac4cd1a1826e533c23f51b9ac9d8fdd13edfd55a799",
+    "T06-04": "346dfb835c6dbe61aec9f5e5340c90e875f9040dc9108ab4f5afe32d036dce8d",
+    "T06-05": "b1f7d79d2bc38653505017a6325a71cbeb07364907688145fe0100a64f722a47"
+  },
+  "configHashes": {
+    "T06-01": "4ecc59a0c919b9430e56ecdaf3c4b824c20237a2dc690c853f0a66f7b152a8d7",
+    "T06-02": "e94fdd675f9a66c55b75e7b6d47cdc8e3acf7249054a0b84a6adc95bfe599d13",
+    "T06-04": "45f9408833c3c45dedd608bac51a1446fd64b12309097e8a546330b0a39c840d",
+    "T06-05": "c99a58131b98ec5a1bb94f6ff75e2f4f4dacc843e8ad21b4a431a370ea2637da"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "399ef5af5abe46daefe5d799f9c4797525308601b53b704970aabf21dfa4b1bb",
+    "组合验证.blend": "885979087f75042ae1befabc17a28c7c8d70337c6cf27e178aa361a5bb9879cf",
+    "组合预览.png": "e862561b9eeed47762f51eef7daed96e39ceb6522195249d962ae6b33915d58b"
+  }
+}

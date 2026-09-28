@@ -158,6 +158,10 @@
 
 ![T06-25](T06-25/ee297657ad86/comparison.jpg)
 
+适配版：
+
+![T06-25 prepared](T06-25/ee297657ad86/prepared/05f95bc6694b/preview.jpg)
+
 ## T06-26 青瓷独立杯碟
 
 ![T06-26](T06-26/0c7794e4e3d2/comparison.jpg)
@@ -185,3 +189,99 @@
 ## T06-30 前景独立地毯
 
 ![T06-30](T06-30/f1786dd1fde6/comparison.jpg)
+
+## 组合验证预览
+
+![assembly](combinations/T06-08_T06-09/1fa1b7300eda/preview.jpg)
+
+[几何验证报告](combinations/T06-08_T06-09/1fa1b7300eda/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T06-08_T06-19_盖件/3d024bfb0e6e/preview.jpg)
+
+[几何验证报告](combinations/T06-08_T06-19_盖件/3d024bfb0e6e/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T06-12_T06-13_倾倒姿态/c5d9b1fe04d6/preview.jpg)
+
+[几何验证报告](combinations/T06-12_T06-13_倾倒姿态/c5d9b1fe04d6/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T06-17_T06-18_盖件/4e84f0e56dc2/preview.jpg)
+
+[几何验证报告](combinations/T06-17_T06-18_盖件/4e84f0e56dc2/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T06_dates-bowl/7091b683d5cf/preview.jpg)
+
+[几何验证报告](combinations/T06_dates-bowl/7091b683d5cf/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T06_flower-left/1126293a28be/preview.jpg)
+
+[几何验证报告](combinations/T06_flower-left/1126293a28be/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T06_front-tea-table/f61ddf46a81d/preview.jpg)
+
+[几何验证报告](combinations/T06_front-tea-table/f61ddf46a81d/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T06_fuel-lamp/4e070143b303/preview.jpg)
+
+[几何验证报告](combinations/T06_fuel-lamp/4e070143b303/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T06_main-table/362c8558712d/preview.jpg)
+
+[几何验证报告](combinations/T06_main-table/362c8558712d/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T06_mat-cushion/b60adbd8daca/preview.jpg)
+
+[几何验证报告](combinations/T06_mat-cushion/b60adbd8daca/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T06_orange/743058df57a4/preview.jpg)
+
+[几何验证报告](combinations/T06_orange/743058df57a4/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T06_persimmon/7a7045e52ced/preview.jpg)
+
+[几何验证报告](combinations/T06_persimmon/7a7045e52ced/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T06_pine-right/e70e671606c4/preview.jpg)
+
+[几何验证报告](combinations/T06_pine-right/e70e671606c4/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T06_plum-tray/d08f5511554f/preview.jpg)
+
+[几何验证报告](combinations/T06_plum-tray/d08f5511554f/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T06_saucer/9ef955c02686/preview.jpg)
+
+[几何验证报告](combinations/T06_saucer/9ef955c02686/report.json)
+
+## 组合验证预览
+
+![assembly](combinations/T06_stone-stand/de3b3f3d0907/preview.jpg)
+
+[几何验证报告](combinations/T06_stone-stand/de3b3f3d0907/report.json)

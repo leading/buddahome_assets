@@ -1,0 +1,42 @@
+{
+  "parent": "T06-26",
+  "child": "T06-13",
+  "mode": "saucer",
+  "actualContactSamples": 3172,
+  "nearestContactMeters": 0.0004997010692022741,
+  "supportClearanceMeters": 0.0005,
+  "meshIntersectionPairs": 0,
+  "parentTransformError": 9.313225746154785e-09,
+  "detachWorldError": 0.0,
+  "relativePositionBlenderXYZ": [
+    0.0,
+    0.0,
+    0.021016156300902367
+  ],
+  "rotationQuaternionWXYZ": [
+    1.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "sourceGeometryMaterialsPreserved": true,
+  "sourceHashes": {
+    "T06-26": "0c7794e4e3d2eb25045ef063694d64bd054b15f0382d1cdf388068532e6a735e",
+    "T06-13": "45e276ef9f906d22e506c2726c82e7befc5a43ba372fd0d7ac69ba02509b6a6b"
+  },
+  "modelHashes": {
+    "T06-26": "998edddca6b1f6b599831deaea13c87f77f35c4c0ebcf913f09621434369e575",
+    "T06-13": "a5dac92d780e54dea7a780bc57afb76b52154abd647863f2270b7ac76fed7577"
+  },
+  "configHashes": {
+    "T06-26": "7a8d15d10c4b5ffa389f118903018be74f67bbd9dff94134ae6b1d68a18b0024",
+    "T06-13": "852f4b9b5ad60892a5b305431bd78577296c541ee9a49287dfd2d80737c481a7"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "668d294b6737edeaf2d6b813691446c4062f3cfc3476ebff7da1d1bcbcf2ae7a",
+    "组合验证.blend": "62dd554c2f8b130b08899a1e155d41de9774c723ddbc4be19d2b621139c65bd1",
+    "组合预览.png": "c84794ff898516cb6ea1548ece2462ac1e2c62a16715151eac3da954a3ced26e"
+  }
+}

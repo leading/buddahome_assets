@@ -1,0 +1,155 @@
+{
+  "mode": "front-tea-table",
+  "assetIds": [
+    "T06-29",
+    "T06-14",
+    "T06-15",
+    "T06-12",
+    "T06-26",
+    "T06-13"
+  ],
+  "contacts": [
+    {
+      "assetId": "T06-14",
+      "positionBlender": [
+        0.10000000149011612,
+        0.0,
+        0.14603009819984436
+      ],
+      "scale": 1,
+      "actualContactSamples": 1860,
+      "nearestContactMeters": 0.0005000680685043335,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "assetId": "T06-15",
+      "positionBlender": [
+        -0.23999999463558197,
+        0.0,
+        0.14603009819984436
+      ],
+      "scale": 0.8,
+      "actualContactSamples": 1887,
+      "nearestContactMeters": 0.0005000680685043335,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "assetId": "T06-12",
+      "actualContactSamples": 10658,
+      "nearestContactMeters": 0.0005000357632525265,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "assetId": "T06-26",
+      "actualContactSamples": 2190,
+      "nearestContactMeters": 0.0004998873919248581,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    },
+    {
+      "assetId": "T06-13",
+      "actualContactSamples": 3172,
+      "nearestContactMeters": 0.0004997103824280202,
+      "supportClearanceMeters": 0.0005,
+      "meshIntersectionPairs": 0
+    }
+  ],
+  "collisionFreePairs": [
+    [
+      "T06-29",
+      "T06-14"
+    ],
+    [
+      "T06-29",
+      "T06-15"
+    ],
+    [
+      "T06-29",
+      "T06-12"
+    ],
+    [
+      "T06-29",
+      "T06-26"
+    ],
+    [
+      "T06-29",
+      "T06-13"
+    ],
+    [
+      "T06-14",
+      "T06-15"
+    ],
+    [
+      "T06-14",
+      "T06-12"
+    ],
+    [
+      "T06-14",
+      "T06-26"
+    ],
+    [
+      "T06-14",
+      "T06-13"
+    ],
+    [
+      "T06-15",
+      "T06-12"
+    ],
+    [
+      "T06-15",
+      "T06-26"
+    ],
+    [
+      "T06-15",
+      "T06-13"
+    ],
+    [
+      "T06-12",
+      "T06-26"
+    ],
+    [
+      "T06-12",
+      "T06-13"
+    ],
+    [
+      "T06-26",
+      "T06-13"
+    ]
+  ],
+  "meshIntersectionPairs": 0,
+  "scope": "Actual contact and nested free grouping on current source geometry.",
+  "sourceHashes": {
+    "T06-29": "1f240893bbf9aea94781178030cfcc34d234a51c19933ea3444ca9a01468beb7",
+    "T06-14": "b73f70c61fa35b90093d1f8e21bb3af81d39defed4742ec83d3ec1924f8fde11",
+    "T06-15": "c90eebb681caa83807959ab949988d859e01a88b028894799a198bb670a1fc06",
+    "T06-12": "71162964acaa460c95ef511a69b2d0e0ce3ff09b7e40b77350a7912c4db53baa",
+    "T06-26": "0c7794e4e3d2eb25045ef063694d64bd054b15f0382d1cdf388068532e6a735e",
+    "T06-13": "45e276ef9f906d22e506c2726c82e7befc5a43ba372fd0d7ac69ba02509b6a6b"
+  },
+  "modelHashes": {
+    "T06-29": "dfde0b2e1e965df562160c5e89d923d11e9c6919f2de58e084de075687c5fbfe",
+    "T06-14": "00b2b8d4b82e831529eda43b171fe1d484aa5151066f17d8408befd6fcbace57",
+    "T06-15": "c90eebb681caa83807959ab949988d859e01a88b028894799a198bb670a1fc06",
+    "T06-12": "276154c8ffaec0b31117492e4da592323c77f0c21d49a98c1ebc9e90abf4290d",
+    "T06-26": "998edddca6b1f6b599831deaea13c87f77f35c4c0ebcf913f09621434369e575",
+    "T06-13": "a5dac92d780e54dea7a780bc57afb76b52154abd647863f2270b7ac76fed7577"
+  },
+  "configHashes": {
+    "T06-29": "3c4a03a28b9792c3a2c35438eac31cd5d6185d1b18f1946d96810dd62ccc4e6c",
+    "T06-14": "5396ed2a7191665555de68b85b14e8352a117fb9b49ceabf7a631a6d5de9b216",
+    "T06-15": "a14a3b699dd122bb987f2c594ae008c0fe9b4e5e358aef13d9214fba97ab1586",
+    "T06-12": "a3cb07213932fc04fb95db9d891baa9f5cd716a29c564ccd4f3788b27a1f9a8c",
+    "T06-26": "7a8d15d10c4b5ffa389f118903018be74f67bbd9dff94134ae6b1d68a18b0024",
+    "T06-13": "852f4b9b5ad60892a5b305431bd78577296c541ee9a49287dfd2d80737c481a7"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "4450bf4300c63a3ed5e2b21298798879ad947c9c965a0d4dff0ffb930e50501e",
+    "组合验证.blend": "8bbc1a3bdbbd911c341cf7463c5a9b3e88a430be6b41881a38cbdf5f64cdcee8",
+    "组合预览.png": "eb2ab9d434a62de0ecba07e30021d0e394e592af25bef991a6b6770ce2620ddb"
+  }
+}

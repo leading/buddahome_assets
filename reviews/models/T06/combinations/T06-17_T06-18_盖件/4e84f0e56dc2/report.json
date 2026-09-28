@@ -1,0 +1,39 @@
+{
+  "body": "T06-17",
+  "lid": "T06-18",
+  "measuredRestingHeightMeters": 0.09327981519699097,
+  "supportClearanceMeters": 0.0005,
+  "contactRayPairs": 15053,
+  "maximumContactPointXY": [
+    0.034196384251117706,
+    0.034196387976408005
+  ],
+  "lidBaseRadiusMeters": 0.050181006606151504,
+  "lidOuterCoverRadiusMeters": 0.050181006606151504,
+  "lowerRingFitsInsideOpening": false,
+  "openingRadiusMeters": 0.0445676,
+  "coversOpening": true,
+  "meshIntersectionPairs": 0,
+  "parentTransformError": 7.450580596923828e-09,
+  "detachWorldError": 0.0,
+  "scope": "Static lid fitted as a freely movable/groupable prop using actual top/bottom surfaces; no automatic opening or smoke-occlusion runtime claimed.",
+  "sourceHashes": {
+    "T06-17": "b69f09c28688ffe4261abbef3080cd2caaa43acfe6af5246f6fe7f1eb7b19d85",
+    "T06-18": "b4eb51320f48938738385763ec7ceae2dcc939519fcca55abfe5ed018fcd18cf"
+  },
+  "modelHashes": {
+    "T06-17": "976f53a80ad2f89bab597a3c379dc386a6e56b69ad2a5843645f958072f0c638",
+    "T06-18": "b4eb51320f48938738385763ec7ceae2dcc939519fcca55abfe5ed018fcd18cf"
+  },
+  "configHashes": {
+    "T06-17": "b7e2788490682e022662b5abd75cab83559a2be3a2f2c007a58497a95dae096b",
+    "T06-18": "2470b47d2cc95c54ee7ae0f4bb556a2d9feaecb1e6d8c08cee4f820f2ca469f2"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "1bde140ab2499dc591c574e1a415c37cf091dfff7825635a3effc2c129eed02f",
+    "组合验证.blend": "b3358f6d83c511ecb61ccb8fde0385e67a9bc5ca10758be3f177f4d0327346b6",
+    "组合预览.png": "cbeada6b4990c691e640ab9d40f2265c0d52fec3b5e09b0a1d6ec34cb619ef7a"
+  }
+}

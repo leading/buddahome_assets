@@ -1,0 +1,39 @@
+{
+  "parent": "T06-06",
+  "child": "T06-07",
+  "mode": "fuel-lamp",
+  "depthMeters": 0.15701674354076384,
+  "profileSamples": 83,
+  "meshIntersectionPairs": 0,
+  "actualFloorContact": {
+    "nearestFinalContactMeters": 0.000500023365020752,
+    "visibleSideWindowRays": 0,
+    "defaultUnlit": true
+  },
+  "parentTransformError": 7.450580596923828e-09,
+  "detachWorldError": 0.0,
+  "relativePositionBlenderXYZ": [
+    0.03426917642354965,
+    7.327832281589508e-05,
+    0.17098326981067657
+  ],
+  "runtimeVerified": false,
+  "sourceHashes": {
+    "T06-06": "2a3ee642f88b330a522ab8554e208b6a5c5a9ae15f05edd9d87eed40a2a6b153",
+    "T06-07": "0e2c69bcd21d25759e7c702f6502e80ea4a3e850fd0dc819063fa558fad72379"
+  },
+  "modelHashes": {
+    "T06-06": "0ec9a3a303a9047dcad254b889dba6537951381867435fa61c444ac4430c5194",
+    "T06-07": "963e83e965813f94ca242d55609054cbd8b0babca1755b5841dd1c30956df732"
+  },
+  "configHashes": {
+    "T06-06": "b08a29729999e650d27f737fa2099964f76709a1150ff45fa1abe2e0aa3d9065",
+    "T06-07": "26698c78482ddbfdee959aeb38077118163a8103ad730906ab9f4178688f6ee3"
+  },
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "a844e6238646859b4f238a0d07a82fdbf58bd2da9957cba238ec95dab3e95b3e",
+    "组合验证.blend": "5abc587f20e8ef0ef1405d62c22b9cc0f8b3da3fe0cfbf7922fc1f06644615a1",
+    "组合预览.png": "69217478dc04a7e2173e3d8dd894ae43f90fc54e92ec80cb98e645facb0dc98b"
+  }
+}

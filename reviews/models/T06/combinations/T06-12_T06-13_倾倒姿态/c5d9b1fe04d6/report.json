@@ -1,0 +1,87 @@
+{
+  "pot": "T06-12",
+  "cup": "T06-13",
+  "capacityMl": 981.9268943976928,
+  "closedProxyVolumeMl": 981.9269035887554,
+  "proxySha256": "86d2b873a278f2d7a9258f89509907710daba27cffa6152142378e351f435ab5",
+  "flowRateMlPerSecond": 45,
+  "flowRateIsAuthoredPreset": true,
+  "tiltDegrees": 55,
+  "outletAlignmentErrorMeters": 2.266125237046177e-08,
+  "restorePoseError": 0.0,
+  "potCupMeshIntersections": 0,
+  "gravityCenterlineSegmentsClear": 64,
+  "visibleInternalPotLiquidAbsent": true,
+  "sourceGeometryMaterialsPreserved": true,
+  "receiverAcceptsTea": true,
+  "transferLedger": [
+    {
+      "sourceBeforeMl": 0,
+      "targetBeforeMl": 0,
+      "seconds": 1,
+      "transferMl": 0,
+      "sourceAfterMl": 0,
+      "targetAfterMl": 0
+    },
+    {
+      "sourceBeforeMl": 981.9268943976928,
+      "targetBeforeMl": 79.26912039961108,
+      "seconds": 1,
+      "transferMl": 0,
+      "sourceAfterMl": 981.9268943976928,
+      "targetAfterMl": 79.26912039961108
+    },
+    {
+      "sourceBeforeMl": 981.9268943976928,
+      "targetBeforeMl": 0,
+      "seconds": 1,
+      "transferMl": 45,
+      "sourceAfterMl": 936.9268943976928,
+      "targetAfterMl": 45
+    },
+    {
+      "sourceBeforeMl": 981.9268943976928,
+      "targetBeforeMl": 0,
+      "seconds": 100,
+      "transferMl": 79.26912039961108,
+      "sourceAfterMl": 902.6577739980817,
+      "targetAfterMl": 79.26912039961108
+    },
+    {
+      "sourceBeforeMl": 0.75,
+      "targetBeforeMl": 0,
+      "seconds": 1,
+      "transferMl": 0.75,
+      "sourceAfterMl": 0.0,
+      "targetAfterMl": 0.75
+    },
+    {
+      "sourceBeforeMl": 981.9268943976928,
+      "targetBeforeMl": 78.76912039961108,
+      "seconds": 1,
+      "transferMl": 0.5,
+      "sourceAfterMl": 981.4268943976928,
+      "targetAfterMl": 79.26912039961108
+    }
+  ],
+  "scope": "Real asset anchors, static pour pose, capacity proxy and offline transfer-contract examples. No running App stream, particle, sound or device behavior is claimed.",
+  "sourceHashes": {
+    "T06-12": "71162964acaa460c95ef511a69b2d0e0ce3ff09b7e40b77350a7912c4db53baa",
+    "T06-13": "45e276ef9f906d22e506c2726c82e7befc5a43ba372fd0d7ac69ba02509b6a6b"
+  },
+  "modelHashes": {
+    "T06-12": "276154c8ffaec0b31117492e4da592323c77f0c21d49a98c1ebc9e90abf4290d",
+    "T06-13": "a5dac92d780e54dea7a780bc57afb76b52154abd647863f2270b7ac76fed7577"
+  },
+  "configHashes": {
+    "T06-12": "a3cb07213932fc04fb95db9d891baa9f5cd716a29c564ccd4f3788b27a1f9a8c",
+    "T06-13": "852f4b9b5ad60892a5b305431bd78577296c541ee9a49287dfd2d80737c481a7"
+  },
+  "runtimeVerified": false,
+  "visualReview": "pending_https_review",
+  "artifactHashes": {
+    "组合验证.glb": "05618f3485d7cb47989f4a8e15ae2e78ff49334b254989e4a929a29f7f518481",
+    "组合验证.blend": "4514496a6bfea48259163bc4814c730fc44f7a35a3c710b42357b182e5f3c04a",
+    "组合预览.png": "f2fd52ab96b691d54ddad39631fc2de2c7443b44ab612529f4c31a0ac8b02f01"
+  }
+}

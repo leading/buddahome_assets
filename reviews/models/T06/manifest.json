@@ -1,6 +1,6 @@
 {
   "theme": "T06",
-  "updatedAt": "2026-09-28T13:06:17.888616+00:00",
+  "updatedAt": "2026-09-28T13:30:53.423117+00:00",
   "scope": "Source image and actual imported GLB renders; publishing does not establish acceptance.",
   "items": [
     {
@@ -724,7 +724,12 @@
         }
       },
       "visualReview": "pending",
-      "artifactState": "failed"
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T06-25/ee297657ad86/prepared/05f95bc6694b",
+        "modelSha256": "05f95bc6694b04e5123555a1bd601d88cee25d1baf0366d36bc5421fb3e26ea4",
+        "previewSha256": "a19bdbc577132c6205a80a674e522326007ebea7dce591f9b6c1ca1b0d4b0b09"
+      }
     },
     {
       "id": "T06-26",
@@ -872,5 +877,86 @@
       "artifactState": "static_prepared_pending_visual_review"
     }
   ],
-  "combinations": []
+  "combinations": [
+    {
+      "path": "combinations/T06-08_T06-09/1fa1b7300eda",
+      "reportSha256": "1fa1b7300eda4e49fcbbc985a07ad1e1dd8ce1f4b0b40ad112b1a9949214a50d",
+      "previewSha256": "5edafdc0e22e61b01f7235656aefc9d15cc7a975e040cef4d73ab9f5b893aee1"
+    },
+    {
+      "path": "combinations/T06-08_T06-19_盖件/3d024bfb0e6e",
+      "reportSha256": "3d024bfb0e6e797b41cf94c668fb49cc008df5ee075bc57e1ed98adf5092a347",
+      "previewSha256": "d28d6f3b483a016bb5334eb7f276a3545b17a128a5440ddc10df4c051a78014d"
+    },
+    {
+      "path": "combinations/T06-12_T06-13_倾倒姿态/c5d9b1fe04d6",
+      "reportSha256": "c5d9b1fe04d69817508fc66e6ccac4f3eaa7da6acaa11a9df91f268e4ce2e26d",
+      "previewSha256": "b5fea22ef782d4dd1773af331b30e03f9c2b9f21e33e6a2e3acec25d476ca7fc"
+    },
+    {
+      "path": "combinations/T06-17_T06-18_盖件/4e84f0e56dc2",
+      "reportSha256": "4e84f0e56dc2d743269c6115d012b82dc8bcb663d2b1612c797607de86ded0ed",
+      "previewSha256": "bc1595176e8208fc272e2932e6cbcd3839bf4f922e2fc89987811e18a06f137e"
+    },
+    {
+      "path": "combinations/T06_dates-bowl/7091b683d5cf",
+      "reportSha256": "7091b683d5cf6fd0369992c5a5c7f8b9e4eb0e834c502cd66189e7ad43881716",
+      "previewSha256": "54106eb10dea08247923002a2f18345853df2a27af2a054fac95553b03b02937"
+    },
+    {
+      "path": "combinations/T06_flower-left/1126293a28be",
+      "reportSha256": "1126293a28be668c36cb19acf38558cb59d4bdf24d1abd3db7c060e806e40388",
+      "previewSha256": "0c68dd32ab59b341d220ad07dd360ddc699769be4c357474c6ffe54462ac619d"
+    },
+    {
+      "path": "combinations/T06_front-tea-table/f61ddf46a81d",
+      "reportSha256": "f61ddf46a81d2724c194889f1a57d5aa8b56228d65c3b2e376d3d729344a612d",
+      "previewSha256": "54fcdbd418256a02b20b15eeda0409a33d412cc28cdc69492e4a45c3453aac1a"
+    },
+    {
+      "path": "combinations/T06_fuel-lamp/4e070143b303",
+      "reportSha256": "4e070143b30315b20bf34bc2b9b68c64e6ec92f1f2dca04d7cacc8309b420057",
+      "previewSha256": "d79f3303b8ef39524bb35a6ebf65918e5054c5ac6a5d631a6a0e20fbf6913050"
+    },
+    {
+      "path": "combinations/T06_main-table/362c8558712d",
+      "reportSha256": "362c8558712d8e3a2955943febbc506f1b100c2cb60febea0bb4d081a4157ba7",
+      "previewSha256": "f371aa826066f9cdb607a1211b81309805b5480b09407dc7154b27cbaf8ed93e"
+    },
+    {
+      "path": "combinations/T06_mat-cushion/b60adbd8daca",
+      "reportSha256": "b60adbd8daca08f87ca571ef01baa56419f19be1e02389f7f1c329191d8d87ae",
+      "previewSha256": "fd743b3de800ce4648ce4ac56fad8922737bba89f4d837dedb6fd2efb11f5aad"
+    },
+    {
+      "path": "combinations/T06_orange/743058df57a4",
+      "reportSha256": "743058df57a4c00134818a25a9cc890ee02f9d1648fbb6d223ff8219ac32c1ba",
+      "previewSha256": "93c8f4ecf8fbe7609a0d5cb6d20009b103730dbe746a6fc7544d44e5ef3e9b88"
+    },
+    {
+      "path": "combinations/T06_persimmon/7a7045e52ced",
+      "reportSha256": "7a7045e52ced6f3025229958ceed93c6452f930845580c36159479bbb6e11a1b",
+      "previewSha256": "596b309198d71bdac31a4666a957cd8d500aaf20090e5d61f35875a5386f03eb"
+    },
+    {
+      "path": "combinations/T06_pine-right/e70e671606c4",
+      "reportSha256": "e70e671606c4f474a5c1d5956c45fd6badc365c63e5c0fbd97f3b7b726439b05",
+      "previewSha256": "2ef0a932d54f5014f257c237085421d490faee13fb0e7f1b36dec444bc40557b"
+    },
+    {
+      "path": "combinations/T06_plum-tray/d08f5511554f",
+      "reportSha256": "d08f5511554f5d07323dd17f47db758ae3f31087c68539d7883dd41882e00643",
+      "previewSha256": "5120e5dc8ac0aa7d5667e6d0a1f73631d8bbc8b2877d7356c862537413c03c51"
+    },
+    {
+      "path": "combinations/T06_saucer/9ef955c02686",
+      "reportSha256": "9ef955c02686a5a525147308650db4afcaf71bde55b43e0fbb1784b6505e1340",
+      "previewSha256": "5f3ca1d3df59ddd9ac769d08f3fed916e5e0d8b8aa93721f88fb55dbb17cec1d"
+    },
+    {
+      "path": "combinations/T06_stone-stand/de3b3f3d0907",
+      "reportSha256": "de3b3f3d0907d4ca23f0d4780426172f37518e3658485c143bc97ef1e70c3215",
+      "previewSha256": "320b78022d471eb21ce12c3e4bc3d46ce08df3340116c76edba44e91c18985dd"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "theme": "T05",
-  "updatedAt": "2026-09-28T04:16:38.260640+00:00",
+  "updatedAt": "2026-09-28T04:42:42.013409+00:00",
   "scope": "Source image and actual imported GLB renders; publishing does not establish acceptance.",
   "items": [
     {
@@ -27,7 +27,13 @@
           "reviewSha256": "6dabc680c42404fbb1a39792e2be7ed317ff385067461dad1cc2c351ec2df9ca"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-01/e15d1f0cc163/prepared/35110e712720",
+        "modelSha256": "35110e71272024cf3417a1f3abe22d26ebfa84acfefa4cac43b1347a0fa23924",
+        "previewSha256": "0d21295c0df0832c08681e8bc489f74bc0cc73c0cac86bb6ee6a6d0c6a0b55df"
+      }
     },
     {
       "id": "T05-02",
@@ -53,7 +59,8 @@
           "reviewSha256": "592449c57eda9953b4f037369b0a73957ecb6fe6b3aba473a4e5ccb395ddcfd8"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T05-04",
@@ -79,7 +86,13 @@
           "reviewSha256": "b2acd8b41ce01c3924e1e456475758bfa9833426bdf877a96f86351d3e28d6b7"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-04/217afba0be22/prepared/59dc68f0cf7b",
+        "modelSha256": "59dc68f0cf7b0fbb86ed2bd11606810fcf2d1047f3b36e5eccd578728e7127f8",
+        "previewSha256": "9fc0dd3e00cbc2b86788561da5aeae8d26a6a5ee5a596c8eda5c3f3bfc033416"
+      }
     },
     {
       "id": "T05-05",
@@ -105,7 +118,13 @@
           "reviewSha256": "7a5978d294f80b87266e182126b7869f5be329e0e81befb1ae4d0293ce654541"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-05/2b2a90126c8e/prepared/a96d53bc269a",
+        "modelSha256": "a96d53bc269aad3570c99eeafacefcc3565a27a8b9d435c9aecf75be9324b72d",
+        "previewSha256": "ffe696a264c477fa351be912ccb7cb903ce39802edb5c4b57f2bf3b1a270527d"
+      }
     },
     {
       "id": "T05-06",
@@ -131,7 +150,13 @@
           "reviewSha256": "a1b32838721bc08f1dcb0aa25b1d23a51231b1833e105be29dda2fffd66a60a5"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-06/9a6f51106849/prepared/debc96e4fee7",
+        "modelSha256": "debc96e4fee745b9a87062649019dae8354fd5b020980cc3767386e409439f0b",
+        "previewSha256": "f1f0b4e93222d728564528eb69749eb902005961678633869f49626505d09abc"
+      }
     },
     {
       "id": "T05-07",
@@ -157,7 +182,13 @@
           "reviewSha256": "e645b6a224f2d2263b2ea03373a1b026b20f4d64f812d2a1b7abf012b1384969"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-07/ae3c5f719ede/prepared/20bef9f4ad30",
+        "modelSha256": "20bef9f4ad3035a4c9de2c68bba7ff728d418368d60b8c6bfd4a826b49f963fd",
+        "previewSha256": "80d50d1f5b29d2d26e24c24d8806dfe41616e966c6fb16a7b389991df0a2b993"
+      }
     },
     {
       "id": "T05-08",
@@ -183,7 +214,13 @@
           "reviewSha256": "367adb02eb4eddfedee94e57af84efbd41df33a66e669a0d9ffc6f163703bf84"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-08/91653d9919d7/prepared/ee3f2502862e",
+        "modelSha256": "ee3f2502862e3a53c008df735f7d4596b80d1e3aca140ce2178915ceea616a80",
+        "previewSha256": "3405647d7e19da0f8c1cb1fc858b0c556429156f018086c70c303e4b7bcca8e3"
+      }
     },
     {
       "id": "T05-09",
@@ -209,7 +246,13 @@
           "reviewSha256": "3c5073ba3e9ad4c8da7d0091efcbbfb97b133334d9763915ac6581d04633431d"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-09/1a2db0ff8a82/prepared/c166839546e9",
+        "modelSha256": "c166839546e9cebacf5daa35e4f847b7e08494fb0f99c2c03ed7420a88c736c6",
+        "previewSha256": "599f8e997f1865dcad8d26cdee20857148ede89e8c114c950d0df5681dc32217"
+      }
     },
     {
       "id": "T05-10",
@@ -235,7 +278,13 @@
           "reviewSha256": "b8d1bbdeab0dbd90992dfd4561817a0ae27dc29411bd7571a15934d061a860c5"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-10/c1b90f1ae102/prepared/66c32aa4ab4c",
+        "modelSha256": "66c32aa4ab4c1755f3ac74dea0bdb81a6313da2af5b47224ded1dac3f48bd485",
+        "previewSha256": "f1267544855e8229064fb15dd431cbd4cda027be061cc0e3da29d6fb16b85877"
+      }
     },
     {
       "id": "T05-11",
@@ -261,7 +310,8 @@
           "reviewSha256": "1a07f1701bd4cc93e9cdab8ad063b361b2b02156879877d41ad62c3f390d19ca"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T05-12",
@@ -287,7 +337,13 @@
           "reviewSha256": "3f64e332da3b0012ce13bdf279533aebe319e4bd030ab5e6c3d81cbd7dc582a8"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-12/c6d65e08b741/prepared/b9bf1f82bdbf",
+        "modelSha256": "b9bf1f82bdbfa80f108a6051e4ff1b7756ba828be501214f28a35fd98e7aef18",
+        "previewSha256": "34b90b8033dcee70976c77cd1dd3db8569123688f86f1e91c06e2ffcb246ebc0"
+      }
     },
     {
       "id": "T05-13",
@@ -313,7 +369,13 @@
           "reviewSha256": "a3bc9585fd0d9ab695dd618b067728f0549dfe6d717cf1b9e0f7174f2b424681"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-13/12c8237f6148/prepared/8a5cc99bdad3",
+        "modelSha256": "8a5cc99bdad37f3a8059021a826fbc90ab463e7a0db515c22a9595ad40a1a0be",
+        "previewSha256": "ed80eec9fece5a19f1a01aa5575a43b9ee4b5702097cf62b344dff549d03602f"
+      }
     },
     {
       "id": "T05-14",
@@ -339,7 +401,13 @@
           "reviewSha256": "d1e95db0e89c3d2933fb65bcb3c0dd8e838a58630c93978096af535f0d88e43c"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-14/3e438542ac51/prepared/a07c2f14f2c0",
+        "modelSha256": "a07c2f14f2c09613f9e1ab8b0d8767ba8322ff14859153efd5020cb54dfbf324",
+        "previewSha256": "aa479d7fcf213681f891a66b2b1629d86775651ab43cbaf88d04af761fea348f"
+      }
     },
     {
       "id": "T05-16",
@@ -365,7 +433,8 @@
           "reviewSha256": "ad8bd91daec82531d7dae305705c69a90331f1cef768b6e171bf05be0068e34a"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T05-17",
@@ -391,7 +460,8 @@
           "reviewSha256": "f3d0fb0886d5688e32263eeec04c18eaf1260ed69093fe5a149f4a4b3efccc72"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T05-18",
@@ -417,7 +487,13 @@
           "reviewSha256": "2fed7df22668c1c65e1a99a0fca9deb1e8ca20cfef617933b6f408eb741a31a4"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-18/394cf0db53cb/prepared/77049ad65603",
+        "modelSha256": "77049ad6560307f3e14457bc9ffa95dc8c2386f2d89a08b940ea762156151d75",
+        "previewSha256": "ad708c3d1f8578b749e723d6e148703c282ae1e8ecb02cb0d5f6e45d04bf24a0"
+      }
     },
     {
       "id": "T05-19",
@@ -443,7 +519,13 @@
           "reviewSha256": "a2325ec9d625a8638df4b1c9cbc0d3d7275c63011b61443d95779d6152e05a45"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-19/d0530de77e21/prepared/8dd931a66124",
+        "modelSha256": "8dd931a6612490952a7c329328a722fcc9d1fd6f2b0c0adc431ef878ba213c28",
+        "previewSha256": "3b977cf0f5c0424337ab2c3301452fde510f8ae13ad80d3d5a2de735f76f361e"
+      }
     },
     {
       "id": "T05-20",
@@ -469,7 +551,13 @@
           "reviewSha256": "8bad1705beb76502d8e7c8f1dcc7d7b31cc5f684eaa11e60868fd09e6945a5b9"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-20/f9b3b953a461/prepared/0b4627217c53",
+        "modelSha256": "0b4627217c5385b1f732a7de732724409690eebe731ed6adf0f8ccf342aaaf5e",
+        "previewSha256": "c561bb1dada0ed91b371d5efdc6a329a55d57ebead972dd59380e29bfe4cc977"
+      }
     },
     {
       "id": "T05-21",
@@ -495,7 +583,13 @@
           "reviewSha256": "1d3eb786d0c3048ad48647c9cb6af54981c586b45912e8ede2508c3a894166e2"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-21/4981962ae10f/prepared/163b8e9b27d5",
+        "modelSha256": "163b8e9b27d5382a56e2909fad0b672489d48397eb351f5b424cf3f7c871713a",
+        "previewSha256": "575199585d223051e4574258f08e2e9be860f32b441a9b8e1dc61aebcb26bb63"
+      }
     },
     {
       "id": "T05-22",
@@ -521,7 +615,8 @@
           "reviewSha256": "92128d28634f9fe2a6bbd4f1120485031674a1ba233eb3aec357a42ba7a95c7d"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T05-23",
@@ -547,7 +642,8 @@
           "reviewSha256": "ba66535b983e1a709afeb79bf58b456f36c8bb54974083e2a74feaeba090d155"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T05-24",
@@ -573,7 +669,8 @@
           "reviewSha256": "5b6573c8dfb861688eb5862c1273ea72d0741ce0fe7253bcb4100a7258cb1a57"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T05-25",
@@ -599,7 +696,8 @@
           "reviewSha256": "cd900641f94f3cc68a531b162fa5dc4a9e82f4aec4678b02862fb0609ee18849"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T05-26",
@@ -625,7 +723,13 @@
           "reviewSha256": "9dcef01f810233af662aff59b625b344f5797ec1aee7d5fc75c661e263f11be5"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-26/589408564cf2/prepared/e8a6a8578d99",
+        "modelSha256": "e8a6a8578d99414c4709c4030bef00fb2b2483425c82a4fc3fde5b451516e4cb",
+        "previewSha256": "2237a480c8f22e5503cbc594a0ce32e6fa4baf76803f13910a2924f0d258d74c"
+      }
     },
     {
       "id": "T05-27",
@@ -651,7 +755,13 @@
           "reviewSha256": "5b8cdb4136b46c28cebe1e155afa0198b65a2c1062f5e29581e8dfb5b94540fb"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "prepared_pending_visual_review",
+      "preparedReview": {
+        "path": "T05-27/d014efcdba4a/prepared/be3227a8c9d1",
+        "modelSha256": "be3227a8c9d13ac18ba3c3a3545a48ad67c03a57ba9ad582e1bb095774818405",
+        "previewSha256": "3025c36270a92655ad7829c76d18f9249e1494e519ed4ba37aede9f42b672485"
+      }
     },
     {
       "id": "T05-28",
@@ -677,7 +787,8 @@
           "reviewSha256": "94cf50d3de975a0db188b96cdf376a1e34d53a8da65ff05cd1407135019f7832"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T05-29",
@@ -703,7 +814,8 @@
           "reviewSha256": "0c6203a2a567f47314f8ee592099c93dd97ca5f4341a1125e11b80e9ff5a46b7"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     },
     {
       "id": "T05-30",
@@ -729,8 +841,75 @@
           "reviewSha256": "496cfc7293e661522a9f7d739e1cedba8d946b83125dbdef1a2d50973d54a2fe"
         }
       },
-      "visualReview": "pending"
+      "visualReview": "pending",
+      "artifactState": "static_prepared_pending_visual_review"
     }
   ],
-  "combinations": []
+  "combinations": [
+    {
+      "path": "combinations/T05-08_T05-09/2db7fa186d1e",
+      "reportSha256": "2db7fa186d1e745fb4b6708490e863f899e5b2631aee0cbd1083ef23899f7043",
+      "previewSha256": "9727ea69fe616c2417570281e8d42634ea2a4176fb131b10191c74f73dd8d662"
+    },
+    {
+      "path": "combinations/T05-12_T05-13_倾倒姿态/5a3755ab8a23",
+      "reportSha256": "5a3755ab8a230b619377cc0adba5fe9ab7bd9cb727f6163c7b5eb206eb766cb8",
+      "previewSha256": "f42447c85ba6427c62c7a577afe22484e164e0ba4b58ac37d75010d148ab6759"
+    },
+    {
+      "path": "combinations/T05_floating/e9032a2af67c",
+      "reportSha256": "e9032a2af67c0ef7a3d6431105050dbc1ad536bc023fb63192554cdef01112f3",
+      "previewSha256": "bf58d6b0aeb0a4f682e6a320c10d4306b015159cb44913dbbe7d830235765f46"
+    },
+    {
+      "path": "combinations/T05_flower-right/93e4211d7a98",
+      "reportSha256": "93e4211d7a986a7f035d4459ae29eb1d6826680d86e7596a5d184a2ab35a82f9",
+      "previewSha256": "3a659f52de5dd79436d2d125ab3575127ee53ac8471d6355870e82b8135f43fe"
+    },
+    {
+      "path": "combinations/T05_flowers-bowl/ed1945b95770",
+      "reportSha256": "ed1945b95770ab360fc633f1b20ea1a8e0af5c8e7a7f9f49b9f64407bfc09641",
+      "previewSha256": "d87fefb903a8b8b1568f89c7ebaa9e6585b78ee7f63831c4e73682b7b4fc84e3"
+    },
+    {
+      "path": "combinations/T05_green-citrus/9e0457cbbe6e",
+      "reportSha256": "9e0457cbbe6e488a01fa664300b3ba06ba709f9df0d298626cbf3b6d74108324",
+      "previewSha256": "3d5b9dcd5ac1882a4d3c890951ab9b86815e872e9c3e9dcfb3101e6a96284958"
+    },
+    {
+      "path": "combinations/T05_mat-cushion/f8c4b8b6c6a0",
+      "reportSha256": "f8c4b8b6c6a03e20c7da1b16cd6b65b9fbe1ef227c3dd9f94efb8daf71e1d6fb",
+      "previewSha256": "d513fa0e6129ef4b110c6fedd4fccbd378ce8e0d78b8c4e625865a13ed72c69c"
+    },
+    {
+      "path": "combinations/T05_orange/8f3982b40f60",
+      "reportSha256": "8f3982b40f60daf9c78dc0997af9f93f63e6c0e4dd236ae49033037213028eb7",
+      "previewSha256": "3fa6024f02b1128b58d7c39051808ff37b755c1171c73d4852b70a2ecf864f20"
+    },
+    {
+      "path": "combinations/T05_saucer/8c442a2df5e1",
+      "reportSha256": "8c442a2df5e13467cb86359962e035498b0093f423812c8b453e6095405bd786",
+      "previewSha256": "fdbf6ae4edca70bba9c2262a84e11d075c0dba718c9b6bb5865cc134d293747a"
+    },
+    {
+      "path": "combinations/T05_tea-tray/d58b5cbc25e5",
+      "reportSha256": "d58b5cbc25e5fa41c125db093888483917df82156cd510b47c4de1e68d0165f0",
+      "previewSha256": "800b9259ba6002ea825627a9354dd1060db05d83f0cf660115fe2b27e5cbb8d2"
+    },
+    {
+      "path": "combinations/T05_wax-hanging/a9fd1be709a7",
+      "reportSha256": "a9fd1be709a768fdf1e411c4a47a47b6535bc23b7c754550d0252a9fe8e64d28",
+      "previewSha256": "fdc625225f7765bf8908589489b7815be68927a2285efd91062b204b95db1e7b"
+    },
+    {
+      "path": "combinations/T05_wax-table/405d496207b5",
+      "reportSha256": "405d496207b5089e30e529ea2c4b07db5d3f689a0acd8edfae0a7bc6cc6adc10",
+      "previewSha256": "a66a8070cb966f309826a7e3925418ee15bde65741a00e6014e702cd828b7235"
+    },
+    {
+      "path": "combinations/T05_white-flower-tray/480ad28d94d0",
+      "reportSha256": "480ad28d94d0d76bd4beb07e69077d05a35add051b5d9e3ba5051aabb60fd899",
+      "previewSha256": "2e6bc2320f707ff56dab105482472eef94526d77b8cd20bf82d970d1e3aed4c4"
+    }
+  ]
 }

@@ -1,0 +1,34 @@
+[
+  {
+    "editing": false,
+    "replaceObjects": false,
+    "commit": true,
+    "duplicateApplyBlocked": true
+  },
+  {
+    "editing": false,
+    "replaceObjects": true,
+    "commit": true,
+    "duplicateApplyBlocked": true
+  },
+  {
+    "editing": true,
+    "replaceObjects": false,
+    "commit": false,
+    "duplicateApplyBlocked": true
+  },
+  {
+    "editing": true,
+    "replaceObjects": true,
+    "commit": false,
+    "duplicateApplyBlocked": true
+  },
+  {
+    "failureKeepsPreview": true,
+    "cancelAfterFailure": true
+  },
+  {
+    "viewSwitchPreservesScene": true,
+    "cancelDoesNotApplyOrClosePicker": true
+  }
+]

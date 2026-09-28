@@ -1,0 +1,38 @@
+{
+  "initial": {
+    "cardCount": 6,
+    "cardY": 629.5,
+    "previewButtonAbsent": true
+  },
+  "combined": {
+    "backgroundPreview": true,
+    "effectsPreserved": true,
+    "objectsUnchanged": true,
+    "pickerHidden": true
+  },
+  "image": {
+    "fullImageContained": true,
+    "imageSelected": true,
+    "imageViewport": {
+      "height": 896,
+      "width": 414,
+      "x": 0,
+      "y": 0
+    },
+    "rendererPaused": true,
+    "usesCachedFile": true
+  },
+  "restored": {
+    "anglePreservedAcrossSwitch": true,
+    "resetWorks": true
+  },
+  "cancelled": {
+    "cardYAfter": 629.5,
+    "cardYBefore": 629.5,
+    "pickerStillOpen": true,
+    "positionUnchanged": true,
+    "sameScrollInstance": true,
+    "sceneSavedDraftUnchanged": true,
+    "selectionRetained": true
+  }
+}
